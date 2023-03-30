@@ -236,8 +236,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2220236,IZ0OZS,Aldo,,Roma (RM),Lazio,ITA
 2220237,IW0BNH,Antonio,,Roma (RM),Lazio,ITA
 2220238,IU3OIU,Tommaso,,Vo (PD),Veneto,ITA
-2220239,IZ0IEN,Cristiano,,Frosino_city (FR),Lazio,ITA
-2220240,IZ0IIY,Dino,,Frosino_city (FR),Lazio,ITA
+2220239,IZ0IEN,Cristiano,,Frosinone (FR),Lazio,ITA
+2220240,IZ0IIY,Dino,,Frosinone (FR),Lazio,ITA
 2220242,IK0ZSP,Claudio,,Roma (RM),Lazio,ITA
 2220243,IZ0SGB,Mario,,Aprilia (LT),Lazio,ITA
 2220244,IW0BTN,Giovanni,,Formia (LT),Lazio,ITA
@@ -359,7 +359,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2220360,IZ0RDM,William,,Ardea (RM),Lazio,ITA
 2220361,IW0QGQ,Fabrizio,,Bastia Umbra (PG),Umbria,ITA
 2220362,IW0EFI,Christian,,Gallinaro (FR),Lazio,ITA
-2220363,I8LYL,Lucio,,Avellino (AV),Campania,ITA
+2220363,I0LYL,Lucio,,Pomezia (RM),Lazio,ITA
 2220364,IZ0WLI,Benevenuti,,Roma (RM),Lazio,ITA
 2220365,IW0DVV,Mariano,,Civitavecchia (RM),Lazio,ITA
 2220366,IZ0YCA,Sandro,,Roma (RM),Lazio,ITA
@@ -993,7 +993,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2220994,IU0MUN,Mario,,Anzio (RM),Lazio,ITA
 2220995,IZ0WEH,Ugo,,Lenola (LT),Lazio,ITA
 2220996,IZ0POG,Nicknet84,,Roma (RM),Lazio,ITA
-2220997,IZ0BNQ,Pierfrancesco,,Frosino_city (FR),Lazio,ITA
+2220997,IZ0BNQ,Pierfrancesco,,Frosinone (FR),Lazio,ITA
 2220998,IU0MVT,Daniele,,Anzio (RM),Lazio,ITA
 2220999,IU0MVS,Leonardo,,Albano Laziale (RM),Lazio,ITA
 2221000,IZ0UNH,Nicola,,Aprilia (LT),Lazio,ITA
@@ -2076,7 +2076,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2222080,IZ2UQD,Walla,,Brescia (BS),Lombardia,ITA
 2222081,IZ2UQH,Fabio,,Brescia (BS),Lombardia,ITA
 2222082,IZ2FED,Enrico,,Brescia (BS),Lombardia,ITA
-2222083,IZ8TWX,Antonio,,Montepaone Lido (CZ),Calabria,ITA
+2222083,IZ2TWX,Antonio,,Cardano Al Campo (VA),Lombardia,ITA
 2222084,IZ2WBC,Claudio,,Milano (MI),Lombardia,ITA
 2222085,IK2SGO,Giuseppe,,Brescia (BS),Lombardia,ITA
 2222086,IZ2UTF,Roberto,,Darfo Boario Terme (BS),Lombardia,ITA
@@ -3103,7 +3103,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223108,IZ3VEG,Carlo,,Zevio (VR),Veneto,ITA
 2223109,IW3FWV,Stefano,,Adria (RO),Veneto,ITA
 2223110,IW0RML,Paolo,,Narni (TR),Umbria,ITA
-2223111,IV3BAM,Giovanni,,Pordeno_city (PN),Friuli VG,ITA
+2223111,IV3BAM,Giovanni,,Pordenone (PN),Friuli VG,ITA
 2223112,IZ3XGH,Daniele,,San Giovanni Lupatoto (VR),Veneto,ITA
 2223113,IK3DNV,Fabio,,Monteforte D Alpone (VR),Veneto,ITA
 2223114,IN3EOI,Antonio,,Rovereto (TN),Trentino AA,ITA
@@ -3287,7 +3287,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223294,IW3BVS,Stefano,,Castel Ivano (TN),Trentino AA,ITA
 2223295,IZ3SVI,Adriano,,Venezia (VE),Veneto,ITA
 2223296,IZ3CAO,Armando,,Camposanpiero (PD),Veneto,ITA
-2223297,IV3FIF,Giuseppe,,Pordeno_city (PN),Friuli VG,ITA
+2223297,IV3FIF,Giuseppe,,Pordenone (PN),Friuli VG,ITA
 2223298,IU3BRF,Vairo,,Belluno (BL),Veneto,ITA
 2223299,IV3ISG,Roberto,,Tricesimo (UD),Friuli VG,ITA
 2223300,IW3HKL,Paolo,,Marghera (VE),Veneto,ITA
@@ -3442,7 +3442,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223449,IW3GCR,Nicola,,Verona (VR),Veneto,ITA
 2223450,IZ3ZQW,Andrea,,Belluno (BL),Veneto,ITA
 2223451,IN3LQB,Paolo,,Rovereto (TN),Trentino AA,ITA
-2223452,IN3GID,Santino,,Bolzano (BZ),Trentino AA,ITA
+2223452,IN3GID,no_name,,no_city,no_region,ITA
 2223453,IU3BTV,Cristian,,Scorze (VE),Veneto,ITA
 2223454,IZ3SQY,Raffaele,,Villabruna Di Feltre (BL),Veneto,ITA
 2223455,IN3DQW,Giancarlo,,Trento (TN),Trentino AA,ITA
@@ -3602,7 +3602,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223610,IZ3PXU,Massimo,,Campalto (VE),Veneto,ITA
 2223611,IN3FQL,Antonio,,Canal San Bovo (TN),Trentino AA,ITA
 2223612,IZ3VDQ,Paolo,,Svito Di Leguzzano (VI),Veneto,ITA
-2223613,IV3NTL,Michele,,Prata Di Pordeno_city (PN),Friuli VG,ITA
+2223613,IV3NTL,Michele,,Prata Di Pordenone (PN),Friuli VG,ITA
 2223614,IV3DCQ,Giancarlo,,Trieste (TS),Friuli VG,ITA
 2223615,IN3CVK,Alexander,,Lana (BZ),Trentino AA,ITA
 2223616,IW3IGF,Baratti,,Godega Di Sant Urbano (TV),Veneto,ITA
@@ -3716,7 +3716,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223725,IK3ZBM,Diego,,Possagno (TV),Veneto,ITA
 2223726,IZ3TCA,Alessandro,,Verona (VR),Veneto,ITA
 2223727,IZ3QJD,Alessandro,,Tezze Sul Brenta (VI),Veneto,ITA
-2223728,IV3FVF,Gianfranco,,Pordeno_city (PN),Friuli VG,ITA
+2223728,IV3FVF,Gianfranco,,Pordenone (PN),Friuli VG,ITA
 2223729,IZ3ZUI,Davide,,Rovigo (RO),Veneto,ITA
 2223730,IN3DNS,Roberto,,Ledro (TN),Trentino AA,ITA
 2223731,IZ3WUC,Mauro,,Belluno (BL),Veneto,ITA
@@ -3789,7 +3789,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223799,IN3YRC,Salvatore,,Trento (TN),Trentino AA,ITA
 2223800,IZ3VDT,Luca,,Calalzo Di Cadore (BL),Veneto,ITA
 2223801,IV3DTZ,Damiano,,Frisanco (PN),Friuli VG,ITA
-2223802,IV3HIK,Giorgio,,Pordeno_city (PN),Friuli VG,ITA
+2223802,IV3HIK,Giorgio,,Pordenone (PN),Friuli VG,ITA
 2223803,IU3IPE,Davide,,Tambre (BL),Veneto,ITA
 2223804,IK3XTW,Mario,,Portogruaro (VE),Veneto,ITA
 2223805,IU3GPH,Gian,,Preganziol (TV),Veneto,ITA
@@ -4473,7 +4473,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224488,IK4IDH,Enzo,,Guastalla (RE),Emilia-Rom.,ITA
 2224489,I2HTT,Carlo,,Rozzano (MI),Lombardia,ITA
 2224490,IU3EHS,Mauro,,Belluno (BL),Veneto,ITA
-2224491,IV3HIJ,Davide,,Pordeno_city (PN),Friuli VG,ITA
+2224491,IV3HIJ,Davide,,Pordenone (PN),Friuli VG,ITA
 2224492,IK4UOS,Claudio,,Bomporto (MO),Emilia-Rom.,ITA
 2224493,IW2GIY,Giuseppe,,Concorezzo (MI),Lombardia,ITA
 2224494,IN3HTY,Juergen,,Eppan (BZ),Trentino AA,ITA
@@ -4611,7 +4611,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224627,IU2LOG,Emanuele,,Chiari (BS),Lombardia,ITA
 2224628,IZ3JJD,Andrea,,Albignasego (PD),Veneto,ITA
 2224629,IZ2KYH,Cosimo,,Settimo Milanese (MI),Lombardia,ITA
-2224630,IV3MTU,Stefano,,Pordeno_city (PN),Friuli VG,ITA
+2224630,IV3MTU,Stefano,,Pordenone (PN),Friuli VG,ITA
 2224631,IK2TTT,Michele,,Carnate (MI),Lombardia,ITA
 2224632,IV3XLS,Livio,,Grado (GO),Friuli VG,ITA
 2224633,IU3LZP,Nicola,,Padova (PD),Veneto,ITA
@@ -4765,9 +4765,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224782,IU2GBH,Marcello,,Milano (MI),Lombardia,ITA
 2224783,IN3GYS,Michele,,Arco (TN),Trentino AA,ITA
 2224784,IZ2ZMN,Remo,,Tirano (SO),Lombardia,ITA
-2224785,IV3IBE,Adri,,Pordeno_city (PN),Friuli VG,ITA
+2224785,IV3IBE,Adri,,Pordenone (PN),Friuli VG,ITA
 2224786,IU4MVL,Giorgio,,Reggio Emilia (RE),Emilia-Rom.,ITA
-2224787,IV3IBH,Claude,,Pordeno_city (PN),Friuli VG,ITA
+2224787,IV3IBH,Claude,,Pordenone (PN),Friuli VG,ITA
 2224788,IK2HNG,Andrea,,Stezzano (BG),Lombardia,ITA
 2224789,IZ2QQI,Taddeo,,Morbegno (SO),Lombardia,ITA
 2224790,IN3HIV,Helmuth,,Merano (BZ),Trentino AA,ITA
@@ -4836,7 +4836,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224854,IU4DJD,Pierantonio,,San Giorgio Piacentino (PC),Emilia-Rom.,ITA
 2224855,IU2EBO,Giorgio,,Sondrio (SO),Lombardia,ITA
 2224856,IZ4RWE,Luca,,Modena (MO),Emilia-Rom.,ITA
-2224857,IV3BKU,Andrea,,Pordeno_city (PN),Friuli VG,ITA
+2224857,IV3BKU,Andrea,,Pordenone (PN),Friuli VG,ITA
 2224858,IZ2UTC,Luigi,,Legnano (MI),Lombardia,ITA
 2224859,IK2ILU,Antonio,,Mantova (MN),Lombardia,ITA
 2224860,IU2IJD,Davide,,Castello Cabiaglio (VA),Lombardia,ITA
@@ -4950,7 +4950,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224968,IZ1GDY,Roberto,,Alpignano (TO),Piemonte,ITA
 2224969,IN3HCH,Michele,,Cloz (TN),Trentino AA,ITA
 2224970,IW0DZB,Rosa,,Roma (RM),Lazio,ITA
-2224971,IV3III,Giovanni,,Prata Di Pordeno_city (PN),Friuli VG,ITA
+2224971,IV3III,Giovanni,,Prata Di Pordenone (PN),Friuli VG,ITA
 2224972,IW4AUH,Franco,,Rolo (RE),Emilia-Rom.,ITA
 2224973,IW4ANT,Alberto,,Imola (BO),Emilia-Rom.,ITA
 2224974,IV3IIA,Federico,,Premariacco (UD),Friuli VG,ITA
@@ -5672,7 +5672,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225691,IZ0GXO,Girolamo,,Roma (RM),Lazio,ITA
 2225692,IK2YRU,Damiano,,Milano (MI),Lombardia,ITA
 2225693,IZ0MYQ,Giovanni,,Roma (RM),Lazio,ITA
-2225694,IU4FBC,Antonio,,San Mauro Pascoli (FC),Emilia-Rom.,ITA
+2225694,IU7FBC,Tony,,Rutigliano (BA),Puglia,ITA
 2225695,IZ4EFN,Alessio,,Modena (MO),Emilia-Rom.,ITA
 2225696,IZ5VTF,Marco,,Staffoli (PI),Toscana,ITA
 2225697,IZ0WOV,Gaetano,,Frosinone (FR),Lazio,ITA
@@ -6070,7 +6070,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226090,IW6NFT,Cristian,,Avezzano (AQ),Abruzzo,ITA
 2226091,IK6IHH,Domenico,,Pineto (TE),Abruzzo,ITA
 2226092,IZ6XYU,Giuseppe,,Silvi (TE),Abruzzo,ITA
-2226093,IK4REB,Simone,,Argenta (FE),Emilia-Rom.,ITA
+2226093,IK6REB,Simone,,Civitanova Marche (MC),Marche,ITA
 2226094,IW6OEM,Tommaso,,Filletto (CH),Abruzzo,ITA
 2226095,IZ6BMP,Ottorino,,Alanno (PE),Abruzzo,ITA
 2226096,IZ6IJX,Giuseppe,,Lanciano (CH),Abruzzo,ITA
@@ -6707,7 +6707,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226727,IZ2KTK,Alex,,Seveso (MI),Lombardia,ITA
 2226728,IK8SUR,Rodolfo,,Pontecagnano (SA),Campania,ITA
 2226729,IZ1ASS,Maurilio,,Pieve Di Teco (IM),Liguria,ITA
-2226730,IU8RJI,Ezio,,Salerno (SA),Campania,ITA
+2226730,IW8DBS,Ezio,,Salerno (SA),Campania,ITA
 2226731,IZ1CYD,Marco,,Cengio (SV),Liguria,ITA
 2226732,IZ0GIB,Francesco,,Tivoli (RM),Lazio,ITA
 2226733,IU2ECT,Enzo,,Busto Arsizio (VA),Lombardia,ITA
@@ -6788,7 +6788,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226808,IT9BMH,Fabio,,Caltanissetta (CL),Sicilia,ITA
 2226809,IK8SQQ,Giuseppe,,Meta (NA),Campania,ITA
 2226810,IK1YFC,Gerardo,,Novi Ligure (AL),Piemonte,ITA
-2226811,IZ1VGD,Alessio,,Avigliana (TO),Piemonte,ITA
+2226811,IZ8VGD,Alessio,,Mercogliano (AV),Campania,ITA
 2226812,IU5OHC,Fabio,,Firenze (FI),Toscana,ITA
 2226813,IU0IAX,Massimo,,Roma (RM),Lazio,ITA
 2226814,IW1BYB,Franco,,Castellazzo Bormida (AL),Piemonte,ITA
@@ -7069,7 +7069,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2227090,IZ7UOR,Angelo,,Bari (BA),Puglia,ITA
 2227091,IK7MWW,Giuseppe,,Noicattaro (BA),Puglia,ITA
 2227092,IZ7JRR,Nicola,,Bari (BA),Puglia,ITA
-2227093,IU7RKF,Nicola,,Foggia (FG),Puglia,ITA
+2227093,IW7ATC,Nicola,,Foggia (FG),Puglia,ITA
 2227094,IZ7AUC,Fornarelli,,Bari (BA),Puglia,ITA
 2227095,IU7CYO,Fabio,,Bari (BA),Puglia,ITA
 2227096,IW7DZB,Vito,,Noicattaro (BA),Puglia,ITA
@@ -9072,7 +9072,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229099,IW9HPW,Michele,,Riposto (CT),Sicilia,ITA
 2229100,IT9FRD,Christian,,Catania (CT),Sicilia,ITA
 2229101,IT9GTI,Nicola,,Ragusa (RG),Sicilia,ITA
-2229102,IT9JKH,Riccardo,,Palermo (PA),Sicilia,ITA
+2229102,IU4HQV,Riccardo,,Palermo (PA),Sicilia,ITA
 2229103,IT9BKY,Domenico,,Catania (CT),Sicilia,ITA
 2229104,IT9FZC,Armando,,Catania (CT),Sicilia,ITA
 2229105,IT9FRT,Orazio,,Aci Catena (CT),Sicilia,ITA
@@ -9181,7 +9181,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229209,IT9DZJ,Giuseppe,,Rosolini (SR),Sicilia,ITA
 2229210,IT9FWV,Massimiliano,,Aci Castello (CT),Sicilia,ITA
 2229211,IT9BGB,Giuseppe,,Bagheria (PA),Sicilia,ITA
-2229212,IU5RPJ,Rosario,,Livorno (LI),Liguria,ITA
+2229212,IW9ELR,Rosario,,Palermo (PA),Sicilia,ITA
 2229213,IT9HBQ,Ignazio,,Palermo (PA),Sicilia,ITA
 2229214,IW9HKM,Daniele,,Pedara (CT),Sicilia,ITA
 2229215,IW9HED,Alessandro,,Palermo (PA),Sicilia,ITA
@@ -9714,7 +9714,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229744,IZ2MBD,Emilio,,Legnano (MI),Lombardia,ITA
 2229745,IU7NME,Enzo,,Candela (FG),Puglia,ITA
 2229746,IV3JAW,Stefano,,San Giorgio Della Richinvelda (PN),Friuli VG,ITA
-2229747,IV3OEP,Mauro,,Montereale Valcellina (PN),Friuli VG,ITA
+2229747,IV3OEP,De,,Montereale Valcellina (PN),Friuli VG,ITA
 2229748,IU1HHG,Riccardo,,San Germano Chisone (TO),Piemonte,ITA
 2229749,IN3HKZ,Hannes,,Laives (BZ),Trentino AA,ITA
 2229750,IU3QJC,Diego,,Vicenza (VI),Veneto,ITA
@@ -10057,7 +10057,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230087,IS0DSR,Matteo,,Cagliari (CA),Sardegna,ITA
 2230088,IU0RAX,Marco,,Roma (RM),Lazio,ITA
 2230089,IK1WNQ,Gimmi,,Casale Monferrato (AL),Piemonte,ITA
-2230090,IV3GPL,Angel,,Trieste (TS),Friuli VG,ITA
+2230090,IV3GPL,Angel Pascual,,Trieste (TS),Friuli VG,ITA
 2230091,IW1GFM,Biagio,,Casale Monferrato (AL),Piemonte,ITA
 2230092,IV3HTI,Alessio,,Fogliano Redipuglia (GO),Friuli VG,ITA
 2230093,IU4APO,Corrado,,Montecenere Di Lama Mocogno (MO),Emilia-Rom.,ITA
@@ -10069,9 +10069,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230099,IK3LLS,Luigino,,Tregnago (VR),Veneto,ITA
 2230100,IU4QPA,Marcello,,Villanova Di Castenaso (BO),Emilia-Rom.,ITA
 2230101,IW6PUY,Francesco,,Giulianova (TE),Abruzzo,ITA
-2230102,IK0OAO,Leo,,Gubbio (PG),Umbria,ITA
+2230102,IK0OAO,Leo Angelo,,Gubbio (PG),Umbria,ITA
 2230103,IU3QFS,Enrico,,Venezia (VE),Veneto,ITA
-2230104,IU5GCX,Thomas,,Viareggio (LU),Toscana,ITA
+2230104,IU5GCX,Thomas Edward,,Viareggio (LU),Toscana,ITA
 2230105,IU0REG,Alessandro,,Cisterna (LT),Lazio,ITA
 2230106,IZ0YIW,Daniele,,Roma (RM),Lazio,ITA
 2230107,IZ2VLC,Raffaele,,Postalesio (SO),Lombardia,ITA
@@ -10096,7 +10096,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230126,IN3EYY,Nicola,,Trento (TN),Trentino AA,ITA
 2230127,IU1BLQ,Godio,,Novara (NO),Piemonte,ITA
 2230128,IW6MSQ,Domenico,,Vasto (CH),Abruzzo,ITA
-2230129,IW6NKK,Giancarlo,,Atri (TE),Abruzzo,ITA
+2230129,IW6NNK,Giancarlo,,Atri (TE),Abruzzo,ITA
 2230130,IV3JAT,Matteo,,Budoia (PN),Friuli VG,ITA
 2230131,IU6RBL,Michele,,Pesaro (PU),Marche,ITA
 2230132,IU2QAU,Ermanno,,Cesano Maderno (MB),Lombardia,ITA
@@ -10121,16 +10121,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230151,IW3SKI,Angelo,,Cervignano Del Friuli (UD),Friuli VG,ITA
 2230152,IU0MLR,Andrea,,Roma (RM),Lazio,ITA
 2230153,IU3QGV,Nevio,,Pieve Di Cadore (BL),Veneto,ITA
-2230154,IU7QLO,Fagiolino,,Gioia Del Colle (BA),Puglia,ITA
+2230154,IU7QLO,Pietro,,Gioia Del Colle (BA),Puglia,ITA
 2230155,IU0RLF,Antonio,,Roma (RM),Lazio,ITA
 2230156,IV3JKB,Giovanni,,Trieste (TS),Friuli VG,ITA
-2230157,IZ7NCT,Rutigliano,,Nardo (LE),Puglia,ITA
-2230158,IQ1CN,Sezione,,Cuneo (CN),Piemonte,ITA
+2230157,IZ7NCT,Antonio,,Nardo (LE),Puglia,ITA
+2230158,IQ1CN,Sezione Di Cuneo,,Cuneo (CN),Piemonte,ITA
 2230159,IZ4AFE,Luciano,,Rimini (RN),Emilia-Rom.,ITA
 2230160,IU8REM,Gennaro,,Casalnuovo (NA),Campania,ITA
 2230161,IU5RFQ,Massimo,,Grosseto (GR),Toscana,ITA
 2230162,IS0JHV,Marco,,Olbia (SS),Sardegna,ITA
-2230163,IU5ORS,Niccolo,,Firenze (FI),Toscana,ITA
+2230163,IU5ORS,Nicolo',,Firenze (FI),Toscana,ITA
 2230164,IU2QAV,Stefano,,Biandronno (VA),Lombardia,ITA
 2230165,IU0REZ,Fabio,,Ciampino (RM),Lazio,ITA
 2230166,IU8CHB,Franco,,Benevento (BN),Campania,ITA
@@ -10153,11 +10153,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230183,IU3OXO,Fausto,,Mestre (VE),Veneto,ITA
 2230184,IC8ILR,Ciro,,Barano D Ischia (NA),Campania,ITA
 2230185,IN3AVW,Tienghi,,Appiano (BZ),Trentino AA,ITA
-2230186,IW2FVL,Maurizio,,no_city,Lombardia,ITA
+2230186,IW2FVL,Maurizio,,Malnate (VA),Lombardia,ITA
 2230187,IZ8MOR,Francesco,,Luzzi (CS),Calabria,ITA
 2230188,IU8JRY,Leopoldo,,Pagani (SA),Campania,ITA
 2230189,IS0JHJ,Mario,,Porto Torres (SS),Sardegna,ITA
-2230190,IZ4HUF,Alessandro,,Bologna (BO),Emilia-Rom.,ITA
+2230190,IZ4HUF,Alessandro,,Ozzano Dell Emilia (BO),Emilia-Rom.,ITA
 2230191,IU6REJ,Danilo,,Ancona (AN),Marche,ITA
 2230192,IN3IZV,Simone,,Ala (TN),Trentino AA,ITA
 2230193,IK0EQJ,Gennaro,,Pomezia (RM),Lazio,ITA
@@ -10172,23 +10172,23 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230202,IU5HIU,Simona,,Livorno (LI),Liguria,ITA
 2230203,IU1QAN,Roberto,,Gattinara (VC),Piemonte,ITA
 2230204,IN3JIK,Battista,,Stenico (TN),Trentino AA,ITA
-2230205,IQ7LE,E,,Maglie (LE),Puglia,ITA
+2230205,IQ7LE,E.R.A.,,Maglie (LE),Puglia,ITA
 2230206,IK5ZRS,Sandro,,Figline E Incisa Valdarno (FI),Toscana,ITA
-2230207,IZ1MLS,Luigi,,Genova (GE),Liguria,ITA
-2230208,IZ0CXO,Osvaldo,,Roma (RM),Lazio,ITA
+2230207,IZ1MLS,Luigi,,Genoa (GE),Liguria,ITA
+2230208,IZ0CXO,Osvaldo Giuseppe Pino,,Roma (RM),Lazio,ITA
 2230209,IU4NLB,Marino,,Meldola (FC),Emilia-Rom.,ITA
-2230210,IQ9TY,Era,,Alcamo (TP),Sicilia,ITA
+2230210,IQ9TY,E.R.A.,,Alcamo (TP),Sicilia,ITA
 2230211,IZ0EHS,Paolo,,Tivoli Terme (RM),Lazio,ITA
 2230212,IT9BOO,Filippo,,San Cataldo (CL),Sicilia,ITA
 2230213,IT9HNZ,Massimo,,Palermo (PA),Sicilia,ITA
 2230214,IN3IYA,Mirco,,Primiero San Martino Di C (BL),Veneto,ITA
-2230215,IV3FFV,Massimiliano,,Trieste (TS),Friuli VG,ITA
-2230216,IU3RKK,Giordano,,Piove Di Sacco (PD),Veneto,ITA
+2230215,IV3FFV,Orel,,Trieste (TS),Friuli VG,ITA
+2230216,IU3RKK,Maschio,,Piove Di Sacco (PD),Veneto,ITA
 2230217,IV3JGF,Massimo,,Pasian Di Prato (UD),Friuli VG,ITA
 2230218,IU8RFB,Giuseppe,,Avellino (AV),Campania,ITA
 2230219,IU3RGU,Alberto,,Arqua Petrarca (PD),Veneto,ITA
 2230220,IU3QJE,Jimmy,,Scorze (VE),Veneto,ITA
-2230221,IU7BSN,Giovanni,,Vieste (FG),Puglia,ITA
+2230221,IU7BSN,Giovanni Pio,,Vieste (FG),Puglia,ITA
 2230222,IU3MDK,Toni,,Treviso (TV),Veneto,ITA
 2230223,IW1GLM,Mattia,,Bricherasio (TO),Piemonte,ITA
 2230224,IU4ARF,Fausto,,Meldola (FC),Emilia-Rom.,ITA
@@ -10198,7 +10198,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230228,IC8JHY,Paolo,,Ischia (NA),Campania,ITA
 2230229,IZ1JLO,Alessio,,Genova (GE),Liguria,ITA
 2230230,IW2FGD,Edoardo,,Siziano (PV),Lombardia,ITA
-2230231,IV3JNV,Fabio,,Gorizia (GO),Friuli VG,ITA
+2230231,IZ8NNZ,Fabio,,Gorizia (GO),Friuli VG,ITA
 2230232,IU2CVS,Fulvio,,Solaro (MI),Lombardia,ITA
 2230233,IK8HIU,Domenico,,Napoli (NA),Campania,ITA
 2230234,IU5JJI,Rebecca,,Livorno (LI),Liguria,ITA
@@ -10211,7 +10211,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230241,IU7QBU,Lorenzo,,Casamassima (BA),Puglia,ITA
 2230242,IU3KWR,Antonio,,Belluno (BL),Veneto,ITA
 2230243,IW1EHB,Paolo,,Verbania (VB),Piemonte,ITA
-2230244,IT9JEQ,Roberto,,Palermo (PA),Sicilia,ITA
+2230244,IT9JEQ,Roberto,,no_city,Sicilia,ITA
 2230245,IZ0HYO,Augusto,,Roma (RM),Lazio,ITA
 2230246,IW3FTX,Gianni,,Vicenza (VI),Veneto,ITA
 2230247,IU0JZN,Eusebio,,Roma (RM),Lazio,ITA
@@ -10220,28 +10220,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230250,IU7RMR,Giuseppe,,Brindisi (BR),Puglia,ITA
 2230251,IZ8UVU,Carlo,,Ercolano (NA),Campania,ITA
 2230252,IU3PYL,Claudio,,Rovigo (RO),Veneto,ITA
-2230253,IZ6EGX,Guido,,Citta Sant Angelo (PE),Abruzzo,ITA
+2230253,IZ6EGX,Guido,,Citta Sant'Angelo (PE),Abruzzo,ITA
 2230254,IT9AOB,Giovanni,,Trabia (PA),Sicilia,ITA
 2230255,IT9JJV,Fabrizio,,Palermo (PA),Sicilia,ITA
-2230256,IT9JJW,Giuseppe,,Palermo (PA),Sicilia,ITA
-2230257,IT9YLF,Giovanni,,Palermo (PA),Sicilia,ITA
-2230258,IU5GEZ,Fabrizio,,Livorno (LI),Liguria,ITA
-2230259,IV3RQO,Francesco,,Trieste (TS),Friuli VG,ITA
+2230256,IT9JJW,Sclafani,,Palermo (PA),Sicilia,ITA
+2230257,IT9YLF,La Malfa,,Palermo (PA),Sicilia,ITA
+2230258,IU5GEZ,Carrai,,Livorno (LI),Liguria,ITA
+2230259,IV3RQO,Celona,,Trieste (TS),Friuli VG,ITA
 2230260,IT9JLP,Giuseppe,,Catania (CT),Sicilia,ITA
-2230261,IZ8XWN,Angela,,Napoli (NA),Campania,ITA
+2230261,IZ8XWN,Giamminelli,,Napoli (NA),Campania,ITA
 2230262,IT9EWP,Angelo,,Petralia Sottana (PA),Sicilia,ITA
 2230263,IK5VEQ,Alessandro,,Pisa (PI),Toscana,ITA
 2230264,IV3GIW,Mario,,Muggia (TS),Friuli VG,ITA
 2230265,IU3RIJ,Marco,,no_city,,ITA
 2230266,IK5PYM,Marco,,Coltano (PI),Toscana,ITA
 2230267,IK5FTL,Carlo,,Livorno (LI),Liguria,ITA
-2230268,IU2OSH,Agostino,,Locate Varesino (VA),Lombardia,ITA
-2230269,IU7GRL,Giovanni,,San Paolo Di C (TE),Abruzzo,ITA
+2230268,IU2OSH,Agostino,,Locate Varesino (CO),Lombardia,ITA
+2230269,IU7GRL,Giovanni Battista,,San Paolo Di C (TE),Abruzzo,ITA
 2230270,IV3FPP,Vinicio,,Mariano Del Friuli (GO),Friuli VG,ITA
 2230271,IU3OVA,Gianmarco,,Belluno (BL),Veneto,ITA
 2230272,IU0RFK,Federico,,Roma (RM),Lazio,ITA
 2230273,IU5NGA,Jacopo,,Pisa (PI),Toscana,ITA
-2230274,IS0MLS,Antonello,,Quartu S.Elena (CA),Sardegna,ITA
+2230274,IS0MLS,Antonello,,Quartu S Elena (CA),Sardegna,ITA
 2230275,IU0RFZ,Alessandro,,Roma (RM),Lazio,ITA
 2230276,IV3DAH,Marco,,Monfalcone (GO),Friuli VG,ITA
 2230277,IU8RJX,Giuseppe,,Napoli (NA),Campania,ITA
@@ -10251,19 +10251,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230282,IU8JCD,Pantaleo,,Vallo Della Lucania (SA),Campania,ITA
 2230283,IU2ROM,Stefano,,Bergamo (BG),Lombardia,ITA
 2230284,IW3BHG,Gabriele,,Folgaria (TN),Trentino AA,ITA
-2230285,IU2PMD,Giacomelli,,Niardo (BS),Lombardia,ITA
+2230285,IU2PMD,Christian,,Niardo (BS),Lombardia,ITA
 2230286,IV3JFU,Gabriele,,Monrupino (TS),Friuli VG,ITA
 2230287,IT9JHC,Pietro,,Sant Agata Li Battiati (CT),Sicilia,ITA
 2230288,IU3RGW,Roberto,,Agna (PD),Veneto,ITA
-2230290,IZ1POZ,Paolo,,Moncalieri (TO),Piemonte,ITA
+2230290,IZ1POZ,Paolo Omodei,,Moncalieri (TO),Piemonte,ITA
 2230291,IU5RCZ,Fabrizio,,Signa (FI),Toscana,ITA
 2230292,IZ1HMT,Matteo,,Diano Marina (IM),Liguria,ITA
 2230293,IU2REF,Sebastiano,,Massalengo (LO),Lombardia,ITA
-2230294,IW1AIH,Alessandro,,Rivalta (TO),Piemonte,ITA
+2230294,IW1AIH,Alessandro,,Rivalta Di Torino (TO),Piemonte,ITA
 2230295,IW5BUX,Roberto,,Livorno (LI),Liguria,ITA
 2230296,IU0RMA,Ezio,,Roma (RM),Lazio,ITA
 2230297,IK1TGS,Armando,,Torino (TO),Piemonte,ITA
-2230298,IU2MCZ,Davide,,Bergamo (BF),Lombardia,ITA
+2230298,IU2MCZ,Davide,,Bergamo (BG),Lombardia,ITA
 2230299,IZ8KKO,Ciro,,Napoli (NA),Campania,ITA
 2230300,IW3HWC,Marco,,Padova (PD),Veneto,ITA
 2230301,IU2RPN,Luciano,,Capriate S.Gervasio (BG),Lombardia,ITA
@@ -10273,6 +10273,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230305,IT9JCX,Giuseppe,,Santa Croce Camerina (RG),Sicilia,ITA
 2230306,IW2NHE,Alberto,,Cermenate (CO),Lombardia,ITA
 2230307,IU0RCX,Roberto,,Roma (RM),Lazio,ITA
+2230308,IQ5BL,Radio Club,,Scandicci (FI),Toscana,ITA
+2230309,IU3OVT,Francesco,,Narzole (CN),Piemonte,ITA
+2230310,IU2IYU,Alessandro,,Cormano (MI),Lombardia,ITA
+2230311,IU3QEW,Clara,,Narzole (CN),Piemonte,ITA
+2230312,IU2JPQ,Mauro,,Casciago (VA),Lombardia,ITA
+2230313,IU8RGH,Fabrizio,,Cosenza (CS),Calabria,ITA
+2230314,IU2ROW,Riccardo,,Filago (BG),Lombardia,ITA
+2230315,IU4AOW,Lorenzo,,Ferrara (FE),Emilia-Rom.,ITA
+2230316,IW2KYV,Marco,,Milano (MI),Lombardia,ITA
+2230317,IZ4HDM,Musacci,,Ferrara (FE),Emilia-Rom.,ITA
+2230318,IU0JVI,Paolo,,Roma (RM),Lazio,ITA
+2230319,IU8RIR,Franco,,San Potito Ultra (AV),Campania,ITA
+2230320,IW4ENV,Filippo,,Piacenza (PI),Toscana,ITA
+2230321,IU2ROF,Cesare,,Robecco Sul Naviglio (MI),Lombardia,ITA
+2230322,IN3EBP,Karl,,Varna (BZ),Trentino AA,ITA
 2231276,IU5PTS,Stefano,,Livorno (LI),Liguria,ITA
 2280001,4U1ITU,International,,Geneva,No_regio,CHE
 2280002,HB3XWO,Kornel,,Basel,No_regio,CHE
@@ -10300,7 +10315,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280024,HB9HDI,Martin,,no_city,Zurich,CHE
 2280025,HB9HAN,Roland,,Sargans,All Regions,CHE
 2280026,HB9HIB,Sabine,,Villiers,Neuchatel,CHE
-2280027,HB9GUW,Richard,,Gais (bz),Appenzell Outer-Rhodes,CHE
+2280027,HB9GUW,Richard,,Gais,Appenzell Outer-Rhodes,CHE
 2280028,HB9MDU,Eugen,,Ebikon,Lucerne,CHE
 2280029,HB9SVQ,Emmerich,,no_city,No_regio,CHE
 2280030,HB9EDN,Michele,,Orpund,Bern,CHE
@@ -10352,7 +10367,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280077,HB9HKT,Karol,,Zrh,Zurich,CHE
 2280078,HB9HKP,Stefan,,Dornach,Solothurn,CHE
 2280079,HB9HKZ,Florian,,Wauwil,Lucerne,CHE
-2280080,HB9HUA,Roland,,Faellanden,Zurich,CHE
+2280080,HB3XYI,Roland,,Faellanden,Zurich,CHE
 2280081,HB9HOV,Christophe,,2336,Jura,CHE
 2280082,HB9IIH,Olivier,,Le Mont Sur Lausanne,Vaud,CHE
 2280083,HB9HKY,Joerg,,Rickenbach,Lucerne,CHE
@@ -10399,7 +10414,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280124,HB9HES,Misha,,Geneva,Geneva,CHE
 2280125,HB3XYV,Laurent,,Geneva,Geneva,CHE
 2280126,HB3XZC,Roland,,Dietikon,Zurich,CHE
-2280127,HB9HTP,Fabian,,Engelburg,St. Gallen,CHE
+2280127,HB3XXT,Fabian,,Engelburg,St. Gallen,CHE
 2280128,HB9GYS,Gabriel,,Grand Lancy   Geneva,Geneva,CHE
 2280129,HB3XYY,Meier,,Villmergen,Aargau,CHE
 2280130,HB9HOC,Claudio,,Zizers,Grigioni Grisons,CHE
@@ -10429,7 +10444,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280154,HB9RDA,Peter,,Schwarzenburg,Bern,CHE
 2280155,HB9EPG,Peter,,Zuerich,Zurich,CHE
 2280156,HB9GYN,Gilles,,Porrentruy,Jura,CHE
-2280157,HB9HUC,Juri,,Rueschlikon,Zurich,CHE
+2280157,HB3XZX,Juri,,Rueschlikon,Zurich,CHE
 2280158,HB9HPM,Enrico,,Pedrinate,Ticino,CHE
 2280159,HB9HPG,Rafael,,Prilly,Vaud,CHE
 2280160,HB9HNV,Adrian,,4564 Obergerlafingen,Solothurn,CHE
@@ -10483,7 +10498,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280208,HB3XBP,Christian,,Kloten,Zurich,CHE
 2280209,HB3XBL,Mark,,Lanzenhaeusern,Bern,CHE
 2280210,HB3XAY,Walter,,Glashuetten,Aargau,CHE
-2280211,HB9HUL,Daenu,,Boezberg,Aargau,CHE
+2280211,HB3XBJ,Daenu,,Boezberg,Aargau,CHE
 2280212,HB9HSO,Stefan,,Wattenwil,Bern,CHE
 2280213,HB9HRY,Jan,,Holderbank,Solothurn,CHE
 2280214,HB9HSW,Marek,,Pratteln,Basel-Country,CHE
@@ -10499,32 +10514,32 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280224,HB9ESD,Daniel,,Ebikon  Ch   6030,Lucerne,CHE
 2280225,HB3XBY,Simon,,Kreuzlingen,Thurgau,CHE
 2280226,HB9LFU,Roger,,Spreitenbach,Aargau,CHE
-2280227,HB9CFJ,Giulio,,Seedorf,Bern,CHE
+2280227,HB9CFJ,Giulio,,Seedorf,,CHE
 2280228,HB9HTX,Norman,,Zurich,Zurich,CHE
-2280229,HB3XAO,Jean,,Suscevaz,,CHE
-2280230,HB3XBZ,Hendrikus,,Zuerich,Zurich,CHE
+2280229,HB3XAO,Jean Louis,,no_city,,CHE
+2280230,HB3XBZ,Hendrikus,,no_city,Zurich,CHE
 2280231,HB9HTV,Valentin,,Bremgarten,Aargau,CHE
-2280232,HB9HTK,Gennaro,,Terre Di Pedemonte,Ticino,CHE
+2280232,HB9HTK,Gennaro Angelo,,Terre di Pedemonte,Ticino,CHE
 2280233,HB3XAV,Timo,,Baeretswil,Zurich,CHE
-2280234,HB9HTR,Marzio,,Arzo,Ticino,CHE
+2280234,HB9HTR,Marzio,,ARZO,Ticino,CHE
 2280235,HB9HKJ,Markus,,Ennetmoos,Nidwalden,CHE
 2280236,HB9HSQ,Renato,,Bern,Bern,CHE
-2280237,HB9HTZ,Tobias,,None,St. Gallen,CHE
+2280237,HB9HTZ,Tobias,,None,St Gallen,CHE
 2280238,HB3XDB,Simon,,Unterlunkhofen,Aargau,CHE
 2280239,HB3XCO,Ralph,,Hochdorf,Lucerne,CHE
 2280240,HB9HTI,Attilio,,Winterthur,Zurich,CHE
 2280241,HB9HTS,Adrian,,Wettswil,Zurich,CHE
-2280242,HB3XDP,Philippe,,Yverdon-Les-Bains,Vaud,CHE
-2280243,HB9HSB,Marco,,Rte Du Grand Pre 7,Fribourg,CHE
-2280244,HB9DOJ,Ravaldo,,8732 Neuhaus,St. Gallen,CHE
+2280242,HB3XDP,Philippe,,Yverdon les Bains,Vaud,CHE
+2280243,HB9HSB,Marco,,no_city,Fribourg,CHE
+2280244,HB9DOJ,Ravaldo,,8732 Neuhaus,St Gallen,CHE
 2280245,HB3XCK,Andre,,Brig,Valais,CHE
 2280246,HB3XEB,Werner,,Kollbrunn,Zurich,CHE
 2280247,HB3XEF,Florian,,Villnachern,Aargau,CHE
 2280248,HB9TMM,Markus,,Bern,Bern,CHE
 2280249,HB9HMI,Christian,,Rupperswil,Aargau,CHE
-2280250,HB3XCI,Marius,,Wuerenlos,Aargau,CHE
-2280251,HB9HRB,Raphael,,Chippis,,CHE
-2280252,HB9HMV,Fabian,,Andwil,St. Gallen,CHE
+2280250,HB3XCI,Marius,,no_city,Aargau,CHE
+2280251,HB9HRB,Zufferey,,Chippis,,CHE
+2280252,HB9HMV,Fabian,,Andwil,St Gallen,CHE
 2280253,HB9HUD,Reto,,Urdorf,Zurich,CHE
 2280254,HB9SEX,Rene,,Duedingen,,CHE
 2280255,HB3YOW,Lajos,,Lugano,Ticino,CHE
@@ -12163,7 +12178,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2780054,9H1VN,Victor,,Mosta,All Regions,MLT
 2780055,9H1TL,Christian,,Qormi,No_regio,MLT
 2780056,9H2RA,Rainer,,Rabat,All Regions,MLT
-2780057,9H2AS,Anthony,,Tarxien,All Regions,MLT
+2780057,9H2AS,Anthony,,TARXIEN,All Regions,MLT
 2920001,T77GR,Renato,,Borgo Maggiore,No_regio,SMR
 2920002,T77NC,Nazzareno,,Acquaviva,No_regio,SMR
 2920003,T77DB,Danilo,,Borgo Maggiore,San Marino,SMR
@@ -12190,4 +12205,4 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2920024,T77PF,Pietro,,San Marino,All Regions,SMR
 2920025,T77AZ,Matias,,San Marino,All Regions,SMR
 2920026,T72MS,Mauro,,San Marino,All Regions,SMR
-2920027,T77PM,Marco,,San Marino,All Regions,SMR
+2920027,T77PM,Marco,,San marino,All Regions,SMR
