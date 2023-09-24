@@ -232,7 +232,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060088,ON7FU,Hugo Cnudde,Hugo,Moorslede,West-Vlaanderen,BEL
 2060089,ON2AGQ,Pieter Lambert,Pieter,Beernem,West-Vlaanderen,BEL
 2060090,ON5LS,Stefan Lefere,Stefan,Izegem,West-Vlaanderen,BEL
-2060091,ON4AVJ,Jacques Verleijen,Jacques,Oostende,West-Vlaanderen,BEL
 2060092,ON7UP,Johan Vandenberghe,Johan,Waregem,West-Vlaanderen,BEL
 2060093,ON7KZ,Luc Clarijs,Luc,Moorslede,West-Vlaanderen,BEL
 2060094,ON2TDW,Thomas Dewanckel,Thomas,Zeebrugge,West-Vlaanderen,BEL
@@ -549,7 +548,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060405,ON7SH,Georges Schepens,Georges,Merelbeke,Oost-Vlaanderen,BEL
 2060406,ON2LAS,Francis Cabarteux,Francis,De Haan,West-Vlaanderen,BEL
 2060407,ON4TUK,Luc Jusgen,Luc,Boutersem,Vlaams Brabant,BEL
-2060408,ON7VG,Patrik Van Gestel,Patrik,Brecht,Antwerp,BEL
 2060409,ON4TQ,Nicolas Tassent,Nicolas,Waasmunster,Oost-Vlaanderen,BEL
 2060410,ON3MEE,Michel Everbecq,Michel,Liege,Liege,BEL
 2060411,ON3TA,Didier Tambour,Didier,Gembloux,Hainaut,BEL
@@ -775,6 +773,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060634,ON1EE,Ronald Farmery,Ronald,Putte,Antwerp,BEL
 2060635,ON4SPG,Stephane Petit,Stephane,1470 Genappe,,BEL
 2060636,ON1AB,Eduard None,Eduard,Leuven,Vlaams Brabant,BEL
+2060637,ON4YVO,Yvo Volders,Yvo,Montenaken,Limburg,BEL
+2060638,ON4TH,Thierry Dupont,Thierry,5060 Arsimont,Namur,BEL
+2060639,ON4DSL,Peter Vanoverbeke,Peter,8650 Houthulst,,BEL
+2060640,ON8JPB,Jean Pol Brisebois,Jean Pol,Sautour,Namur,BEL
+2060641,ON3VX,Lennart Willems,Lennart,Rijkevorsel,Antwerp,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -849,7 +852,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2061074,ON3AAA,Hans Vandenbroeck,Hans,Lede,Oost-Vlaanderen,BEL
 2061075,ON5GPS,Jacques Maes,Jacques,Stekene,Oost-Vlaanderen,BEL
 2061076,ON7RW,Stefan Poten,Stefan,Dendermonde,Oost-Vlaanderen,BEL
-2061077,ON6UU,Frank Lagaet,Frank,Laarne,Oost-Vlaanderen,BEL
 2061078,ON3SDV,Freddy Stuift,Freddy,Lede,Oost-Vlaanderen,BEL
 2061079,ON3XX,Jozef Maes,Jozef,Moerzeke,Oost-Vlaanderen,BEL
 2061080,ON5CDG,Christophe ,Christophe,Wetteren,Oost-Vlaanderen,BEL
@@ -1146,7 +1148,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2062053,ON4CPK,Paul Claus,Paul,Wilrijk,Antwerp,BEL
 2062054,ON3LS,Frans Leys,Frans,Mol,Antwerp,BEL
 2062055,ON3SDU,Sven Dupont,Sven,Kapellen,Antwerp,BEL
-2062056,ON5FJ,Frans Roie,Frans,Emblem,Antwerp,BEL
 2062057,ON4GW,Willem Loock,Willem,Ranst,Antwerp,BEL
 2062058,ON4ARJ,Patrick Wagemakers,Patrick,Schoten,Antwerp,BEL
 2062059,ON6JK,Geoffroy Kempenaers,Geoffroy,Berlaar,Antwerp,BEL
@@ -1638,7 +1639,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2066077,ON3RMD,Raymond Michaux,Raymond,Ransart,Hainaut,BEL
 2066078,ON3OBX,Christophe Fayt,Christophe,Manage,Hainaut,BEL
 2066079,ON3BMW,Arnauld ,Arnauld,La Louviere,Hainaut,BEL
-2066080,ON4KBS,Stphane Brioul,Stphane,Ploegsteert,Hainaut,BEL
 2066081,ON8BAK,Romaric Leman,Romaric,Herseaux,Hainaut,BEL
 2066082,ON3KTM,Guillaume ,Guillaume,Flobecq,Hainaut,BEL
 2066083,ON3AC,John Anthoine,John,Soignies,Hainaut,BEL
@@ -3273,6 +3273,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081417,F5PCR,Thierry Nowosielski,Thierry,18 Des Lavoirs,Grand Est,FRA
 2081418,F4LCL,Pascal Provenat,Pascal,Joinville,Grand Est,FRA
 2081419,F4LCN,Simon Juif,Simon,SASSETOT LE MAUCONDUIT,Normandie,FRA
+2081420,F4HDI,Cuvelier Franck,Cuvelier,Revin,Grand Est,FRA
+2081421,F4LCV,Michel Chagneaud,Michel,Tauriac,Nouvelle Aquitaine,FRA
+2081422,F4LCM,Elfie Provenat,Elfie,Joinville,Grand Est,FRA
+2081423,F4GUF,Jean Claude Charrier,Jean Claude,44840 Les Sorinieres,Pays de la Loire,FRA
+2081424,F4EZO,Mathieu Mostel,Mathieu,Aunay Les Bois,Normandie,FRA
+2081425,F4JLQ,Jacky Neumeyer,Jacky,Kappelkinger,Grand Est,FRA
+2081426,F4JRH,Noel Bensalem,Noel,saint jean de la motte,Pays de la Loire,FRA
+2081427,F1VY,Jean Marie Houviez,Jean Marie,36000 Chateauroux,Centre Val de Loire,FRA
 2081777,F4JBM,Francois ,Francois,Saint-Cloud,,FRA
 2082001,F4FUL,Cyril Teitler,Cyril,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko Damerau,Heiko,Thoiry,Rhone-Alpes,FRA
@@ -11988,6 +11996,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025435,VE2DSB,Daniel Brouillard,Daniel,Vercheres,Quebec,CAN
 3025436,VA3OMB,Manon Bertolini,Manon,Ottawa,Ontario,CAN
 3025437,VA3TIQ,Allan Tique,Allan,Toronto,Ontario,CAN
+3025438,VE3IOU,Dale Butt,Dale,Cambridge,Ontario,CAN
+3025439,VE3DXW,Daniel Wrobel,Daniel,no_city,Ontario,CAN
+3025440,VE3IHB,Bryan Bonnett,Bryan,Lynedoch,Ontario,CAN
+3025441,VE7XUV,University Of Victoria Experimental Radio Group ,University Of Victoria Experimental Radio Group,Victoria,British Columbia,CAN
+3025442,VE7HCU,Ka Lun Alan Mok,Ka Lun Alan,Vancouver,British Columbia,CAN
+3025443,VE7NIZ,Kesar Singh Nizzar,Kesar Singh,Richmond,British Columbia,CAN
 3026001,VA6IP,Kiernan Burr,Kiernan,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN

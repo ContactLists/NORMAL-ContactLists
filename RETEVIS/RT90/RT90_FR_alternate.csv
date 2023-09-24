@@ -231,7 +231,6 @@
 2060088,ON7FU Hugo     ,Cnudde Moorslede   West-Vlaanderen     | BEL
 2060089,ON2AGQ Pieter  ,Lambert Beernem    West-Vlaanderen     | BEL
 2060090,ON5LS Stefan   ,Lefere Izegem      West-Vlaanderen     | BEL
-2060091,ON4AVJ Jacques ,Verleijen Oostende West-Vlaanderen     | BEL
 2060092,ON7UP Johan    ,Vandenberghe WaregeWest-Vlaanderen     | BEL
 2060093,ON7KZ Luc      ,Clarijs Moorslede  West-Vlaanderen     | BEL
 2060094,ON2TDW Thomas  ,Dewanckel ZeebruggeWest-Vlaanderen     | BEL
@@ -548,7 +547,6 @@
 2060405,ON7SH Georges  ,Schepens Merelbeke Oost-Vlaanderen     | BEL
 2060406,ON2LAS Francis ,Cabarteux De Haan  West-Vlaanderen     | BEL
 2060407,ON4TUK Luc     ,Jusgen Boutersem   Vlaams Brabant      | BEL
-2060408,ON7VG Patrik   ,Van Gestel Brecht  Antwerp             | BEL
 2060409,ON4TQ Nicolas  ,Tassent WaasmunsterOost-Vlaanderen     | BEL
 2060410,ON3MEE Michel  ,Everbecq Liege     Liege               | BEL
 2060411,ON3TA Didier   ,Tambour Gembloux   Hainaut             | BEL
@@ -774,6 +772,11 @@
 2060634,ON1EE Ronald   ,Farmery Putte      Antwerp             | BEL
 2060635,ON4SPG Stephane,Petit 1470 Genappe                     | BEL
 2060636,ON1AB Eduard   ,None Leuven        Vlaams Brabant      | BEL
+2060637,ON4YVO Yvo     ,Volders Montenaken Limburg             | BEL
+2060638,ON4TH Thierry  ,Dupont 5060 ArsimonNamur               | BEL
+2060639,ON4DSL Peter   ,Vanoverbeke 8650 Ho                    | BEL
+2060640,ON8JPB Jean Pol,Brisebois Sautour  Namur               | BEL
+2060641,ON3VX Lennart  ,Willems RijkevorselAntwerp             | BEL
 2061001,ON8SVH Stijn   ,Hende Oudenaarde   Oost-Vlaanderen     | BEL
 2061002,ON8SI Simon    ,Pauw Oosterzele    Oost-Vlaanderen     | BEL
 2061003,ON5LUC Luc     ,Lourense Gent      Oost-Vlaanderen     | BEL
@@ -848,7 +851,6 @@
 2061074,ON3AAA Hans    ,Vandenbroeck Lede  Oost-Vlaanderen     | BEL
 2061075,ON5GPS Jacques ,Maes Stekene       Oost-Vlaanderen     | BEL
 2061076,ON7RW Stefan   ,Poten Dendermonde  Oost-Vlaanderen     | BEL
-2061077,ON6UU Frank    ,Lagaet Laarne      Oost-Vlaanderen     | BEL
 2061078,ON3SDV Freddy  ,Stuift Lede        Oost-Vlaanderen     | BEL
 2061079,ON3XX Jozef    ,Maes Moerzeke      Oost-Vlaanderen     | BEL
 2061080,ON5CDG Christop, Wetteren          Oost-Vlaanderen     | BEL
@@ -1145,7 +1147,6 @@
 2062053,ON4CPK Paul    ,Claus Wilrijk      Antwerp             | BEL
 2062054,ON3LS Frans    ,Leys Mol           Antwerp             | BEL
 2062055,ON3SDU Sven    ,Dupont Kapellen    Antwerp             | BEL
-2062056,ON5FJ Frans    ,Roie Emblem        Antwerp             | BEL
 2062057,ON4GW Willem   ,Loock Ranst        Antwerp             | BEL
 2062058,ON4ARJ Patrick ,Wagemakers Schoten Antwerp             | BEL
 2062059,ON6JK Geoffroy ,Kempenaers Berlaar Antwerp             | BEL
@@ -1637,7 +1638,6 @@
 2066077,ON3RMD Raymond ,Michaux Ransart    Hainaut             | BEL
 2066078,ON3OBX Christop,Fayt Manage        Hainaut             | BEL
 2066079,ON3BMW Arnauld , La Louviere       Hainaut             | BEL
-2066080,ON4KBS Stphane ,Brioul Ploegsteert Hainaut             | BEL
 2066081,ON8BAK Romaric ,Leman Herseaux     Hainaut             | BEL
 2066082,ON3KTM Guillaum, Flobecq           Hainaut             | BEL
 2066083,ON3AC John     ,Anthoine Soignies  Hainaut             | BEL
@@ -3272,6 +3272,14 @@
 2081417,F5PCR Thierry  ,Nowosielski 18 Des Grand Est           | FRA
 2081418,F4LCL Pascal   ,Provenat Joinville Grand Est           | FRA
 2081419,F4LCN Simon    ,Juif SASSETOT LE MANormandie           | FRA
+2081420,F4HDI Cuvelier ,Franck Revin       Grand Est           | FRA
+2081421,F4LCV Michel   ,Chagneaud Tauriac  Nouvelle Aquitaine  | FRA
+2081422,F4LCM Elfie    ,Provenat Joinville Grand Est           | FRA
+2081423,F4GUF Jean Clau,Charrier 44840 Les Pays de la Loire    | FRA
+2081424,F4EZO Mathieu  ,Mostel Aunay Les BoNormandie           | FRA
+2081425,F4JLQ Jacky    ,Neumeyer KappelkingGrand Est           | FRA
+2081426,F4JRH Noel     ,Bensalem saint jeanPays de la Loire    | FRA
+2081427,F1VY Jean Marie,Houviez 36000 ChateCentre Val de Loire | FRA
 2081777,F4JBM Francois , Saint-Cloud                           | FRA
 2082001,F4FUL Cyril    ,Teitler Sciez      Rhone-Alpes         | FRA
 2082002,F5VIN Heiko    ,Damerau Thoiry     Rhone-Alpes         | FRA
@@ -11987,6 +11995,12 @@
 3025435,VE2DSB Daniel  ,Brouillard VerchereQuebec              | CAN
 3025436,VA3OMB Manon   ,Bertolini Ottawa   Ontario             | CAN
 3025437,VA3TIQ Allan   ,Tique Toronto      Ontario             | CAN
+3025438,VE3IOU Dale    ,Butt Cambridge     Ontario             | CAN
+3025439,VE3DXW Daniel  ,Wrobel no_city     Ontario             | CAN
+3025440,VE3IHB Bryan   ,Bonnett Lynedoch   Ontario             | CAN
+3025441,VE7XUV Universi, Victoria          British Columbia    | CAN
+3025442,VE7HCU Ka Lun A,Mok Vancouver      British Columbia    | CAN
+3025443,VE7NIZ Kesar Si,Nizzar Richmond    British Columbia    | CAN
 3026001,VA6IP Kiernan  ,Burr Edmonton      Alberta             | CAN
 3026002,VE6GG Kerry    ,Atkinson Edmonton  Alberta             | CAN
 3026003,VE6GG Kerry    ,Atkinson Edmonton  Alberta             | CAN
