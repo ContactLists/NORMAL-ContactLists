@@ -778,6 +778,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060639,ON4DSL,Peter,Vanoverbeke,8650 Houthulst,,BEL,DMR
 2060640,ON8JPB,Jean Pol,Brisebois,Sautour,Namur,BEL,DMR
 2060641,ON3VX,Lennart,Willems,Rijkevorsel,Antwerp,BEL,DMR
+2060642,ON3FRG,Gonzo,,Ouffet,Liege,BEL,DMR
 2061001,ON8SVH,Stijn,Hende,Oudenaarde,Oost-Vlaanderen,BEL,DMR
 2061002,ON8SI,Simon,Pauw,Oosterzele,Oost-Vlaanderen,BEL,DMR
 2061003,ON5LUC,Luc,Lourense,Gent,Oost-Vlaanderen,BEL,DMR
@@ -823,7 +824,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2061044,ON2TIM,Tim,Broeck,Ottergem,Oost-Vlaanderen,BEL,DMR
 2061045,ON2RK,Kris,Rijcke,Berlare,Oost-Vlaanderen,BEL,DMR
 2061046,ON3DHL,Julien,Schatteman,Gent,Oost-Vlaanderen,BEL,DMR
-2061047,ON3GPS,Pieter,Maes,Sint-Niklaas,Oost-Vlaanderen,BEL,DMR
 2061048,ON4LQ,Raoul,Bourriez,Gent,Oost-Vlaanderen,BEL,DMR
 2061049,ON4BBQ,Ronald,Bogaert,Berlare,Oost-Vlaanderen,BEL,DMR
 2061050,ON3DWD,Dirk,Everaet,Oudenaarde,Oost-Vlaanderen,BEL,DMR
@@ -934,7 +934,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2061158,ON3KDR,Kris,Rocker,Wetteren,Oost-Vlaanderen,BEL,DMR
 2061159,ON6AZ,Alex,Schouppe,Aalst,Oost-Vlaanderen,BEL,DMR
 2061160,ON3TVC,Thomas,Casteele,Eke,Oost-Vlaanderen,BEL,DMR
-2061161,ON5LY,Johan,Verhelst,Belsele,Oost-Vlaanderen,BEL,DMR
 2061162,ON4CCQ,Geert,Nieuwenhuyze,Lebbeke,Oost-Vlaanderen,BEL,DMR
 2061163,ON4LOL,Maarten,Achte,Lokeren,Oost-Vlaanderen,BEL,DMR
 2061164,ON3BVM,Benjamin,Geeraerts,Eeklo,Oost-Vlaanderen,BEL,DMR
@@ -1010,9 +1009,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2061235,ON3WT,Julien,Cours,Wetteren,Oost-Vlaanderen,BEL,DMR
 2061236,ON6JV,Jo,Verhaevert,Zottegem,Oost-Vlaanderen,BEL,DMR
 2061237,ON6ERS,Eddie,Voorde,Wachtebeke,Oost-Vlaanderen,BEL,DMR
-2061238,ON3VDS,Rudy,Sompel,Nevele,Oost-Vlaanderen,BEL,DMR
 2061239,ON3DPE,Daniel,Pevenage,Laarne,Oost-Vlaanderen,BEL,DMR
-2061240,ON4PC,Philippe,Schollaert,Geraardsbergen,Oost-Vlaanderen,BEL,DMR
 2061241,ON3DWD,Dirk,Weerdt,Oudenaarde,Oost-Vlaanderen,BEL,DMR
 2061242,ON7VMR,Rudy,Mieghem,Beveren,Oost-Vlaanderen,BEL,DMR
 2061243,ON6PK,Rudy,Wael,Wichelen,Oost-Vlaanderen,BEL,DMR
@@ -3281,6 +3278,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081425,F4JLQ,Jacky,Neumeyer,Kappelkinger,Grand Est,FRA,DMR
 2081426,F4JRH,Noel,Bensalem,saint jean de la motte,Pays de la Loire,FRA,DMR
 2081427,F1VY,Jean Marie,Houviez,36000 Chateauroux,Centre Val de Loire,FRA,DMR
+2081428,F6DTU,Guy,Latreille,CHALETTE SUR LOING,Centre Val de Loire,FRA,DMR
+2081429,F4FQT,Marc,Gentric,Landerneau,Bretagne,FRA,DMR
+2081430,F4LCT,Jean Philippe,Huet,no_city,Pays de la Loire,FRA,DMR
+2081431,F1GYG,Patrick,De Souza,Savigny Le Temple,,FRA,DMR
 2081777,F4JBM,Francois,,Saint-Cloud,,FRA,DMR
 2082001,F4FUL,Cyril,Teitler,Sciez,Rhone-Alpes,FRA,DMR
 2082002,F5VIN,Heiko,Damerau,Thoiry,Rhone-Alpes,FRA,DMR
@@ -5044,6 +5045,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280298,HB9GUN,Andi,Brand,Oberwangen,Bern,CHE,DMR
 2280299,HB9HXW,Daniel,Hatt,Marbach,Lucerne,CHE,DMR
 2280300,HB3YBY,Rolf,,Finsterhennen,Bern,CHE,DMR
+2280301,HB9GIH,Hans Heinrich,Meyer Zu Eppendorf,Leuk Stadt,Valais,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -12002,6 +12004,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025441,VE7XUV,University Of Victoria Experimental Radio Group,,Victoria,British Columbia,CAN,DMR
 3025442,VE7HCU,Ka Lun Alan,Mok,Vancouver,British Columbia,CAN,DMR
 3025443,VE7NIZ,Kesar Singh,Nizzar,Richmond,British Columbia,CAN,DMR
+3025444,VA7CVD,David,Findlay,Courtenay,British Columbia,CAN,DMR
+3025445,VE7QQ,Timothy,Graham,Edgewater,British Columbia,CAN,DMR
+3025446,VE9MAH,Michel,Hebert,Dieppe,New Brunswick,CAN,DMR
+3025447,VE9WZ,Hayden Douglas,Walker,Sussex,New Brunswick,CAN,DMR
 3026001,VA6IP,Kiernan,Burr,Edmonton,Alberta,CAN,DMR
 3026002,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
 3026003,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
