@@ -10,7 +10,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280009,HB9TWP,Bolzani,Arlate,No_regio,CHE
 2280010,HB9FSN,Bruno,Bretzwil,Basel/Solothurn,CHE
 2280011,HB9OBB,Daniele,Zurich,Zuerich und Thurgau,CHE
-2280012,HB9HGO,Carlos,no_city,Basel/Solothurn,CHE
 2280013,HB9HOU,Roland,8526 Oberneunforn,Thurgau,CHE
 2280014,HB9GYV,Paul,Bienne,No_regio,CHE
 2280015,HB3XVS,Stefan,Moosseedorf,Bern,CHE
@@ -306,6 +305,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280305,HB9DQS,Peter,Cham,Zug,CHE
 2280306,HB9AUR,Martin,6330 Cham,Zug,CHE
 2280307,HB9SLK,Michele,no_city,Zurich,CHE
+2280308,HB9HZJ,Christian,Luzern,Lucerne,CHE
+2280309,HB3XGM,Christian,Dulliken,Solothurn,CHE
+2280310,HB9HZP,Cedric,Zurich,Zurich,CHE
+2280311,HB9HEH,no_name,Zuerich Altstetten,Zurich,CHE
+2280312,HB9SDB,Rolf,Waedenswil,Zurich,CHE
+2280313,HB9IQW,Patrik,Duebendorf,Zurich,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -2493,6 +2498,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320619,OE5ERM,Manuel,Wels,OOE,AUT
 2320620,OE3FDE,Fabio,Sollenau,NOE,AUT
 2320621,OE6SLU,Urban,Graz,STMK,AUT
+2320622,OE8HHG,Hannes,Gallizien,KTN,AUT
 2321001,OE1KBC,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt,Wien,WIEN,AUT
@@ -15089,11 +15095,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631409,DO1SX,,Braunscheig,NI,DEU
 2631410,DH9YBE,,no_city,,DEU
 2631411,DL8AGC,Aleksander Maciej,Bibertal,BY,DEU
-2631412,DL4GG,Uli,Emmendingen,BW,DEU
-2631413,DL3TP,Tjark,Tetenhusen,SH,DEU
+2631412,DL4GG,Ulrich,Emmendingen,BW,DEU
+2631413,DL3TP,Tjark-Phillipp,Tetenhusen,SH,DEU
 2631414,DL1XBB,Harald,Norderstedt,SH,DEU
 2631415,DF1KBN,Juergen,Stolberg-Gressenich,NW,DEU
-2631416,DR7K,Drk Siebengebirge,Bad Honnef,NW,DEU
+2631416,DR7K,ContestSt.,Bad Honnef,NW,DEU
 2631417,DL0MLU,Clubst.,Halle,NI,DEU
 2631418,DL3SBW,Alois,Aalen,BW,DEU
 2631419,DM1LN,Milan,Berlin,BE,DEU
@@ -15103,19 +15109,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631423,DM5EE,Ulrich,Meine,NI,DEU
 2631424,DL2HYM,Steffen,Halle,ST,DEU
 2631425,DO2ALX,Alexander,Roigheim,BW,DEU
-2631426,DL7MAY,Leroy,Neuss,NW,DEU
+2631426,DL7MAY,Leroy William,Neuss,NW,DEU
 2631427,DK4TB,Thomas,Prien am Chiemsee,BY,DEU
 2631428,DO1JZH,Julius,Schwalbach,HE,DEU
 2631429,DO1DS,Sholto,Sensweiler,RP,DEU
 2631430,DL2HYL,Susanne,Halle,ST,DEU
-2631431,DO2THM,Thomas,Stuttgart,BW,DEU
+2631431,DO2THM,Thomas Ernst Friedrich,Stuttgart,BW,DEU
 2631432,DO4GL,Lars,Frankenberg,HE,DEU
 2631433,DO9MZ,Matthias,Stuttgart,BW,DEU
-2631434,DF7FG,Josef,Gersthofen,BY,DEU
+2631434,DF7FG,Josef Karl,Gersthofen,BY,DEU
 2631435,DM3PT,Richard,Ettringen,BY,DEU
 2631436,DH2FBR,Thomas,Taunusstein,HE,DEU
-2631437,DO7JIL,Jens,Sottrum,NI,DEU
-2631438,DH5AN,Andre,Brunsbek,SH,DEU
+2631437,DO7JIL,Jens Oskar,Sottrum,NI,DEU
+2631438,DH5AN,Andre Juergen,Brunsbek,SH,DEU
 2631439,DO5LAM,Johannes Herbert,Langensendelbach,BY,DEU
 2631440,DL4DCW,Dietmar,Castrop-Rauxel,NW,DEU
 2631441,DB3DS,Reinhard,Altena,NW,DEU
@@ -15125,13 +15131,35 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631445,DK6MR,Michael,Koenigswinter,NW,DEU
 2631446,DK9LR,Michael,Bad Bramstedt,SH,DEU
 2631447,DO6PF,Joern,Kiel,SH,DEU
-2631448,DA6RCM,Ronald,Freihung,BY,DEU
-2631449,DG1PS,Wolf Dieter,Rutesheim,BW,DEU
+2631448,DA6RCM,Ronald Charles,Freihung,BY,DEU
+2631449,DG1PS,,Rutesheim,BW,DEU
 2631450,DO1TML,Thorsten,Hamburg,HH,DEU
-2631451,DL4MX,Gerhard,no_city,BY,DEU
+2631451,DL4MX,,no_city,BY,DEU
 2631452,DL1NAF,Frank,Lichtenfels,BY,DEU
 2631453,DF7SF,Bernhard,Stuttgart,BW,DEU
-2631454,DO9JAN,Jan,no_city,NW,DEU
+2631454,DO9JAN,Jan Luka,no_city,NW,DEU
+2631455,DO8AA,Andre,Lehnin,BB,DEU
+2631456,DL1RFM,Ralph,Magdeburg,ST,DEU
+2631457,DL6PE,Stephan,Ammersee,BY,DEU
+2631458,DL6WG,Wolfgang,Moenchengladbach,NW,DEU
+2631459,DM1UO,Uwe,Marzehns,BB,DEU
+2631460,DL5NEA,Volker,Neustadt,HE,DEU
+2631461,DO1BBQ,Christian,Kleinmachnow,BB,DEU
+2631462,DJ1KS,Karsten,Sehnde,NI,DEU
+2631463,DO1DCS,Daniela,Muenchen,BY,DEU
+2631464,DL9BCG,Josef,Bremerhaven,HB,DEU
+2631465,DC8DS,Stephan,Melle,NI,DEU
+2631466,DK3WA,Peter,Haltersheim,HE,DEU
+2631467,DB9SH,Sergej,Muenchen,BY,DEU
+2631468,DO2SWE,Stefan,Esslingen,BW,DEU
+2631469,DB3PU,Sigi,Paehl,BY,DEU
+2631470,DO3PD,Philipp,Neustadt,BY,DEU
+2631471,DO6MJB,Matthias,Lueneburg,NI,DEU
+2631472,DO4AF,Andreas,Grafling,BY,DEU
+2631473,DD3ZM,Achim,Duesseldorf,NW,DEU
+2631474,DG1SFT,Heribert,Gollhofen,BY,DEU
+2631475,DG6ACN,Klaas,Seesen,NI,DEU
+2631476,DO2AMR,Adrian,Singen,BW,DEU
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DEU
 2633002,DH8AAA,Oliver,Vechelde,NI,DEU
 2633003,DC6BV,Reinhardt,Norden,NI,DEU
