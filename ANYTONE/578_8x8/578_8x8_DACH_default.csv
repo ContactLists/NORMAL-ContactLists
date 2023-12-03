@@ -314,6 +314,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280314,HB9HWP,Matthias,Von Arx,Basel,Basel City - CHE,,Private Call,None
 ,2280315,HB9DRJ,Hans,Wermuth,Ch 4054 Basel,Basel City - CHE,,Private Call,None
 ,2280316,HB3YAQ,Ajdin,Hadzic,Lucerne,Lucerne - CHE,,Private Call,None
+,2280317,HB3YAC,Frank,Reiser,Rietheim,Aargau - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -2508,6 +2509,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320626,OE8PMZ,Peter Georg,Marzi,Wolfsberg,KTN - AUT,,Private Call,None
 ,2320627,OE1ETI,Roman,,Wien,WIEN - AUT,,Private Call,None
 ,2320628,OE3OGC,Sebastian,Schiegl,Erpersdorf,NOE - AUT,,Private Call,None
+,2320629,OE6SYZ,Alexander,Sandriesser,St Ruprecht An der Raab,STMK - AUT,,Private Call,None
+,2320630,OE3RAE,Franz,Rafeiner,Penzing,NOE - AUT,,Private Call,None
+,2320631,OE6FWF,Werner,Ferstl,Graz,STMK - AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,Baumann,Wien,WIEN - AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,Baumann,Wien,WIEN - AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,Baumann,Wien,WIEN - AUT,,Private Call,None
@@ -4680,7 +4684,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620522,DL3WK,Wolfgang,Knopf,Neustadt,NI - DEU,,Private Call,None
 ,2620523,DL2YU,Franz,Haeusler,Pfreimd-Stein,BY - DEU,,Private Call,None
 ,2620524,DC6PA,Rainer,Puntke,Emsdetten,HE - DEU,,Private Call,None
-,2620525,DO1CGD,Gerd,Doering,Wilkau-Hasslau,SN - DEU,,Private Call,None
+,2620525,DO1CGD,Gerd Heinz,Doering,Wilkau-Hasslau,SN - DEU,,Private Call,None
 ,2620526,DL1TGH,Thomas,Graupe,Koerner,TH - DEU,,Private Call,None
 ,2620527,DL3BE,Andreas,Eller,Dinklage,NI - DEU,,Private Call,None
 ,2620528,DO7CT,Christian,Tanz,no_city,NI - DEU,,Private Call,None
@@ -8247,7 +8251,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624304,DL6KCS,Christian,Scheffler,Dueren,NW - DEU,,Private Call,None
 ,2624305,DJ2KJ,Wolfgang,Stolte,Troisdorf,NW - DEU,,Private Call,None
 ,2624306,DG1EIR,Dirk,Seulen,Sprockhoevel,NW - DEU,,Private Call,None
-,2624307,DL9LH,Lutz,Haller,Neunkirchen-Seelscheid,NW - DEU,,Private Call,None
+,2624307,DL9LH,Lutz Ewald,Haller,Neunkirchen-Seelscheid,NW - DEU,,Private Call,None
 ,2624308,DC7IA,no_name,,no_city,no_region - DEU,,Private Call,None
 ,2624309,DL3KMS,Marcin,Sadowski,Bruehl,NW - DEU,,Private Call,None
 ,2624310,DL4EV,Burkhard,Becker,no_city,NW - DEU,,Private Call,None
@@ -15120,11 +15124,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631425,DO2ALX,Alexander,Loch,Roigheim,BW - DEU,,Private Call,None
 ,2631426,DL7MAY,Leroy William,May,Neuss,NW - DEU,,Private Call,None
 ,2631427,DK4TB,Thomas,Boehm,Prien am Chiemsee,BY - DEU,,Private Call,None
-,2631428,DO1JZH,Julius,Hammerschick,Schwalbach,HE - DEU,,Private Call,None
-,2631429,DO1DS,Sholto,Douglas,Sensweiler,RP - DEU,,Private Call,None
+,2631428,DO1JZH,Julius Jakob,Hammerschick,Schwalbach,HE - DEU,,Private Call,None
+,2631429,DO1DS,Sholto,Dirk Douglas,Sensweiler,RP - DEU,,Private Call,None
 ,2631430,DL2HYL,Susanne,Bolling,Halle,ST - DEU,,Private Call,None
 ,2631431,DO2THM,Thomas Ernst Friedrich,Moser,Stuttgart,BW - DEU,,Private Call,None
-,2631432,DO4GL,Lars,Geissler,Frankenberg,HE - DEU,,Private Call,None
+,2631432,DO4GL,Lars Bjoern,Geissler,Frankenberg,HE - DEU,,Private Call,None
 ,2631433,DO9MZ,Matthias,Zettl,Stuttgart,BW - DEU,,Private Call,None
 ,2631434,DF7FG,Josef Karl,Merfels,Gersthofen,BY - DEU,,Private Call,None
 ,2631435,DM3PT,Richard,Menzinger,Ettringen,BY - DEU,,Private Call,None
@@ -15155,32 +15159,32 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631460,DL5NEA,Volker,Pitann,Neustadt,HE - DEU,,Private Call,None
 ,2631461,DO1BBQ,Christian,Hoehne,Kleinmachnow,BB - DEU,,Private Call,None
 ,2631462,DJ1KS,Karsten,Schaefer,Sehnde,NI - DEU,,Private Call,None
-,2631463,DO1DCS,Daniela,Smirnow,Muenchen,BY - DEU,,Private Call,None
+,2631463,DO1DCS,,Daniela Carola Smirnow,Muenchen,BY - DEU,,Private Call,None
 ,2631464,DL9BCG,Josef,Minich,Bremerhaven,HB - DEU,,Private Call,None
 ,2631465,DC8DS,Stephan,Dainat,Melle,NI - DEU,,Private Call,None
-,2631466,DK3WA,Peter,Booth,Haltersheim,HE - DEU,,Private Call,None
+,2631466,DK3WA,,Peter Michael Alan Booth,Haltersheim,HE - DEU,,Private Call,None
 ,2631467,DB9SH,Sergej,Hense,Muenchen,BY - DEU,,Private Call,None
-,2631468,DO2SWE,Stefan,Wiertellok,Esslingen,BW - DEU,,Private Call,None
-,2631469,DB3PU,Sigi,Olbrecht,Paehl,BY - DEU,,Private Call,None
-,2631470,DO3PD,Philipp,Dobmeier,Neustadt,BY - DEU,,Private Call,None
-,2631471,DO6MJB,Matthias,Beer,Lueneburg,NI - DEU,,Private Call,None
-,2631472,DO4AF,Andreas,Fruechtl,Grafling,BY - DEU,,Private Call,None
+,2631468,DO2SWE,,Stefan Manuel Wiertellok,Esslingen,BW - DEU,,Private Call,None
+,2631469,DB3PU,Siegfried,Olbrecht,Paehl,BY - DEU,,Private Call,None
+,2631470,DO3PD,Philipp Joe,Dobmeier,Neustadt,BY - DEU,,Private Call,None
+,2631471,DO6MJB,,Matthias Joachim Beer,Lueneburg,NI - DEU,,Private Call,None
+,2631472,DO4AF,Andreas Wilhelm,Fruechtl,Grafling,BY - DEU,,Private Call,None
 ,2631473,DD3ZM,Achim,Knierim,Duesseldorf,NW - DEU,,Private Call,None
 ,2631474,DG1SFT,Heribert,Gerstl,Gollhofen,BY - DEU,,Private Call,None
-,2631475,DG6ACN,Klaas,Hoherz,Seesen,NI - DEU,,Private Call,None
-,2631476,DO2AMR,Adrian,Rose,Singen,BW - DEU,,Private Call,None
+,2631475,DG6ACN,Klaas Hilmar,Hoherz,Seesen,NI - DEU,,Private Call,None
+,2631476,DO2AMR,Adrian Matthias,Rose,Singen,BW - DEU,,Private Call,None
 ,2631477,DG1OAF,Tobias,Weltner,Hannover,NI - DEU,,Private Call,None
 ,2631478,DO3DSH,Dennis,Schmelz,Altensteig,BW - DEU,,Private Call,None
 ,2631479,DF9CP,Andreas,Claar,Borken,NW - DEU,,Private Call,None
-,2631480,DO8HO,Thomas,Hommers,Moenchengladbach,NW - DEU,,Private Call,None
+,2631480,DO8HO,Thomas Horst,Hommers,Moenchengladbach,NW - DEU,,Private Call,None
 ,2631481,DL3TL,Thomas,Lehnes,Brunn,BY - DEU,,Private Call,None
-,2631482,DO1KAM,Andreas,Karsjens,Laatzen,NI - DEU,,Private Call,None
+,2631482,DO1KAM,,Andreas Michael Karsjens,Laatzen,NI - DEU,,Private Call,None
 ,2631483,DL5AWR,Wolfgang,Roether,Sonneberg,TH - DEU,,Private Call,None
 ,2631484,DB7MI,Josef,Stuckenberger,Moosburg,BY - DEU,,Private Call,None
 ,2631485,DD1KT,Karsten,Thoelmann,Moeglingen,BW - DEU,,Private Call,None
 ,2631486,DO3CAT,Andreas,Binzinger,Muenster,NW - DEU,,Private Call,None
 ,2631487,DO6PK,Peter,Kube,Geroldsgruen,BY - DEU,,Private Call,None
-,2631488,DD1MM,Matthias,Meckel,Bremen,HB - DEU,,Private Call,None
+,2631488,DD1MM,Matthias Erich Manfred,Meckel,Bremen,HB - DEU,,Private Call,None
 ,2631489,DL2DKF,Dirk,Koschuetzki,Furtwangen,BW - DEU,,Private Call,None
 ,2631490,DO2TL,Torsten,Lang,Wartenberg,HE - DEU,,Private Call,None
 ,2631491,DO2CHA,Christian,Hannappel,Duisburg,NW - DEU,,Private Call,None
@@ -15189,18 +15193,18 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631494,DO3MC,Marco,Cordonnier,Ober-Floersheim,RP - DEU,,Private Call,None
 ,2631495,DO7BT,Bernd,Salewski,Neustadt,SH - DEU,,Private Call,None
 ,2631496,DL8SEO,Wolfgang,Weber,Aalen,BW - DEU,,Private Call,None
-,2631497,DL3LON,Detlef,Uherek,Magdeburg,ST - DEU,,Private Call,None
+,2631497,DL3LON,Detlef Horst,Uherek,Magdeburg,ST - DEU,,Private Call,None
 ,2631498,DO3BN,Nils,Bredenkoetter,Hilgert,RP - DEU,,Private Call,None
 ,2631499,DB6SH,Jochen,Rein,Leinfelden-Echterdingen,BW - DEU,,Private Call,None
 ,2631500,DO8RG,Roland,Gasse,Frankenberg,HE - DEU,,Private Call,None
 ,2631501,DO7BKR,Marius,Petry,Bad Kreuznach,RP - DEU,,Private Call,None
-,2631502,DL1KKS,Alexander,Krosch,Huertgenwald,NW - DEU,,Private Call,None
+,2631502,DL1KKS,Alexander Sascha,Krosch,Huertgenwald,NW - DEU,,Private Call,None
 ,2631503,DF9DH,Uwe,Holcher,Herzogenrath,NW - DEU,,Private Call,None
-,2631504,DO7OMB,Oli,Baumann,Kropp,SH - DEU,,Private Call,None
+,2631504,DO7OMB,Oliver Mark,Baumann,Kropp,SH - DEU,,Private Call,None
 ,2631505,DO7MES,Matthias,Ellerbrock,Suedbrookmerland,NI - DEU,,Private Call,None
 ,2631506,DO7PKB,Patrick,Kessler,Berlin,BE - DEU,,Private Call,None
 ,2631507,DL2GJK,Joachim,Kiese,Rheinfelden,BW - DEU,,Private Call,None
-,2631508,DB9AA,Ralf Rainer,Ratke,Salzgitter,NI - DEU,,Private Call,None
+,2631508,DB9AA,Ralf-Rainer,Ratke,Salzgitter,NI - DEU,,Private Call,None
 ,2631509,DO9PST,Peter,Stoye,Berlin,BE - DEU,,Private Call,None
 ,2631510,DB9PD,Peter,Daute,Frankfurt,HE - DEU,,Private Call,None
 ,2631511,DO1JAR,Jaroslaw,Swiderski,Braunschweig,NI - DEU,,Private Call,None
@@ -15209,7 +15213,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631514,DO2LRD,Regina,Dreschke,Schwarzenbek,SH - DEU,,Private Call,None
 ,2631515,DH2OAF,Jochen,Metzner,Goettingen,NI - DEU,,Private Call,None
 ,2631516,DO2HKR,Kristian,Hentschel,Hamburg,HH - DEU,,Private Call,None
-,2631517,DK2MY,Hans,Wassener,Heilbronn,BW - DEU,,Private Call,None
+,2631517,DK2MY,,Hans Joachim Wassener,Heilbronn,BW - DEU,,Private Call,None
 ,2631518,DG2FDP,Heiko,Scheja,Eschborn,HE - DEU,,Private Call,None
 ,2631519,DB3MG,Markus,Gerwers,Heiden,NW - DEU,,Private Call,None
 ,2631520,DO7DLC,Felix,Lenz,Taunusstein,HE - DEU,,Private Call,None
@@ -15220,20 +15224,34 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631525,DF4ND,Klaus,Doerr,Markt Erlbach,BY - DEU,,Private Call,None
 ,2631526,DO1BOK,Boris Otto,Koester,Lennestadt,NW - DEU,,Private Call,None
 ,2631527,DL7ORP,Olaf,Rollwagen,Pinneberg,SH - DEU,,Private Call,None
-,2631528,DK2SP,Stefan,Pulver,Neuried,BY - DEU,,Private Call,None
-,2631529,DK2TN,Thomas,Neufeld,Aerzen,NI - DEU,,Private Call,None
-,2631530,DO7PL,Tomasz,Baran,Ingelheim am Rhein,RP - DEU,,Private Call,None
-,2631531,DO2MMJ,Mario,Jeschke,Langenlonsheim,RP - DEU,,Private Call,None
+,2631528,DK2SP,Stefan Franz Werner,Pulver,Neuried,BY - DEU,,Private Call,None
+,2631529,DK2TN,Thomas Klaus Kurt,Neufeld,Aerzen,NI - DEU,,Private Call,None
+,2631530,DO7PL,Tomasz Bartlomiej,Baran,Ingelheim am Rhein,RP - DEU,,Private Call,None
+,2631531,DO2MMJ,Mario Mike,Jeschke,Langenlonsheim,RP - DEU,,Private Call,None
 ,2631532,DG1MJG,Thomas,Schmidt,Kaufbeuren,BY - DEU,,Private Call,None
 ,2631533,DL1HWB,Hans-Willi,Broch,Grefrath,NW - DEU,,Private Call,None
-,2631534,DF0PC,Clubst.,Radioscouts Radioyouth Sh,Kiel,SH - DEU,,Private Call,None
+,2631534,DF0PC,ClubSt.,,Kiel,SH - DEU,,Private Call,None
 ,2631535,DO8TG,Tim,Grondstein,Rodenberg,NI - DEU,,Private Call,None
 ,2631536,DL2LC,Heinz P,Beifuss,Bad Kreuznach,RP - DEU,,Private Call,None
 ,2631537,DO1TFK,Erhard,Kleinsteuber,Magdeburg,ST - DEU,,Private Call,None
 ,2631538,DG4GMT,Matthias,Terstiege,Freiburg,BW - DEU,,Private Call,None
-,2631539,DO5RX,Roger,Seitz,Aschaffenburg,BY - DEU,,Private Call,None
+,2631539,DO5RX,Roger Claus,Seitz,Aschaffenburg,BY - DEU,,Private Call,None
 ,2631540,DO1HAL,Haldun,Cali,Braunschweig,NI - DEU,,Private Call,None
 ,2631541,DO7GP,Torsten,Hajek,Heilbronn,BW - DEU,,Private Call,None
+,2631542,DO7RBA,Arne,Wiesenmayer,Heilbronn,BW - DEU,,Private Call,None
+,2631543,DJ6MC,Michael,Cremer,Lippstadt,NW - DEU,,Private Call,None
+,2631544,DG0OLF,Christoph,Noack,Schwieberdingen,BW - DEU,,Private Call,None
+,2631545,DC9XX,Josef,Faus,Drochtersen,NI - DEU,,Private Call,None
+,2631546,DO1LBF,Baerbel,Fink,Luebeck,SH - DEU,,Private Call,None
+,2631547,DL2SUS,Ronny,Patzlaff,Sternberg,MV - DEU,,Private Call,None
+,2631548,DH2KAY,Rolf,Bestgen,Koenigswinter-Thomasberg,NW - DEU,,Private Call,None
+,2631549,DO8BG,Boris,Gabel,Berlin,BE - DEU,,Private Call,None
+,2631550,DO6WP,Peter,Weskamp,Bad Driburg,NW - DEU,,Private Call,None
+,2631551,DO1DIR,Claus-Dieter,Ickler,Idstein,HE - DEU,,Private Call,None
+,2631552,DH2PAB,Holger,Wetzel,Bremen,HB - DEU,,Private Call,None
+,2631553,DL8MI,Andreas,Wendtland,Schwabach,BY - DEU,,Private Call,None
+,2631554,DO8MMH,Marc,Rudorfer,Kreuzwertheim,BY - DEU,,Private Call,None
+,2631555,DO7MML,Markus,Liepold,Ingolstadt,BY - DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,Wich,Hann. Muenden,NI - DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,Bastian,Vechelde,NI - DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,Schucht,Norden,NI - DEU,,Private Call,None
@@ -16001,7 +16019,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2634084,DF9CA,Gerhard,Dieter Haeckel,Paderborn,NW - DEU,,Private Call,None
 ,2634085,DO7MOG,Ralph,Roessler,Haan,NW - DEU,,Private Call,None
 ,2634086,DF6KS,Frank,Dehmer,Krefeld,NW - DEU,,Private Call,None
-,2634087,DO1BBK,Bastian,Kueppers,Pulheim,NW - DEU,,Private Call,None
+,2634087,DO1BBK,Bastian Benjamin,Kueppers,Pulheim,NW - DEU,,Private Call,None
 ,2634088,DG7KAQ,Manfred,Bolder,Kreuzau,NW - DEU,,Private Call,None
 ,2634089,DJ7KX,Arno,Strathmann,Frechen,NW - DEU,,Private Call,None
 ,2634090,DH8KAM,Ingo,Lueck,Bergheim,NW - DEU,,Private Call,None
