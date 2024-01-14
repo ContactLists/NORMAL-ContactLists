@@ -3363,6 +3363,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081498,F4ANS,F4ANS Barrau,,Cergy, - FRA,,Private Call,None
 ,2081499,F4JDS,F4JDS Remy,Pluche,Abainville,Grand Est - FRA,,Private Call,None
 ,2081500,F4LIE,F4LIE Olivier,Tanguy,ERGUE GABERIC,Bretagne - FRA,,Private Call,None
+,2081501,F1PLI,F1PLI Damien,Billon,Rennes,Bretagne - FRA,,Private Call,None
+,2081502,F1IWC,F1IWC Jean Claude,Bajoux,Centre Val De Loire,Centre Val de Loire - FRA,,Private Call,None
+,2081503,F8BLS,F8BLS Alain,Sellier,Neuville Les Dieppe,Normandie - FRA,,Private Call,None
+,2081504,F4JUP,F4JUP Alex,Tchoulanowsky,Duclair,Normandie - FRA,,Private Call,None
 ,2081777,F4JBM,F4JBM Francois,,Saint-Cloud, - FRA,,Private Call,None
 ,2082001,F4FUL,F4FUL Cyril,Teitler,Sciez,Rhone-Alpes - FRA,,Private Call,None
 ,2082002,F5VIN,F5VIN Heiko,Damerau,Thoiry,Rhone-Alpes - FRA,,Private Call,None
@@ -5147,6 +5151,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280320,HB9HSA,HB9HSA Eliano,Catelli,Gordola,Ticino - CHE,,Private Call,None
 ,2280321,HB9IJK,HB9IJK Simone,Edera,Cugnasco,Ticino - CHE,,Private Call,None
 ,2280322,HB9SJP,HB9SJP Ernst,Storrer,San Vero Milis,Zurich - CHE,,Private Call,None
+,2280323,HB3XGO,HB3XGO Yvan,Strummiello,Geneva,Geneva - CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -8879,7 +8884,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022185,VA2VAZ,VA2VAZ Jean,Matzaras,Montreal,Quebec - CAN,,Private Call,None
 ,3022186,VE2ITX,VE2ITX Rolf,Paulussen,Montreal,Quebec - CAN,,Private Call,None
 ,3022187,VE2GTR,VE2GTR Anthony,Stergiotis,Montreal,Quebec - CAN,,Private Call,None
-,3022188,VE2TBC,VE2TBC Patrice,Cote,Boucherville,Quebec - CAN,,Private Call,None
 ,3022189,VE2JLM,VE2JLM J.-Luc,Methe,Saint-Hyacinthe,Quebec - CAN,,Private Call,None
 ,3022190,VA2REQ,VA2REQ Adam,Rene,Joliette,Quebec - CAN,,Private Call,None
 ,3022191,VA2RJF,VA2RJF Jean-Francois,Marion,Joliette,Quebec - CAN,,Private Call,None
@@ -8905,7 +8909,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022211,VA2IR,VA2IR Ian,Rosen,Laval,Quebec - CAN,,Private Call,None
 ,3022212,VE2KE,VE2KE Robert,Massicotte,Drummondville,Quebec - CAN,,Private Call,None
 ,3022213,VE2LPI,VE2LPI Louis-Pierre,Morin,Laval,Quebec - CAN,,Private Call,None
-,3022214,VE2TBC,VE2TBC Patrice,Cote,Boucherville,Quebec - CAN,,Private Call,None
 ,3022215,VE2BTZ,VE2BTZ Robert,Robillard,Saint_constant,Quebec - CAN,,Private Call,None
 ,3022216,VA2SUP,VA2SUP Daniel,Goodale,Beaconsfield,Quebec - CAN,,Private Call,None
 ,3022217,VE2UQ,VE2UQ Alain,Campbell,Monreal,Quebec - CAN,,Private Call,None
@@ -12213,6 +12216,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025552,VE7WRS,VE7WRS Walter Robert,Salden,Kamloops,British Columbia - CAN,,Private Call,None
 ,3025553,VA7UY,VA7UY Paul,Sperandeo,Mission,British Columbia - CAN,,Private Call,None
 ,3025554,VA7WWX,VA7WWX Bertram,Harrison,Brentwood Bay,British Columbia - CAN,,Private Call,None
+,3025555,VA3DTG,VA3DTG Dwight,Thompson,Tillsonburg,Ontario - CAN,,Private Call,None
+,3025556,VE3ISO,VE3ISO Rodney L,Clifton,Burlington,Ontario - CAN,,Private Call,None
+,3025557,VE3DED,VE3DED Thomas Charles,Dowswell,Parry Sound,Ontario - CAN,,Private Call,None
+,3025558,VE4WK,VE4WK Witold Maciej,Kinsner,Winnipeg,Manitoba - CAN,,Private Call,None
+,3025559,VE7WNL,VE7WNL William,Loe,Fort St John,British Columbia - CAN,,Private Call,None
+,3025560,VE2MJP,VE2MJP Marc,Porlier,Boucherville,Quebec - CAN,,Private Call,None
+,3025561,VE6XTC,VE6XTC Bruce Ronald,Atchison,Radway,Alberta - CAN,,Private Call,None
+,3025562,VE6TVE,VE6TVE James,Egleston,Leduc,Alberta - CAN,,Private Call,None
+,3025563,VY2MJ,VY2MJ Michael,Poczynek,Charlottetown,Prince Edward Island - CAN,,Private Call,None
+,3025564,VE7NNO,VE7NNO Michael,Robinson,Kelowna,British Columbia - CAN,,Private Call,None
 ,3026001,VA6IP,VA6IP Kiernan,Burr,Edmonton,Alberta - CAN,,Private Call,None
 ,3026002,VE6GG,VE6GG Kerry,Atkinson,Edmonton,Alberta - CAN,,Private Call,None
 ,3026003,VE6GG,VE6GG Kerry,Atkinson,Edmonton,Alberta - CAN,,Private Call,None
