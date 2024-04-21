@@ -332,6 +332,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280331,HB3YDA,Stefano,Levandovsky,Minusio,Ticino,CHE,DMR
 2280332,HB9HWH,Roger,Schoenthal,3004 Bern,Bern,CHE,DMR
 2280333,HB9TWG,Beat,Leuenberger,Langenthal,Bern,CHE,DMR
+2280334,HB9ZEU,Erwin,Brand,None,Zurich,CHE,DMR
+2280335,HB3YEA,Michael,Meierhofer,Spreitenbach,Aargau,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -2581,6 +2583,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320672,OE3JFS,Josef,Fasching,Kottes-Purk,NOE,AUT,DMR
 2320673,OE1PHH,Phillip,,Wien,WIEN,AUT,DMR
 2320674,OE4BAM,Mathias,Regner,Horitschon,BGLD,AUT,DMR
+2320675,OE6UKN,Marcel,Walk,Leoben,KTN,AUT,DMR
+2320676,OE3WRP,Wolfgang,Riedl,Traismauer,NOE,AUT,DMR
 2321001,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
 2321002,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
 2321003,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
@@ -8225,6 +8229,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2624248,DK3QE,Joerg,Leppert,no_city,NW,DEU,DMR
 2624249,DJ3FK,Frank,Kossidowski,no_city,NW,DEU,DMR
 2624250,DO7AF,Friedhelm,Ackermann,Iserlohn,NW,DEU,DMR
+2624251,DL6QL,Wolfgang,Eichler,Espelkamp,NW,DEU,DMR
 2624252,DG4DET,Detmar,Mueller,Loehne,NW,DEU,DMR
 2624253,DG4FR,Frank,Reinhardt,Hattingen,NW,DEU,DMR
 2624254,DK0PRL,ClubSt.,,Dortmund,NW,DEU,DMR
@@ -13063,6 +13068,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629350,DL1DTG,Karl,Grosche,Wilthen,SN,DEU,DMR
 2629351,DL2JLB,Lothar,Brade,Chemnitz,SN,DEU,DMR
 2629352,DK1RT,Bernd,Viehrig,Postelwitz I. Bad Schandau,SN,DEU,DMR
+2629353,DO5COL,Thomas,Crocoll,Langebrueck,SN,DEU,DMR
 2629354,DL1LSH,Hannes,Haase,Geithain,SN,DEU,DMR
 2629355,DG1FI,Mario,Wesolek,Finsterwalde,BB,DEU,DMR
 2629356,DF1ASG,Norbert,Reinhardt,Ilmenau /Ot Oberpoerlitz,TH,DEU,DMR
@@ -15636,6 +15642,39 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631981,DG0AM,Hilmar,Korn,Rennsteig,TH,DEU,DMR
 2631982,DL8BC,Bayram,Koese,Bochum,NW,DEU,DMR
 2631983,DL5JN,Joerg,Neelen,Salzdetfurth,NI,DEU,DMR
+2631984,DO3ET,Georg Sorin,Hoffmann,Sankt Augustin,NW,DEU,DMR
+2631985,DO8CE,Christian,Engbrocks,Herten,NW,DEU,DMR
+2631986,DO1LMI,Linus Maria,Imsieke,Neuenkirchen-Voerden,NI,DEU,DMR
+2631987,DO6ELA,Michaela,Stegmayer,Frankfurt am Main,HE,DEU,DMR
+2631988,DO9SCH,Claus,Schumacher,Hennef,NW,DEU,DMR
+2631989,DO7CDF,Carlos,Duchilio,Freiburg,BW,DEU,DMR
+2631990,DO8TLJ,Timo,Ludwig,Erlenbach am Main,BY,DEU,DMR
+2631991,DL2RWK,Ralf,Kornmesser,Wegberg,NW,DEU,DMR
+2631992,DO7CDF,Carlos,Duchilio,Freiburg,BW,DEU,DMR
+2631993,DO8MH,Markus,Huelskamp,Boesel,NI,DEU,DMR
+2631994,DO1VD,Peter,Daus,Wittlich,RP,DEU,DMR
+2631995,DN7WAT,Frank,Schroeder,Bochum,NW,DEU,DMR
+2631996,DL9PD,Daniel,Post,Hamm,NW,DEU,DMR
+2631997,DJ2TH,Torben,Hahlbeck,Hassmoor,SH,DEU,DMR
+2631998,DO4MPL,Michael,Plueghan,Hamburg,HH,DEU,DMR
+2631999,DL1PRA,Paul,Prasch,Schorndorf,BY,DEU,DMR
+2632000,DH1NFJ,Jochen,Faerber,Ludwigsstadt,BY,DEU,DMR
+2632001,DO1RW,Willi,Rauschenberg,Kaarst,NW,DEU,DMR
+2632002,DO7STP,Kay,Muennich,Froendenberg,NW,DEU,DMR
+2632003,DH8JP,Jens,Poggenklas,Guetersloh,NW,DEU,DMR
+2632004,DF6TG,Thomas,Kugelmann,Oberstdorf,BY,DEU,DMR
+2632005,DM3DP,Markus Dirk,Pullmann,Bergisch Gladbach,NW,DEU,DMR
+2632006,DO2PAC,Andreas Paul,Kruppa,Bueckeburg,NI,DEU,DMR
+2632007,DO9TJG,Tim Jonathan,Grelka,Bayreuth,BY,DEU,DMR
+2632008,DO3BD,Claudia,Behrens,Barsinghausen,NI,DEU,DMR
+2632009,DO3SKH,Sven,Knauff,Harsefeld,NI,DEU,DMR
+2632010,DO4HSV,Helmut,Schley,Viersen,NW,DEU,DMR
+2632011,DD0RW,Karl,Wuerfl,Thalmassing,BY,DEU,DMR
+2632012,DL9TG,Thomas,Grunenberg,Kleve,NW,DEU,DMR
+2632013,DO2KI,Kai,Sievert,Celle,NI,DEU,DMR
+2632014,DO1SJU,Juergen,Sotrop,Muenchen,BY,DEU,DMR
+2632015,DK2FST,Fritz,Stracke,Aachen,NW,DEU,DMR
+2632016,DB6VO,Anton,Mueller,Tholey,SL,DEU,DMR
 2633001,DG4AK,Dietmar,Wich,Hann. Muenden,NI,DEU,DMR
 2633002,DH8AAA,Oliver,Bastian,Vechelde,NI,DEU,DMR
 2633003,DC6BV,Reinhardt,Schucht,Norden,NI,DEU,DMR

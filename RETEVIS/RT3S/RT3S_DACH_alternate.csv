@@ -331,6 +331,8 @@
 2280331,HB3YDA Stefano ,Stefano Levandovsky      Minusio                 Ticino                  CHE
 2280332,HB9HWH Roger   ,Roger Schoenthal         3004 Bern               Bern                    CHE
 2280333,HB9TWG Beat    ,Beat Leuenberger         Langenthal              Bern                    CHE
+2280334,HB9ZEU Erwin   ,Erwin Brand              None                    Zurich                  CHE
+2280335,HB3YEA Michael ,Michael Meierhofer       Spreitenbach            Aargau                  CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -2580,6 +2582,8 @@
 2320672,OE3JFS Josef   ,Josef Fasching           Kottes-Purk             NOE                     AUT
 2320673,OE1PHH Phillip ,Phillip                  Wien                    WIEN                    AUT
 2320674,OE4BAM Mathias ,Mathias Regner           Horitschon              BGLD                    AUT
+2320675,OE6UKN Marcel  ,Marcel Walk              Leoben                  KTN                     AUT
+2320676,OE3WRP Wolfgang,Wolfgang Riedl           Traismauer              NOE                     AUT
 2321001,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
 2321002,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
 2321003,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
@@ -8224,6 +8228,7 @@
 2624248,DK3QE Joerg    ,Joerg Leppert            no_city                 NW                      DEU
 2624249,DJ3FK Frank    ,Frank Kossidowski        no_city                 NW                      DEU
 2624250,DO7AF Friedhelm,Friedhelm Ackermann      Iserlohn                NW                      DEU
+2624251,DL6QL Wolfgang ,Wolfgang Eichler         Espelkamp               NW                      DEU
 2624252,DG4DET Detmar  ,Detmar Mueller           Loehne                  NW                      DEU
 2624253,DG4FR Frank    ,Frank Reinhardt          Hattingen               NW                      DEU
 2624254,DK0PRL ClubSt. ,ClubSt.                  Dortmund                NW                      DEU
@@ -13062,6 +13067,7 @@
 2629350,DL1DTG Karl    ,Karl Grosche             Wilthen                 SN                      DEU
 2629351,DL2JLB Lothar  ,Lothar Brade             Chemnitz                SN                      DEU
 2629352,DK1RT Bernd    ,Bernd Viehrig            Postelwitz I. Bad Schan SN                      DEU
+2629353,DO5COL Thomas  ,Thomas Crocoll           Langebrueck             SN                      DEU
 2629354,DL1LSH Hannes  ,Hannes Haase             Geithain                SN                      DEU
 2629355,DG1FI Mario    ,Mario Wesolek            Finsterwalde            BB                      DEU
 2629356,DF1ASG Norbert ,Norbert Reinhardt        Ilmenau /Ot Oberpoerlit TH                      DEU
@@ -15635,6 +15641,39 @@
 2631981,DG0AM Hilmar   ,Hilmar Korn              Rennsteig               TH                      DEU
 2631982,DL8BC Bayram   ,Bayram Koese             Bochum                  NW                      DEU
 2631983,DL5JN Joerg    ,Joerg Neelen             Salzdetfurth            NI                      DEU
+2631984,DO3ET Georg Sor,Georg Sorin Hoffmann     Sankt Augustin          NW                      DEU
+2631985,DO8CE Christian,Christian Engbrocks      Herten                  NW                      DEU
+2631986,DO1LMI Linus Ma,Linus Maria Imsieke      Neuenkirchen-Voerden    NI                      DEU
+2631987,DO6ELA Michaela,Michaela Stegmayer       Frankfurt am Main       HE                      DEU
+2631988,DO9SCH Claus   ,Claus Schumacher         Hennef                  NW                      DEU
+2631989,DO7CDF Carlos  ,Carlos Duchilio          Freiburg                BW                      DEU
+2631990,DO8TLJ Timo    ,Timo Ludwig              Erlenbach am Main       BY                      DEU
+2631991,DL2RWK Ralf    ,Ralf Kornmesser          Wegberg                 NW                      DEU
+2631992,DO7CDF Carlos  ,Carlos Duchilio          Freiburg                BW                      DEU
+2631993,DO8MH Markus   ,Markus Huelskamp         Boesel                  NI                      DEU
+2631994,DO1VD Peter    ,Peter Daus               Wittlich                RP                      DEU
+2631995,DN7WAT Frank   ,Frank Schroeder          Bochum                  NW                      DEU
+2631996,DL9PD Daniel   ,Daniel Post              Hamm                    NW                      DEU
+2631997,DJ2TH Torben   ,Torben Hahlbeck          Hassmoor                SH                      DEU
+2631998,DO4MPL Michael ,Michael Plueghan         Hamburg                 HH                      DEU
+2631999,DL1PRA Paul    ,Paul Prasch              Schorndorf              BY                      DEU
+2632000,DH1NFJ Jochen  ,Jochen Faerber           Ludwigsstadt            BY                      DEU
+2632001,DO1RW Willi    ,Willi Rauschenberg       Kaarst                  NW                      DEU
+2632002,DO7STP Kay     ,Kay Muennich             Froendenberg            NW                      DEU
+2632003,DH8JP Jens     ,Jens Poggenklas          Guetersloh              NW                      DEU
+2632004,DF6TG Thomas   ,Thomas Kugelmann         Oberstdorf              BY                      DEU
+2632005,DM3DP Markus Di,Markus Dirk Pullmann     Bergisch Gladbach       NW                      DEU
+2632006,DO2PAC Andreas ,Andreas Paul Kruppa      Bueckeburg              NI                      DEU
+2632007,DO9TJG Tim Jona,Tim Jonathan Grelka      Bayreuth                BY                      DEU
+2632008,DO3BD Claudia  ,Claudia Behrens          Barsinghausen           NI                      DEU
+2632009,DO3SKH Sven    ,Sven Knauff              Harsefeld               NI                      DEU
+2632010,DO4HSV Helmut  ,Helmut Schley            Viersen                 NW                      DEU
+2632011,DD0RW Karl     ,Karl Wuerfl              Thalmassing             BY                      DEU
+2632012,DL9TG Thomas   ,Thomas Grunenberg        Kleve                   NW                      DEU
+2632013,DO2KI Kai      ,Kai Sievert              Celle                   NI                      DEU
+2632014,DO1SJU Juergen ,Juergen Sotrop           Muenchen                BY                      DEU
+2632015,DK2FST Fritz   ,Fritz Stracke            Aachen                  NW                      DEU
+2632016,DB6VO Anton    ,Anton Mueller            Tholey                  SL                      DEU
 2633001,DG4AK Dietmar  ,Dietmar Wich             Hann. Muenden           NI                      DEU
 2633002,DH8AAA Oliver  ,Oliver Bastian           Vechelde                NI                      DEU
 2633003,DC6BV Reinhardt,Reinhardt Schucht        Norden                  NI                      DEU
