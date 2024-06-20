@@ -1811,7 +1811,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2068043,ON2KRJ,Jean-Claude,Roche,Flemalle,Liege,BEL,DMR
 2068044,ON3CA,Adrien,Coucke,Boncelles,Liege,BEL,DMR
 2068045,ON2KJM,Jean-Paul,Majdzik,Verviers,Liege,BEL,DMR
-2068046,ON6DP,Paul,Delmelle,Neupre,Liege,BEL,DMR
+2068046,OP0P,Paul,,Neupre,Liege,BEL,DMR
 2068047,ON3HMT,Martial,Henriette,Luik,Liege,BEL,DMR
 2068048,ON4EZJ,Peter,Kohl,Kelmis,Liege,BEL,DMR
 2068049,ON4IJ,Jean-Francois,Flamee,Montegnee,Liege,BEL,DMR
@@ -3427,7 +3427,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081531,F4JHX,Claude,Radix,Vernou En Sologne,Centre Val de Loire,FRA,DMR
 2081532,F4LJG,Jean Claude,Sicre,Hasparren,Nouvelle Aquitaine,FRA,DMR
 2081533,F4LLF,Negri,,PARIS,,FRA,DMR
-2081534,F0DWP,Erik,Vrecko,70140 Pesmes,,FRA,DMR
+2081534,F0DWP,Erik,Vrecko,Pesmes,,FRA,DMR
 2081535,F4JYW,Eric,Drapier,Dives,Hauts de France,FRA,DMR
 2081536,F4JOJ,Patrick,Arsac,no_city,,FRA,DMR
 2081537,F4HMG,Alain,Meunier,Mimizan,Nouvelle Aquitaine,FRA,DMR
@@ -3495,6 +3495,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081599,F4LNE,Luc,Jorge,Hoenheim,Alsace,FRA,DMR
 2081777,F4JBM,Francois,,Saint-Cloud,,FRA,DMR
 2081778,F1UFW,Saletzki,Sebastien,Aussonne,Occitanie,FRA,DMR
+2081779,F4JJQ,Pierre,Baussart,Bailleul Sir Berthoult,Hauts De France,FRA,DMR
+2081780,F6GNY,Guy,Renaud,Nantes,,FRA,DMR
+2081781,F4LVK,,Casteran,La Roche Sur,,FRA,DMR
 2082001,F4FUL,Cyril,Teitler,Sciez,Rhone-Alpes,FRA,DMR
 2082002,F5VIN,Heiko,Damerau,Thoiry,Rhone-Alpes,FRA,DMR
 2082003,F1AGU,Charles-Henri,Sap,Aillon Le Vieux,No_regio,FRA,DMR
@@ -4096,7 +4099,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2086001,F5DZZ,Albert,Capdecomme,Soustons,No_regio,FRA,DMR
 2086002,F5JGK,Regin,Thierry,Lescar,Aquitaine,FRA,DMR
 2086003,F5NSL,Eric,Tiffon,Bruges,Aquitaine,FRA,DMR
-2086004,F4BQH,Philippe,Lalot,Marsac Sur Lisle,Aquitaine,FRA,DMR
+2086004,F4BQH,Philippe,Nonelalot,Marsac Sur Lisle,Nouvelle Aquitaine,FRA,DMR
 2086005,F6FOH,Michel,Dumont,Lhoumeau,Aquitaine,FRA,DMR
 2086006,F1SEN,Alain,Fillon,Croix Chapeau,Aquitaine,FRA,DMR
 2086007,F5JIX,Gerard,Vergnes,Mourenx,Aquitaine,FRA,DMR
@@ -5299,7 +5302,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280341,HB3XAJ,Christophe,Moret,Choex,Valais,CHE,DMR
 2280342,HB3YGE,Fontaine,,Les Montets,Fribourg,CHE,DMR
 2280343,HB3YOZ,Stefan,Curiger,Amlikon  Bissegg,Thurgau,CHE,DMR
-2280344,HB3YGL,Marc,Zihlmann,8645 Jona,St Gallen,CHE,DMR
+2280344,HB3YGL,Marc,Zmann,Jona,St Gallen,CHE,DMR
+2280345,HB9DNK,Ralph,Harvey,,Lucerne,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -7595,7 +7599,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3020731,VE2BTB,Pierre,Lacroix,Saint-Hyacinthe,Quebec,CAN,DMR
 3020732,VE3NJW,William,Macpherson,Kanata,On,CAN,DMR
 3020733,VE3RD,Phil,Thompson,Grimsby,On,CAN,DMR
-3020734,VE1JSO,Gerald,Osborn,Plympton,Ns,CAN,DMR
+3020734,VE1JSO,Gerald,Osborn,Hamilton,Ontario,CAN,DMR
 3020735,VA2OJP,Jean-Philippe,,Gatineau,Qc,CAN,DMR
 3020736,VA7JSF,Jim,Flowers,W Vancouver,British Columbia,CAN,DMR
 3020737,VA1LUN,Echolink,Swinimer,Western Shore,Ns,CAN,DMR
@@ -12556,6 +12560,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025752,VA7BXR,Rebecca Jane Grace,Gravonic,Saanichton,British Columbia,CAN,DMR
 3025753,VE7BVV,David,Charnock,Castlegar,British Columbia,CAN,DMR
 3025754,VA7EFV,Eddy,Vandermeer,Abbotsford,British Columbia,CAN,DMR
+3025755,VE3HZR,Steven,Haiser,Kitchener,Ontario,CAN,DMR
+3025756,VE4EVN,Evan,Harriott,Winnipeg,Manitoba,CAN,DMR
+3025757,VE2ZCL,Charles,Langevin,Pincourt,Quebec,CAN,DMR
+3025758,VA2CNB,Nicole,Boudreault,Notre Dame Des Monts,Quebec,CAN,DMR
+3025759,VE3UWY,Peter,Laws,Hawkesbury,Ontario,CAN,DMR
+3025760,VE2DLM,Rejean,Michaud,Saint Romuald,Quebec,CAN,DMR
+3025761,VA3DVW,David,Williams,Barrie,Ontario,CAN,DMR
+3025762,VE9GIS,Misha,Leblanc,Moncton,New Brunswick,CAN,DMR
+3025763,VE3SQX,Dante,Mclean,Oshawa,Ontario,CAN,DMR
 3026001,VA6IP,Kiernan,Burr,Edmonton,Alberta,CAN,DMR
 3026002,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
 3026003,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
