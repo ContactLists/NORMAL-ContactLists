@@ -16,11 +16,11 @@ The countries are:
 
 The file name of the RAR files is composed as follows:
 
-Example: RT90_DACH_alternate_202004100912.rar
+Example: RT90_DACH_alternate_202406241025.rar
 - RT73_			=	Device
 - WW_			=	Worldwide
 - SMALL_		=	all other Countries
-- 202004100912	=	Creation date (YYYYMMDDhhnn)
+- 202406241025	=	Creation date (YYYYMMDDhhnn)
 
 
 The file name of the CSV files is composed as follows:
