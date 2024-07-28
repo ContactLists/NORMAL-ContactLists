@@ -834,6 +834,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060695,ON1MS,Michel Sofia,Michel,4897 Stoumont,Liege,BEL
 2060696,OT2T,Marc Haverals,Marc,Veurne,West Vlaanderen,BEL
 2060697,ON5DGP,Redgy Decuyper,Redgy,Ertvelde,Oost Vlaanderen,BEL
+2060698,ON6TI,Stefan Dombrowski,Stefan,Brussels,Brussels,BEL
+2060699,ON1BJS,Jean Vanrapenbusch,Jean,Oostendee,West Vlaanderen,BEL
+2060700,ON8JVC,Jeroen Van Camp,Jeroen,2990 Wuustwezel,Antwerp,BEL
+2060701,ON4LDZ,Daniel Verschueren,Daniel,Hannut,Liege,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -1293,7 +1297,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2062148,ON3RUD,Rudi Kneissler,Rudi,Viesville,No_regio,BEL
 2062149,ON4ADE,Erwin Dols,Erwin,Meer,No_regio,BEL
 2062150,ON5PER,Peri Stampoglis,Peri,Antwerpen,Antwerp,BEL
-2062151,ON3RS,Regi,Regi,Turnhout,No_regio,BEL
+2062151,ON3RS,Regi,Regi,Antwerp,Antwerp,BEL
 2062152,ON6GJO,Geert Jordaens,Geert,Zoersel,Ant,BEL
 2062153,ON4MX,Erik Vertenten,Erik,Berchem,Ant,BEL
 2062154,ON9DJ,Dieter Jacobs,Dieter,Mortsel,No_regio,BEL
@@ -2506,7 +2510,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080595,F4HJY,Denis Noel,Denis,Nieul Le Dolent,No_regio,FRA
 2080596,F4IRC,Nicolas Froger,Nicolas,Sartrouville,No_regio,FRA
 2080597,F5URG,Marcel Camels,Marcel,Plaisance Du Touch,Midi-Pyrnes,FRA
-2080598,F4INI,Ludo,Ludo,Le Burgaud,No_regio,FRA
+2080598,F4INI,Ludo,Ludo,Le Burgaud,,FRA
 2080599,F4ISE,Nicolas,Nicolas,Sassenage,No_regio,FRA
 2080600,F4BHK,no_name,no_name,Drancy,No_regio,FRA
 2080601,F6JWU,Marmite21,Marmite21,Saint Nicolas Les Citeaux,No_regio,FRA
@@ -3525,6 +3529,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081783,F4LSD,Florent Adell,Florent,34400 Saturargues,Occitanie,FRA
 2081784,F4EYD,Raphael Radier,Raphael,Vence,,FRA
 2081785,F4LNI,Albert Durup,Albert,Saint Medard D Eyrans,Nouvelle Aquitaine,FRA
+2081786,F4LOJ,Alain Millet,Alain,Valderies,Occitanie,FRA
 2082001,F4FUL,Cyril Teitler,Cyril,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko Damerau,Heiko,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles-Henri Sap,Charles-Henri,Aillon Le Vieux,No_regio,FRA
@@ -5335,8 +5340,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280347,HB9DTC,Thomas Raemy,Thomas,3646 Einigen,Bern,CHE
 2280348,HB9IME,Roosembert Palacios,Roosembert,,Neuchatel,CHE
 2280349,HB9FDE,Fred,Fred,None,Valais,CHE
-2280350,HB9IIT,Werner Smith,Werner,Untervaz,Grigioni Grisons,CHE
+2280350,HB9IIT,Werner,Werner,Untervaz,Grigioni Grisons,CHE
 2280351,HB9IMH,Julio Andrade,Julio,St Margrethen,St Gallen,CHE
+2280352,HB9EVW,Ayar,Ayar,Spiegel B Bern,Bern,CHE
 2281001,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
@@ -12628,6 +12634,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025935,VA2KPA,Philippe Houle,Philippe,St Basile Le Grand,Quebec,CAN
 3025936,VE7HDR,Stuart,Stuart,Victoria,British Columbia,CAN
 3025937,VE3FD,Heribert Riesbeck,Heribert,Nepean,Ontario,CAN
+3025938,VE3TOK,Boudewijn Tenty,Boudewijn,Hamilton,Ontario,CAN
+3025939,VE7PPE,Peter Sprague,Peter,Victoria,British Columbia,CAN
+3025940,VE3JLR,Jeff Allan Chant,Jeff Allan,Pembroke,Ontario,CAN
 3026001,VA6IP,Kiernan Burr,Kiernan,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
@@ -12936,7 +12945,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3027085,VE7ADO,Donald Bain,Donald,Surrey,British Columbia,CAN
 3027086,VA7EBC,Ryan Sept,Ryan,White Rock,British Columbia,CAN
 3027087,VE7ZD,Kevin Mcquiggin,Kevin,Burnaby,British Columbia,CAN
-3027088,VA7OHN,Olaf Nilsson,Olaf,Vancouver,British Columbia,CAN
+3027088,VE6OHN,Olaf Herman Nilsson,Olaf Herman,Calgary,Alberta,CAN
 3027089,VA6RJ,Robert Joshua Spitz,Robert Joshua,,Alberta,CAN
 3027090,VA7CQ,Don Fraser,Don,Vancouver,British Columbia,CAN
 3027091,VA7DBI,Darcy Buskermolen,Darcy,Kelowna,British Columbia,CAN
