@@ -844,6 +844,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060706,ON2LG,Jean Moulinay,Jean,Flemalle,Liege,BEL
 2060707,ON3GRG,Geert Ritserveldt,Geert,Brakel,Oost Vlaanderen,BEL
 2060708,ON3MC,Micael Coatsaliou,Micael,Bersilles L Abbaye,Hainaut,BEL
+2060709,ON3BHV,Hubert Balon,Hubert,1470 Genappe Brabant Wallon,Wal Brabant,BEL
+2060710,ON2PH,Philippe Thiry,Philippe,Barvaux Sur Ourthe,Luxemburg,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -1416,7 +1418,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2063091,ON8PL,Patrick Lemli,Patrick,Rotselaar,Vlaams Brabant,BEL
 2063092,ON4CAU,Jose Llinares,Jose,Vilvoorde,Vlaams Brabant,BEL
 2063093,ON9CPM,Peter Moulaert,Peter,Leuven-Heverlee,No_regio,BEL
-2063094,ON3VU,Marc Vuylsteke,Marc,Halle,Vlaams Brabant,BEL
+2063094,ON3VU,Marc,Marc,Halle,,BEL
 2063095,ON5CAT,Anne-Marie,Anne-Marie,Wolvertem,Vlaams Brabant,BEL
 2063096,ON8GVT,Serge,Serge,Heverlee,Vlaams Brabant,BEL
 2063097,ON8JO,Jo Hooylaerts,Jo,Tienen,Vbr,BEL
@@ -2993,7 +2995,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081075,F6EXG,Roland Zucchini,Roland,Nice,Provence-Alpes-Cte D,FRA
 2081076,F4FUQ,Lionel Maturana,Lionel,Ceyreste,Provence-Alpes-Cte D,FRA
 2081077,F4HXL,Jeremie Nowak,Jeremie,Puget-Theniers,Provence-Alpes-Cte D,FRA
-2081078,F4EAN,Christian Cigala,Christian,Salon-De-Provence,Provence-Alpes-Cte D,FRA
+2081078,F4EAN,Chris,Chris,Salon De Provence,,FRA
 2081079,F4LNK,Andre Lefevre,Andre,Toulon,Provence-Alpes-Cte D,FRA
 2081080,F4AKJ,Pierre Fumagalli,Pierre,Six-Fours-Les-Plages,Provence-Alpes-Cte D,FRA
 2081081,F5HTS,Bernard Faivre,Bernard,Sanary-Sur-Mer,Provence-Alpes-Cte D,FRA
@@ -3547,6 +3549,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081793,F5RMN,Yvon Dubois,Yvon,Boulogne Sur,Hauts De France,FRA
 2081794,F4JJZ,Pierre Lengle,Pierre,Cambrai,Hauts De France,FRA
 2081795,F4LDJ,Herve Castel,Herve,Montagny Sainte Felicite,,FRA
+2081796,F6CDT,Michel Ternet,Michel,Maury,Occitanie,FRA
+2081797,F8FYB,Serge Pierru,Serge,Equihen Plage,Hauts De France,FRA
+2081798,F4JQY,Fred Cmbt,Fred,67610 La Wantzenau,Alsace,FRA
+2081799,F5RBB,Patrice Verveche,Patrice,Gimel Les Cascades,Nouvelle Aquitaine,FRA
 2082001,F4FUL,Cyril Teitler,Cyril,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko Damerau,Heiko,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles-Henri Sap,Charles-Henri,Aillon Le Vieux,No_regio,FRA
@@ -3969,7 +3975,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2084062,F6EQN,Michel Bellezit,Michel,Barr,Alsace,FRA
 2084063,F6BZG,Arnaud Vive,Arnaud,Strasbourg,Alsace,FRA
 2084064,F5KBB,Csad-Mgm Mutzig,Csad-Mgm,Mutzig,Alsace,FRA
-2084065,F8JWF,Patrick Gravez,Patrick,Rousies,Alsace,FRA
+2084065,F8JWF,Patrick Gravez,Patrick,Aulnoye Aymeries,Hauts De France,FRA
 2084066,F8ACB,Samuel Kallmeyer,Samuel,Altkirch,Alsace,FRA
 2084067,F1GWR,Christian Glace,Christian,Dachstein,Alsace,FRA
 2084068,F4HTP,Valentin Latzer,Valentin,Strasbourg,Alsace,FRA
@@ -7188,7 +7194,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3020252,VA2XZA,Jonathan Bastien-Filiatrault,Jonathan,L Ile-Perrot,Qc,CAN
 3020253,VE2NPR,Richard Petit,Richard,Laval,Qc,CAN
 3020254,VE7HLW,Herbert Wilson,Herbert,Nelson,Bc,CAN
-3020255,VE6MJK,Marlene Knopf,Marlene,Calgary,Ab,CAN
 3020256,VA2RIO,Rollande Descoteaux,Rollande,La Tuque,Qc,CAN
 3020257,VE7DCF,David Franklin,David,Chilliwack,Bc,CAN
 3020258,VA7DAC,David Cameron,David,Victoria,Bc,CAN
@@ -12675,6 +12680,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025950,VA3BVO,Dan Wentworth,Dan,Ottawa,Ontario,CAN
 3025951,VE2ZEZ,Guillaume Tessier,Guillaume,,Quebec,CAN
 3025952,VE5CSX,Carson Scarr,Carson,Saskatoon,Saskatchewan,CAN
+3025953,VE3PQC,Michael David Gardiner,Michael David,Beckwith,Ontario,CAN
+3025954,VE3NWD,Andrew Wilson,Andrew,Toronto,Ontario,CAN
+3025955,VA4SGT,Travis Powell,Travis,Brandon,Manitoba,CAN
+3025956,VA2SPG,Bouvette,,Trois Rivieres,Quebec,CAN
+3025957,VA3XDT,David Thompson,David,Coldwater,Ontario,CAN
+3025958,VA3RQS,Jeff Peter Devries,Jeff Peter,Cornwall,Ontario,CAN
+3025959,VA3XTZ,Robert Carman,Robert,Richmond Hill,Ontario,CAN
+3025960,VE2DJA,Daniel Jean,Daniel,Rimouski,Quebec,CAN
+3025961,VE4TNT,Robert Harwood,Robert,Erickson,Manitoba,CAN
+3025962,VA7JRC,John Rebagliati,John,Granisle,British Columbia,CAN
+3025963,VE9LEN,Leonard Cormier,Leonard,Shediac,New Brunswick,CAN
+3025964,VE7YEG,Michael Porisky,Michael,Surrey,British Columbia,CAN
 3026001,VA6IP,Kiernan Burr,Kiernan,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
@@ -12722,7 +12739,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3026046,VA6RC,Randy Campbell,Randy,Edmonton,Alberta,CAN
 3026047,VA6DS,John Stinson,John,Edmonton,Alberta,CAN
 3026048,VE6ACR,Jim Nelson,Jim,Grande Prairie,Alberta,CAN
-3026049,VE6VET,Paul Wager,Paul,Edmonton,Alberta,CAN
 3026050,VE6CPK,Dale Grant,Dale,Calgary,Alberta,CAN
 3026051,VA6RBC,Rommel Cantos,Rommel,Edmonton,Edmonton,CAN
 3026052,VE6HG,Chris Pankhurst,Chris,Cochrane,Alberta,CAN
@@ -12755,9 +12771,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3026081,VA6ZG,Jon Wright,Jon,Edmonton,Alberta,CAN
 3026082,VE6TDX,Adrian Burg,Adrian,Calgary,Alberta,CAN
 3026083,VA6BM,Robert Maclachlan,Robert,Calgary,Alberta,CAN
-3026084,VE6KBL,Leech Karen,Leech,Calgary,Alberta,CAN
 3026085,VA6AJA,Andrew Buckley,Andrew,Calgary,Alberta,CAN
-3026086,VE6BJN,Barbara Nelson,Barbara,Grande Prairie,Alberta,CAN
 3026087,VE6RLH,Wm. Harrison,Wm.,Edmonton,Alberta,CAN
 3026088,VE6DED,David Cason,David,Calgary,Alberta,CAN
 3026089,VE6YA,Shaun Moen,Shaun,Calgary,Alberta,CAN
@@ -12815,7 +12829,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3026144,VE6SKI,David Hughes,David,St Albert,Alberta,CAN
 3026145,VE6DHC,Dennis Chisholm,Dennis,Calgary,Alberta,CAN
 3026147,VA6UTC,Jason Cook,Jason,Fort Saskatchewan,Alberta,CAN
-3026148,VA6JN,James Nelson,James,Grande Prairie,Alberta,CAN
 3026150,VE6FUK,Brandon Hogg,Brandon,Edmonton,Alberta,CAN
 3026151,VE6MMM,Mark Johnson,Mark,Edmonton,Alberta,CAN
 3026152,VE6PPP,Robert Leece,Robert,Calgary,Alberta,CAN

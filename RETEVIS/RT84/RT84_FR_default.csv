@@ -843,6 +843,8 @@
 2060706,ON2LG,Jean,Flemalle,Liege,BEL
 2060707,ON3GRG,Geert,Brakel,Oost Vlaanderen,BEL
 2060708,ON3MC,Micael,Bersilles L Abbaye,Hainaut,BEL
+2060709,ON3BHV,Hubert,1470 Genappe Brabant Wallon,Wal Brabant,BEL
+2060710,ON2PH,Philippe,Barvaux Sur Ourthe,Luxemburg,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -1415,7 +1417,7 @@
 2063091,ON8PL,Patrick,Rotselaar,Vlaams Brabant,BEL
 2063092,ON4CAU,Jose,Vilvoorde,Vlaams Brabant,BEL
 2063093,ON9CPM,Peter,Leuven-Heverlee,No_regio,BEL
-2063094,ON3VU,Marc,Halle,Vlaams Brabant,BEL
+2063094,ON3VU,Marc,Halle,,BEL
 2063095,ON5CAT,Anne-Marie,Wolvertem,Vlaams Brabant,BEL
 2063096,ON8GVT,Serge,Heverlee,Vlaams Brabant,BEL
 2063097,ON8JO,Jo,Tienen,Vbr,BEL
@@ -2992,7 +2994,7 @@
 2081075,F6EXG,Roland,Nice,Provence-Alpes-Cte D,FRA
 2081076,F4FUQ,Lionel,Ceyreste,Provence-Alpes-Cte D,FRA
 2081077,F4HXL,Jeremie,Puget-Theniers,Provence-Alpes-Cte D,FRA
-2081078,F4EAN,Christian,Salon-De-Provence,Provence-Alpes-Cte D,FRA
+2081078,F4EAN,Chris,Salon De Provence,,FRA
 2081079,F4LNK,Andre,Toulon,Provence-Alpes-Cte D,FRA
 2081080,F4AKJ,Pierre,Six-Fours-Les-Plages,Provence-Alpes-Cte D,FRA
 2081081,F5HTS,Bernard,Sanary-Sur-Mer,Provence-Alpes-Cte D,FRA
@@ -3546,6 +3548,10 @@
 2081793,F5RMN,Yvon,Boulogne Sur,Hauts De France,FRA
 2081794,F4JJZ,Pierre,Cambrai,Hauts De France,FRA
 2081795,F4LDJ,Herve,Montagny Sainte Felicite,,FRA
+2081796,F6CDT,Michel,Maury,Occitanie,FRA
+2081797,F8FYB,Serge,Equihen Plage,Hauts De France,FRA
+2081798,F4JQY,Fred,67610 La Wantzenau,Alsace,FRA
+2081799,F5RBB,Patrice,Gimel Les Cascades,Nouvelle Aquitaine,FRA
 2082001,F4FUL,Cyril,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles-Henri,Aillon Le Vieux,No_regio,FRA
@@ -3968,7 +3974,7 @@
 2084062,F6EQN,Michel,Barr,Alsace,FRA
 2084063,F6BZG,Arnaud,Strasbourg,Alsace,FRA
 2084064,F5KBB,Csad-Mgm,Mutzig,Alsace,FRA
-2084065,F8JWF,Patrick,Rousies,Alsace,FRA
+2084065,F8JWF,Patrick,Aulnoye Aymeries,Hauts De France,FRA
 2084066,F8ACB,Samuel,Altkirch,Alsace,FRA
 2084067,F1GWR,Christian,Dachstein,Alsace,FRA
 2084068,F4HTP,Valentin,Strasbourg,Alsace,FRA
@@ -7187,7 +7193,6 @@
 3020252,VA2XZA,Jonathan,L Ile-Perrot,Qc,CAN
 3020253,VE2NPR,Richard,Laval,Qc,CAN
 3020254,VE7HLW,Herbert,Nelson,Bc,CAN
-3020255,VE6MJK,Marlene,Calgary,Ab,CAN
 3020256,VA2RIO,Rollande,La Tuque,Qc,CAN
 3020257,VE7DCF,David,Chilliwack,Bc,CAN
 3020258,VA7DAC,David,Victoria,Bc,CAN
@@ -12674,6 +12679,18 @@
 3025950,VA3BVO,Dan,Ottawa,Ontario,CAN
 3025951,VE2ZEZ,Guillaume,,Quebec,CAN
 3025952,VE5CSX,Carson,Saskatoon,Saskatchewan,CAN
+3025953,VE3PQC,Michael David,Beckwith,Ontario,CAN
+3025954,VE3NWD,Andrew,Toronto,Ontario,CAN
+3025955,VA4SGT,Travis,Brandon,Manitoba,CAN
+3025956,VA2SPG,,Trois Rivieres,Quebec,CAN
+3025957,VA3XDT,David,Coldwater,Ontario,CAN
+3025958,VA3RQS,Jeff Peter,Cornwall,Ontario,CAN
+3025959,VA3XTZ,Robert,Richmond Hill,Ontario,CAN
+3025960,VE2DJA,Daniel,Rimouski,Quebec,CAN
+3025961,VE4TNT,Robert,Erickson,Manitoba,CAN
+3025962,VA7JRC,John,Granisle,British Columbia,CAN
+3025963,VE9LEN,Leonard,Shediac,New Brunswick,CAN
+3025964,VE7YEG,Michael,Surrey,British Columbia,CAN
 3026001,VA6IP,Kiernan,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry,Edmonton,Alberta,CAN
@@ -12721,7 +12738,6 @@
 3026046,VA6RC,Randy,Edmonton,Alberta,CAN
 3026047,VA6DS,John,Edmonton,Alberta,CAN
 3026048,VE6ACR,Jim,Grande Prairie,Alberta,CAN
-3026049,VE6VET,Paul,Edmonton,Alberta,CAN
 3026050,VE6CPK,Dale,Calgary,Alberta,CAN
 3026051,VA6RBC,Rommel,Edmonton,Edmonton,CAN
 3026052,VE6HG,Chris,Cochrane,Alberta,CAN
@@ -12754,9 +12770,7 @@
 3026081,VA6ZG,Jon,Edmonton,Alberta,CAN
 3026082,VE6TDX,Adrian,Calgary,Alberta,CAN
 3026083,VA6BM,Robert,Calgary,Alberta,CAN
-3026084,VE6KBL,Leech,Calgary,Alberta,CAN
 3026085,VA6AJA,Andrew,Calgary,Alberta,CAN
-3026086,VE6BJN,Barbara,Grande Prairie,Alberta,CAN
 3026087,VE6RLH,Wm.,Edmonton,Alberta,CAN
 3026088,VE6DED,David,Calgary,Alberta,CAN
 3026089,VE6YA,Shaun,Calgary,Alberta,CAN
@@ -12814,7 +12828,6 @@
 3026144,VE6SKI,David,St Albert,Alberta,CAN
 3026145,VE6DHC,Dennis,Calgary,Alberta,CAN
 3026147,VA6UTC,Jason,Fort Saskatchewan,Alberta,CAN
-3026148,VA6JN,James,Grande Prairie,Alberta,CAN
 3026150,VE6FUK,Brandon,Edmonton,Alberta,CAN
 3026151,VE6MMM,Mark,Edmonton,Alberta,CAN
 3026152,VE6PPP,Robert,Calgary,Alberta,CAN
