@@ -806,7 +806,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060668,ON3OT,Olivier Toubeau,Olivier,Charleroi,Hainaut,BEL
 2060669,ON3LGD,Laurent Gallez,Laurent,Kain,Hainaut,BEL
 2060670,ON7GTM,Adrian,Adrian,Brussels,Vlaams Brabant,BEL
-2060671,ON8VO,Verbois Olivier,Verbois Olivier,None,Namur,BEL
+2060671,ON8VO,Verbois Olivier,Verbois Olivier,Namur,Namur,BEL
 2060672,ON1LX,Luc Mesmans,Luc,Boutersem,Vlaams Brabant,BEL
 2060673,ON2RIC,Eric Lemoine,Eric,Fleron,Liege,BEL
 2060674,ON4CLQ,Patriek Bonne,Patriek,9900 Eeklo,Oost Vlaanderen,BEL
@@ -851,7 +851,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060713,ON7OAK,Willy Cockhuyt,Willy,Lochristi Zeveneken,Oost Vlaanderen,BEL
 2060714,ON3SLC,Laurent Seha,Laurent,Saint Ghislain,Hainaut,BEL
 2060715,ON3BAE,Andre Baeyens,Andre,Charleroi,Hainaut,BEL
-2060716,ON7TGN,Johan Perreman,Johan,Erpe,,BEL
+2060716,ON7TGN,Johan Perreman,Johan,Erpe Mere,Oost Vlaanderen,BEL
+2060717,ON4PVC,Parent Vincent,Parent,Villers Le Bouillet,Liege,BEL
+2060718,ON3PHB,Bart Van Den Heerik,Bart,Wichelen,Oost Vlaanderen,BEL
+2060719,ON6DBF,Fred De Backer,Fred,Berlaar,Antwerp,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -3540,6 +3543,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081615,F8KIH,Radio Club S P,Radio Club,Le Portel,Hauts De France,FRA
 2081616,F4JYF,Damien,Damien,Castres,Occitanie,FRA
 2081617,F4HXJ,Sebastien Berger,Sebastien,Tremeven,Bretagne,FRA
+2081618,F4BKG,Mathieu Cura,Mathieu,,,FRA
+2081619,F4LQT,Philippe Berger,Philippe,Jetterswiller,Alsace,FRA
+2081620,F4LTB,Tifani Provenat,Tifani,Joinville,Grand,FRA
 2081777,F4JBM,Francois,Francois,Saint-Cloud,,FRA
 2081778,F1UFW,Saletzki Sebastien,Saletzki,Aussonne,Occitanie,FRA
 2081779,F4JJQ,Pierre Baussart,Pierre,Bailleul Sir Berthoult,Hauts De France,FRA
@@ -4330,7 +4336,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2086165,F5TBX,Jeanpaul,Jeanpaul,Pompignac,Aquitaine,FRA
 2086166,F4GUX,Francois Helleringer,Francois,Cestas,Nouvelle-Aquitaine,FRA
 2086167,F4IER,Jacques,Jacques,Liste Orange,Aquitaine,FRA
-2086168,F4IIK,Renaud,Renaud,La Bussiere,Aquitaine,FRA
+2086168,F4IIK,Renaud Boufrioua,Renaud,Mehun Sur Yevre,Centre Val De Loire,FRA
 2086169,F6FZQ,Maxime Hubert,Maxime,Blanquefort,Nouvelle-Aquitaine,FRA
 2086172,F5ODW,Claude,Claude,Blanquefort,Nouvelle-Aquitaine,FRA
 2087001,F6HTJ,Michel,Michel,Perpignan,Languedoc-Roussillon,FRA
@@ -4945,7 +4951,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2089449,F4ACU,Matthieu Lapadu-Hargues,Matthieu,Esvres,Indre-Et-Loire,FRA
 2089450,F6ITT,Jean Pruvot,Jean,Clamart Cedex,If,FRA
 2089451,F4BVC,Sebastien Philippart,Sebastien,Le Mesnil Esnard,No_regio,FRA
-2089452,F6CYK,Pierre Antoine Dumarquez,Pierre Antoine,Le Havre,Normandie,FRA
+2089452,F6CYK,Pierre Antoine,Pierre Antoine,Le Havre,Normandie,FRA
 2089453,F4GNA,Guy Brandenbourger,Guy,Moyeuvre Grande,Grand Est,FRA
 2089454,F4CGA,Lucien Lemal,Lucien,Villefranche,Alpes-Maritimes,FRA
 2089455,F4ENU,Ludovic Henique,Ludovic,Rouvroy,No_regio,FRA
@@ -5475,7 +5481,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281095,HB9ADJ,Charles Girardet,Charles,Roche Vd,Westschweiz-Sud,CHE
 2281096,HB9FSA,Thierry Dalavy,Thierry,Vouvry,Westschweiz-Sud,CHE
 2281097,HB9AGE,Walter Hanselmann,Walter,Rovray,Westschweiz-Sud,CHE
-2281098,HB9VCJ,Vincent Jouby,Vincent,Surpierre,Westschweiz-Sud,CHE
+2281098,HB9VCJ,Vincent Jouby,Vincent,Villars Burquin,Vaud,CHE
 2281099,HB9GFR,Yves Descombes,Yves,Givisier,Westschweiz-Sud,CHE
 2281100,HB9UQF,Gilles Berard,Gilles,Volleges,Westschweiz-Sud,CHE
 2281101,HB9BDJ,Robert Schilling,Robert,Fully,Westschweiz-Sud,CHE
@@ -12714,6 +12720,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025972,VE6AJR,Ariel Rodelas,Ariel,Edmonton,Alberta,CAN
 3025973,VE3ULC,James May,James,Harrowsmith,Ontario,CAN
 3025974,VE2KAE,Kenneth Savage,Kenneth,Saint Laurent,Quebec,CAN
+3025975,VA3IEC,Emile Cabardos,Emile,Toronto,Ontario,CAN
 3026001,VA6IP,Kiernan Burr,Kiernan,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry Atkinson,Kerry,Edmonton,Alberta,CAN

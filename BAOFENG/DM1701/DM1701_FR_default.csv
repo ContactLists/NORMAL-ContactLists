@@ -806,7 +806,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060668,ON3OT,Olivier,Toubeau,Charleroi,Hainaut,BEL,DMR
 2060669,ON3LGD,Laurent,Gallez,Kain,Hainaut,BEL,DMR
 2060670,ON7GTM,Adrian,,Brussels,Vlaams Brabant,BEL,DMR
-2060671,ON8VO,Verbois Olivier,,None,Namur,BEL,DMR
+2060671,ON8VO,Verbois Olivier,,Namur,Namur,BEL,DMR
 2060672,ON1LX,Luc,Mesmans,Boutersem,Vlaams Brabant,BEL,DMR
 2060673,ON2RIC,Eric,Lemoine,Fleron,Liege,BEL,DMR
 2060674,ON4CLQ,Patriek,Bonne,9900 Eeklo,Oost Vlaanderen,BEL,DMR
@@ -851,7 +851,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060713,ON7OAK,Willy,Cockhuyt,Lochristi Zeveneken,Oost Vlaanderen,BEL,DMR
 2060714,ON3SLC,Laurent,Seha,Saint Ghislain,Hainaut,BEL,DMR
 2060715,ON3BAE,Andre,Baeyens,Charleroi,Hainaut,BEL,DMR
-2060716,ON7TGN,Johan,Perreman,Erpe,,BEL,DMR
+2060716,ON7TGN,Johan,Perreman,Erpe Mere,Oost Vlaanderen,BEL,DMR
+2060717,ON4PVC,Parent,Vincent,Villers Le Bouillet,Liege,BEL,DMR
+2060718,ON3PHB,Bart,Van Den Heerik,Wichelen,Oost Vlaanderen,BEL,DMR
+2060719,ON6DBF,Fred,De Backer,Berlaar,Antwerp,BEL,DMR
 2061001,ON8SVH,Stijn,Hende,Oudenaarde,Oost-Vlaanderen,BEL,DMR
 2061002,ON8SI,Simon,Pauw,Oosterzele,Oost-Vlaanderen,BEL,DMR
 2061003,ON5LUC,Luc,Lourense,Gent,Oost-Vlaanderen,BEL,DMR
@@ -3540,6 +3543,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081615,F8KIH,Radio Club,S P,Le Portel,Hauts De France,FRA,DMR
 2081616,F4JYF,Damien,,Castres,Occitanie,FRA,DMR
 2081617,F4HXJ,Sebastien,Berger,Tremeven,Bretagne,FRA,DMR
+2081618,F4BKG,Mathieu,Cura,,,FRA,DMR
+2081619,F4LQT,Philippe,Berger,Jetterswiller,Alsace,FRA,DMR
+2081620,F4LTB,Tifani,Provenat,Joinville,Grand,FRA,DMR
 2081777,F4JBM,Francois,,Saint-Cloud,,FRA,DMR
 2081778,F1UFW,Saletzki,Sebastien,Aussonne,Occitanie,FRA,DMR
 2081779,F4JJQ,Pierre,Baussart,Bailleul Sir Berthoult,Hauts De France,FRA,DMR
@@ -4330,7 +4336,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2086165,F5TBX,Jeanpaul,,Pompignac,Aquitaine,FRA,DMR
 2086166,F4GUX,Francois,Helleringer,Cestas,Nouvelle-Aquitaine,FRA,DMR
 2086167,F4IER,Jacques,,Liste Orange,Aquitaine,FRA,DMR
-2086168,F4IIK,Renaud,,La Bussiere,Aquitaine,FRA,DMR
+2086168,F4IIK,Renaud,Boufrioua,Mehun Sur Yevre,Centre Val De Loire,FRA,DMR
 2086169,F6FZQ,Maxime,Hubert,Blanquefort,Nouvelle-Aquitaine,FRA,DMR
 2086172,F5ODW,Claude,,Blanquefort,Nouvelle-Aquitaine,FRA,DMR
 2087001,F6HTJ,Michel,,Perpignan,Languedoc-Roussillon,FRA,DMR
@@ -4945,7 +4951,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2089449,F4ACU,Matthieu,Lapadu-Hargues,Esvres,Indre-Et-Loire,FRA,DMR
 2089450,F6ITT,Jean,Pruvot,Clamart Cedex,If,FRA,DMR
 2089451,F4BVC,Sebastien,Philippart,Le Mesnil Esnard,No_regio,FRA,DMR
-2089452,F6CYK,Pierre Antoine,Dumarquez,Le Havre,Normandie,FRA,DMR
+2089452,F6CYK,Pierre Antoine,,Le Havre,Normandie,FRA,DMR
 2089453,F4GNA,Guy,Brandenbourger,Moyeuvre Grande,Grand Est,FRA,DMR
 2089454,F4CGA,Lucien,Lemal,Villefranche,Alpes-Maritimes,FRA,DMR
 2089455,F4ENU,Ludovic,Henique,Rouvroy,No_regio,FRA,DMR
@@ -5475,7 +5481,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281095,HB9ADJ,Charles,Girardet,Roche Vd,Westschweiz-Sud,CHE,DMR
 2281096,HB9FSA,Thierry,Dalavy,Vouvry,Westschweiz-Sud,CHE,DMR
 2281097,HB9AGE,Walter,Hanselmann,Rovray,Westschweiz-Sud,CHE,DMR
-2281098,HB9VCJ,Vincent,Jouby,Surpierre,Westschweiz-Sud,CHE,DMR
+2281098,HB9VCJ,Vincent,Jouby,Villars Burquin,Vaud,CHE,DMR
 2281099,HB9GFR,Yves,Descombes,Givisier,Westschweiz-Sud,CHE,DMR
 2281100,HB9UQF,Gilles,Berard,Volleges,Westschweiz-Sud,CHE,DMR
 2281101,HB9BDJ,Robert,Schilling,Fully,Westschweiz-Sud,CHE,DMR
@@ -12714,6 +12720,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025972,VE6AJR,Ariel,Rodelas,Edmonton,Alberta,CAN,DMR
 3025973,VE3ULC,James,May,Harrowsmith,Ontario,CAN,DMR
 3025974,VE2KAE,Kenneth,Savage,Saint Laurent,Quebec,CAN,DMR
+3025975,VA3IEC,Emile,Cabardos,Toronto,Ontario,CAN,DMR
 3026001,VA6IP,Kiernan,Burr,Edmonton,Alberta,CAN,DMR
 3026002,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
 3026003,VE6GG,Kerry,Atkinson,Edmonton,Alberta,CAN,DMR
