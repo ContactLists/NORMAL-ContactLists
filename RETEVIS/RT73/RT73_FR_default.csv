@@ -855,6 +855,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060717,ON4PVC,Parent Vincent,Villers Le Bouillet,Liege,BEL
 2060718,ON3PHB,Bart Van Den Heerik,Wichelen,Oost Vlaanderen,BEL
 2060719,ON6DBF,Fred De Backer,Berlaar,Antwerp,BEL
+2060720,ON3DVT,David Verheyen,Pelt,Limburg,BEL
 2061001,ON8SVH,Stijn Hende,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Gent,Oost-Vlaanderen,BEL
@@ -1417,7 +1418,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2063081,ON4CHJ,Koen Gils,Hoegaarden,Vlaams Brabant,BEL
 2063082,ON5SYS,Hubert Meeus,Boutersem,Vlaams Brabant,BEL
 2063083,ON3NAD,Yoeri,Boutersem,Vlaams Brabant,BEL
-2063084,ON3URE,Joeri Dooren,Merchtem,Vlaams Brabant,BEL
+2063084,ON6URE,Joeri Van Dooren,Merchtem,,BEL
 2063085,ON8LTE,Karl-Frederik Blink,Scherpenheuvel,Vlaams Brabant,BEL
 2063086,ON3HK,Peter,Opwijk,Vlaams Brabant,BEL
 2063087,ON4CEC,Paul,Wolvertem,Vlaams Brabant,BEL
@@ -1427,7 +1428,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2063091,ON8PL,Patrick Lemli,Rotselaar,Vlaams Brabant,BEL
 2063092,ON4CAU,Jose Llinares,Vilvoorde,Vlaams Brabant,BEL
 2063093,ON9CPM,Peter Moulaert,Leuven-Heverlee,No_regio,BEL
-2063094,ON3VU,Marc,Halle,,BEL
+2063094,ON3VU,Marc Vuylsteke,Kraainem,Vlaams Brabant,BEL
 2063095,ON5CAT,Anne-Marie,Wolvertem,Vlaams Brabant,BEL
 2063096,ON8GVT,Serge,Heverlee,Vlaams Brabant,BEL
 2063097,ON8JO,Jo Hooylaerts,Tienen,Vbr,BEL
@@ -3571,6 +3572,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081800,F5SVB,Schaeffer,Niederstinzel,Grand,FRA
 2081801,F8NP,no_name,Oise,Hauts De France,FRA
 2081802,F4LSG,Arzhel Le Saux,Pornichet,Pays De La Loire,FRA
+2081803,F4LOC,Jean Louis Rico,Lanet,Occitanie,FRA
+2081804,F4WED,Mouloud Sarrah,Essonne,,FRA
+2081805,F8LJV,Hubert Viarouge,Paris,,FRA
 2082001,F4FUL,Cyril Teitler,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko Damerau,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles-Henri Sap,Aillon Le Vieux,No_regio,FRA
@@ -5384,6 +5388,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280350,HB9IIT,Werner,Untervaz,Grigioni Grisons,CHE
 2280351,HB9IMH,Julio Andrade,St Margrethen,St Gallen,CHE
 2280352,HB9EVW,Ayar,Spiegel B Bern,Bern,CHE
+2280353,HB9HXD,Daniel Neuenschwander,Ebnat Kappel,St Gallen,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -8258,8 +8263,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3021323,VE3TSJ,Jason,Toronto,Ontario,CAN
 3021324,VE9PAX,Patrick,Red Bank Reserve,New Brunswick,CAN
 3021325,VE3TSJ,Jason,Toronto,Ontario,CAN
-3021326,VE3XYD,Slawomir Katta,Stoney Creek,Ontario,CAN
-3021327,VE3XYD,Slawomir Katta,Stoney Creek,Ontario,CAN
+3021326,VE1XYD,Slavko Sly,Stoney Creek,Ontario,CAN
+3021327,VE1XYD,Slavko Sly,Stoney Creek,Ontario,CAN
 3021328,VE3ZZT,Bernard Miedema,Tillsonburg,Ontario,CAN
 3021329,VE2XM,Roger,no_city,Quebec,CAN
 3021330,VE3AC,Frank Sudbury,Sudbury,Ontario,CAN
@@ -12657,6 +12662,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3025771,VE3TFF,Ian Ross Macleod,London,Ontario,CAN
 3025772,VE1DVB,Dan Brennan,Millbrook,Nova Scotia,CAN
 3025773,VA3TCN,Jan Matusewicz,Palmer Rapids,Ontario,CAN
+3025774,VE9AR,Alexander Moore,Saint John,New Brunswick,CAN
+3025775,VE2VWY,Yan Seguin,Gatineau,Quebec,CAN
+3025776,VE7NZN,David William Gallagher,Powell River,British Columbia,CAN
+3025777,VE3RBV,Thye Khang Siow,Brampton,Ontario,CAN
+3025778,VE3KNO,Murray Johnson,Carlisle,Ontario,CAN
+3025779,VA2MPH,Steve Cusson,Sorel Tracy,Quebec,CAN
+3025780,VA4NJF,Nicholas Hill,Winnipeg,Manitoba,CAN
+3025781,VE3OZG,Christopher E Wardle,Hastings,Ontario,CAN
 3025912,VE3XBI,Robert Schuetze,Mount Albert,Ontario,CAN
 3025913,VA2BBW,Ante Laurijssen,Gatineau,Quebec,CAN
 3025914,VA7HCW,Daniel Hamilton,Cranbrook,British Columbia,CAN
@@ -12721,6 +12734,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3025973,VE3ULC,James May,Harrowsmith,Ontario,CAN
 3025974,VE2KAE,Kenneth Savage,Saint Laurent,Quebec,CAN
 3025975,VA3IEC,Emile Cabardos,Toronto,Ontario,CAN
+3025976,VA3CK,Carl Krasnor,St Catharines,Ontario,CAN
+3025977,VE7KZO,Nathan Kondra,Vancouver,British Columbia,CAN
 3026001,VA6IP,Kiernan Burr,Edmonton,Alberta,CAN
 3026002,VE6GG,Kerry Atkinson,Edmonton,Alberta,CAN
 3026003,VE6GG,Kerry Atkinson,Edmonton,Alberta,CAN
