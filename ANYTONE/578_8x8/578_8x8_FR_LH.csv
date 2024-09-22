@@ -3575,6 +3575,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081803,F4LOC,F4LOC Jean Louis,Lanet,Occitanie,FRA,,Private Call,None
 ,2081804,F4WED,F4WED Mouloud,Essonne,,FRA,,Private Call,None
 ,2081805,F8LJV,F8LJV Hubert,Paris,,FRA,,Private Call,None
+,2081806,F4JTJ,F4JTJ Alain,Vermelles,Hauts De France,FRA,,Private Call,None
+,2081807,F4DOY,F4DOY Patrick,,Grand,FRA,,Private Call,None
 ,2082001,F4FUL,F4FUL Cyril,Sciez,Rhone-Alpes,FRA,,Private Call,None
 ,2082002,F5VIN,F5VIN Heiko,Thoiry,Rhone-Alpes,FRA,,Private Call,None
 ,2082003,F1AGU,F1AGU Charles-Henri,Aillon Le Vieux,No_regio,FRA,,Private Call,None
@@ -4951,7 +4953,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2089444,F4FNU,F4FNU Jean,Rougemont,No_regio,FRA,,Private Call,None
 ,2089445,F5PEU,F5PEU Olivier,Chatillon Le Duc,Doubs,FRA,,Private Call,None
 ,2089447,F1TZF,F1TZF Fabien,Thionville,No_regio,FRA,,Private Call,None
-,2089448,F1JMJ,F1JMJ Joel,Petite-Rosselle,All Others,FRA,,Private Call,None
+,2089448,F1JMJ,F1JMJ Joel,Petite Rosselle,Grand,FRA,,Private Call,None
 ,2089449,F4ACU,F4ACU Matthieu,Esvres,Indre-Et-Loire,FRA,,Private Call,None
 ,2089450,F6ITT,F6ITT Jean,Clamart Cedex,If,FRA,,Private Call,None
 ,2089451,F4BVC,F4BVC Sebastien,Le Mesnil Esnard,No_regio,FRA,,Private Call,None
@@ -5389,6 +5391,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280351,HB9IMH,HB9IMH Julio,St Margrethen,St Gallen,CHE,,Private Call,None
 ,2280352,HB9EVW,HB9EVW Ayar,Spiegel B Bern,Bern,CHE,,Private Call,None
 ,2280353,HB9HXD,HB9HXD Daniel,Ebnat Kappel,St Gallen,CHE,,Private Call,None
+,2280354,HB9QHG,HB9QHG Heinrich,Swiss,Bern,CHE,,Private Call,None
+,2280355,HB9SSB,HB9SSB Marc,Gipf Oberfrick,Aargau,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -5559,8 +5563,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281168,HB3YOE,HB3YOE Massimiliano,Bellevue,Westschweiz-Sud,CHE,,Private Call,None
 ,2281169,HB3YAP,HB3YAP Pascal,Epautheyres,Westschweiz-Sud,CHE,,Private Call,None
 ,2281170,HB9FDC,HB9FDC Vitor,Bussigny,Westschweiz-Sud,CHE,,Private Call,None
-,2281171,HB9HBE,HB9HBE Emilie,Geneva,Westschweiz-Sud,CHE,,Private Call,None
-,2281172,HB9GYR,HB9GYR Jose-Antonio,Geneva,Westschweiz-Sud,CHE,,Private Call,None
+,2281171,HB9HBE,HB9HBE Emilie,Geneva,Geneva,CHE,,Private Call,None
+,2281172,HB9GYR,HB9GYR Jose,Geneva,Geneva,CHE,,Private Call,None
 ,2281173,HB3YCY,HB3YCY Loick,Gland,Westschweiz-Sud,CHE,,Private Call,None
 ,2281174,HB3YFZ,HB3YFZ Guy,Sergey,Westschweiz-Sud,CHE,,Private Call,None
 ,2281175,HB9FXY,HB9FXY Jan,Le Vaud,Westschweiz-Sud,CHE,,Private Call,None
@@ -5599,11 +5603,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281208,HB9GXP,HB9GXP Marc,Verossaz,No_regio,CHE,,Private Call,None
 ,2281209,HB9VCM,HB9VCM Ali-Reza,Geneve,No_regio,CHE,,Private Call,None
 ,2281210,HB3YCB,HB3YCB Yves,Bulle,Fribourg,CHE,,Private Call,None
-,2281211,HB9GYR,HB9GYR Jose-Antonio,Geneva,Geneva,CHE,,Private Call,None
+,2281211,HB9GYR,HB9GYR Jose,Geneva,Geneva,CHE,,Private Call,None
 ,2281212,HB9GYM,HB9GYM Jean-Pierre,Geneva,No_regio,CHE,,Private Call,None
 ,2281213,HB9HBY,HB9HBY Loick,Gland,No_regio,CHE,,Private Call,None
 ,2281214,HB9HBZ,HB9HBZ Alexandre,Geneva,Geneva,CHE,,Private Call,None
-,2281215,HB9GYR,HB9GYR Jose-Antonio,Geneva,Geneva,CHE,,Private Call,None
+,2281215,HB9GYR,HB9GYR Jose,Geneva,Geneva,CHE,,Private Call,None
 ,2281216,HB9HBE,HB9HBE Emilie,Geneva,Geneva,CHE,,Private Call,None
 ,2281217,HB9TWU,HB9TWU Gregoire,Gingins,Westschweiz-Sud,CHE,,Private Call,None
 ,2281218,HB9DSB,HB9DSB Adolphe,Martigny,Westschweiz-Sud,CHE,,Private Call,None
@@ -8263,8 +8267,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3021323,VE3TSJ,VE3TSJ Jason,Toronto,Ontario,CAN,,Private Call,None
 ,3021324,VE9PAX,VE9PAX Patrick,Red Bank Reserve,New Brunswick,CAN,,Private Call,None
 ,3021325,VE3TSJ,VE3TSJ Jason,Toronto,Ontario,CAN,,Private Call,None
-,3021326,VE1XYD,VE1XYD Slavko,Stoney Creek,Ontario,CAN,,Private Call,None
-,3021327,VE1XYD,VE1XYD Slavko,Stoney Creek,Ontario,CAN,,Private Call,None
+,3021326,VE1XYD,VE1XYD Slavko,Digby,Nova Scotia,CAN,,Private Call,None
+,3021327,VE1XYD,VE1XYD Slavko,Digby,Nova Scotia,CAN,,Private Call,None
 ,3021328,VE3ZZT,VE3ZZT Bernard,Tillsonburg,Ontario,CAN,,Private Call,None
 ,3021329,VE2XM,VE2XM Roger,no_city,Quebec,CAN,,Private Call,None
 ,3021330,VE3AC,VE3AC Frank,Sudbury,Ontario,CAN,,Private Call,None
@@ -10816,7 +10820,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3023918,VA3NV,VA3NV Rick,Burlington,Ontario,CAN,,Private Call,None
 ,3023919,VE3NDB,VE3NDB Scherral,Hamilton,Ontario,CAN,,Private Call,None
 ,3023920,VA3RRX,VA3RRX John,Oshawa,Ontario,CAN,,Private Call,None
-,3023921,VE3RFI,VE3RFI Base,Hamilton Fn03bf,Ontario,CAN,,Private Call,None
+,3023921,VE3RFI,VE3RFI Alan,Hamilton,Ontario,CAN,,Private Call,None
 ,3023922,VE3TMT,VE3TMT Max,Kingston,Ontario,CAN,,Private Call,None
 ,3023923,VE3TAL,VE3TAL Judith,Millbrook,Ontario,CAN,,Private Call,None
 ,3023924,VE3UG,VE3UG Richard,Brantford,Ontario,CAN,,Private Call,None
@@ -11698,7 +11702,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3024803,VA7RUL,VA7RUL Rolando,Surrey,British Columbia,CAN,,Private Call,None
 ,3024804,VE7PI,VE7PI Sydney,Nanoose Bay,British Columbia,CAN,,Private Call,None
 ,3024805,VE3CMT,VE3CMT Colin,Sarnia,Ontario,CAN,,Private Call,None
-,3024806,VA7AV,VA7AV Richard,Kamloops,British Columbia,CAN,,Private Call,None
+,3024806,VA7AV,VA7AV Brock,Kamloops,British Columbia,CAN,,Private Call,None
 ,3024807,VE6JEM,VE6JEM Jerre,Calgary,Alberta,CAN,,Private Call,None
 ,3024808,VE7RB,VE7RB John,Port Alberni,British Columbia,CAN,,Private Call,None
 ,3024809,VE2AHJ,VE2AHJ Marc,Que Bec,Quebec,CAN,,Private Call,None
@@ -11981,7 +11985,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025088,VE3WPG,VE3WPG William,Hanover,Ontario,CAN,,Private Call,None
 ,3025089,VE7EPX,VE7EPX David,Saanichton,British Columbia,CAN,,Private Call,None
 ,3025090,VE1RHU,VE1RHU Richard,Cottage Cove,Nova Scotia,CAN,,Private Call,None
-,3025091,VA3DVG,VA3DVG Darnley,Hamilton,Ontario,CAN,,Private Call,None
+,3025091,VA6DVG,VA6DVG Darnley,Hamilton,Ontario,CAN,,Private Call,None
 ,3025093,VA3RKW,VA3RKW Ronald,Waterdown,Ontario,CAN,,Private Call,None
 ,3025094,VA3MCT,VA3MCT Michael,Richmond Hill,Ontario,CAN,,Private Call,None
 ,3025095,VE7FBK,VE7FBK David,West Vancouver,British Columbia,CAN,,Private Call,None
@@ -12736,6 +12740,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025975,VA3IEC,VA3IEC Emile,Toronto,Ontario,CAN,,Private Call,None
 ,3025976,VA3CK,VA3CK Carl,St Catharines,Ontario,CAN,,Private Call,None
 ,3025977,VE7KZO,VE7KZO Nathan,Vancouver,British Columbia,CAN,,Private Call,None
+,3025978,VA5MUD,VA5MUD Wesley,Saskatoon,Saskatchewan,CAN,,Private Call,None
+,3025979,VE7BV,VE7BV Dwight,Kamloops,British Columbia,CAN,,Private Call,None
+,3025980,VE3YTX,VE3YTX Joshua,Dundas,Ontario,CAN,,Private Call,None
+,3025981,VA3SQZ,VA3SQZ Jordan,Toronto,Ontario,CAN,,Private Call,None
+,3025982,VE5VOK,VE5VOK Leonard,,Saskatchewan,CAN,,Private Call,None
+,3025983,VE3XYU,VE3XYU Matthew,Newmarket,Ontario,CAN,,Private Call,None
 ,3026001,VA6IP,VA6IP Kiernan,Edmonton,Alberta,CAN,,Private Call,None
 ,3026002,VE6GG,VE6GG Kerry,Edmonton,Alberta,CAN,,Private Call,None
 ,3026003,VE6GG,VE6GG Kerry,Edmonton,Alberta,CAN,,Private Call,None
