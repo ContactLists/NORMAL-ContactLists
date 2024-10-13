@@ -105,7 +105,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280104,HB9ULL,Emmanuel,,Les Brenets,Neuchatel,CHE
 2280105,HB9EKA,Stefan,,Rossrueti,St. Gallen,CHE
 2280106,HB9HPI,Daniel,,Beringen,Schaffhausen,CHE
-2280107,HB3XYN,Rene,,Aesch Lu,Lucerne,CHE
+2280107,HB3XYN,Rene,,Geuensee,Lucerne,CHE
 2280108,HB9HMG,Andreas,,Schiers,Grigioni Grisons,CHE
 2280109,HB9HNF,Marcus,,Gais,Appenzell Outer-Rhodes,CHE
 2280110,HB9HEH,Daniel,,Zuerich Altstetten,Zurich,CHE
@@ -720,7 +720,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283073,HB9ROQ,Johnny,,Thun,Bern und Oberwallis,CHE
 2283074,HB9EHO,Matthias,,Ittigen,Bern und Oberwallis,CHE
 2283075,HB3YPW,Frank,,Ittigen,Bern und Oberwallis,CHE
-2283076,HB9TCS,Robert,,Wabern,Bern und Oberwallis,CHE
+2283076,HB9TCS,Robert,,Wabern,,CHE
 2283077,HB9MHB,Rudolf,,Muensingen,Bern und Oberwallis,CHE
 2283078,HB9GBS,Bruno,,Riggisberg,Bern und Oberwallis,CHE
 2283079,HB9PZP,Peter,,Boenigen,Bern und Oberwallis,CHE
@@ -2674,6 +2674,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320739,OE7ICH,Thomas,,Breitenwang,TIROL,AUT
 2320740,OE6LQD,Harald,,Pirka,STMK,AUT
 2320741,OE7NOF,Norbert,,Silz,TIROL,AUT
+2320742,OE3UHC,Helmut,,Schwechat-Rannersdorf,NOE,AUT
+2320743,OE7ATH,Anton,,Zell am Ziller,TIROL,AUT
+2320744,OE5LGJ,Gerhard,,Linz,OOE,AUT
 2321001,OE1KBC,Kurt,,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt,,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt,,Wien,WIEN,AUT
@@ -2837,7 +2840,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321161,OE1SQA,no_name,,Wien,WIEN,AUT
 2321162,OE1UVA,Heinz,,Wien,WIEN,AUT
 2321163,OE1FUC,Dominik,,Wien,WIEN,AUT
-2321164,OE1CWJ,Christian,,Wien,WIEN,AUT
 2321165,OE1NCH,no_name,,Wien,WIEN,AUT
 2321166,OE1YHL,Christa,,Wien,WIEN,AUT
 2321167,OE1DHU,David,,Wien,WIEN,AUT
@@ -3937,7 +3939,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327048,OE7BRT,Rainer,,See,TIROL,AUT
 2327049,OE7REH,Oliver,,Schlitters,TIROL,AUT
 2327050,OE7WOT,Walter,,Kramsach,TIROL,AUT
-2327051,OE3CWJ,Christian,,Innsbruck,TIROL,AUT
+2327051,OE3CWJ,Christian,,Bad Voeslau,NOE,AUT
 2327052,OE7HSH,Josef,,Sillian,TIROL,AUT
 2327053,OE7CLI,Juergen,,Inzing,TIROL,AUT
 2327054,OE7GMH,Manfred,,Sillian,TIROL,AUT
@@ -3974,7 +3976,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327085,OE7PGI,Philipp,,Lienz,TIROL,AUT
 2327086,OE7OPJ,Peter,,Lienzosttirol,TIROL,AUT
 2327087,OE7OMT,Meinhard,,Lienz,TIROL,AUT
-2327088,OE3CWJ,Christian,,Innsbruck,TIROL,AUT
 2327089,OE7MWH,Michael,,Steinach Abr,TIROL,AUT
 2327090,OE7GPI,Gerhard,,Innsbruck,TIROL,AUT
 2327091,OE7DHT,Hermann,,Fuegen,TIROL,AUT
@@ -6157,7 +6158,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2621960,DB1XW,Andreas,,Bremen,HB,DEU
 2621961,DC1OA,Wolfgang,,Uetersen,SH,DEU
 2621962,DO9IK,Ingrid,,Gross-Rohrheim,HE,DEU
-2621963,DL7PM,Paul Alexander,,Rodgau,HE,DEU
+2621963,DL7PM,Paul,,Rodgau,HE,DEU
 2621964,DH3MIT,Michael,,Holzguenz Ot Schwaighausen,BY,DEU
 2621965,DO1MHS,Michael Heinrich,,Velen-Ramsdorf,NW,DEU
 2621966,DB0FEU,Relais/Bake/Gateway,,Feuchtwangen,BY,DEU
@@ -7354,7 +7355,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623239,DL9OAH,Michael,,Braunschweig,NI,DEU
 2623240,DF4XG,Wolfgang,,Buchholz In der Nordheide,NI,DEU
 2623241,DG6ACX,Dirk,,Hambuehren,NI,DEU
-2623242,DO8FN,Frank,,no_city,HB,DEU
+2623242,DO8FN,Frank,,Bergen  Celle,NI,DEU
 2623244,DD4AS,Holger,,Barum,NI,DEU
 2623245,DF6BT,Abduelkadir,,Juist,NI,DEU
 2623246,DL0CN,Clubst.,,Ahnsbeck,NI,DEU
@@ -7587,7 +7588,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623484,DB6OJ,Michael,,Bad Muender,NI,DEU
 2623485,DG9BFD,Fooke,,Wittmund,NI,DEU
 2623486,DG5AL,Michael,,Tengen,BW,DEU
-2623487,DO4DHH,Sebastian,,Springe,NI,DEU
+2623487,DO4DHH,Sebastian,,Hannover,NI,DEU
 2623488,DK2HP,Helmut,,Koenigslutter,NI,DEU
 2623489,DL2OBX,Stefan,,Schoeningen,NI,DEU
 2623490,DH2BAO,Johann-Peter,,Wardenburg,NI,DEU
@@ -12264,7 +12265,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2628449,DJ0AH,Enver,,Pfronten - Steinach,BY,DEU
 2628450,DD2CU,Manfred,,Muenchen,BY,DEU
 2628451,DC2MAS,Albert,,Guenzach,BY,DEU
-2628452,DO1GJF,Julian,,Essen,BY,DEU
+2628452,DO1GJF,Julian,,Essen,NW,DEU
 2628453,DJ1AUS,Alexander,,no_city,BY,DEU
 2628454,DG8NBQ,Thomas,,Schwarzenbruck,BY,DEU
 2628456,DO1DST,Dominic,,no_city,BY,DEU
@@ -12818,7 +12819,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2629032,DL2JWL,Wolfgang,,Hohenstein-Ernstthal,SN,DEU
 2629033,DK4KW,Ralf,,Auerbach,SN,DEU
 2629034,DO7WG,Gerd,,Oberlungwitz,SN,DEU
-2629035,DM1HF,Andreas,,no_city,SN,DEU
+2629035,DM1HF,Andreas,,Leipzig,SN,DEU
 2629036,DG0LG,Hans-Joachim,,Leipzig,SN,DEU
 2629037,DM1ER,Ernst,,Neustadt /Rstg.,TH,DEU
 2629038,DG1BDF,Frank,,Eisenach,TH,DEU
@@ -16186,6 +16187,41 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2632506,DN9GER,Gernot,,Aachen,NW,DEU
 2632507,DN9MHB,Holger,,Bremen,HB,DEU
 2632508,DG5NAT,Rudolf,,Zirndorf,BY,DEU
+2632509,DF7GY,Thomas,,Radolfzell,BW,DEU
+2632510,DD3IT,Ralf,,Dornburg,HE,DEU
+2632511,DL1BRG,Edgar,,Templin,BB,DEU
+2632512,DO8KI,Stephan,,Osterberg,BY,DEU
+2632513,DO5PV,Oliver,,Koeln,NW,DEU
+2632514,DO2YMC,Maximilian,,Koeln,NW,DEU
+2632515,DM5QM,Robert,,Berlin,BE,DEU
+2632516,DB3BEF,Steffen,,Koblenz,RP,DEU
+2632517,DL8BK,Bernd,,Duisburg,NW,DEU
+2632518,DC1BZ,Helwig,,Gifhorn,NI,DEU
+2632519,DO3FRA,Frank,,Berlin,BE,DEU
+2632520,DB6LL,Hartmut,,Pinneberg,SH,DEU
+2632521,DM2FT,Joachim,,Schauenburg,HE,DEU
+2632522,DO4GO,Guenther,,Paderborn,NW,DEU
+2632523,DN9WR,Winfried,,Heinersreuth,BY,DEU
+2632524,DL4BD,Aiman,,Berlin,BE,DEU
+2632525,DN9DA,Daniel,,Backnang,BW,DEU
+2632526,DL4RHJ,Ralf,,Selm,NW,DEU
+2632527,DO2HT,Tobias,,Oberhausen-Rheinhausen,BW,DEU
+2632528,DG0LIX,Felix,,Duesseldorf,NW,DEU
+2632529,DM1HF,Andreas,,Leipzig,SN,DEU
+2632530,DH2BAU,Jens,,Rheine,NW,DEU
+2632531,DO1SF,Frank,,Nuernberg,BY,DEU
+2632532,DD1LD,Dzianis,,Poing,BY,DEU
+2632533,DO2ALP,Udo,,Lippstadt,NW,DEU
+2632534,DC1JAS,Stefan,,Duisburg,NW,DEU
+2632535,DL2FDS,Horst,,Waldkappel,HE,DEU
+2632536,DA6JAN,Jan,,Duisburg,NW,DEU
+2632537,DG6DAD,Rolf,,Bergkamen,NW,DEU
+2632538,DN9DNA,Andreas,,Todtnau,BW,DEU
+2632539,DG1RLY,Isabel,,Harmsdorf,SH,DEU
+2632540,DG0JAE,Silvio,,Mittweida,SN,DEU
+2632541,DN9PG,Peter Wilhelm Ernst,,Kamp Lintfort,NW,DEU
+2632542,DO7JLM,Joshua,,Schwedt Oder,BB,DEU
+2632543,DG3NEQ,Florian,,Fuerth,BY,DEU
 2633001,DG4AK,Dietmar,,Hann. Muenden,NI,DEU
 2633002,DH8AAA,Oliver,,Vechelde,NI,DEU
 2633003,DC6BV,Reinhardt,,Norden,NI,DEU
@@ -17407,7 +17443,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2634613,DO4HRE,Rene,,no_city,NW,DEU
 2634614,DK1YCL,Christian,,Castrop-Rauxel,NW,DEU
 2634615,DM1SW,Sebastian,,Wuppertal,NW,DEU
-2634616,DG9YFH,Thomas,,Recklinghausen,NW,DEU
+2634616,DL6TJ,Thomas,,Recklinghausen,NW,DEU
 2634617,DL5JY,Rolf,,Solingen,NW,DEU
 2634618,DH4JG,Joachim,,Koeln,NW,DEU
 2634619,DG6YHX,Michael,,Stadtlohn,NW,DEU
@@ -18751,7 +18787,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638467,DO1AHN,Alexander,,no_city,BY,DEU
 2638468,DG2RA,Bernhard,,Windischeschenbach,BY,DEU
 2638469,DL9ST,Johannes,,Pfaffenhofen,BY,DEU
-2638470,DC1IK,Olaf,,Kirchseeon,BY,DEU
+2638470,DC1IK,Olaf,,Kirchheim Bei Muenchen,BY,DEU
 2638471,DO2ARS,Richard,,no_city,BY,DEU
 2638472,DG1NBM,Stephan,,Pegnitz,BY,DEU
 2638473,DO6DW,Dirk Helmut,,Remscheid,NW,DEU
@@ -19483,7 +19519,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644282,DO1ULI,Ulrich,,no_city,NW,DEU
 2644283,DO1BOB,Christian,,Langeln,SH,DEU
 2644286,DL2DCF,Rolf,,Marl,NW,DEU
-2644287,DO1RHI,Rainer,,Koeln,NW,DEU
+2644287,DD1RA,Rainer,,Koeln,NW,DEU
 2644288,DG4DOM,Markus Joachim,,Dortmund,NW,DEU
 2644289,DH1SAI,Dietmar,,Muelheim,NW,DEU
 2644290,DG2JH,Norbert,,Wuppertal,NW,DEU
