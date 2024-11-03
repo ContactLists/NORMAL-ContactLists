@@ -843,7 +843,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060705,ON3SMR,ON3SMR Regi,Antwerp,Antwerp,BEL,,Private Call,None
 ,2060706,ON2LG,ON2LG Jean,Flemalle,Liege,BEL,,Private Call,None
 ,2060707,ON3GRG,ON3GRG Geert,Brakel,Oost Vlaanderen,BEL,,Private Call,None
-,2060708,ON3MC,ON3MC Micael,Bersilles L Abbaye,Hainaut,BEL,,Private Call,None
+,2060708,ON3MC,ON3MC Micael,,Hainaut,BEL,,Private Call,None
 ,2060709,ON3BHV,ON3BHV Hubert,1470 Genappe Brabant Wallon,Wal Brabant,BEL,,Private Call,None
 ,2060710,ON2PH,ON2PH Philippe,Barvaux Sur Ourthe,Luxemburg,BEL,,Private Call,None
 ,2060711,ON5NA,ON5NA Bart,Geraardsbergen,Oost Vlaanderen,BEL,,Private Call,None
@@ -866,6 +866,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060728,ON3LBU,ON3LBU Luc,Deurne Antwerpen,Antwerp,BEL,,Private Call,None
 ,2060729,ON3DGB,ON3DGB Dora,Wichelen,Oost Vlaanderen,BEL,,Private Call,None
 ,2060730,ON4GT,ON4GT Geert,Drongen,Oost Vlaanderen,BEL,,Private Call,None
+,2060731,ON4KCH,ON4KCH Jean Pierre,,Liege,BEL,,Private Call,None
+,2060732,ON3TEA,ON3TEA Alexis,Genappe,Wal Brabant,BEL,,Private Call,None
+,2060733,ON8EM,ON8EM Michel,Tournai Jo10qo,Hainaut,BEL,,Private Call,None
+,2060734,ON4KDT,ON4KDT Alain,Mont Saint Guibert,Wal Brabant,BEL,,Private Call,None
+,2060735,ON3BPA,ON3BPA Bart,Sint Niklaas,Oost Vlaanderen,BEL,,Private Call,None
 ,2061001,ON8SVH,ON8SVH Stijn,Oudenaarde,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061002,ON8SI,ON8SI Simon,Oosterzele,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061003,ON5LUC,ON5LUC Luc,Gent,Oost-Vlaanderen,BEL,,Private Call,None
@@ -1109,7 +1114,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061250,ON7EC,ON7EC Erik,Beveren-Waas,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061251,ON6VI,ON6VI Rene,Dendermonde,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061252,ON4CFB,ON4CFB Patrick,Kruibeke,Oost-Vlaanderen,BEL,,Private Call,None
-,2061253,ON2VR,ON2VR Rudy,Laarne,Oost-Vlaanderen,BEL,,Private Call,None
+,2061253,ON5VR,ON5VR Rudy,Laarne,,BEL,,Private Call,None
 ,2061255,ON4DWT,ON4DWT Thierry,Brakel,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061256,OT1B,OT1B Thierry,Brakel,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061257,ON5WW,ON5WW Wim,Stekene,Oost-Vlaanderen,BEL,,Private Call,None
@@ -1163,7 +1168,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061305,ON1JDM,ON1JDM Jan,Niet Beschikbaar,Ovl,BEL,,Private Call,None
 ,2061306,ON8KW,ON8KW Kurt,Aalst,Ovl,BEL,,Private Call,None
 ,2061307,ON7TAR,ON7TAR Patrick,Maldegem,Ovl,BEL,,Private Call,None
-,2061308,ON3KS,ON3KS Jan,Maldegem,Oost-Vlaanderen,BEL,,Private Call,None
+,2061308,ON8KS,ON8KS Jan,Maldegem,,BEL,,Private Call,None
 ,2061309,ON3CDV,ON3CDV Luc,Wortegem-Petegem,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061310,ON4JP,ON4JP Eric,Basper(ga),Oost-Vlaanderen,BEL,,Private Call,None
 ,2061311,ON4RF,ON4RF Filippe,Waasmunster,Oost-Vlaanderen,BEL,,Private Call,None
@@ -1617,8 +1622,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2065013,ON6LR,ON6LR Marc,Rebecq,Wal Brabant,BEL,,Private Call,None
 ,2065014,ON3BUT,ON3BUT Patrick,Genappe,Wal Brabant,BEL,,Private Call,None
 ,2065015,ON5BEM,ON5BEM Michel,Court-Saint-Etienne,Wal Brabant,BEL,,Private Call,None
-,2065016,ON4MS,ON4MS Guy,Jodoigne-Souveraine,Wal Brabant,BEL,,Private Call,None
-,2065017,ON7CFI,ON7CFI Jan,Dongelberg,Wal Brabant,BEL,,Private Call,None
+,2065016,ON4MS,ON4MS Guy,Jodoigne,Wal Brabant,BEL,,Private Call,None
+,2065017,ON7CFI,ON7CFI Jantje,Dongelberg,Wal Brabant,BEL,,Private Call,None
 ,2065018,ON3FHN,ON3FHN Fabian,Nivelles,Wal Brabant,BEL,,Private Call,None
 ,2065019,ON4MI,ON4MI Michael,Nivelles,Wal Brabant,BEL,,Private Call,None
 ,2065020,ON3DCH,ON3DCH Christian,Ramillies,Wal Brabant,BEL,,Private Call,None
@@ -3569,6 +3574,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081631,F1TQN,F1TQN Didier,St Firmin,,FRA,,Private Call,None
 ,2081632,F4LUX,F4LUX Daniel,Moisenay,,FRA,,Private Call,None
 ,2081633,F4LUP,F4LUP Ewen,Lanfains,Bretagne,FRA,,Private Call,None
+,2081634,F4LPK,F4LPK Michel,Souilhe,Occitanie,FRA,,Private Call,None
+,2081635,F4JEU,F4JEU ,18190 Venesmes,,FRA,,Private Call,None
+,2081636,F4LQE,F4LQE Philippe,,Grand,FRA,,Private Call,None
 ,2081777,F4JBM,F4JBM Francois,Saint-Cloud,,FRA,,Private Call,None
 ,2081778,F1UFW,F1UFW Saletzki,Aussonne,Occitanie,FRA,,Private Call,None
 ,2081779,F4JJQ,F4JJQ Pierre,Bailleul Sir Berthoult,Hauts De France,FRA,,Private Call,None
@@ -5426,6 +5434,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280364,HB3MBO,HB3MBO Michel,Bussigny Lausanne,Vaud,CHE,,Private Call,None
 ,2280365,HB9HCZ,HB9HCZ Mateo,Pratteln,Basel Country,CHE,,Private Call,None
 ,2280366,HB3YTR,HB3YTR Andre,Rothrist,Aargau,CHE,,Private Call,None
+,2280367,HB3YIZ,HB3YIZ Pascal,Huttwil,Bern,CHE,,Private Call,None
+,2280368,HB3YIY,HB3YIY Basil,St Urban,Lucerne,CHE,,Private Call,None
+,2280369,HB9ZIH,HB9ZIH Mathias,,Zurich,CHE,,Private Call,None
+,2280370,HB3YJB,HB3YJB Jasmine,4950 Huttwil,Bern,CHE,,Private Call,None
+,2280371,HB3YJA,HB3YJA David,Huttwil,Bern,CHE,,Private Call,None
+,2280372,HB9ILZ,HB9ILZ Maurice,1803 Chardonne,Vaud,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -8007,8 +8021,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3021029,VE1RMJ,VE1RMJ Robert,Oxford,Nova Scotia,CAN,,Private Call,None
 ,3021030,VE1CA,VE1CA Robert,Oxford,Nova Scotia,CAN,,Private Call,None
 ,3021031,VE1ZX,VE1ZX Bradford,Parrsboro,Nova Scotia,CAN,,Private Call,None
-,3021032,VE1EDP,VE1EDP Edward,Amherst,Nova Scotia,CAN,,Private Call,None
-,3021033,VE1EDP,VE1EDP Edward,Amherst,Nova Scotia,CAN,,Private Call,None
 ,3021034,VE1ZJM,VE1ZJM Zachary,Lower South River,Nova Scotia,CAN,,Private Call,None
 ,3021035,VE9IOU,VE9IOU Richard,Wilsons Beach,New Brunswick,CAN,,Private Call,None
 ,3021036,VE1JBL,VE1JBL James,Tidnish Bridge,Nova Scotia,CAN,,Private Call,None
@@ -12728,6 +12740,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025803,VE9JCT,VE9JCT Jean Claude,Shediac,New Brunswick,CAN,,Private Call,None
 ,3025804,VA2ESA,VA2ESA ,Maddington,Quebec,CAN,,Private Call,None
 ,3025805,VE3MLR,VE3MLR Eustathios,Hamilton,Ontario,CAN,,Private Call,None
+,3025806,VA6RPG,VA6RPG Cary,Calgary,Alberta,CAN,,Private Call,None
+,3025807,VE7EE,VE7EE Jan Erik Carsten,Lions,British Columbia,CAN,,Private Call,None
+,3025808,VA3CVE,VA3CVE Cristian,Brampton,Ontario,CAN,,Private Call,None
+,3025809,VE3UPK,VE3UPK Caleb,Thunder,Ontario,CAN,,Private Call,None
+,3025810,VE7YPR,VE7YPR John,Prince Rupert,British Columbia,CAN,,Private Call,None
+,3025811,VE2LEQ,VE2LEQ Denis,Trois Rivieres,Quebec,CAN,,Private Call,None
+,3025812,VE7RVJ,VE7RVJ Jimmy,Richmond,British Columbia,CAN,,Private Call,None
+,3025813,VE2KHQ,VE2KHQ Richard,Laval,Quebec,CAN,,Private Call,None
+,3025814,VE2VZT,VE2VZT Victor,Levis,Quebec,CAN,,Private Call,None
+,3025815,VA7VCI,VA7VCI Ruchie,Sidney,British Columbia,CAN,,Private Call,None
+,3025816,VA3IRQ,VA3IRQ Saad,London,Ontario,CAN,,Private Call,None
 ,3025912,VE3XBI,VE3XBI Robert,Mount Albert,Ontario,CAN,,Private Call,None
 ,3025913,VA2BBW,VA2BBW Ante,Gatineau,Quebec,CAN,,Private Call,None
 ,3025914,VA7HCW,VA7HCW Daniel,Cranbrook,British Columbia,CAN,,Private Call,None

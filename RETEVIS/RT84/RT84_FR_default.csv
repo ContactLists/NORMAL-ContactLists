@@ -842,7 +842,7 @@
 2060705,ON3SMR,Regi,Antwerp,Antwerp,BEL
 2060706,ON2LG,Jean,Flemalle,Liege,BEL
 2060707,ON3GRG,Geert,Brakel,Oost Vlaanderen,BEL
-2060708,ON3MC,Micael,Bersilles L Abbaye,Hainaut,BEL
+2060708,ON3MC,Micael,,Hainaut,BEL
 2060709,ON3BHV,Hubert,1470 Genappe Brabant Wallon,Wal Brabant,BEL
 2060710,ON2PH,Philippe,Barvaux Sur Ourthe,Luxemburg,BEL
 2060711,ON5NA,Bart,Geraardsbergen,Oost Vlaanderen,BEL
@@ -865,6 +865,11 @@
 2060728,ON3LBU,Luc,Deurne Antwerpen,Antwerp,BEL
 2060729,ON3DGB,Dora,Wichelen,Oost Vlaanderen,BEL
 2060730,ON4GT,Geert,Drongen,Oost Vlaanderen,BEL
+2060731,ON4KCH,Jean Pierre,,Liege,BEL
+2060732,ON3TEA,Alexis,Genappe,Wal Brabant,BEL
+2060733,ON8EM,Michel,Tournai Jo10qo,Hainaut,BEL
+2060734,ON4KDT,Alain,Mont Saint Guibert,Wal Brabant,BEL
+2060735,ON3BPA,Bart,Sint Niklaas,Oost Vlaanderen,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -1108,7 +1113,7 @@
 2061250,ON7EC,Erik,Beveren-Waas,Oost-Vlaanderen,BEL
 2061251,ON6VI,Rene,Dendermonde,Oost-Vlaanderen,BEL
 2061252,ON4CFB,Patrick,Kruibeke,Oost-Vlaanderen,BEL
-2061253,ON2VR,Rudy,Laarne,Oost-Vlaanderen,BEL
+2061253,ON5VR,Rudy,Laarne,,BEL
 2061255,ON4DWT,Thierry,Brakel,Oost-Vlaanderen,BEL
 2061256,OT1B,Thierry,Brakel,Oost-Vlaanderen,BEL
 2061257,ON5WW,Wim,Stekene,Oost-Vlaanderen,BEL
@@ -1162,7 +1167,7 @@
 2061305,ON1JDM,Jan,Niet Beschikbaar,Ovl,BEL
 2061306,ON8KW,Kurt,Aalst,Ovl,BEL
 2061307,ON7TAR,Patrick,Maldegem,Ovl,BEL
-2061308,ON3KS,Jan,Maldegem,Oost-Vlaanderen,BEL
+2061308,ON8KS,Jan,Maldegem,,BEL
 2061309,ON3CDV,Luc,Wortegem-Petegem,Oost-Vlaanderen,BEL
 2061310,ON4JP,Eric,Basper(ga),Oost-Vlaanderen,BEL
 2061311,ON4RF,Filippe,Waasmunster,Oost-Vlaanderen,BEL
@@ -1616,8 +1621,8 @@
 2065013,ON6LR,Marc,Rebecq,Wal Brabant,BEL
 2065014,ON3BUT,Patrick,Genappe,Wal Brabant,BEL
 2065015,ON5BEM,Michel,Court-Saint-Etienne,Wal Brabant,BEL
-2065016,ON4MS,Guy,Jodoigne-Souveraine,Wal Brabant,BEL
-2065017,ON7CFI,Jan,Dongelberg,Wal Brabant,BEL
+2065016,ON4MS,Guy,Jodoigne,Wal Brabant,BEL
+2065017,ON7CFI,Jantje,Dongelberg,Wal Brabant,BEL
 2065018,ON3FHN,Fabian,Nivelles,Wal Brabant,BEL
 2065019,ON4MI,Michael,Nivelles,Wal Brabant,BEL
 2065020,ON3DCH,Christian,Ramillies,Wal Brabant,BEL
@@ -3568,6 +3573,9 @@
 2081631,F1TQN,Didier,St Firmin,,FRA
 2081632,F4LUX,Daniel,Moisenay,,FRA
 2081633,F4LUP,Ewen,Lanfains,Bretagne,FRA
+2081634,F4LPK,Michel,Souilhe,Occitanie,FRA
+2081635,F4JEU,,18190 Venesmes,,FRA
+2081636,F4LQE,Philippe,,Grand,FRA
 2081777,F4JBM,Francois,Saint-Cloud,,FRA
 2081778,F1UFW,Saletzki,Aussonne,Occitanie,FRA
 2081779,F4JJQ,Pierre,Bailleul Sir Berthoult,Hauts De France,FRA
@@ -5425,6 +5433,12 @@
 2280364,HB3MBO,Michel,Bussigny Lausanne,Vaud,CHE
 2280365,HB9HCZ,Mateo,Pratteln,Basel Country,CHE
 2280366,HB3YTR,Andre,Rothrist,Aargau,CHE
+2280367,HB3YIZ,Pascal,Huttwil,Bern,CHE
+2280368,HB3YIY,Basil,St Urban,Lucerne,CHE
+2280369,HB9ZIH,Mathias,,Zurich,CHE
+2280370,HB3YJB,Jasmine,4950 Huttwil,Bern,CHE
+2280371,HB3YJA,David,Huttwil,Bern,CHE
+2280372,HB9ILZ,Maurice,1803 Chardonne,Vaud,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -8006,8 +8020,6 @@
 3021029,VE1RMJ,Robert,Oxford,Nova Scotia,CAN
 3021030,VE1CA,Robert,Oxford,Nova Scotia,CAN
 3021031,VE1ZX,Bradford,Parrsboro,Nova Scotia,CAN
-3021032,VE1EDP,Edward,Amherst,Nova Scotia,CAN
-3021033,VE1EDP,Edward,Amherst,Nova Scotia,CAN
 3021034,VE1ZJM,Zachary,Lower South River,Nova Scotia,CAN
 3021035,VE9IOU,Richard,Wilsons Beach,New Brunswick,CAN
 3021036,VE1JBL,James,Tidnish Bridge,Nova Scotia,CAN
@@ -12727,6 +12739,17 @@
 3025803,VE9JCT,Jean Claude,Shediac,New Brunswick,CAN
 3025804,VA2ESA,,Maddington,Quebec,CAN
 3025805,VE3MLR,Eustathios,Hamilton,Ontario,CAN
+3025806,VA6RPG,Cary,Calgary,Alberta,CAN
+3025807,VE7EE,Jan Erik Carsten,Lions,British Columbia,CAN
+3025808,VA3CVE,Cristian,Brampton,Ontario,CAN
+3025809,VE3UPK,Caleb,Thunder,Ontario,CAN
+3025810,VE7YPR,John,Prince Rupert,British Columbia,CAN
+3025811,VE2LEQ,Denis,Trois Rivieres,Quebec,CAN
+3025812,VE7RVJ,Jimmy,Richmond,British Columbia,CAN
+3025813,VE2KHQ,Richard,Laval,Quebec,CAN
+3025814,VE2VZT,Victor,Levis,Quebec,CAN
+3025815,VA7VCI,Ruchie,Sidney,British Columbia,CAN
+3025816,VA3IRQ,Saad,London,Ontario,CAN
 3025912,VE3XBI,Robert,Mount Albert,Ontario,CAN
 3025913,VA2BBW,Ante,Gatineau,Quebec,CAN
 3025914,VA7HCW,Daniel,Cranbrook,British Columbia,CAN
