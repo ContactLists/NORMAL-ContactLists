@@ -371,6 +371,9 @@
 2280371,HB3YJA David   ,Scheidegger Huttwi Bern                | CHE
 2280372,HB9ILZ Maurice ,Pittet 1803 Chardo Vaud                | CHE
 2280373,HB9HYC Janosch ,Nikolic Bern       Bern                | CHE
+2280374,HB9RSG Urs     ,Engel Weinfelden   Thurgau             | CHE
+2280375,HB9HZW Pascal  ,Aymon 1966 Blignou Valais              | CHE
+2280376,HB9IMX Alexandr,Pace Geneva        Geneva              | CHE
 2281001,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281002,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281003,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
@@ -2634,7 +2637,7 @@
 2320686,OE7CGH Christop,Gapp Brixlegg      TIROL               | AUT
 2320687,OE3MZK Markus  ,Szelnekovics Obers NOE                 | AUT
 2320688,OE5MMP Markus  ,Muehllechner Schil OOE                 | AUT
-2320689,OE1FER Markus  ,Ferra Reicher Wien no_regio            | AUT
+2320689,OE1FER Markus  ,Ferra-Reicher Wien WIEN                | AUT
 2320690,OE7BWI Bettina ,Weitlaner Souissi  no_regio            | AUT
 2320691,OE7FNH Florian ,Hoertnagl Erl      TIROL               | AUT
 2320692,OE3FZH Franz   ,No_city            NOE                 | AUT
@@ -2698,6 +2701,8 @@
 2320750,OE3PYC Peter   ,Hye Gross-Enzersdo NOE                 | AUT
 2320751,OE5FSP Franz   ,Steinbacher Voeckl OOE                 | AUT
 2320752,OE3LDV Josef   ,Habitzl Waltersdor NOE                 | AUT
+2320753,OE6DJN Daniel  ,Jeitler Neustift A BGLD                | AUT
+2320754,OE8PIT Peter   ,Michel Koetschach- KTN                 | AUT
 2321001,OE1KBC Kurt    ,Baumann Wien       WIEN                | AUT
 2321002,OE1KBC Kurt    ,Baumann Wien       WIEN                | AUT
 2321003,OE1KBC Kurt    ,Baumann Wien       WIEN                | AUT
@@ -3436,8 +3441,7 @@
 2323433,OE3VMW Martin  ,Wagner Neuhofen An NOE                 | AUT
 2323434,OE3TAN Anton   ,Neu Ardagger       NOE                 | AUT
 2323435,OE3VKA Markus  ,Kern Ybbs An der D NOE                 | AUT
-2323436,OE3ATC Alois   ,Taranetz Ardagger  NOE                 | AUT
-2323500,OE3XHQ Oevsv   ,Taranetz Ardagger  NOE                 | AUT
+2323500,OE3XHQ Oevsv   ,Kern Ybbs An der D NOE                 | AUT
 2323701,OE3DNW Gerhard ,Ebreichsdorf       NOE                 | AUT
 2323702,OE3DNW Gerhard ,Ebreichsdorf       NOE                 | AUT
 2323710,OE3DNW Gerhard ,Ebreichsdorf       NOE                 | AUT
@@ -4409,7 +4413,6 @@
 2620039,DG0CFR Ralf    ,Schmidt Wernigerod ST                  | DEU
 2620040,DL3HQD Winfried,Floeter Dessau     ST                  | DEU
 2620041,DM3AF Alexander,Fritsch Greifswald MV                  | DEU
-2620042,DO9AM Silvio   ,Thiem no_city      ST                  | DEU
 2620045,DG0HP Dietmar  ,Warkus Dessau      ST                  | DEU
 2620046,DL9GRB Rainer  ,Boeckmann Bad Dobe MV                  | DEU
 2620047,DO5AD Torsten  ,Stein Bernburg     ST                  | DEU
@@ -4499,7 +4502,6 @@
 2620135,DO1JFG Friedhel,Gohlke Luehmannsdo MV                  | DEU
 2620137,DL2NTE Thorsten,Empacher Zuessow   MV                  | DEU
 2620138,DO5HMK Marcel  ,Kriebitzsch Zeitz  ST                  | DEU
-2620139,DJ3XG Ruediger ,Helm Halberstadt   ST                  | DEU
 2620140,DO2VI Rene     ,Hruby Greifswald   MV                  | DEU
 2620142,DM5UAA Christia,Kobs Greifswald    MV                  | DEU
 2620143,DM1RM Rainer   ,Melkuhn Greifswald MV                  | DEU
@@ -4914,7 +4916,6 @@
 2620580,DL8BG Guenther ,Hagemann no_city                       | DEU
 2620581,DO3KMS Michael ,Simons Uebach-Pale NW                  | DEU
 2620582,DG1FD Joachim  ,Niemoeckl Gross-Zi HE                  | DEU
-2620583,DB5UX Reiner   ,Helm Lauf          BY                  | DEU
 2620584,DG5MEK Regina M,Hilbig Unterhachin BY                  | DEU
 2620585,DO1MD Daniel   ,Rauch Ismaning     BY                  | DEU
 2620586,DM3ET Dennis   ,Schultz no_city    SH                  | DEU
@@ -5032,7 +5033,6 @@
 2620706,DL9GAS Stefan  ,Gollwitzer Schwarz BY                  | DEU
 2620708,DK5CH Christian,Hoeffken Essen     NW                  | DEU
 2620709,DJ3PX Reinhold ,Schneider Neustadt RP                  | DEU
-2620710,DO1EL Karlheinz,Seifert Duisburg   NW                  | DEU
 2620711,DH0GME Elmar   ,Meiss Villingen-Sc BW                  | DEU
 2620712,DC8OH Christian,Fricke Wunstorf    NI                  | DEU
 2620713,DG6DXG Grzegorz,Miodek Muenchen    BY                  | DEU
@@ -5310,7 +5310,6 @@
 2621013,DC7OU Hans-Joac,Stamm Berlin       BE                  | DEU
 2621014,DH7AFJ Joerg   ,Peter Berlin       BE                  | DEU
 2621015,DL7AHD Dieter  ,Mohnberg Berlin    BE                  | DEU
-2621016,DF2FW Heinrich ,Bonrath Berlin     BE                  | DEU
 2621017,DL2STG Stefan  ,Goerg Berlin       BE                  | DEU
 2621018,DO1AHD Ina     ,Mohnberg Berlin    BE                  | DEU
 2621019,DO4EM Markus   ,Elsner no_city     BE                  | DEU
@@ -5440,7 +5439,6 @@
 2621162,DL9SAU Thomas  ,Osterried Berlin   BE                  | DEU
 2621163,DH7NN Sebastian,Kaul Berlin        BB                  | DEU
 2621164,DL2CST Christia,Herzog no_city     BB                  | DEU
-2621166,DM5SN Nico     ,Schmidt no_city    BB                  | DEU
 2621167,DH7AEK Fred    ,Schulzke no_city   BE                  | DEU
 2621168,DG3VN Wolfgang ,Kubala Eisenhuette BB                  | DEU
 2621169,DC7JZB Mario   ,Radtke Berlin      BE                  | DEU
@@ -5469,7 +5467,6 @@
 2621194,DL8UBR Bernd   ,Rubin Forst        BB                  | DEU
 2621195,DL2RZE Michael ,Zureck Brandenburg BB                  | DEU
 2621196,DL0JKH Clubst. ,no_city                                | DEU
-2621197,DD6KP Ulrich   ,Schiller Hohen Neu BB                  | DEU
 2621198,DC7AP Michael  ,Stroehmer Gallun   BB                  | DEU
 2621199,DC7DV Marius   ,Schlingelhof no_ci BE                  | DEU
 2621200,DO8OP Robert Lu,Houben Berlin      BE                  | DEU
@@ -5863,7 +5860,7 @@
 2621623,DB5BX Peter    ,Baumung Ibbenbuere NW                  | DEU
 2621624,DK4WM Martin   ,Wiedei Ostbevern   NW                  | DEU
 2621625,DL5MCR Hans    ,Tuerk Hohenbrunn   BY                  | DEU
-2621626,DO1TI Heino    ,Tiedemann Neu Wulm NI                  | DEU
+2621626,DL2HT Heino    ,Tiedemann Neu Wulm NI                  | DEU
 2621627,DG6SDB Dominiqu,Buerger Neu-Ulm    BY                  | DEU
 2621628,DB1KI Simon    ,Ferber Luedenschei NW                  | DEU
 2621629,DL9SMA Sebastia,Makowski Schwetzin BW                  | DEU
@@ -5877,7 +5874,6 @@
 2621637,DF1ALA Alan Mic,Homent Rheinbach   NW                  | DEU
 2621638,DF1ANG Antje   ,Homent Rheinbach   NW                  | DEU
 2621639,DL1SMX Paul Kon,Mann Parthenstein  SN                  | DEU
-2621640,DK1MN Heinrich ,Laustroer Lippstad NW                  | DEU
 2621641,DO5KKL Klaus   ,Kuerschner Lahnste RP                  | DEU
 2621642,DL6NAF Werner  ,Augustin Nuernberg BY                  | DEU
 2621643,DL6EAC Josef   ,Veith Kempen       NW                  | DEU
@@ -5902,7 +5898,6 @@
 2621662,DL2FBB Peter   ,Koob Heppenheim    RP                  | DEU
 2621663,DH1FAN Martin  ,Volk Dreieich      HE                  | DEU
 2621664,DM2HK Hartmut  ,Kordus Zeuthen     BB                  | DEU
-2621665,DO6TU Thomas He,Ullrich Erfurt     TH                  | DEU
 2621666,DH7DHB Dirk Ott,Herzer Essen       NW                  | DEU
 2621667,DD2DF Wolfhart ,Fritsche Witten    NW                  | DEU
 2621668,DH4MBM Bernd   ,Neuner Neuburg     BY                  | DEU
@@ -6224,7 +6219,6 @@
 2622008,DL4XN Tom      ,Breckwoldt Hamburg HH                  | DEU
 2622009,DJ9PM Peter    ,Meyer Pinneberg    SH                  | DEU
 2622010,DO2LRF Ralf    ,Frenzel Geesthacht SH                  | DEU
-2622011,DJ8KV Volker   ,Kluxen Halstenbek  SH                  | DEU
 2622012,DK3VX Uwe      ,Ulrich Ammersbek   SH                  | DEU
 2622013,DB6HK Helga    ,Kaufmann Hamburg   HH                  | DEU
 2622014,DL4LIF Iris    ,Frenzel no_city    SH                  | DEU
@@ -6358,7 +6352,6 @@
 2622158,DL1RSQ Mathias ,Diem Hamburg       HH                  | DEU
 2622159,DG2HAT Roberto ,Tommasi Hamburg    HH                  | DEU
 2622160,DL4LAB Ruediger,Barner Hamburg     HH                  | DEU
-2622162,DO1HWT Wolfgang,Tepp Hamburg       HH                  | DEU
 2622163,DH9LAK Karl-Fri,Kamp Husum         SH                  | DEU
 2622164,DJ3LE Hans-Juer,Marx Silberstedt   SH                  | DEU
 2622165,DG7RCD Dieter  ,Kneffel Winkelhaid BY                  | DEU
@@ -6471,7 +6464,6 @@
 2622279,DK8MM Mark     ,Mueller no_city                        | DEU
 2622280,DK7XW Werner   ,Schack Hamburg     HH                  | DEU
 2622281,DF4XX Kurt     ,Simon Barsbuettel  SH                  | DEU
-2622282,DG5HAD Detlef  ,Goluecke Grosshans SH                  | DEU
 2622283,DO6RU Roman    ,Rutkowski Flensbur SH                  | DEU
 2622284,DO9NR Nicole Ma,Rutkowski Flensbur SH                  | DEU
 2622285,DF8LA Werner   ,Scherg Busdorf     SH                  | DEU
@@ -6626,7 +6618,6 @@
 2622451,DK2FP Horst    ,Kreutzer Luebeck   SH                  | DEU
 2622453,DL4CH Christian,Wieland Quickborn  SH                  | DEU
 2622454,DL9RX Juergen  ,Christlieb Hamburg SH                  | DEU
-2622455,DL8HBD Dieter  ,Kluckert Luebeck   SH                  | DEU
 2622456,DJ0CU Paul Davi,Harrison Fehmarn   SH                  | DEU
 2622458,DL0AT Clubst.  ,Hamburg            HH                  | DEU
 2622459,DL1LAJ Andreas ,Kluck Elmshorn     SH                  | DEU
@@ -6662,7 +6653,6 @@
 2622491,DB1HC Manfred  ,Lasarzewski Wiemer SH                  | DEU
 2622492,DB8LD Siegfried,Didszun Kiel       SH                  | DEU
 2622493,DJ6MZ Peter    ,Gottwald Schleswig SH                  | DEU
-2622494,DB8LZ Hans-Chri,Sander Freienwill  SH                  | DEU
 2622495,DD7MK Max      ,Kretschmann Hambur HH                  | DEU
 2622496,DC8LP Peter Car,Petersen Niebuell  SH                  | DEU
 2622497,DG2LAV Bernd   ,Gobba Heide        SH                  | DEU
@@ -7024,7 +7014,6 @@
 2622869,DL1WKD Waldemar,Doerr Marpingen    SL                  | DEU
 2622870,DG0ONU Wolfgang,Vogler Muehlhausen TH                  | DEU
 2622871,DL5MFW Jan     ,Koellmann Tutzing  BY                  | DEU
-2622872,DL3FBK Siegbert,Wendland Vilshofen BY                  | DEU
 2622873,DL1KLT Stephan ,Kloidt Mainz       RP                  | DEU
 2622874,DG7MGK Wolfgang,Assenbrunner Schwe BY                  | DEU
 2622875,DG1OAD Thorsten,Darnedde Hannover  NI                  | DEU
@@ -7198,6 +7187,7 @@
 2623049,DC2HC Christian,Koch Wendisch Ever NI                  | DEU
 2623050,DL1YGH Matthias,Guntenhoener Biele NW                  | DEU
 2623051,DC1BQ Stefan   ,Oeverhaus Ankum    NI                  | DEU
+2623052,DJ3FS Frank    ,Sczesni Hehlen     NI                  | DEU
 2623053,DF9BE Detlef   ,Brackmann Georgsma NI                  | DEU
 2623054,DH4AAD Rainer H,David Hannover     NI                  | DEU
 2623055,DF3BM Geert    ,Luebbermann Hoogst NI                  | DEU
@@ -7268,7 +7258,6 @@
 2623124,DO1AWN Andreas ,Werning Rethem/All NI                  | DEU
 2623125,DL5UHR Hans-Eug,Kruempelmann Hanno NI                  | DEU
 2623126,DL5AAO Ludwig  ,Mann Braunschweig  NI                  | DEU
-2623127,DF9OB Bernd    ,Markowski Garbsen  NI                  | DEU
 2623128,DF1OE Roland   ,Schaeling Hannover NI                  | DEU
 2623129,DB1AI Gerd     ,Darsow Hemmingen   NI                  | DEU
 2623130,DH1OF Lars-Tors,Siegmund no_city   NI                  | DEU
@@ -7401,7 +7390,6 @@
 2623266,DO1KBL Kim-Benj,Luetkemeier no_cit NI                  | DEU
 2623267,DC6OG Olaf     ,Gehrke Sehlde      NI                  | DEU
 2623268,DC6JF Johannes ,Fuehrmann Giesen   NI                  | DEU
-2623269,DL1BDS Bernhard,Rohe Osnabrueck    NI                  | DEU
 2623270,DL8AV Peter    ,Linne Harsefeld    NI                  | DEU
 2623272,DO1THC Julian  ,Link Celle         NI                  | DEU
 2623273,DO1HEN Jan-Gerr,Henfler Lueneburg  NI                  | DEU
@@ -7411,7 +7399,7 @@
 2623277,DO6NP Nils     ,Prause Osnabrueck  NW                  | DEU
 2623278,DL0A Contestst.,Isernhagen         NI                  | DEU
 2623279,DL5OF Hans     ,Van der Veen Hamel NI                  | DEU
-2623280,DO3TG Thomas   ,Gruss no_city      NI                  | DEU
+2623280,DO3TG Thomas   ,Gruss Worpswede    NI                  | DEU
 2623281,DG4KLK Kai     ,Klose Eschershause NI                  | DEU
 2623282,DL1NAN Alexande,Neumueller Wonnebe BY                  | DEU
 2623283,DK2BE Hermann  ,Harms Leer         NI                  | DEU
@@ -7754,7 +7742,7 @@
 2623645,DO3WBL Wolfgang,Blanck Lueneburg   NI                  | DEU
 2623646,DL4BBX Alfred  ,Brueggemann Syke   NI                  | DEU
 2623647,DD1OA Sandra   ,Lammers Wedemark   NI                  | DEU
-2623648,DL4BS Bjoern Ra,Steinkamp Goetting NI                  | DEU
+2623648,DL4BS Rasmus   ,Steinkamp Goetting NI                  | DEU
 2623649,DL2CK Gebhard  ,Licht Worpswede    NI                  | DEU
 2623650,DD3OQ Uwe      ,Labyk Tuelau       NI                  | DEU
 2623651,DG7BBP Jens    ,Rosebrock Bremen   HB                  | DEU
@@ -7923,7 +7911,6 @@
 2623827,DL6UKL Klaus   ,Tippmann Cottbus   BB                  | DEU
 2623828,DL6BBB Warner  ,Berg Norderney     NI                  | DEU
 2623829,DJ5ER Heino    ,Held Schwanewede   NI                  | DEU
-2623830,DO1OLI Oliver  ,Quantz no_city     NI                  | DEU
 2623831,DJ7PG Heinz Pet,Geis Bremen        HB                  | DEU
 2623832,DJ9AM Dagmar   ,Krause Braunschwei NI                  | DEU
 2623833,DL4AP Hans-Joac,Krause Braunschwei NI                  | DEU
@@ -8061,7 +8048,6 @@
 2623974,DJ3DE Julian   ,Deus no_city       NI                  | DEU
 2623975,DO5FD Daniel   ,Fleger Coppenbrueg NI                  | DEU
 2623976,DO2HMK Olaf    ,Schoenke Coppenbru NI                  | DEU
-2623977,DL5NCA Otto    ,Vongehr no_city    BY                  | DEU
 2623978,DF7ER Sascha   ,Meyer Hankensbuett NI                  | DEU
 2623980,DJ9IN Karl-Hein,Harms Norderney    NI                  | DEU
 2623981,DK1KQ Uwe      ,Wensauer Cuxhaven  NI                  | DEU
@@ -8575,7 +8561,7 @@
 2624520,DL6LL Robert   ,Luck no_city       NW                  | DEU
 2624521,DL1KMN Martina ,Neid Bergheim-Gles NW                  | DEU
 2624522,DL3WEB Jan     ,Weber Netphen      NW                  | DEU
-2624523,DG5BEE Michael ,Stadie Lengerich   NW                  | DEU
+2624523,DG5BEE Michael ,Stadie Lengerich   NI                  | DEU
 2624524,DO4EF Frank    ,Sieben Krefeld     NW                  | DEU
 2624526,DF5WK Wolfgang ,Kind Luedenscheid  NW                  | DEU
 2624527,DO4THW Marco   ,Latz Haltern am Se NW                  | DEU
@@ -9184,7 +9170,6 @@
 2625168,DH0VV Arno Konr,Schneider Schwalba SL                  | DEU
 2625169,DL5VX Lorenz   ,Roll Saarbruecken  SL                  | DEU
 2625170,DF8PN Rainer   ,Baldus Herschbach  RP                  | DEU
-2625171,DB2VE Horst    ,Fass Neunkirchen   SL                  | DEU
 2625172,DO1JBS Jan     ,Buecheler Saarbrue SL                  | DEU
 2625173,DD5DA Michael J,Marx Saarlouis     SL                  | DEU
 2625175,DC6IN Gerhard  ,Janz Altdorf       RP                  | DEU
@@ -9418,7 +9403,6 @@
 2625418,DO1SBA Stefan  ,Baessler Bochum    NW                  | DEU
 2625420,DO8PD Andreas T,Goetz Rammelsbach  RP                  | DEU
 2625421,DH3PB Alexander,Hieb Landau        RP                  | DEU
-2625422,DF5WW Juergen  ,Umstaedter Kraam   RP                  | DEU
 2625423,DO9VB Volker   ,Brunner Bexbach    SL                  | DEU
 2625424,DM5KS Kay      ,Strach Salzgitter  RP                  | DEU
 2625425,DK1KT Rene     ,Blass no_city      RP                  | DEU
@@ -9549,7 +9533,6 @@
 2625559,DF1WH Thomas   ,Faller Oberwoerres RP                  | DEU
 2625560,DD4UQ Erich    ,Kless Kaiserslaute RP                  | DEU
 2625561,DK4US Axel     ,Schindler Ludwigsh RP                  | DEU
-2625562,DL3VS Manfred  ,Schmidt Ottweiler  SL                  | DEU
 2625563,DL5VG Franz-Jos,Rechin St. Ingbert SL                  | DEU
 2625564,DD0CN Wolfgang ,Kurth Puchheim     BY                  | DEU
 2625565,DB1CE Christoph,Erdel Illingen     SL                  | DEU
@@ -9571,7 +9554,6 @@
 2625581,DD8VQ Denis    ,Leinen Marpingen   SL                  | DEU
 2625582,DC2VW Herbert  ,Schwaninger Saarbr SL                  | DEU
 2625583,DK2RE Nikolaus ,Dieter Rech Eppelb SL                  | DEU
-2625584,DK3VS Gerd     ,Schneider Merzig   SL                  | DEU
 2625585,DD4VF Dietmar  ,Glesner Neunkirche SL                  | DEU
 2625586,DF8VC Andreas  ,Staab Ottweiler    SL                  | DEU
 2625587,DF8PX Bernd    ,Rieth Essenheim    RP                  | DEU
@@ -9615,7 +9597,6 @@
 2625627,DH8VH Teodor   ,Anca Schmelz       SL                  | DEU
 2625628,DL7RZ Carl Chri,Rheinlaender no_ci                     | DEU
 2625629,DL3CL Marco Mic,Greinwald no_city                      | DEU
-2625630,DB2TR Thomas   ,Kratzsch Nuernberg BY                  | DEU
 2625631,DL3VM Volker   ,Mailaender Mainz   RP                  | DEU
 2625632,DO6WN Joerg    ,Borzer Worms       RP                  | DEU
 2625633,DC9VU Frank    ,Bonitz Neunkirchen SL                  | DEU
@@ -10301,10 +10282,8 @@
 2626345,DO6LS Lothar   ,Scharffenberg Nies HE                  | DEU
 2626346,DO1FHP Harald  ,Przykopanski Bad K HE                  | DEU
 2626347,DF6ON Axel     ,Moehle Wolfsburg   NI                  | DEU
-2626348,DK5ZT Kurt     ,Wagner Heuchelheim HE                  | DEU
 2626349,DM3ES Egmont   ,Schreiter no_city                      | DEU
 2626350,DM6MB Daniel   ,Backes Pfungstadt  HE                  | DEU
-2626351,DL1FAP Gerhard ,Emmesberger Diez   RP                  | DEU
 2626352,DK2NO Dieter   ,Ort Bad Koenig - K HE                  | DEU
 2626353,DF0KAT Clubst. ,Ort Bad Koenig - K HE                  | DEU
 2626354,DH4FBK Heinrich,Depke Kassel       HE                  | DEU
@@ -11300,7 +11279,6 @@
 2627400,DG2EKO Elmar Kl,Ohrnberger Straube BW                  | DEU
 2627401,DO2NO Nils Pete,Olszok no_city     BW                  | DEU
 2627402,DK4OK Axel     ,Cordes Ludwigsburg BW                  | DEU
-2627403,DL1GBQ Eberhard,Gindele no_city    BW                  | DEU
 2627404,DO1CVZ Christia,Von Zameck-Glyscin BW                  | DEU
 2627405,DL7GAV Torsten ,Girrbach Freiberg  BW                  | DEU
 2627406,DK3DW Dieter   ,Winkler Leonberg   BW                  | DEU
@@ -11313,7 +11291,6 @@
 2627413,DL7FO Wolfgang ,Grensing Owingen   BW                  | DEU
 2627414,DG8VC Christoph,Klaer Gaggenau     BW                  | DEU
 2627415,DG2KBD Detlef J,Jaeschke Weilerswi NW                  | DEU
-2627416,DK7SF Johannes ,Dick Beilstein     BW                  | DEU
 2627417,DD9ST Frank    ,Brandner Leinfelde BW                  | DEU
 2627418,DO7PS Sven     ,Potrich Stuttgart  BW                  | DEU
 2627419,DH1SJ Joachim  ,Seitz no_city      BW                  | DEU
@@ -11430,7 +11407,6 @@
 2627537,DC1BE Dirk Chri,Wahrheit Papenburg BE                  | DEU
 2627538,DK9UD Uwe      ,Zimmermann Hambrue BW                  | DEU
 2627539,DC1SAF Fabian  ,Amann Rottenburg   BW                  | DEU
-2627540,DL1GHE Erwin   ,Hildebrand Aulendo BW                  | DEU
 2627541,DF7TY Rudolf   ,Barthel Moessingen BW                  | DEU
 2627543,DF2AJ Andreas  ,Jaeckle Oberriexin BW                  | DEU
 2627544,DO1HMI Harald  ,Mielich Roethenbac BY                  | DEU
@@ -11809,7 +11785,6 @@
 2627948,DO7NG Rony Hein,Wayand Waibstadt   BW                  | DEU
 2627949,DL6SCT Thomas  ,Stocker Pfullingen BW                  | DEU
 2627950,DJ1ST Sepp     ,Troissler Seckach  BW                  | DEU
-2627951,DG4SDS Dieter  ,Zinser Gaertringen BW                  | DEU
 2627952,DL7SIR Simon   ,Richter Berlin     BE                  | DEU
 2627953,DL5BAK Ansgar  ,Aubreville Rohrdor BW                  | DEU
 2627954,DL5EK Eric     ,Kittel Rottenburg  BW                  | DEU
@@ -12016,7 +11991,6 @@
 2628171,DC1MKF Franz   ,Kraller Fridolfing BY                  | DEU
 2628172,DF9WK Heiner   ,Klopp Bodolz       BY                  | DEU
 2628173,DG4MAR Marcus  ,Hedwig Inzell      BY                  | DEU
-2628174,DO7DET Edmund  ,Deichstetter Trost BY                  | DEU
 2628175,DO8PT Stefan   ,Trautner no_city   BY                  | DEU
 2628176,DO3UWE Uwe     ,Kniesburges Happur BY                  | DEU
 2628177,DG1KFR Frank   ,Rittmann Ilsfeld   BW                  | DEU
@@ -12286,7 +12260,7 @@
 2628449,DJ0AH Enver    ,Sabovic Pfronten - BY                  | DEU
 2628450,DD2CU Manfred  ,Bausbach Muenchen  BY                  | DEU
 2628451,DC2MAS Albert  ,Staffen Guenzach   BY                  | DEU
-2628452,DO1GJF Julian  ,Gnocchi Essen      NW                  | DEU
+2628452,DK1JG Julian   ,Gnocchi Essen      NW                  | DEU
 2628453,DJ1AUS Alexande,Sebestian no_city  BY                  | DEU
 2628454,DG8NBQ Thomas  ,Haas Schwarzenbruc BY                  | DEU
 2628456,DO1DST Dominic ,Stefani no_city    BY                  | DEU
@@ -12489,7 +12463,6 @@
 2628662,DH6MEG Michael ,Purkert Gilching   BY                  | DEU
 2628663,DO1TLG Thorsten,Leunig-Gloge Gifho NI                  | DEU
 2628664,DL1MBA Michael ,Agert Unterhaching BY                  | DEU
-2628665,DB1NAB Burkhard,Beyenbach Tauche   BY                  | DEU
 2628667,DL1OTT Wilhelm ,Ott no_city                            | DEU
 2628668,DB7NBS Benedikt,Schwarz Pleinfeld  BY                  | DEU
 2628669,DL4MEE Joachim ,Vojta Ruhstorf A.D BY                  | DEU
@@ -12895,7 +12868,6 @@
 2629093,DL5BBN Gerald  ,Schuller Erfurt    TH                  | DEU
 2629095,DL2DVL Klaus-Er,Soergel Dresden    SN                  | DEU
 2629096,DM3JK Jens     ,Stossmeister Muehl TH                  | DEU
-2629097,DO3BKG Bernd   ,Keilholz Muehlhaus TH                  | DEU
 2629098,DO9UB Hans-Ulri,Burchhardt Weinber TH                  | DEU
 2629099,DG5LC Tomasz   ,Petersohn Leipzig  SN                  | DEU
 2629100,DG4DSL Frank   ,Mrosack Doberschau SN                  | DEU
@@ -12914,7 +12886,6 @@
 2629113,DO2ASQ Fred    ,Quinque Hildburgha TH                  | DEU
 2629114,DO1WL Lutz     ,Burkert Leipzig    SN                  | DEU
 2629115,DO8MRL Marc    ,Rippel Pegau       SN                  | DEU
-2629116,DO9KJ Juergen  ,Keller Eriskirch   BW                  | DEU
 2629117,DM8MH Marcus   ,Heise Artern       TH                  | DEU
 2629119,DJ2AY Roberto  ,Napierski Elleben  TH                  | DEU
 2629120,DL2HC Harald   ,Hanke Brandis      SN                  | DEU
@@ -12944,7 +12915,6 @@
 2629144,DL5ZA Reinhard ,Wisotzky Niedergeb TH                  | DEU
 2629145,DO6RN Rosalie  ,Nickel Meuselwitz  TH                  | DEU
 2629146,DL9YSM Hans-Joc,Bernhardt Groitzsc SN                  | DEU
-2629147,DL3ALE Werner  ,Volker Saalfeld    TH                  | DEU
 2629148,DO4DJT Dirk Jos,Tenckhoff Markersb SN                  | DEU
 2629149,DL3UWE Uwe     ,Kleingaertner no_c TH                  | DEU
 2629150,DL1DUK Frank Ha,Lehmann Klipphause SN                  | DEU
@@ -13207,7 +13177,6 @@
 2629416,DH1WP Wolfgang ,Pruess no_city     SN                  | DEU
 2629417,DO7ZT Mathias H,Klemt Vierkirchen  SN                  | DEU
 2629418,DG0WOT Juergen ,Weissflog Zwoenitz SN                  | DEU
-2629420,DO9YY Michael  ,Hantsch Goerlitz   SN                  | DEU
 2629421,DD7UW Horst    ,Wandelt Elstra     SN                  | DEU
 2629422,DG0OEU Guido   ,Lochner Wutha-Farn TH                  | DEU
 2629423,DL5MM Wolfgang ,Hunger Pesterwitz  SN                  | DEU
@@ -13400,8 +13369,6 @@
 2629618,DK0NFK Clubst. ,Roth               BY                  | DEU
 2629619,DO1MA Marvin   ,Rzok Heiligenhaus  BY                  | DEU
 2629620,DH4RA Roland   ,Rossmann Flossenbu BY                  | DEU
-2629622,DF0NDR Clubst. ,Hamburg            HH                  | DEU
-2629623,DK0NDR Clubst. ,Hamburg            HH                  | DEU
 2629624,DL2JKE Jan     ,Kellmer Hagen im B NI                  | DEU
 2629625,DL6DAX Axel    ,Kinski Hagen       NW                  | DEU
 2629626,DJ8XW Peter    ,Jenus Muenchen     BY                  | DEU
@@ -13558,7 +13525,6 @@
 2629785,DG4CAU Christop,Grundies Offenbach HE                  | DEU
 2629786,DO3DA Holger   ,Hillebrand Essen   NW                  | DEU
 2629787,DO6PL Patrick  ,Thierbach Plauen   RP                  | DEU
-2629788,DO4NB Norbert  ,Bueschgens Moenche NW                  | DEU
 2629789,DC6FN Juergen  ,Karry Marburg      HE                  | DEU
 2629790,DD1HV Viktor   ,Halasz Radebeul    SN                  | DEU
 2629791,DJ4PN Leo      ,Van Elsbergen Naue BB                  | DEU
@@ -13628,7 +13594,7 @@
 2629856,DL7GAG Christel,Radau Wittlingen   BW                  | DEU
 2629857,DM8ST Stefan Al,Schlotterbeck-Mach BY                  | DEU
 2629858,DJ6TS Thomas   ,Staudacher Friedri BW                  | DEU
-2629859,DO3DCF David   ,Duscha Bochum      NW                  | DEU
+2629859,DO3DCF David   ,Duscha Castrop-Rau NW                  | DEU
 2629860,DO1THH Thomas F,Hartmann Oberndorf BW                  | DEU
 2629861,DK8OA Uwe      ,Siedentopf Hannove NI                  | DEU
 2629862,DD3HS Heinz Lud,Schmidt Bad Sooden HE                  | DEU
@@ -13961,7 +13927,7 @@
 2630200,DL1KHD Karl Her,Diehl Brachttal    HE                  | DEU
 2630201,DL6VH Herbert  ,Martens Altrich    RP                  | DEU
 2630202,DM2DL Christian,Bogner Kaiserslaut RP                  | DEU
-2630203,DO4PW Philipp  ,Weber Balingen     BW                  | DEU
+2630203,DL4PW Philipp  ,Weber Balingen     BW                  | DEU
 2630204,DK9SF Uwe      ,Pauls Apfelstaedt  TH                  | DEU
 2630205,DB3MI Michael C,Bernhard Markt Ret BY                  | DEU
 2630206,DO7HSN Heiko   ,Schack Holzwickede NW                  | DEU
@@ -14067,7 +14033,6 @@
 2630316,DO4MFD Marcus R,Faber Dietmannsrie BY                  | DEU
 2630317,DG5CW Thomas Re,Paetzold Bonn      NW                  | DEU
 2630318,DL7RAY Bjoern  ,Kagelmacher Rostoc MV                  | DEU
-2630319,DG1MSR Robert  ,Schroedl Langenbac BY                  | DEU
 2630320,DD6UTC Tom     ,Skodda Berlin      BE                  | DEU
 2630321,DL1JWR Wolfgang,Roehlig Callenberg SN                  | DEU
 2630322,DL9NDV Michael ,Gugel Jena         TH                  | DEU
@@ -14393,7 +14358,6 @@
 2630649,DK7SG Siegfried,Germer Ummendorf   BW                  | DEU
 2630650,DO3DM Carsten  ,Brock Kamp Lintfor NW                  | DEU
 2630651,DO1BGE Bernd   ,Gevecke Langenhage NI                  | DEU
-2630652,DL1FPG Franz-Pe,Grieger Sundern    NW                  | DEU
 2630653,DO4HBB Henning ,Beer Oldenburg     NI                  | DEU
 2630654,DO6EAH Holger  ,Dirk Bohnert Karls BW                  | DEU
 2630655,DH1OM Maik     ,Unverzagt Braunsch NI                  | DEU
@@ -14438,7 +14402,7 @@
 2630700,DL1AKC Andreas ,Genssler Darmstadt HE                  | DEU
 2630701,DF4XI Lutz     ,Ellinghaus Bad Sch SH                  | DEU
 2630702,DO9AI Ali Ihsan,Ivgen Bremen       HB                  | DEU
-2630703,DG1NKL Katharin,Leybold Reichensch BY                  | DEU
+2630703,DL1NKL Katharin,Leybold Reichensch BY                  | DEU
 2630704,DL3HW Hagen    ,Wallburg Eichwalde BB                  | DEU
 2630705,DG5YAH Ansgar  ,Hartwig Oelde      NW                  | DEU
 2630706,DK3QN Klaus    ,Brosche Friedberg  BY                  | DEU
@@ -14637,7 +14601,7 @@
 2630906,DO1AKW Alexande,Kleber no_city     BY                  | DEU
 2630907,DL9HBD Gunther ,Schendel Fehmarn   SH                  | DEU
 2630908,DO1SL Carsten H,Hoehndorf no_city  no_regio            | DEU
-2630909,DO4MHH Mike    ,Hammerer Herne     NW                  | DEU
+2630909,DA1MHH Mike    ,Hammerer Herne     NW                  | DEU
 2630910,DO1TEI Frank Ju,Teichmann Aurich   NI                  | DEU
 2630911,DF0DOX ClubSt. ,Immenstaad         BW                  | DEU
 2630912,DO2LAE Markus  ,Hahn Flensburg     SH                  | DEU
@@ -14783,7 +14747,6 @@
 2631059,DO3DKW Daniel Y,Kuss Winnenden     BW                  | DEU
 2631060,DJ0ERG Joerg   ,Heidemann Bielefel NW                  | DEU
 2631061,DO5MA Markus Pe,Acherer Tuntenhaus BY                  | DEU
-2631062,DO1PKL Peter Kl,Langpaul Niedernha HE                  | DEU
 2631063,DH3PAZ Wolfgang,Lorenz Darmstadt   HE                  | DEU
 2631064,DC7RT Robin    ,Toenniges Salzdetf NI                  | DEU
 2631065,DO1KMK Michael ,Kiese Koeln        NW                  | DEU
@@ -14979,7 +14942,6 @@
 2631264,DJ3XM Ulfert   ,Bloess Pansdorf    SH                  | DEU
 2631265,DL5VEN Sven    ,Von Oczkowski Lued NW                  | DEU
 2631266,DB8KN Niels Jon,Koch no_city                           | DEU
-2631267,DO6MWH Michael ,Winterroll Hoppsta RP                  | DEU
 2631268,DJ1HB Hartmut M,Baier Jueterbog    BB                  | DEU
 2631269,DL1EAB Stefan  ,Voss Nettetal      NW                  | DEU
 2631270,DO2KFS Karl-Fre,Schlueter Hamburg  HH                  | DEU
@@ -15008,7 +14970,6 @@
 2631295,DL7UMG Gerd    ,Balg Zwickau       SN                  | DEU
 2631296,DO2AKP Achim   ,Penner Voelklingen SL                  | DEU
 2631297,DL7APO Thomas H,Meier Mannheim     BW                  | DEU
-2631298,DH7ML Manfred  ,Loewnich Duisburg  NW                  | DEU
 2631299,DO1FRO Wolfgang,Roth Schotten      HE                  | DEU
 2631300,DK8YS Yannick  ,Seibert Saarbrueck SL                  | DEU
 2631301,DL7UD Ulrich   ,Daebler Berlin     BE                  | DEU
@@ -15725,7 +15686,7 @@
 2632019,DL7OI Ralf     ,Kahle Husum        NI                  | DEU
 2632020,DO1RD Robin Dun,Caglayan Langenfel NW                  | DEU
 2632021,DO7EBG Bjoern  ,Gimber Wurster Nor NI                  | DEU
-2632022,DO5RPW Rene' Pe,Weisheit Kuessaber BW                  | DEU
+2632022,DL4GWR Rene    ,Weisheit Kuessaber BW                  | DEU
 2632023,DG7MJG Michael ,Gambke Schoenhause ST                  | DEU
 2632024,DH1SF Dirk     ,Fehlner Hochdorf   BW                  | DEU
 2632025,DL3HQC Steffen ,Warzuegel Heroldsb BY                  | DEU
@@ -15837,7 +15798,6 @@
 2632131,DC1SH Manfred  ,Schuengel Friedber HE                  | DEU
 2632132,DJ4TI Till     ,Thurow Oelde       NW                  | DEU
 2632133,DO1AKT Alexandr,Kruger Titz        NW                  | DEU
-2632134,DH8HAK Christia,Kautz Luebeck      SH                  | DEU
 2632135,DL4SAE Hermann ,Buck Asperg        BW                  | DEU
 2632136,DO9MMP Maximili,Pertler Gablingen  BY                  | DEU
 2632137,DL9DAT Uwe     ,Schwarzpaul Gensin RP                  | DEU
@@ -15981,7 +15941,7 @@
 2632277,DM1RKO Mirko   ,Schelske Nortorf   SH                  | DEU
 2632278,DL1PMP Philipp ,Pohlig Pansdorf    SH                  | DEU
 2632279,DJ1WB Wolfgang ,Boehme Augsburg    BY                  | DEU
-2632280,DA6FD Dennis   ,Flesch Ratingen    NW                  | DEU
+2632280,DF1DF Dennis   ,Flesch Ratingen    NW                  | DEU
 2632281,DJ0GI Juergen  ,Hochsteiner Memmin BY                  | DEU
 2632282,DN9JMS Johannes,Mueller Schoepping NW                  | DEU
 2632283,DL8RAU Peter   ,Werner Teublitz    BY                  | DEU
@@ -16023,7 +15983,6 @@
 2632319,DO6JH Julian   ,Heise Magdeburg    ST                  | DEU
 2632320,DO2ATK Alexande,Tausend Koeln      NW                  | DEU
 2632321,DH2SRM Roland  ,Maag Koengen       BW                  | DEU
-2632322,DF1NS Nick     ,Stein Lahnstein    RP                  | DEU
 2632323,DF3VF Benedikt ,Fuhrmeister Hombur SL                  | DEU
 2632324,DF0WE Clubst.  ,Dok-P47 Wendlingen BW                  | DEU
 2632325,DO4HWB Gunter H,Ruckbeil Bodenwerd NI                  | DEU
@@ -16090,7 +16049,7 @@
 2632388,DL1WKA Wolfgang,Kaufmann Algermiss NI                  | DEU
 2632389,DN9ETS Michael ,Lichtenau          SN                  | DEU
 2632390,DL4FP Franz    ,Herkrath Alfter    NW                  | DEU
-2632391,DO7GG Thomas   ,Scheel Harz        NI                  | DEU
+2632391,DO7GG Thomas   ,Scheel Osterode am NIEDERSACHSEN / BREM| DEU
 2632392,DN9OC Claudia  ,Kieh Bremen        HB                  | DEU
 2632393,DF2JK Franz-Jos,Koenigsmann Nauort RP                  | DEU
 2632394,DL1STA Stefan  ,Altenkamp Berlin   BE                  | DEU
@@ -16305,7 +16264,7 @@
 2632603,DA6GRD Gerd    ,Haug Pliezhausen   BW                  | DEU
 2632604,DO2CBL Christia,Blume Tholey       SL                  | DEU
 2632605,DN9MHS Marcel  ,Hake Muelheim An d NW                  | DEU
-2632606,DL3BLA Bernd   ,Langner Wietmarsch NI                  | DEU
+2632606,DL3BLA Bernd   ,Langner Lohne      NI                  | DEU
 2632607,DN9STL Stefan  ,Lingnau Hagen      NW                  | DEU
 2632608,DN9TL Joerg    ,Klein Muelheim-Kae RP                  | DEU
 2632609,DB2OE Dennis   ,Boniakowsky Witzen HE                  | DEU
@@ -16336,6 +16295,29 @@
 2632634,DN9GE Goekhan  ,Effenhauser Augsbu BY                  | DEU
 2632635,DL2VH Volker   ,Heiler Neulussheim BW                  | DEU
 2632636,DN9DRR Dennis  ,Rauhe Wilsdruff    SN                  | DEU
+2632637,DC1SGA Jochen  ,Grau Nuertingen    BW                  | DEU
+2632638,DA6HG Heiko    ,Graf Freudenstadt  BW                  | DEU
+2632639,DO3ULI Ulrich  ,Schniedertoens Wer BB                  | DEU
+2632640,DO7MPA Mathias ,Polte Langenbruegg NI                  | DEU
+2632641,DL2EMM Michael ,Meuleners Toenisvo NW                  | DEU
+2632642,DG2US Frank    ,Sniegon Moritzburg SN                  | DEU
+2632643,DB1AB Andreas  ,Blaskowitz Hannove NI                  | DEU
+2632644,DN9PHL Philipp ,Brethauer Fuldatal HE                  | DEU
+2632645,DO4PK Paul     ,Klemusch Berlin    BE                  | DEU
+2632646,DN9TM Thomas   ,Matena Siegen      NW                  | DEU
+2632647,DN9BA Sebastian,Fuchs Neuhaus/Stei NI                  | DEU
+2632648,DO1AB Thomas   ,Berndt Wettin-Loeb ST                  | DEU
+2632649,DN9MAZ Matthias,Pflueger Rutesheim BW                  | DEU
+2632650,DO4BY Yannik   ,Buerkle Ammerbuch  BW                  | DEU
+2632651,DL3YSG Giacomo ,Zorzi Muenchen     BY                  | DEU
+2632652,DN9DRK Christia,Wilde Castrop-Raux NW                  | DEU
+2632653,DG9BBZ Adel    ,Raafat Lingen      NI                  | DEU
+2632654,DG4YGN Joerg   ,Galeski Marl       NI                  | DEU
+2632655,DN9GL Matthias ,Scholz Koeln       NW                  | DEU
+2632656,DO3SO Silke    ,Sohmen Kipfenberg  BY                  | DEU
+2632657,DO3OF Jonas    ,Sohmen Kipfenberg  BY                  | DEU
+2632658,DL1WPO Werner  ,Pochmann Oberhause BY                  | DEU
+2632659,DO1OFI Olaf    ,Fiedler Nuernberg  BY                  | DEU
 2633001,DG4AK Dietmar  ,Wich Hann. Muenden NI                  | DEU
 2633002,DH8AAA Oliver  ,Bastian Vechelde   NI                  | DEU
 2633003,DC6BV Reinhardt,Schucht Norden     NI                  | DEU
@@ -17588,7 +17570,6 @@
 2634648,DL8ZBW Joachim ,Nowak Castrop- Rau NW                  | DEU
 2634649,DO1OW Jens Oliv,Winkler Bonn       NW                  | DEU
 2634650,DG1KFK Frank   ,Korbel Bruehl      NW                  | DEU
-2634651,DO1EL Karlheinz,Seifert Duisburg   NW                  | DEU
 2634652,DK6DT Wilhelm  ,Foeckeler Brilon   NW                  | DEU
 2634653,DO1FBI Nils    ,Huisink Mettmann   NW                  | DEU
 2634654,DO1GP Peter Gue,Stork Lippstadt    NW                  | DEU
@@ -19849,7 +19830,7 @@
 2644522,DK3EL Leo      ,Van Gemmeren Uedem NW                  | DEU
 2644523,DD1EH Siegfried,Reisch Duesseldorf NW                  | DEU
 2644524,DL1WKU Willi   ,Kunst Aachen       NW                  | DEU
-2644525,DG5BEE Michael ,Stadie Lengerich   NW                  | DEU
+2644525,DG5BEE Michael ,Stadie Lengerich   NI                  | DEU
 2644526,DL1MV Markus   ,Becker no_city     NW                  | DEU
 2644528,DO2MSE Michael ,Schytrumpf Essen   NW                  | DEU
 2644530,DL7BN Nihat    ,Becerik no_city    NW                  | DEU
