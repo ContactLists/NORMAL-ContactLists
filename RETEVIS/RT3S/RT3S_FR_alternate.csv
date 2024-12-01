@@ -345,7 +345,7 @@
 2060205,ON7DKE Bob     ,Bob Dyserinck            Lissewege               West-Vlaanderen         BEL
 2060206,ON7DG Gino     ,Gino Dancet              Oostende                No_regio                BEL
 2060207,ON4AKG Rudy    ,Rudy Coolen              Gistel                  No_regio                BEL
-2060208,ON6MX Martin   ,Martin Craemer           Oostende                No_regio                BEL
+2060208,ON6MX Martin   ,Martin De Craemer        Oostende                                        BEL
 2060209,ON5AA Ham      ,Ham Member               Oostkamp                West-Vlaanderen         BEL
 2060210,ON6NT Tony     ,Tony Vandenborn          Hasselt                 West-Vlaanderen         BEL
 2060211,ON4CGC Ivan    ,Ivan Huvaere             Meulebeke               West-Vlaanderen         BEL
@@ -570,7 +570,7 @@
 2060431,ON4MHR Laurent ,Laurent Moreaux          Berloz                  Liege                   BEL
 2060432,ON1TB Thomas   ,Thomas Botte             Melsen                  Oost-Vlaanderen         BEL
 2060433,ON7VL Luc      ,Luc Van Den Berge        Roeselare               West-Vlaanderen         BEL
-2060434,ON7UDM Ulrich  ,Ulrich De Maeyer         Elversele               Oost-Vlaanderen         BEL
+2060434,ON7UDM Ulrich  ,Ulrich De Maeyer         Belsele                 Oost Vlaanderen         BEL
 2060435,ON1AAD Leo     ,Leo Bistmans             Antwerpen               Antwerp                 BEL
 2060436,ON5KR Kenneth  ,Kenneth Rogge            Lievegem                Oost-Vlaanderen         BEL
 2060437,ON9NG Nicolas  ,Nicolas Goyer            Bruxelles               Brussels                BEL
@@ -727,7 +727,7 @@
 2060590,ON7CH Guido    ,Guido Charita            Melle                   Oost Vlaanderen         BEL
 2060591,ON6MDE Michiel ,Michiel Dobbels          Lokeren                 Oost Vlaanderen         BEL
 2060592,ON6VDV Frank   ,Frank Vandevelde         B 8020 Hertsberge       West Vlaanderen         BEL
-2060593,ON1BSJ Janssen ,Janssen Steven           Zemst                   Vlaams Brabant          BEL
+2060593,ON1BSJ Steven  ,Steven Janssen           Beersel                 Vlaams Brabant          BEL
 2060594,ON1BT Taymans  ,Taymans Bruno            Melsele                 Oost Vlaanderen         BEL
 2060595,ON3RAF Delvaux ,Delvaux Raphael          Saint Ghislain          Hainaut                 BEL
 2060596,ON7KHZ Koen    ,Koen Blomme              St Kruis Brugge         West Vlaanderen         BEL
@@ -874,6 +874,9 @@
 2060737,ON3GIR Gilbert ,Gilbert Rentmeesters     Antwerpen               Antwerp                 BEL
 2060738,ON3GC Geoffrey ,Geoffrey Cara            Ans  Liege              Liege                   BEL
 2060739,ON5JC Christoph,Christoph Janker         Brussels                Brussels                BEL
+2060740,ON3JCO Jan     ,Jan Cornelis             Oud Turnhout            Antwerp                 BEL
+2060741,ON3WBK Marnix  ,Marnix Laureys           Wachtebeke              Oost Vlaanderen         BEL
+2060742,ON3RDH Rik     ,Rik Dhaenens             Kruisem                 Oost Vlaanderen         BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -3181,7 +3184,6 @@
 2081234,F4SGU Jean     ,Jean Poirier             Sainte Colombe          Bretagne                FRA
 2081235,F1RXM Jean Pier,Jean Pierre Billat       Aujac Pays Du Cognac    Nouvelle Aquitaine      FRA
 2081236,F6EJJ Christian,Christian Peyron         Carros                  Provence-Alpes-Cote d'Az FRA
-2081237,F4JOK Olivier  ,Olivier Baillou          Nimes                   Occitanie               FRA
 2081238,F4JOG Noel     ,Noel Gassmann            Chantraine              Grand Est               FRA
 2081239,F4JPE Fabien   ,Fabien                   no_city                 Hauts-De-France         FRA
 2081240,F1RIV Patrick  ,Patrick Murcia           70290 Plancher Bas      Bourgogne-Franche-Comte FRA
@@ -3570,7 +3572,7 @@
 2081624,F1HQX Henri    ,Henri Lacourt            Toulouse                Occitanie               FRA
 2081625,F4GLG Gilles   ,Gilles Corvee            Argentan                Normandie               FRA
 2081626,F1HEQ Laurent  ,Laurent Francois         Carpentras                                      FRA
-2081627,F6BEW Christian,Christian Pontier        Noneoutreau             Hauts De France         FRA
+2081627,F6BEW Christian,Christian Pontier        Outreau                 Hauts De France         FRA
 2081628,F4JWU Florent  ,Florent Berthet          La Roche Sur            Pays De La Loire        FRA
 2081629,F4LQV Martial  ,Martial Peynet           Pont Du Chateau                                 FRA
 2081630,F4WDY Graham   ,Graham Coleman           La Sauvetat Du Dropt    Nouvelle Aquitaine      FRA
@@ -3631,6 +3633,12 @@
 2081809,F8BKQ          , Fanucchi                Cormeray                Centre Val De Loire     FRA
 2081810,F5KDY Radio Clu,Radio Club Amateurs De Ch Chateaudun              Centre Val De Loire     FRA
 2081811,F4LVH Emmanuel ,Emmanuel Degardin        Carros                                          FRA
+2081812,F8CED Cyrille  ,Cyrille Thauvin          44760 La Bernerie En Ret Pays De La Loire        FRA
+2081813,F4GLH Christoph,Christophe Herault       France                  Occitanie               FRA
+2081814,F4LUN Kamal    ,Kamal Boukhari           Pontoise                                        FRA
+2081815,F6EDI Jean Phil,Jean Philippe Brausch    Noveant Sur Moselle     Grand                   FRA
+2081816,F4AMK Stephane ,Stephane Quiquandon      Montlucon                                       FRA
+2081817,F6BGU Laugier  ,Laugier Jean             Villeneuve Loubet                               FRA
 2082001,F4FUL Cyril    ,Cyril Teitler            Sciez                   Rhone-Alpes             FRA
 2082002,F5VIN Heiko    ,Heiko Damerau            Thoiry                  Rhone-Alpes             FRA
 2082003,F1AGU Charles-H,Charles-Henri Sap        Aillon Le Vieux         No_regio                FRA
@@ -4521,7 +4529,7 @@
 2088002,F8FKD Nicolas  ,Nicolas Larvor           Chateauneuf Du Faou     Brittany                FRA
 2088003,F8FKD Nicolas  ,Nicolas Larvor           Chateauneuf Du Faou     Brittany                FRA
 2088004,F5GNR Bernard  ,Bernard Bobiet           Sauzon                  Brittany                FRA
-2088005,F5LLX Pascal   ,Pascal Quenouillere      Bourgbarre              Brittany                FRA
+2088005,F5LLX Pascal   ,Pascal                   Bourgbarre              Bretagne                FRA
 2088006,F1TZO Michel   ,Michel Gacem             Dinard                  Brittany                FRA
 2088007,F5PBG Ludovic  ,Ludovic Vuillermet       Brest                   Brittany                FRA
 2088008,F5THD Jocelyn  ,Jocelyn Lorto            Iffendic                Brittany                FRA
@@ -5468,6 +5476,10 @@
 2280374,HB9RSG Urs     ,Urs Engel                Weinfelden              Thurgau                 CHE
 2280375,HB9HZW Pascal  ,Pascal Aymon             1966 Blignou Ayent      Valais                  CHE
 2280376,HB9IMX Alexandr,Alexandre Pace           Geneva                  Geneva                  CHE
+2280377,HB9WNV Roger   ,Roger Wassmer            Weingarten Ch 9508      Thurgau                 CHE
+2280378,HB9RYE Marcel  ,Marcel Wiedmer           Bern                    Bern                    CHE
+2280379,HB3YIE Patrick ,Patrick Verdon           Attalens                Fribourg                CHE
+2280380,HB9SSW Florian ,Florian Seiler                                                           CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -7086,7 +7098,7 @@
 3020039,VO1JQB Jaxson  ,Jaxson Boyd              St Johns                Newfoundland            CAN
 3020040,VO1CDR Brian   ,Brian Kidney             Paradise                Newfoundland            CAN
 3020041,VO1DO Herbert  ,Herbert Feltham          Mount Pearl             Newfoundland            CAN
-3020042,VY2JC Joe      ,Joe Clements             Bloomfield Station      Prince Edward Island    CAN
+3020042,VE1JCC Joe     ,Joe Clements             Bloomfield Station      Prince Edward Island    CAN
 3020043,VO2PRS Paul    ,Paul Saunders            Happy Valley Goose B    Newfoundland            CAN
 3020044,VE3MHY Richard ,Richard Jones            Oakville                Ontario                 CAN
 3020045,VE2LOM Michel  ,Michel Loranger          Trois-Rivieres          Quebec                  CAN
@@ -12557,7 +12569,7 @@
 3025592,VE9PAL Paul    ,Paul Sivret              Irishtown               New Brunswick           CAN
 3025593,VA2SCD Stephane,Stephane Carriere        Gatineau                Quebec                  CAN
 3025594,VE2STV Stephen ,Stephen Cadrin           Gatineau                Quebec                  CAN
-3025595,VO1MGW Mark    ,Mark Walsh               Wesleyville Newfoundland Newfoundland            CAN
+3025595,VE9MGW Mark    ,Mark Walsh               Grand Manan             New Brunswick           CAN
 3025596,VE2EDO Alexandr,Alexandre Henry          Sherbrooke              Quebec                  CAN
 3025597,VA2GFW Jean    ,Jean Gosselin            Quebec                  Quebec                  CAN
 3025598,VA3OOC David   ,David Hall               Ottawa                  Ontario                 CAN
@@ -12783,7 +12795,7 @@
 3025818,VE3ZPW Jack    ,Jack Benes               Fonthill                Ontario                 CAN
 3025819,VE7ZST Trevor  ,Trevor Putterill         Kamloops                British Columbia        CAN
 3025820,VE9CAM Camille ,Camille Hector Leblanc   Moncton                 New Brunswick           CAN
-3025821,VA7GRF Feenstra,Feenstra Gordon          Halfmoon                British Columbia        CAN
+3025821,VA7GRF Gordon  ,Gordon Feenstra          Halfmoon                British Columbia        CAN
 3025822,VA3SWW David   ,David Macmillan          Grafton                 Ontario                 CAN
 3025823,VE1EJM Eric    ,Eric Mackenzie           Dartmouth               Nova Scotia             CAN
 3025824,VE3NMJ Jeff    ,Jeff Ariss               London                  Ontario                 CAN
@@ -12806,6 +12818,16 @@
 3025841,VA2THB Martin  ,Martin Thibaudeau        Sainte Sophie           Quebec                  CAN
 3025842,VE6BEZ Andrew  ,Andrew Bezanson          Sherwood Park           Alberta                 CAN
 3025843,VE2OPO Louis   ,Louis Aube                                       Quebec                  CAN
+3025844,VA2NAO Amelie  ,Amelie Courchesne        Drummondville           Quebec                  CAN
+3025845,VE2NAO Patrick ,Patrick Beaulieu         Drummondville           Quebec                  CAN
+3025846,VA2FIR Luc     ,Luc Laflamme             Saint Calixte           Quebec                  CAN
+3025847,VA3BMS Bashar  ,Bashar Masad             Mississauga             Ontario                 CAN
+3025848,VE4NL Clare    ,Clare Nesbitt            Winnipeg                Manitoba                CAN
+3025849,VE2RML Marc    ,Marc Lapierre            Sept Iles               Quebec                  CAN
+3025850,VE1HJN James   ,James Noseworthy         Fredericton             New Brunswick           CAN
+3025851,VE3ISL Gregory ,Gregory St Louis         Kitchener               Ontario                 CAN
+3025852,VE3ZUM James   ,James Mclaughlin         Ottawa                  Ontario                 CAN
+3025853,VA7LNT Linton  ,Linton Gormley           Richmond                British Columbia        CAN
 3025912,VE3XBI Robert  ,Robert Schuetze          Mount Albert            Ontario                 CAN
 3025913,VA2BBW Ante    ,Ante Laurijssen          Gatineau                Quebec                  CAN
 3025914,VA7HCW Daniel  ,Daniel Hamilton          Cranbrook               British Columbia        CAN
