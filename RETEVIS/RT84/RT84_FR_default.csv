@@ -414,7 +414,7 @@
 2060274,ON3CHT,no_name,no_city,No_regio,BEL
 2060275,ON3ADK,no_name,no_city,No_regio,BEL
 2060276,ON8IZ,no_name,no_city,No_regio,BEL
-2060277,ON3TRI,no_name,no_city,No_regio,BEL
+2060277,ON7DIM,Dimitri,Brussels,,BEL
 2060278,ON3ETH,Eric,Marche En Famenne,Luxembourg,BEL
 2060279,ON4CCE,Manu,Ingelmunster,No_regio,BEL
 2060280,ON3NIC,Nic,Namur,No_regio,BEL
@@ -878,6 +878,8 @@
 2060741,ON3WBK,Marnix,Wachtebeke,Oost Vlaanderen,BEL
 2060742,ON3RDH,Rik,Kruisem,Oost Vlaanderen,BEL
 2060743,ON3EDW,Edwin,Bredene,West Vlaanderen,BEL
+2060744,ON3EF,Filip,,Antwerp,BEL
+2060745,ON5AG,Antonio,Flemalle Haute,Liege,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -3460,7 +3462,7 @@
 2081510,F5RFD,Jean Pierre,gosnay,Hauts de France,FRA
 2081511,F4JZW,Blanchard,Le Mans,Pays de la Loire,FRA
 2081512,F1BIB,Daniel,57000 Metz,Grand Est,FRA
-2081513,F4ILN,Daniel,Chissay En Touraine,Centre Val De Loire,FRA
+2081513,F4ILN,Daniel,,Centre Val De Loire,FRA
 2081514,F0GLA,Maranta,Marseille,Provence Alpes Cote D Azur,FRA
 2081515,F4LHR,Pascal,Mandre Les Roses,Ile De France,FRA
 2081516,F8COJ,Sebastien,Le Kremlin Bicetre,Ile De France,FRA
@@ -3602,6 +3604,11 @@
 2081652,F5TND,Jean,85370 Mouzeuil Saint Martin,Pays De La Loire,FRA
 2081653,F8TGE,Michel,Boe,Nouvelle Aquitaine,FRA
 2081654,F4AXK,Laurent,79180 Chauray,Nouvelle Aquitaine,FRA
+2081655,F4LTW,Herve,Cloyes Sur Le Loir,Centre Val De Loire,FRA
+2081656,F4IMH,Killian,74330 Sillingy,Auvergne Rhone Alpes,FRA
+2081657,F4HZK,Fabrice,Vineuil,Centre Val De Loire,FRA
+2081658,F5SXS,Schaeffer,Gros Rederching,Grand,FRA
+2081659,F4IPF,Cyril,Clamart,Ile De France,FRA
 2081777,F4JBM,Francois,Saint Cloud,Ile De France,FRA
 2081778,F1UFW,Saletzki,Aussonne,Occitanie,FRA
 2081779,F4JJQ,Pierre,Bailleul Sir Berthoult,Hauts De France,FRA
@@ -5499,6 +5506,9 @@
 2280386,HB9FWB,Arti,Rosone,Ticino,CHE
 2280387,HB9IKK,Lennart,Zurich,Zurich,CHE
 2280388,HB9XNC,Patrick,St Gallen,St Gallen,CHE
+2280389,HB9INE,Samuel,St Gallen,St Gallen,CHE
+2280390,HB9INN,Norbert,None,Basel City,CHE
+2280391,HB9HWO,Dirk,Birmensdorf,Zurich,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -5976,7 +5986,7 @@
 2283188,HB9BJL,Christian,Messen,No_regio,CHE
 2283189,HB9HDW,Christoph,Worben,Bern und Oberwallis,CHE
 2283190,HB9CZV,Werner,Spiez,No_regio,CHE
-2283191,HB3XSX,Martin,Steg im Tosstal,Bern,CHE
+2283191,HB3XSX,Martin,Kaltacker,Bern,CHE
 2283192,HB3YWL,Michael,Heimberg,Bern,CHE
 2283193,HB9EWH,Hansjoerg,Muensingen,Bern,CHE
 2283194,HB9RNP,Peter,Huenibach,Bern,CHE
@@ -8323,7 +8333,7 @@
 3021275,VE3TCO,Tanner,no_city,Ontario,CAN
 3021276,VA3IDS,David,Sarnia,Ontario,CAN
 3021277,VA3EMJ,Edwardjames,Alliston,Ontario,CAN
-3021278,VE3SQT,Richard,Barrie,Ontario,CAN
+3021278,VE3SQT,Richard,Hanover,Ontario,CAN
 3021279,VE3RWJ,Chris,Ancaster,Ontario,CAN
 3021280,VE2KEZ,Jacques,Laval,Quebec,CAN
 3021281,VE3DHR,David,St Thomas,Ontario,CAN
@@ -10140,7 +10150,7 @@
 3023128,VA3KS,Kieran,Ottawa,Ontario,CAN
 3023129,VE3EAB,Dave,Oshawa,Ontario,CAN
 3023130,VE3MNP,Mike,Toronto,Ontario,CAN
-3023131,VE3SQT,Richard,Barrie,Ontario,CAN
+3023131,VE3SQT,Richard,Hanover,Ontario,CAN
 3023132,VA3KUG,Greg,Midland,Ontario,CAN
 3023133,VA3TCY,Rose,Vaughan,Ontario,CAN
 3023134,VA3TCY,Rose,Vaughan,Ontario,CAN
@@ -11348,7 +11358,7 @@
 3024347,VE3FCA,Russel,London,Ontario,CAN
 3024348,VE2AEF,Jacques,Cantley,Quebec,CAN
 3024349,VA6TTX,Paul,Calgary,Alberta,CAN
-3024350,VE7RJT,Rod,Maple Ridge,British Columbia,CAN
+3024350,VE7RJT,Rod,Vernon,British Columbia,CAN
 3024351,VO1PH,Pat,Grand Falls-Windsor,Newfoundland,CAN
 3024352,VE7CBN,Virgilio,Vancouver,British Columbia,CAN
 3024353,VA2KMJ,Serge,Shawinigan,Quebec,CAN
@@ -11447,7 +11457,7 @@
 3024446,VE3FJJ,Flynn,Hamilton,Ontario,CAN
 3024447,VO1SDS,Dale,Ritters Arm,Newfoundland,CAN
 3024448,VE7BWZ,Brian,North Vancouver,British Columbia,CAN
-3024449,VA3UWU,Sameel,no_city,Ontario,CAN
+3024449,VA3UWU,Sarah,Toronto,Ontario,CAN
 3024450,VE6EY,John,Calgary,Alberta,CAN
 3024451,VA3AZV,Donald,Creemore,Ontario,CAN
 3024452,VE6RSO,Raymond,Red Deer County Alberta,Alberta,CAN
@@ -12486,7 +12496,7 @@
 3025490,VE6VBF,Ricki,Sherwood Park,Alberta,CAN
 3025491,VE3PSE,Stanley Alexander,Sudbury,Ontario,CAN
 3025492,VE2KEK,Eugene,Ste Melanie,Quebec,CAN
-3025493,VA3SVL,Scott Gregory,Brockville,Ontario,CAN
+3025493,VA3SVL,Scott Gregory,Cardinal,Ontario,CAN
 3025494,VY2FU,David George,Kensington,Prince Edward Island,CAN
 3025495,VY2NX,Robert John,Springfield West,Prince Edward Island,CAN
 3025496,VA2PWN,David,Montreal,Quebec,CAN
@@ -12867,6 +12877,11 @@
 3025871,VE7EXW,Donald,Gabriola,British Columbia,CAN
 3025872,VA2BVC,Benoit,Gatineau,Quebec,CAN
 3025873,VA7GHL,,Vancouver,British Columbia,CAN
+3025874,VE7CSY,Cameron,Pitt Meadows,British Columbia,CAN
+3025875,VE3RIP,Larry,Chesley,Ontario,CAN
+3025876,VE6JGL,John Gabriel,Hinton,Alberta,CAN
+3025877,VE3JUM,Jamie,Ashton,Ontario,CAN
+3025878,VA5RAP,Ron,,Saskatchewan,CAN
 3025912,VE3XBI,Robert,Mount Albert,Ontario,CAN
 3025913,VA2BBW,Ante,Gatineau,Quebec,CAN
 3025914,VA7HCW,Daniel,Cranbrook,British Columbia,CAN

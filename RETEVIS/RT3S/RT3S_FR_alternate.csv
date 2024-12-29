@@ -414,7 +414,7 @@
 2060274,ON3CHT no_name ,no_name                  no_city                 No_regio                BEL
 2060275,ON3ADK no_name ,no_name                  no_city                 No_regio                BEL
 2060276,ON8IZ no_name  ,no_name                  no_city                 No_regio                BEL
-2060277,ON3TRI no_name ,no_name                  no_city                 No_regio                BEL
+2060277,ON7DIM Dimitri ,Dimitri                  Brussels                                        BEL
 2060278,ON3ETH Eric    ,Eric Thomas              Marche En Famenne       Luxembourg              BEL
 2060279,ON4CCE Manu    ,Manu                     Ingelmunster            No_regio                BEL
 2060280,ON3NIC Nic     ,Nic                      Namur                   No_regio                BEL
@@ -878,6 +878,8 @@
 2060741,ON3WBK Marnix  ,Marnix Laureys           Wachtebeke              Oost Vlaanderen         BEL
 2060742,ON3RDH Rik     ,Rik Dhaenens             Kruisem                 Oost Vlaanderen         BEL
 2060743,ON3EDW Edwin   ,Edwin Mortelez           Bredene                 West Vlaanderen         BEL
+2060744,ON3EF Filip    ,Filip                                            Antwerp                 BEL
+2060745,ON5AG Antonio  ,Antonio Gallo            Flemalle Haute          Liege                   BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -3460,7 +3462,7 @@
 2081510,F5RFD Jean Pier,Jean Pierre Pouchain     gosnay                  Hauts de France         FRA
 2081511,F4JZW Blanchard,Blanchard                Le Mans                 Pays de la Loire        FRA
 2081512,F1BIB Daniel   ,Daniel Courtin           57000 Metz              Grand Est               FRA
-2081513,F4ILN Daniel   ,Daniel                   Chissay En Touraine     Centre Val De Loire     FRA
+2081513,F4ILN Daniel   ,Daniel                                           Centre Val De Loire     FRA
 2081514,F0GLA Maranta  ,Maranta Corrado          Marseille               Provence Alpes Cote D Az FRA
 2081515,F4LHR Pascal   ,Pascal Moutel            Mandre Les Roses        Ile De France           FRA
 2081516,F8COJ Sebastien,Sebastien Raduget        Le Kremlin Bicetre      Ile De France           FRA
@@ -3602,6 +3604,11 @@
 2081652,F5TND Jean     ,Jean Munoz               85370 Mouzeuil Saint Mar Pays De La Loire        FRA
 2081653,F8TGE Michel   ,Michel Accary            Boe                     Nouvelle Aquitaine      FRA
 2081654,F4AXK Laurent  ,Laurent Favreau          79180 Chauray           Nouvelle Aquitaine      FRA
+2081655,F4LTW Herve    ,Herve Juillet            Cloyes Sur Le Loir      Centre Val De Loire     FRA
+2081656,F4IMH Killian  ,Killian Ribemont         74330 Sillingy          Auvergne Rhone Alpes    FRA
+2081657,F4HZK Fabrice  ,Fabrice Dayber           Vineuil                 Centre Val De Loire     FRA
+2081658,F5SXS Schaeffer,Schaeffer Jean Marie     Gros Rederching         Grand                   FRA
+2081659,F4IPF Cyril    ,Cyril Beauchoux          Clamart                 Ile De France           FRA
 2081777,F4JBM Francois ,Francois                 Saint Cloud             Ile De France           FRA
 2081778,F1UFW Saletzki ,Saletzki Sebastien       Aussonne                Occitanie               FRA
 2081779,F4JJQ Pierre   ,Pierre Baussart          Bailleul Sir Berthoult  Hauts De France         FRA
@@ -3643,7 +3650,7 @@
 2081816,F4AMK Stephane ,Stephane Quiquandon      Montlucon               Auvergne Rhone Alpes    FRA
 2081817,F6BGU Jean     ,Jean Laugier             Villeneuve Loubet       Provence Alpes Cote D Az FRA
 2081818,F5SEV Aurelio  ,Aurelio Saccomano        Passy                   Auvergne Rhone Alpes    FRA
-2081819,F6ADW Lucien   ,Lucien                   Grasse                  Provence Alpes Cote D Az FRA
+2081819,F6ADW Lucien   ,Lucien Lucky Luke        Grasse                  Provence Alpes Cote D Az FRA
 2081820,F5RJI Jean     ,Jean Malsacrre           Germignac               Nouvelle Aquitaine      FRA
 2081821,F1NHS Millet   ,Millet Francis           Magland                 Auvergne Rhone Alpes    FRA
 2081822,F4IQD David    ,David Dias               Grenoble                Auvergne Rhone Alpes    FRA
@@ -5499,6 +5506,9 @@
 2280386,HB9FWB Arti    ,Arti Bordoni             Rosone                  Ticino                  CHE
 2280387,HB9IKK Lennart ,Lennart Werner           Zurich                  Zurich                  CHE
 2280388,HB9XNC Patrick ,Patrick Spannring        St Gallen               St Gallen               CHE
+2280389,HB9INE Samuel  ,Samuel Escher            St Gallen               St Gallen               CHE
+2280390,HB9INN Norbert ,Norbert Schmitt          None                    Basel City              CHE
+2280391,HB9HWO Dirk    ,Dirk Lipinski            Birmensdorf             Zurich                  CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -5976,7 +5986,7 @@
 2283188,HB9BJL Christia,Christian Eugster        Messen                  No_regio                CHE
 2283189,HB9HDW Christop,Christoph                Worben                  Bern und Oberwallis     CHE
 2283190,HB9CZV Werner  ,Werner Buechli           Spiez                   No_regio                CHE
-2283191,HB3XSX Martin  ,Martin Bader             Steg im Tosstal         Bern                    CHE
+2283191,HB3XSX Martin  ,Martin                   Kaltacker               Bern                    CHE
 2283192,HB3YWL Michael ,Michael Niederhausern    Heimberg                Bern                    CHE
 2283193,HB9EWH Hansjoer,Hansjoerg Wittwer        Muensingen              Bern                    CHE
 2283194,HB9RNP Peter   ,Peter Kraft              Huenibach               Bern                    CHE
@@ -8323,7 +8333,7 @@
 3021275,VE3TCO Tanner  ,Tanner                   no_city                 Ontario                 CAN
 3021276,VA3IDS David   ,David                    Sarnia                  Ontario                 CAN
 3021277,VA3EMJ Edwardja,Edwardjames              Alliston                Ontario                 CAN
-3021278,VE3SQT Richard ,Richard Reburn           Barrie                  Ontario                 CAN
+3021278,VE3SQT Richard ,Richard Reburn           Hanover                 Ontario                 CAN
 3021279,VE3RWJ Chris   ,Chris Smart              Ancaster                Ontario                 CAN
 3021280,VE2KEZ Jacques ,Jacques Parent           Laval                   Quebec                  CAN
 3021281,VE3DHR David   ,David Roper              St Thomas               Ontario                 CAN
@@ -10140,7 +10150,7 @@
 3023128,VA3KS Kieran   ,Kieran Sheperd           Ottawa                  Ontario                 CAN
 3023129,VE3EAB Dave    ,Dave Dempsey             Oshawa                  Ontario                 CAN
 3023130,VE3MNP Mike    ,Mike Iszak               Toronto                 Ontario                 CAN
-3023131,VE3SQT Richard ,Richard Reburn           Barrie                  Ontario                 CAN
+3023131,VE3SQT Richard ,Richard Reburn           Hanover                 Ontario                 CAN
 3023132,VA3KUG Greg    ,Greg Gay                 Midland                 Ontario                 CAN
 3023133,VA3TCY Rose    ,Rose Tsang               Vaughan                 Ontario                 CAN
 3023134,VA3TCY Rose    ,Rose Tsang               Vaughan                 Ontario                 CAN
@@ -11348,7 +11358,7 @@
 3024347,VE3FCA Russel  ,Russel Santor            London                  Ontario                 CAN
 3024348,VE2AEF Jacques ,Jacques Cadieux          Cantley                 Quebec                  CAN
 3024349,VA6TTX Paul    ,Paul Barnett             Calgary                 Alberta                 CAN
-3024350,VE7RJT Rod     ,Rod Templeton            Maple Ridge             British Columbia        CAN
+3024350,VE7RJT Rod     ,Rod Templeton            Vernon                  British Columbia        CAN
 3024351,VO1PH Pat      ,Pat Hurley               Grand Falls-Windsor     Newfoundland            CAN
 3024352,VE7CBN Virgilio,Virgilio Ocampo          Vancouver               British Columbia        CAN
 3024353,VA2KMJ Serge   ,Serge Blanchette         Shawinigan              Quebec                  CAN
@@ -11447,7 +11457,7 @@
 3024446,VE3FJJ Flynn   ,Flynn Robertson          Hamilton                Ontario                 CAN
 3024447,VO1SDS Dale    ,Dale Lane                Ritters Arm             Newfoundland            CAN
 3024448,VE7BWZ Brian   ,Brian Wood               North Vancouver         British Columbia        CAN
-3024449,VA3UWU Sameel  ,Sameel Fayyaz            no_city                 Ontario                 CAN
+3024449,VA3UWU Sarah   ,Sarah Amethyst           Toronto                 Ontario                 CAN
 3024450,VE6EY John     ,John Fallows             Calgary                 Alberta                 CAN
 3024451,VA3AZV Donald  ,Donald Laverdure         Creemore                Ontario                 CAN
 3024452,VE6RSO Raymond ,Raymond Mckinnon         Red Deer County Alberta Alberta                 CAN
@@ -12486,7 +12496,7 @@
 3025490,VE6VBF Ricki   ,Ricki Munro              Sherwood Park           Alberta                 CAN
 3025491,VE3PSE Stanley ,Stanley Alexander Koren  Sudbury                 Ontario                 CAN
 3025492,VE2KEK Eugene  ,Eugene Deschenes         Ste Melanie             Quebec                  CAN
-3025493,VA3SVL Scott Gr,Scott Gregory Lacroix    Brockville              Ontario                 CAN
+3025493,VA3SVL Scott Gr,Scott Gregory Lacroix    Cardinal                Ontario                 CAN
 3025494,VY2FU David Geo,David George Mcdougall   Kensington              Prince Edward Island    CAN
 3025495,VY2NX Robert Jo,Robert John Vary         Springfield West        Prince Edward Island    CAN
 3025496,VA2PWN David   ,David Levard             Montreal                Quebec                  CAN
@@ -12867,6 +12877,11 @@
 3025871,VE7EXW Donald  ,Donald Moser             Gabriola                British Columbia        CAN
 3025872,VA2BVC Benoit  ,Benoit Vaillancourt      Gatineau                Quebec                  CAN
 3025873,VA7GHL         , Huy                     Vancouver               British Columbia        CAN
+3025874,VE7CSY Cameron ,Cameron Young            Pitt Meadows            British Columbia        CAN
+3025875,VE3RIP Larry   ,Larry Zarola             Chesley                 Ontario                 CAN
+3025876,VE6JGL John Gab,John Gabriel Lagrada     Hinton                  Alberta                 CAN
+3025877,VE3JUM Jamie   ,Jamie Alberton           Ashton                  Ontario                 CAN
+3025878,VA5RAP Ron     ,Ron Pitt                                         Saskatchewan            CAN
 3025912,VE3XBI Robert  ,Robert Schuetze          Mount Albert            Ontario                 CAN
 3025913,VA2BBW Ante    ,Ante Laurijssen          Gatineau                Quebec                  CAN
 3025914,VA7HCW Daniel  ,Daniel Hamilton          Cranbrook               British Columbia        CAN
