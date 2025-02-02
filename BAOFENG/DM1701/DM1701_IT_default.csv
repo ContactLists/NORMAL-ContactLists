@@ -564,7 +564,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2220567,I0ZLI,Luciano,Buccioni,Roma (RM),Lazio,ITA,DMR
 2220568,IU0ICA,Mauro,Coletti,Roma (RM),Lazio,ITA,DMR
 2220569,I0CMD,Mario,Caruso,Ardea (RM),Lazio,ITA,DMR
-2220570,IU0CPP,Gianni,Mauro,Mentana (RM),Lazio,ITA,DMR
+2220570,IU0CPP,Gianni,Di Mauro,Mentana (RM),Lazio,ITA,DMR
 2220571,IK0ELN,Giovanni,Lorusso,Mentana (RM),Lazio,ITA,DMR
 2220572,IK0TLJ,Francesco,Campi,Roma (RM),Lazio,ITA,DMR
 2220573,IW0DQO,Giorgio,Domenicanton,Roma (RM),Lazio,ITA,DMR
@@ -3350,7 +3350,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2223377,IN3PPH,Sandro,Sandri,Castel Ivano (TN),Trentino AA,ITA,DMR
 2223378,IW3GNC,Daniele,Mattiuzzo,Treviso (TV),Veneto,ITA,DMR
 2223379,IV3DDN,Cimarosti,Stefano,Monfalcone (GO),Friuli VG,ITA,DMR
-2223380,IU3HTV,Stefano,Col,Belluno (BL),Veneto,ITA,DMR
+2223380,IU3HTV,Stefano,Da Col,Belluno (BL),Veneto,ITA,DMR
 2223381,IN3FZO,Franco,Franzan,Bolzano (BZ),Trentino AA,ITA,DMR
 2223382,IU3BRC,Elvis,Buratto,Saletto (PD),Veneto,ITA,DMR
 2223383,IW3IMM,Danilo,Fontanive,Cencenighe (BL),Veneto,ITA,DMR
@@ -4419,7 +4419,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2224455,IW4EGP,Paolo,Paesani,Rimini (RN),Emilia-Rom.,ITA,DMR
 2224456,IZ4JWY,Alfio,,Modena (MO),Emilia-Rom.,ITA,DMR
 2224457,IK2RZV,Elio,Mazziotta,Villanterio (PV),Lombardia,ITA,DMR
-2224458,IW2KVC,Marco,,Monza (MI),Lombardia,ITA,DMR
+2224458,IW2KVC,Marco,Olivini,Monza (MB),Lombardia,ITA,DMR
 2224459,I2MIP,Mariano,Piaia,Arcisate (VA),Lombardia,ITA,DMR
 2224460,IW2HNN,Valerio,Visconti,Milano (MI),Lombardia,ITA,DMR
 2224461,IW3AIB,Alexsius,Maran,Caldaro (BZ),Trentino AA,ITA,DMR
@@ -6717,7 +6717,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226762,IZ8EOX,Federico,Arace,Benevento (BN),Campania,ITA,DMR
 2226763,IW1BR,Alberto,Pirali,Belgirate (VB),Piemonte,ITA,DMR
 2226764,IU2DIZ,Roberto,,Bollate (MI),Lombardia,ITA,DMR
-2226765,IU3LKO,Gabriele,,Mirano (VE),Veneto,ITA,DMR
+2226765,IU3LKO,Gabriele,Bertoldo,Mirano (VE),Veneto,ITA,DMR
 2226766,IK8IJN,Bruno,Pirrello,Reggio Calabria (RC),Calabria,ITA,DMR
 2226767,IU3OIO,Andrea,,Castelmassa (RO),Veneto,ITA,DMR
 2226768,IU0KZZ,Gianco,,Roma (RM),Lazio,ITA,DMR
@@ -11433,6 +11433,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231501,IU8RGG,Luca,Annaccarato,Carolei (CS),Calabria,ITA,DMR
 2231502,IZ8FCA,Michele,Tortora,Casamarciano (NA),Campania,ITA,DMR
 2231503,IW4BIC,Cesare,Gridelli,Savignano Sul Rubicone (FC),Emilia-Rom.,ITA,DMR
+2231504,IK1ACX,Marco,Petronio,Campomorone (GE),Liguria,ITA,DMR
 2231505,IW3ILZ,Davide,Turrini,Valeggio Sul Mincio (VR),Veneto,ITA,DMR
 2231506,IS0KFK,Luigi,Rociola,Olbia (SS),Sardegna,ITA,DMR
 2231507,IV3WSJ,Mauro,Cok,Trieste (TS),Friuli VG,ITA,DMR
@@ -11498,7 +11499,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231568,IV3MTZ,Franco,Finzi,Trieste (TS),Friuli VG,ITA,DMR
 2231569,IU6TRE,Tiziano,Calo,Monte Urano (AP),Toscana,ITA,DMR
 2231570,IU7PRN,Fabrizio,Sansone,Taranto (TA),Puglia,ITA,DMR
-2231571,IW1GJH,Pietro,Siviero,Novara Pernate (NO),Piemonte,ITA,DMR
+2231571,IW1GJH,Pietro,Siviero,Pernate (NO),Piemonte,ITA,DMR
 2231572,IU1TJY,Andrea,Lisa,Parella (TO),Piemonte,ITA,DMR
 2231573,IS0KNW,Francesco,Brescia,Dolianova (CA),Sardegna,ITA,DMR
 2231574,IW3FTZ,Maurizio,Rossi,Mogliano Veneto (TV),Veneto,ITA,DMR
@@ -11636,4 +11637,43 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231706,IU2TZP,Stefano,Casarini,Mornico Losana (PV),Lombardia,ITA,DMR
 2231707,IU0PEQ,Aniello,De Vivo,Ladispoli (RM),Lazio,ITA,DMR
 2231708,IU5TTZ,Lorenzo,Aloigi,Firenze (FI),Toscana,ITA,DMR
+2231709,IU5HZV,Mauro,Vannini,Firenze (FI),Toscana,ITA,DMR
+2231710,IU3HPY,Paolo,Albertini,Romano D'Ezzelino (VI),Veneto,ITA,DMR
+2231711,IT9JLO,Cassio,Carletta,San Cataldo (CL),Sicilia,ITA,DMR
+2231712,I1SSO,Osvaldo,Bonardi,Torino (TO),Piemonte,ITA,DMR
+2231713,IU3SUH,Dario,Zuanel,La Valle Agordina (BL),Veneto,ITA,DMR
+2231714,IK2JYX,Marco,Costantin,Samarate (VA),Lombardia,ITA,DMR
+2231715,IT9KSG,Rosario,Poidomani,Modica (RG),Sicilia,ITA,DMR
+2231716,IU7UAD,Giosue,,Sava (TA),Puglia,ITA,DMR
+2231717,IU4LRX,Mauro,Piancastelli,Casola Valsenio (RA),Emilia-Rom.,ITA,DMR
+2231718,IK1QFJ,Valerio,Ribet,Cumiana (TO),Piemonte,ITA,DMR
+2231719,IU1TMD,Davide,Meliga,Cuneo (CN),Piemonte,ITA,DMR
+2231720,IU5SGU,Marco,Pardini,Forte Dei Marmi (LU),Toscana,ITA,DMR
+2231721,IT9KDV,Luigi,Chibbinesc,Messina (ME),Sicilia,ITA,DMR
+2231722,IU1PRM,Vincenzo,Inuso,Imperia (IM),Liguria,ITA,DMR
+2231723,IU0UGF,Fabio,Gentili,Roma (RM),Lazio,ITA,DMR
+2231724,IU5SJC,Giovanni,Zucca,San Giuliano (CE),Campania,ITA,DMR
+2231725,IU5TQZ,Gianni,Moretti,Montevarchi (AR),Toscana,ITA,DMR
+2231726,IU4TFE,Andrea,Tondelli,Cavriago (RE),Emilia-Rom.,ITA,DMR
+2231727,IU7UJS,Bruno,Contento,Bari (BA),Puglia,ITA,DMR
+2231728,IU7UJU,Claudia,Minervini,Bari (BA),Puglia,ITA,DMR
+2231729,IT9JBU,Agostino,Cocuzza,Motta Sant Anastasia (CT),Sicilia,ITA,DMR
+2231730,IU2TCL,Secondo,Braguti,Cremona (CR),Lombardia,ITA,DMR
+2231731,IK1OWB,Franco,Cravero,Cherasco (CN),Piemonte,ITA,DMR
+2231732,IZ7DEV,Armando,Aufieri,Lucera (FG),Puglia,ITA,DMR
+2231733,IU5CZN,Andrea,Veneri,Ponticino  Laterina Pergine Valdarno (AR),Toscana,ITA,DMR
+2231734,IW6OTU,Alessandro,Ibi,Pescara (PE),Abruzzo,ITA,DMR
+2231735,IN3GJG,Massimiliano,Buggio,Bolzano (BZ),Trentino AA,ITA,DMR
+2231736,IU5TDS,Massimiliano,Rossi,Sesto Fiorentino (FI),Toscana,ITA,DMR
+2231737,IN3KRZ,Hannes,Waldner,St. Valentin (BZ),Trentino AA,ITA,DMR
+2231738,IK3MZS,Andrea,Barbieri,Pescantina (VR),Veneto,ITA,DMR
+2231739,IT9KHS,Francesco,Utano,Messina (ME),Sicilia,ITA,DMR
+2231740,IU8BGT,Nicola,Pezone,Trentola Ducenta (CE),Campania,ITA,DMR
+2231741,IU4CWG,Roberto,Bianchi,Parma (PR),Emilia-Rom.,ITA,DMR
+2231742,IU5RDL,Michele Angelo,Greco,Prato (PO),Toscana,ITA,DMR
+2231743,IW9FGS,Mario,Cavallaro,Valverde (CT),Sicilia,ITA,DMR
+2231744,IK3BSM,Daniele,Livieri,Marghera (VE),Veneto,ITA,DMR
+2231745,IW2KEY,Roberto Rocco,Di Biase,Milano (MI),Lombardia,ITA,DMR
+2231746,IU0TYH,Christian,Napoli,Roma (RM),Lazio,ITA,DMR
+2231747,IW2OHK,Oscar,Galletti,Sesto San Giovanni (MI),Lombardia,ITA,DMR
 2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),Sicilia,ITA,DMR
