@@ -16,11 +16,11 @@ The countries are:
 
 The file name of the RAR files is composed as follows:
 
-Example: RT3S_DACH_alternate_202406241025.rar
+Example: RT3S_UserDB_SMALL_202503250850.rar
 - RT3S_			=	Device
 - WW_			=	Worldwide
 - SMALL_		=	all other Countries
-- 202406241025	=	Creation date (YYYYMMDDhhnn)
+- 202503250850	=	Creation date (YYYYMMDDhhnn)
 
 
 The file name of the CSV files is composed as follows:
