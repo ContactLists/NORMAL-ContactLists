@@ -107,7 +107,6 @@ Private Call,VA3BGW Brad,Wareham,London,Ontario - CAN,1023163
 Private Call,VE3NV Harrison,Lee,Mississauga,Ontario - CAN,1023164
 Private Call,VA3JNT Jose,Talens,Ottawa,Ontario - CAN,1023167
 Private Call,VA3TKO Bob,Fletcher,,Ontario - CAN,1023171
-Private Call,VA3WVA Brian,Beere,Brampton,Ontario - CAN,1023172
 Private Call,VA3RZP Renee,Patricio,Scarborough,Ontario - CAN,1023173
 Private Call,VA3XOR Nicholas,Dodds,Toronto,Ontario - CAN,1023176
 Private Call,VE3BMO Pierre,Coddington,Hamilton On,Ontario - CAN,1023179
@@ -910,6 +909,7 @@ Private Call,ON3SCL Stan,Claes,Keerbergen,Vlaams Brabant - BEL,2060780
 Private Call,ON3ZP Sebastiaan,,Liege, - BEL,2060781
 Private Call,ON7RK Koen,Rottier,Deurne,Antwerp - BEL,2060782
 Private Call,OO0O Rudy,Vds,Deinze,Oost Vlaanderen - BEL,2060783
+Private Call,ON3GB Dimitri,Coremans,Bouwel,Antwerp - BEL,2060784
 Private Call,ON8SVH Stijn,Hende,Oudenaarde,Oost-Vlaanderen - BEL,2061001
 Private Call,ON8SI Simon,Pauw,Oosterzele,Oost-Vlaanderen - BEL,2061002
 Private Call,ON5LUC Luc,Lourense,Gent,Oost-Vlaanderen - BEL,2061003
@@ -1997,7 +1997,7 @@ Private Call,F1EXN Eric,,Esbly,No_regio - FRA,2080007
 Private Call,F1TUV Yannick,,Nanterre,No_regio - FRA,2080008
 Private Call,F4GQK Sebastien,,Guignes,No_regio - FRA,2080009
 Private Call,F4GCQ Joel,,Clamart,No_regio - FRA,2080010
-Private Call,FR4EL Sebastien,Noteris,Gagny, - FRA,2080011
+Private Call,F4ELP Sebastien,Noteris,Gagny,Ile De France - FRA,2080011
 Private Call,F8FJH Francois,,Suresnes,No_regio - FRA,2080012
 Private Call,F1EAX Michel,,Malakoff,No_regio - FRA,2080013
 Private Call,F1NWD Dominic,,Colombes,No_regio - FRA,2080014
@@ -3069,7 +3069,7 @@ Private Call,F4HJX Fredo,,Seillons Source D Argens,Provence Alpes Cote D Azur - 
 Private Call,F1UNA Yvan,Capo,Althen-Des-Paluds,Provence-Alpes-Cte D - FRA,2081085
 Private Call,F1BSL Emmanuel,Khamissian,Gardanne,Provence-Alpes-Cte D - FRA,2081086
 Private Call,F1YW Michel,,no_city,Provence-Alpes-Cte D - FRA,2081087
-Private Call,F6DKA Robert,Franchino,Cavaillon,Provence-Alpes-Cte D - FRA,2081088
+Private Call,F6DKA Robert,Franchino,Cavaillon,Provence Alpes Cote D Azur - FRA,2081088
 Private Call,F8HYN Marek,,no_city,Provence-Alpes-Cte D - FRA,2081089
 Private Call,F5HVZ Robert,Brunel,Six-Fours-Les-Plages,Provence-Alpes-Cte D - FRA,2081090
 Private Call,F1EYA Grard,Guiselin,Saint-Saturnin-Les-Avignon,Provence-Alpes-Cte D - FRA,2081091
@@ -3529,7 +3529,7 @@ Private Call,F4WDK John,Legrain,La Cote,Nouvelle Aquitaine - FRA,2081546
 Private Call,F4IQP Philippe,Nicolas,Saint Gregoire,Bretagne - FRA,2081547
 Private Call,F1FDA Jean Yves,Robin,Neulliac,Bretagne - FRA,2081548
 Private Call,F4JYX Pierre,Poilane,CHOISY AU BAC,Hauts de France - FRA,2081549
-Private Call,F6ASP Jean Paul,,,Hauts De France - FRA,2081550
+Private Call,F6ASP Jean,Behague,None,Hauts De France - FRA,2081550
 Private Call,F4LAH Charly,Chretien,Nancy,Grand Est - FRA,2081551
 Private Call,F4AMI Michel,Laroche,Mesnil Bruntel,Hauts de France - FRA,2081552
 Private Call,F6COA Jean Pierre,Guinebault,Notre Dame De Gravenchon,Normandie - FRA,2081553
@@ -3666,6 +3666,12 @@ Private Call,F4MDX Alexis,,None,Nouvelle Aquitaine - FRA,2081683
 Private Call,F4MJX Charles,Garrec,Chateauneuf Du Faou,Bretagne - FRA,2081684
 Private Call,F4JRI Francois,Faveroult,Fresne La Mere,Normandie - FRA,2081685
 Private Call,F4MJY Philippe,Tardivel,Le Pellerin,Pays De La Loire - FRA,2081686
+Private Call,F4LYC Xavier,Bonnaud,Roche,Auvergne Rhone Alpes - FRA,2081687
+Private Call,F5HDS Denis,Galande,Maurs,Auvergne Rhone Alpes - FRA,2081688
+Private Call,F4LRW Nicolas,Marchand,Asserac,Pays De La Loire - FRA,2081689
+Private Call,F4LAX Jean Paul,,None,Provence Alpes Cote D Azur - FRA,2081690
+Private Call,F4MAB Jean,Courtecuisse,Haubourdin,Hauts De France - FRA,2081691
+Private Call,F1EFQ Olivier,Santiano,Paris,Ile De France - FRA,2081692
 Private Call,F4JBM Francois,,Saint Cloud,Ile De France - FRA,2081777
 Private Call,F1UFW Saletzki,Sebastien,Aussonne,Occitanie - FRA,2081778
 Private Call,F4JJQ Pierre,Baussart,Bailleul Sir Berthoult,Hauts De France - FRA,2081779
@@ -4896,7 +4902,7 @@ Private Call,F1RVC Patrice,Digital Network,Ymare,Normandie - FRA,2089198
 Private Call,F6DIJ Alain,,Albert,All Others - FRA,2089199
 Private Call,F5UAB Pascal,Vincent,Verderonne,All Others - FRA,2089200
 Private Call,F4HTA Luc,Fourneau,Lallaing,All Others - FRA,2089201
-Private Call,F4DVK Stephane,Kraida,Fargniers,All Others - FRA,2089202
+Private Call,F4DVK Stephane,Kraida,Tergnier,Hauts De France - FRA,2089202
 Private Call,F5FIM Jean,Durand,Gerbamont,All Others - FRA,2089203
 Private Call,F4AWH Jean-Luc,Euvrard,Froideterre,All Others - FRA,2089204
 Private Call,F5MZE Hubert,Vivien,Verquin,All Others - FRA,2089205
@@ -6862,7 +6868,7 @@ Private Call,HB9BHL Fritz,Hohermuth,Hittnau,Zuerich und Thurgau - CHE,2288084
 Private Call,HB9ODC Massimo,Gianora,Egg Bei Zuerich,Zuerich und Thurgau - CHE,2288085
 Private Call,HB9DSY Frank,K,Zurich,Zuerich und Thurgau - CHE,2288086
 Private Call,HB9DQV Reyko,Thiem,Bergdietikon,Aargau - CHE,2288087
-Private Call,HB9EZE Bruno,Gallobitsch,Zuerich,Zuerich und Thurgau - CHE,2288088
+Private Call,HB9EZE Bruno,,Zuerich,Zurich - CHE,2288088
 Private Call,HB9DQV Reyko,Thiem,Bergdietikon,Zuerich und Thurgau - CHE,2288089
 Private Call,HB9DUQ Tom,Marti,Einsiedeln,Zuerich und Thurgau - CHE,2288090
 Private Call,HB9DSX Juerg,Streuli,Zuerich,Zuerich und Thurgau - CHE,2288091
@@ -7014,7 +7020,7 @@ Private Call,HB3YVX Fabian,Eichmann,Zuerich,Zuerich und Thurgau - CHE,2288236
 Private Call,HB3YRW Philipp,,no_city,Zuerich und Thurgau - CHE,2288237
 Private Call,HB9TLH Thomas,Ruch,Hemishofen,Zuerich und Thurgau - CHE,2288238
 Private Call,HB9GSX Roberto,,Zuerich,Zuerich und Thurgau - CHE,2288239
-Private Call,HB9EZE Bruno,Jun,Zuerich,Zuerich und Thurgau - CHE,2288240
+Private Call,HB9EZE Bruno,,Zuerich,Zurich - CHE,2288240
 Private Call,HB9GSW Beat,,Zuerich,Zuerich und Thurgau - CHE,2288241
 Private Call,HB9EMD Nebojsa,Paunovic,Thalwil,Zuerich und Thurgau - CHE,2288242
 Private Call,HB3YLQ Daniel,Robin,Zuerich,Zuerich und Thurgau - CHE,2288243
@@ -11126,7 +11132,7 @@ Private Call,VE3TBG Derrick,Costa,Barrie,Ontario - CAN,3023983
 Private Call,VE3WA James,Webb,St Catharines,Ontario - CAN,3023984
 Private Call,VE3GDN Gordon,Fairchild,Alexandria,Ontario - CAN,3023985
 Private Call,VE3BGX Allstarlink,G,Ottawa,Ontario - CAN,3023986
-Private Call,VA3MRP Mike,Payette,,Ontario - CAN,3023987
+Private Call,VA3MRP Mike,Payette,None,Ontario - CAN,3023987
 Private Call,VE3LKS Laird,Solomon,Oshawa,Ontario - CAN,3023988
 Private Call,VA3HHE Hong,He,Hamilton,Ontario - CAN,3023989
 Private Call,VE3RDE Roger,Delisle,Ottawa,Ontario - CAN,3023990
@@ -11821,7 +11827,7 @@ Private Call,VE2OJM Sylvain,Boudreau,Portneuf Sur Mer,Quebec - CAN,3024679
 Private Call,VA3MXZ Jeffrey,Soley,Oro Medonte,Ontario - CAN,3024680
 Private Call,VE2ZKF Martin,Tanguay,Rivie Re-Du-Loup,Quebec - CAN,3024681
 Private Call,VE3DWI Tony,Lelieveld,Kitchener,Ontario - CAN,3024682
-Private Call,VE7TI John,Schouten,Surrey,British Columbia - CAN,3024683
+Private Call,VE7TI John,,Surrey,British Columbia - CAN,3024683
 Private Call,VE2MCI Michel,Blanchette,Be Cancour,Quebec - CAN,3024684
 Private Call,VE3NKL Nikolai,Ozerov,Richmond Hill,Ontario - CAN,3024685
 Private Call,VA3NTI Nick,Iozzo,Oakville,Ontario - CAN,3024686
@@ -12835,7 +12841,7 @@ Private Call,VE3NTS Stanley,Stacey,Courtice,Ontario - CAN,3025697
 Private Call,VE4ADB Aaron,Brisnik,Lockport,Manitoba - CAN,3025698
 Private Call,VA2XUT Francois,Dallaire,Saguenay,Quebec - CAN,3025699
 Private Call,VA7ORE Salvatore,Milia,Vancouver,British Columbia - CAN,3025700
-Private Call,VE1JKB James,Bruce,Halifax,Nova Scotia - CAN,3025701
+Private Call,VE1JKB Keith,Bruce,Halifax,Nova Scotia - CAN,3025701
 Private Call,VA3BHY Allan,Valencia,Georgetown,Ontario - CAN,3025702
 Private Call,VA7BNT Benjamin,Turner,Langford,British Columbia - CAN,3025703
 Private Call,VA3UAI Ian,Thomson,Meaford,Ontario - CAN,3025704
@@ -12905,7 +12911,7 @@ Private Call,VE3HWC Wong,Hoo,Richmond Hill,Ontario - CAN,3025767
 Private Call,VE7LBD Josenivaldo,Benito Junior,Burnaby,British Columbia - CAN,3025768
 Private Call,VA7KL Konstantin,Kropivny,Surrey,British Columbia - CAN,3025769
 Private Call,VE6KAT Catherine,Schmidt,Calgary,Alberta - CAN,3025770
-Private Call,VE3TFF Ian Macleod,,London,Ontario - CAN,3025771
+Private Call,VE3TFF Ian,,London,Ontario - CAN,3025771
 Private Call,VE1DVB Dan,Brennan,Westville,Nova Scotia - CAN,3025772
 Private Call,VA3TCN Jan,Matusewicz,Palmer Rapids,Ontario - CAN,3025773
 Private Call,VE9AR Alexander,Moore,Saint John,New Brunswick - CAN,3025774
@@ -13498,7 +13504,7 @@ Private Call,VE3QC Guy,Charron,Gloucester,Ontario - CAN,3026361
 Private Call,VE3DAC Matthew,Kenny,Meaford,Ontario - CAN,3026362
 Private Call,VE2KUI Michel,Cossette,Sainte Genevieve De Batiscan,Quebec - CAN,3026363
 Private Call,VE4GSB Garfield,Bonnell,,Manitoba - CAN,3026364
-Private Call,VA2CVP Carles,,None,Quebec - CAN,3026365
+Private Call,VA2CVP Carles,,Saguenay,Quebec - CAN,3026365
 Private Call,VA3BHX Bogdan,Hlevca,Unionville,Ontario - CAN,3026366
 Private Call,VA7QCK Karl,Kethler,Surrey,British Columbia - CAN,3026367
 Private Call,VE2KRN Rene,Gilbert,Rouyn Noranda,Quebec - CAN,3026368
@@ -13508,6 +13514,13 @@ Private Call,VA6NA Angus,Findlay,,Alberta - CAN,3026371
 Private Call,VE6SYD Sydney,Deitch,Calgary,Alberta - CAN,3026372
 Private Call,VA7ZY Bill,Haidar,,British Columbia - CAN,3026373
 Private Call,VA2TXZ Ken,Galama,,Quebec - CAN,3026374
+Private Call,VA3TDE Teodor,Axenti,,Ontario - CAN,3026375
+Private Call,VE7MIF Peter,Quatrale,,British Columbia - CAN,3026376
+Private Call,VA3IIT John,Tofflemire,Napanee,Ontario - CAN,3026377
+Private Call,VA3WVA Brian,Beere,Brampton,Ontario - CAN,3026378
+Private Call,VE2ZXO Daniel,Labelle,,Quebec - CAN,3026379
+Private Call,VE2FJU Denis,Lavoie,Shawinigan,Quebec - CAN,3026380
+Private Call,VE3MGH Michael,Diplacido,Wasaga Beach,Ontario - CAN,3026381
 Private Call,VA7RGM Robert,Meldrum,West Kelowna,British Columbia - CAN,3026912
 Private Call,VA6LTV Larry,Vollstaedt,Cochrane,Alberta - CAN,3026913
 Private Call,VE3ZWX James Bradley,Brien,London,Ontario - CAN,3026914
