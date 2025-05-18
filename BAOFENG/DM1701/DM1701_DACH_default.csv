@@ -420,9 +420,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280420,HB9HME,Ruedi,Ettlin,Dickbuch,Zurich,CHE,DMR
 2280421,HB9HZY,Jakob,Huser,,Zug,CHE,DMR
 2280422,HB9HGW,Rene,Mederlet,Hochdorf,Lucerne,CHE,DMR
-2280423,HB9TEA,Martin,Gurtner,Wichtrach,Bern,CHE,DMR
+2280423,HB9TEA,Martin,Gurtner,,Bern,CHE,DMR
 2280424,HB9CAO,Robert,Wach,Freienstein,Zurich,CHE,DMR
 2280425,HB9DFV,Meinrad,Riederer,Regensdorf,Zurich,CHE,DMR
+2280426,HB9IOL,Marcel,Reichmuth,Bilten,Glarus,CHE,DMR
+2280427,HB9UW,Radioclub,Unterwalden,Ennetmoos,Nidwalden,CHE,DMR
+2280428,HB9FGJ,Luca,Bertagnolio,Saint Livres,Vaud,CHE,DMR
+2280429,HB9ZHT,Daniel,Schwab,Oberlunkhofen,Aargau,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -1794,7 +1798,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288243,HB3YLQ,Daniel,Robin,Zuerich,Zuerich und Thurgau,CHE,DMR
 2288244,HB3YYU,Ingo,Kohler,Uster,Zuerich und Thurgau,CHE,DMR
 2288245,HB9FLY,Isabella,,no_city,Zuerich und Thurgau,CHE,DMR
-2288246,HB3XPA,Florian,Gutzwiller,Zuerich,Zuerich und Thurgau,CHE,DMR
+2288246,HB3XPA,Florian,Gutzwiller,Zurich,Zurich,CHE,DMR
 2288247,HB3YTS,Martin,,no_city,Zuerich und Thurgau,CHE,DMR
 2288248,HB9FSV,Martin,Schwarz,Schaffhausen,Zuerich und Thurgau,CHE,DMR
 2288249,HB9SH,Uska,Sektion,Schaffhausen,Zuerich und Thurgau,CHE,DMR
@@ -2826,6 +2830,16 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320827,OE6MHE,Michael,Herzog,Graz,STMK,AUT,DMR
 2320828,OE8DLE,Dominik,Leitner,Spittal An der Drau,KTN,AUT,DMR
 2320829,OE6PNF,Milo,Giuliani,Graz,STMK,AUT,DMR
+2320830,OE7MSZ,Manfred,,Schwaz,TIROL,AUT,DMR
+2320831,OE9JRU,Joel,Rupp,Wolfurt,VBG,AUT,DMR
+2320832,OE8DZA,David,Autischer,Villach,KTN,AUT,DMR
+2320833,OE6GID,Gerhard,Wippl,Feldkirchen Bei Graz,STMK,AUT,DMR
+2320834,OE6HUG,Hermann,Unger,Vasoldsberg,STMK,AUT,DMR
+2320835,OE9TXR,Martin,Muench,Lustenau,VBG,AUT,DMR
+2320836,OE3NKV,Andreas,Glueck,Sankt Poelten,NOE,AUT,DMR
+2320837,OE6PAG,Peter,Dunkel,Sinabelkirchen,STMK,AUT,DMR
+2320838,OE8KKS,Stefan,Kaiser,Greifenburg,KTN,AUT,DMR
+2320839,OE3TTW,Thomas,Tramberger,Strengberg,NOE,AUT,DMR
 2321001,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
 2321002,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
 2321003,OE1KBC,Kurt,Baumann,Wien,WIEN,AUT,DMR
@@ -4119,7 +4133,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327083,OE7NGI,Norbert,Groeger,Lienzosttirol,TIROL,AUT,DMR
 2327084,OE7DDI,Daniel,Groeger,Lienz,TIROL,AUT,DMR
 2327085,OE7PGI,Philipp,Groeger,Lienz,TIROL,AUT,DMR
-2327086,OE7OPJ,Peter,Oberhofer,Lienzosttirol,TIROL,AUT,DMR
+2327086,OE7OPJ,Peter,Oberhofer,Lienz,TIROL,AUT,DMR
 2327087,OE7OMT,Meinhard,Obererlacher,Lienz,TIROL,AUT,DMR
 2327089,OE7MWH,Michael,Werhonik,Steinach Abr,TIROL,AUT,DMR
 2327090,OE7GPI,Gerhard,Petzl,Innsbruck,TIROL,AUT,DMR
@@ -5113,7 +5127,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620667,DL5MB,Martin,Bergien,Meine,NI,DEU,DMR
 2620668,DG3HDA,Hendrik,Dietrich,Aschaffenburg-Obernau,BY,DEU,DMR
 2620669,DH4EAK,Roland,Zeise,Minden,NW,DEU,DMR
-2620670,DK4WO,Andreas,Wolbeck,Muenster,NW,DEU,DMR
+2620670,DK4WO,Andy,Wolbeck,Muenster,BY,DEU,DMR
 2620671,DM4TOM,Thomas Eduard,Wirtz,Alsdorf,NW,DEU,DMR
 2620674,DO1ARF,Alexandr,Romashkin,Fuerstenwalde,BB,DEU,DMR
 2620676,DK1RP,Peter,Bogner,Roeslau,BY,DEU,DMR
@@ -5278,7 +5292,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620856,DJ1MA,Maximilian Alexander,Jaeger,no_city,,DEU,DMR
 2620858,DO4TW,Thomas Horst Alfred,Warnstorff,Straubing,BY,DEU,DMR
 2620859,DC4XB,Holger,Bomm,Wurster Nordseekueste,NI,DEU,DMR
-2620860,DA1AA,Ivar,Kjos,Uedem,NW,DEU,DMR
 2620861,DO1TK,Thomas,Kreuzer,Mering,BY,DEU,DMR
 2620862,DL8ZT,Wolfgang,Stueber,Jueterbog,BB,DEU,DMR
 2620863,DL6YDY,Normann,Osthus,Guetersloh,NW,DEU,DMR
@@ -6193,7 +6206,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621854,DJ4GB,Gerrit,Brandt,no_city,,DEU,DMR
 2621855,DL1VHM,Michael,Wedel,Tuebingen,BW,DEU,DMR
 2621856,DD1NZ,Alexander,Korte,Bielefeld,NW,DEU,DMR
-2621857,DL9BO,Bernd Werner,Otto,Schwalmstadt,HE,DEU,DMR
+2621857,DL9BO,Bernd,Otto,Norden,NI,DEU,DMR
 2621858,DG1FBN,Malte,Struebert,Schmitten,HE,DEU,DMR
 2621860,DO6CH,Christoph Maximilian,Hurler,Leinfelden-Echterdingen,BW,DEU,DMR
 2621861,DB5AW,Andreas,Wrba,Oberlungwitz,SN,DEU,DMR
@@ -6627,7 +6640,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622333,DK2HW,Hans-Walther,Wagner,Brodersby,SH,DEU,DMR
 2622335,DL1TX,Ulrich Ewald,Foerster,Bollewick,MV,DEU,DMR
 2622336,DO5LRP,Ralph,Preuss,Barmissen,SH,DEU,DMR
-2622337,DK3ML,Hanns-Martin,Leuschner,no_city,SH,DEU,DMR
+2622337,DK3ML,Martin,Leuschner,Wedel,SH,DEU,DMR
 2622338,DK5PV,Helmut,Heib,Wedel,SH,DEU,DMR
 2622339,DD5PP,Peter,Polus,Witten,NW,DEU,DMR
 2622340,DK4HP,Peter,Lehrke,Hamburg,HH,DEU,DMR
@@ -7216,7 +7229,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622963,DK3QH,Ulrich,Hoermann,Karlshuld,BY,DEU,DMR
 2622964,DG2GGP,Gerd,Puschmann,Villingen-Schwenningen,BW,DEU,DMR
 2622965,DL1NGO,Ingo,Hofmann,Nuernberg,BY,DEU,DMR
-2622966,DD5FC,Edward,Van Veen,Vlotho,NW,DEU,DMR
+2622966,DL9NN,Edward,Van Veen,Vlotho,NW,DEU,DMR
 2622967,DG5FAX,Werner,Feldesz,Rotenburg,HE,DEU,DMR
 2622968,DK2DR,Horst-Dieter,Tiemann,Hamm,NW,DEU,DMR
 2622969,DL7IO,Ibrahim,Oezdemir,Berlin,BE,DEU,DMR
@@ -7326,7 +7339,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2623075,DG4LX,Ralph,Mundt,Stuhr,NI,DEU,DMR
 2623076,DO2GSP,Guenther Ernst Otto,Steege,Peine,NI,DEU,DMR
 2623077,DJ9PH,Christian,Zirlewagen,Lengede,NI,DEU,DMR
-2623078,DG2AAV,Norman,Czora,Braunschweig,NI,DEU,DMR
+2623078,DA1AA,Norman,Czora,Braunschweig,NI,DEU,DMR
 2623079,DL9WW,Marcus,Busch,Isernhagen,NW,DEU,DMR
 2623080,DF5WXF,Michael,Bielicke,Stade,NI,DEU,DMR
 2623081,DO9BAU,Alexander,Urban,Zeuthen,BB,DEU,DMR
@@ -12661,7 +12674,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2628770,DG1MKK,Friedrich,Christandl,Neubiberg,BY,DEU,DMR
 2628771,DO1KN,Norbert,Korb,Landau A.D. Isar,BY,DEU,DMR
 2628772,DB4NU,Heinz-Dieter,Bindig,Wuerzburg,BY,DEU,DMR
-2628773,DL6EL,Muzaffer,Tuerkmen,Weyarn Wattersdorf,BY,DEU,DMR
+2628773,DL6EL,Muzaffer,Tuerkmen,Weyarn,BY,DEU,DMR
 2628774,DL5ER,Reinhard,Entress,Scheidegg,BY,DEU,DMR
 2628775,DK1MAX,Max,Wild,Reichertshofen,BY,DEU,DMR
 2628776,DC1ERA,Roland,Eser,Gersthofen,BY,DEU,DMR
@@ -12777,7 +12790,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2628892,DF1RH,Hermann,Horst,Hahnbach,BY,DEU,DMR
 2628893,DJ5MHZ,Oliver,Baer,Bad Toelz,BY,DEU,DMR
 2628894,DO7HH,Helmut Johann,Hirschmann,no_city,,DEU,DMR
-2628895,DC4DC,Gerald,Magill,Mering,BY,DEU,DMR
+2628895,DC4DC,Jerry,Magill,Mering,BY,DEU,DMR
 2628896,DG9NCU,Alfred,Neubauer,Prosselsheim,BY,DEU,DMR
 2628897,DH6NAT,Wilfried,Zapf,Memmelsdorf,BY,DEU,DMR
 2628898,DG6NBW,Franz,Schenk,Bayreuth,BY,DEU,DMR
@@ -14712,7 +14725,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630921,DG6ACW,Michael,Brueggemann,Elbe,NI,DEU,DMR
 2630922,DO1BND,Marcel,Chmiel,Neustadt,HE,DEU,DMR
 2630923,DL4VK,Valentin,Kurtovic,Neu-Ulm,BY,DEU,DMR
-2630924,DO3MOS,Michael,Otto,Koenigs Wusterhausen,BB,DEU,DMR
+2630924,DL7MO,Michael,Otto,Koenigs Wusterhausen,BB,DEU,DMR
 2630925,DO8NC,Nicolas Cedric,Kleinz,Kreuznach,RP,DEU,DMR
 2630926,DC5TH,Wolfgang,Linder,Wuerzburg,BY,DEU,DMR
 2630927,DF1WW,Friedrich Wilhelm,Wulf,Ronnenberg,NI,DEU,DMR
@@ -16104,7 +16117,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632344,DC6WO,Heiko,Bott,Worms,RP,DEU,DMR
 2632345,DO7RAL,Ralf,Ziegler,No_city,BW,DEU,DMR
 2632346,DR4TS,Thomas,Waschin,Ubersee,BY,DEU,DMR
-2632347,DN9BF,Bjorn,Freckmann,Buedelsdorf,SH,DEU,DMR
+2632347,DO5BF,Bjoern,Freckmann,Büdelsdorf,SH,DEU,DMR
 2632348,DM8SB,Sebastian,Brandes,Berlin,BE,DEU,DMR
 2632349,DL6KCN,Wilfried,Findling,Bonn,NW,DEU,DMR
 2632350,DL9MX,Maximilian,Steinmeyer,Reichertshausen,BY,DEU,DMR
@@ -16113,7 +16126,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632353,DF7IF,Georg,Thaemer,Hattenhofen,BW,DEU,DMR
 2632354,DN9MT,Marco,Thies,Roehl,RP,DEU,DMR
 2632355,DL6SDZ,Karlheinz,Schneider,Neuffen,BW,DEU,DMR
-2632356,DN9MEM,Mathias,Ellermann,no_city,,DEU,DMR
+2632356,DM3ME,Mathias,Ellermann,Magdeburg,ST,DEU,DMR
 2632357,DM2ET,Christian,Krabes,Zeiskam,RP,DEU,DMR
 2632358,DB1FMA,Fabian,Mink,Butzbach,HE,DEU,DMR
 2632359,DD3VE,Torsten,Volz,Neunkirchen,BW,DEU,DMR
@@ -16170,7 +16183,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632412,DO7HP,Pascal,Hansjosten,Wendlingen,BW,DEU,DMR
 2632413,DN9UK,Ulrich,Krause,Reutlingen,BW,DEU,DMR
 2632414,DA6TO,Tobias,Daser,Unterschleissheim,BY,DEU,DMR
-2632415,DN9HA,Harald,Alberts,Schuby,SH,DEU,DMR
+2632415,DA6HA,Harald,Alberts,Schuby,SH,DEU,DMR
 2632416,DN9CH,Christiane,Schaefer,Essen,NW,DEU,DMR
 2632417,DN9AD,Aurelio,Dobmeier,Brigachtal,BW,DEU,DMR
 2632418,DO2DK,Jochen,Strack,Siegen,NW,DEU,DMR
@@ -16229,7 +16242,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632471,DL1WK,Fritz,Kitschke,Saale,ST,DEU,DMR
 2632472,DC6IY,Erich,Roesler,Bremen,HB,DEU,DMR
 2632473,DF3MT,Michael,Trunke,Dietmannsried,BY,DEU,DMR
-2632474,DA1EBI,Oliver,Eberlein,Koeln,NW,DEU,DMR
+2632474,DA1FC,Oliver Rudi,Eberlein,Koeln,NW,DEU,DMR
 2632475,DL3HDL,Stefan,Heindel,Scheinfeld,BY,DEU,DMR
 2632476,DA6KK,Dieter,Krosch,Dueren,NW,DEU,DMR
 2632477,DN9JP,Joerg,Pantwich,Soest,NW,DEU,DMR
@@ -16435,7 +16448,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632677,DG0JJH,Jan,Hoffmeyer,Drebach,SN,DEU,DMR
 2632678,DF2EBT,Christoph,Bederke,Hennef,NW,DEU,DMR
 2632679,DF1ELB,Ernesto,Boehme,Filderstadt,BW,DEU,DMR
-2632680,DN9HM,Johann,Mooslechner,Surberg,BY,DEU,DMR
+2632680,DA1HM,Johann,Mooslechner,Surberg,BY,DEU,DMR
 2632681,DO1BSA,Bernd,Schroeder,Hanstedt,NI,DEU,DMR
 2632682,DL0RL,Clubst.,Dok-H33,Salzgitter-Lebenstedt,NI,DEU,DMR
 2632683,DO4BMA,Marc,Baus,Burkardroth,BY,DEU,DMR
@@ -17382,7 +17395,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2633629,DO6SMX,Stefan Werner Fritz,Meyer,Hehlen,NI,DEU,DMR
 2633630,DL4OCF,Frank,Geissler,Wolfsburg,NI,DEU,DMR
 2633631,DH8ST,Hubert,Stumpf,Geilenkirchen,NW,DEU,DMR
-2633632,DG2AAV,Norman,Czora,Braunschweig,NI,DEU,DMR
+2633632,DA1AA,Norman,Czora,Braunschweig,NI,DEU,DMR
 2633633,DG9ACR,Gerhard,Johannes,Moringen,NI,DEU,DMR
 2633634,DF8OS,Wilfried,Schmidt,Bleckede,NI,DEU,DMR
 2633635,DL1BCA,Juergen,Trippler,Boesel-Ostland,NI,DEU,DMR
@@ -17740,15 +17753,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2633989,DF6PV,Frank,Voss,Wangerland,NI,DEU,DMR
 2633990,DO2SHX,Stefan,Hagenstein,Wismar,MV,DEU,DMR
 2633991,DL3NDQ,Mark,Lautenschlaeger,Marktheidenfeld,BY,DEU,DMR
-2633992,DN9CK,Christian,Kuhn,No_city,BY,DEU,DMR
+2633992,DN9CK,Christian,Kuhn,Uffenheim,BY,DEU,DMR
 2633993,DO1VK,Klaus,Koehnen,Neitersen,RP,DEU,DMR
+2633994,DF5LC,Moritz,Meier,Trier,RP,DEU,DMR
+2633995,DJ9JJ,Jutta,Wilhelmi,Wuppertal,NW,DEU,DMR
+2633996,DO1ALZ,Andreas,Sander,Alzenau,BY,DEU,DMR
+2633997,DL2CR,Robert,Eign,Crailsheim,BW,DEU,DMR
+2633998,DL7XP,Patrick,Herbert,Hessisch Lichtenau,HE,DEU,DMR
+2633999,DD2MB,Markus,Behrmann,Loxstedt,NI,DEU,DMR
+2634000,DO8JZ,Juergen,Zetzmann,Kiel,SH,DEU,DMR
 2634001,DL6NW,Nicole-Elisabeth,Wiesner,Ratingen,NW,DEU,DMR
 2634002,DL1HC,Michael,Kronenberg,no_city,NW,DEU,DMR
 2634003,DH5JR,Hannelore,Warnecke,Velbert,NW,DEU,DMR
 2634005,DH6WS,Wilfried,Schwabe,Rheda-Wiedenbrueck,NW,DEU,DMR
+2634007,DO2JOH,Johannes,Steger,Etzelwang,BY,DEU,DMR
+2634009,DC1UT,Peter,Schoeneseiffen,Muenster,NW,DEU,DMR
 2634012,DL3ED,Ulrich,Rumeswinkel,Muelheim,NW,DEU,DMR
 2634015,DF8DT,Benedikt Emanuel,Weishaupt,Herne,NW,DEU,DMR
 2634016,DL6LBT,Istvan,Nemeth,Dormagen,NW,DEU,DMR
+2634018,DO2VCN,Heiko,Foerster,Monschau,NW,DEU,DMR
 2634019,DL1WKM,Walter,Killius,Moenchengladbach,NW,DEU,DMR
 2634020,DF8KI,Walter,Puetz,Much,NW,DEU,DMR
 2634021,DB2YAD,Klaus Robert,Olderdissen,Werther,NW,DEU,DMR
@@ -17778,6 +17801,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634046,DL6BZ,Stefan,Freinatis,Uelsen,NI,DEU,DMR
 2634047,DC8CH,Carsten,Hohlmann,Essen,NW,DEU,DMR
 2634048,DC3KY,Bernhard,Liermann,Koenigswinter,NW,DEU,DMR
+2634049,DO9ABI,Adrian,Beichler,Goslar,NI,DEU,DMR
 2634050,DL1KJ,Rolf,Dohmen,Pulheim,NW,DEU,DMR
 2634051,DL6YBX,Mario,Janicki,Bottrop,NW,DEU,DMR
 2634053,DD4KQ,Manfred,Bellon,Lohmar,NW,DEU,DMR
@@ -17785,8 +17809,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634055,DG7DAM,Juergen,Heusner,Herne,NW,DEU,DMR
 2634056,DG7YEM,Erwin,Maus,Marl,NW,DEU,DMR
 2634057,DK9SH,Stefan,Hogrebe,Brilon,NW,DEU,DMR
+2634058,DA6KL,Kilian,Lachenmayr,Bobingen,BY,DEU,DMR
+2634060,DO1DIN,David,Przypadlo,Dinslaken,NW,DEU,DMR
 2634061,DL4JG,Lothar,Schumacher,Mettmann,NW,DEU,DMR
 2634062,DO9DD,Marcel,Banning,Hattingen,NW,DEU,DMR
+2634063,DO3RFL,Raffael,Huwe,Berlin,BE,DEU,DMR
 2634064,DJ1DZ,Waldemar,Breiling,Dortmund,NW,DEU,DMR
 2634065,DL1XL,Werner,Pelz,no_city,NW,DEU,DMR
 2634066,DL1ESK,Sebastian,Krauss,no_city,NW,DEU,DMR
@@ -17821,6 +17848,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634096,DL1HF,Andreas,Huebers,no_city,NW,DEU,DMR
 2634097,DO0DNR,Relais/Bake/Gateway,,Moenchengladbach,NW,DEU,DMR
 2634098,DB1WST,Wilfried,Stock,Erkrath,NW,DEU,DMR
+2634099,DG1AC,Werner,Schmidt,Wolfenbuettel,NI,DEU,DMR
 2634100,DG2DBM,Rainer,Meergans,Waltrop,NW,DEU,DMR
 2634101,DL4DA,Dirk Thomas,Gill,Muelheim,NW,DEU,DMR
 2634102,DJ4JF,Frank,Siebuhr,Oberhausen,NW,DEU,DMR
@@ -17860,6 +17888,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634139,DO6OLI,Oliver,Gerhards,Niederkassel,NW,DEU,DMR
 2634140,DL1YBI,Eberhard,Jakob,Minden,NW,DEU,DMR
 2634141,DG2YFZ,Dieter,Heidbrink,Guetersloh,NW,DEU,DMR
+2634142,DH8MB,Marco,Braun,Willich,NW,DEU,DMR
+2634143,DN9MAI,Markus,Maier,Jandelsbrunn,BY,DEU,DMR
 2634144,DG1YHP,Andreas Grosse,Huettmann,Telgte,NW,DEU,DMR
 2634145,DG4KAL,Dieter,Schwarz,Koeln,NW,DEU,DMR
 2634146,DL9KAG,Benno,Weber,Siegburg,NW,DEU,DMR
@@ -17870,6 +17900,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634152,DG1EJN,Lothar,Oelkrug,Dinslaken,NW,DEU,DMR
 2634153,DL2KCM,Stefan,Weinand,Bergisch Gladbach,NW,DEU,DMR
 2634154,DO1RM,Marcus,Richter,Witten,NW,DEU,DMR
+2634155,DN9HG,Heinz,Flurschuetz,Heinersreuth,BY,DEU,DMR
 2634156,DG8EX,Holger,Ruediger,Duisburg,NW,DEU,DMR
 2634158,DK9MAR,Sebastian,Strasser,Dueren,NW,DEU,DMR
 2634159,DL3NO,Rupert,Mohr,Aachen,NW,DEU,DMR
@@ -17927,6 +17958,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634215,DB3QK,Friedhelm,Naroska,Recklinghausen,NW,DEU,DMR
 2634217,DD1TOM,Thomas Karl,Herten,Pulheim,NW,DEU,DMR
 2634218,DO1TSB,Thorsten,Stange,Buende,NW,DEU,DMR
+2634219,DO9JH,Joachim,Hoermann,Waltenhofen,BY,DEU,DMR
 2634220,DG1KDD,Dirk,Hennig,Haan,NW,DEU,DMR
 2634221,DL4DAE,Ralf,Cruesemann,Bochum,NW,DEU,DMR
 2634222,DL5DCW,Peter,Wellner,Castrop-Rauxel,NW,DEU,DMR
@@ -17987,6 +18019,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634284,DK3DO,Dominik,Klemp,Buende,NW,DEU,DMR
 2634285,DG1HA,Fridolin,Weber,Grevenbroich,NW,DEU,DMR
 2634286,DC7RM,Friedrich Rembert,Mueller,Blomberg,NW,DEU,DMR
+2634287,DN9SBS,Christian,Straub,Kempten,BY,DEU,DMR
 2634288,DM4LX,Kevin,Huynh,no_city,NW,DEU,DMR
 2634289,DG8YP,Michael,Rademacher,Muenster,NW,DEU,DMR
 2634290,DG1KRJ,Ralf,Jagetsberger,Wassenberg,NW,DEU,DMR
@@ -17996,6 +18029,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634294,DO2SCH,Seweryn,Chwila,no_city,NW,DEU,DMR
 2634295,DL6HH,Sascha,Hoffmann,Wenden,NW,DEU,DMR
 2634296,DK7FM,Sinan,Muslu,Siegen,NW,DEU,DMR
+2634297,DN9MAX,Maximilian,Hecl,Berlin,BE,DEU,DMR
+2634298,DN9LZA,Lucas,Zarda,Neureichenau,BY,DEU,DMR
 2634299,DO9SG,Stefan,Giertz,Bochum,NW,DEU,DMR
 2634300,DF5KT,Norbert,Hansen,Aachen,NW,DEU,DMR
 2634302,DJ2IO,Dietrich,Lehmann,Essen,NW,DEU,DMR
@@ -18007,6 +18042,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634308,DJ9BM,Volker,Enderlein,Sankt Augustin,NW,DEU,DMR
 2634309,DF9KP,Hans-Peter,Pietza,Niederkassel,NW,DEU,DMR
 2634310,DL2KBD,Bernd,Koebele,Koeln,NW,DEU,DMR
+2634311,DM7XK,Holger,Von Haefen,Wennigsen (deister),NI,DEU,DMR
 2634312,DO3YBP,Bernhard,Paries,Stadtlohn,NW,DEU,DMR
 2634313,DL0RG,Clubst.,,Bergheim,NW,DEU,DMR
 2634314,DG7YGI,Karsten,Focke,Roedinghausen,NW,DEU,DMR
@@ -18053,6 +18089,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634363,DO1PBL,Peter,Blumenau,Leverkusen,NW,DEU,DMR
 2634364,DL4DG,Josef,Saller,Bochum,NW,DEU,DMR
 2634365,DL1DMB,Michael,Bern,no_city,NW,DEU,DMR
+2634366,DO1YKD,Daniel,Krueger,Lemgo,NW,DEU,DMR
 2634367,DH9KB,Klaus-Dieter,Blei,Ruppichteroth,NW,DEU,DMR
 2634368,DG9DCR,Georg,Rogge,Hemer,NW,DEU,DMR
 2634369,DF6DT,Hans-Dieter,Mytra,Dortmund,NW,DEU,DMR
@@ -18078,8 +18115,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634390,DL6PT,Philipp Alexander,Thiel,Aachen,NW,DEU,DMR
 2634391,DC3JD,Helmut,Luebbecke,Hilden,NW,DEU,DMR
 2634392,DK6DL,Otto,Mathiak,Herne,NW,DEU,DMR
+2634393,DM3CS,Carsten,Schaub,Goettingen,NI,DEU,DMR
 2634394,DO3YKT,Joerg,Gerdes,no_city,NW,DEU,DMR
 2634395,DL2IC,Thomas,Gatzweiler,Aachen,NW,DEU,DMR
+2634396,DO5STS,Stefan,Sitko,Wittingen,NI,DEU,DMR
 2634397,DO2QG,Andreas,Goldbohm,Bad Driburg,NW,DEU,DMR
 2634398,DL1AEC,Marcus,Knips,Wuerselen,NW,DEU,DMR
 2634399,DL1DIN,Markus,Beckmann,Dinslaken,NW,DEU,DMR
@@ -18093,6 +18132,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634407,DD4DB,Manfred,Kusch,Dortmund,NW,DEU,DMR
 2634408,DO1DCB,Christian,Boelling,no_city,NW,DEU,DMR
 2634409,DC0QG,Guenter,Waschke,Menden,NW,DEU,DMR
+2634410,DM5PT,Philip,Goetz,Berlin,BE,DEU,DMR
 2634411,DO7SK,Sven-Goeran,Kaschura,Luebbecke,NW,DEU,DMR
 2634412,DH9YAP,Juergen,Clemenz,Herten,NW,DEU,DMR
 2634413,DO7GT,Thomas,Guede,Lippstadt,NW,DEU,DMR
@@ -18113,6 +18153,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634429,DF9EG,Siegfried,Antkowiak,Recklinghausen,NW,DEU,DMR
 2634431,DL9LD,Klaus,Neuroth,Raesfeld,NW,DEU,DMR
 2634432,DL3LBM,Martin,Gast,Hennef,NW,DEU,DMR
+2634433,DO6IE,Tommy,Giesel,Zwickau,SN,DEU,DMR
 2634434,DO8TIM,Tim,Bauer,Oberhausen,NW,DEU,DMR
 2634435,DL1YEM,Walter,Kuhfeld,Borgentreich,NW,DEU,DMR
 2634436,DF1YS,Dirk,Ribbert,Ahaus,NW,DEU,DMR
@@ -18160,6 +18201,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634484,DO1EMT,Alexander,Pangritz,Velbert,NW,DEU,DMR
 2634485,DH4KW,Wolfgang,Beiell,Koeln,NW,DEU,DMR
 2634486,DO5DMC,Viktor,Schuetz,no_city,NW,DEU,DMR
+2634487,DO9SLW,Sascha,Lischka,Wuppertal,NW,DEU,DMR
 2634488,DL2YMR,Michael,Reichardt,Guetersloh,NW,DEU,DMR
 2634489,DK9ES,Norbert,Braun,Muelheim,NW,DEU,DMR
 2634490,DL2KTJ,Thomas,Jansen,Wegberg,NW,DEU,DMR
@@ -18201,6 +18243,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634527,DL4MCU,Michael,Wuerfel,Castrop-Rauxel,NW,DEU,DMR
 2634528,DF9EK,Ralf,Singenstroth,Loehne,NW,DEU,DMR
 2634529,DL3YBK,Gerda,Singenstroth,Loehne,NW,DEU,DMR
+2634530,DN9GDM,Dieter,Gorges,Nalbach,SL,DEU,DMR
 2634531,DG1EFE,Markus,Frank,Kaarst,NW,DEU,DMR
 2634533,DH8JB,Holger,Pollerhoff,Herten,NW,DEU,DMR
 2634534,DG2YHR,David,Richards,Dorsten,NW,DEU,DMR
@@ -18219,6 +18262,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634549,DK8QS,Sven,Gude,Rheine,NW,DEU,DMR
 2634551,DO1YKH,Karl-Heinz,Wojtyczka,Herten,NW,DEU,DMR
 2634552,DL8NH,Reinhard Johann,Kotecki,Dortmund,NW,DEU,DMR
+2634553,DA1BM,Maximilian,Bals,Muenchen,BY,DEU,DMR
 2634554,DL2DBI,Michael,Loezzer,Menden,NW,DEU,DMR
 2634555,DG1YIQ,Marco-Alexander,Reinke,Neuenkirchen,NW,DEU,DMR
 2634556,DG6YIP,Thomas Werner,Kuhnert,Gescher,NW,DEU,DMR
@@ -18258,6 +18302,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634593,DL4KAJ,Hans Juergen,Reintgen,Koenigswinter,NW,DEU,DMR
 2634594,DO7TSM,Michael,Stahlkopf,no_city,NW,DEU,DMR
 2634595,DG6KBB,Karl Heinz,De Jong,Uebach-Palenberg,NW,DEU,DMR
+2634596,DL1AGW,Matthias,Jaeck,Rennau-Rottof,NI,DEU,DMR
+2634597,DL5MGR,Markus,Rutzen,Filderstadt,BW,DEU,DMR
 2634598,DL2PS,Pavlos,Spyridonidis,Schwerte,NW,DEU,DMR
 2634599,DL5KA,Andreas,Schroeder-Schlueter,no_city,NW,DEU,DMR
 2634600,DO4KSM,Sascha,Mainzer,Huerth,NW,DEU,DMR
@@ -18284,11 +18330,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634624,DO1HA,Andreas,Hartmann,Bad Driburg,NW,DEU,DMR
 2634625,DG7YEO,Elmar,Ernst,Muenster,NW,DEU,DMR
 2634626,DO2NL,Olaf,Trohl,Kamen,NW,DEU,DMR
+2634627,DA6CV,Carsten,Voigt,Oldenburg,NI,DEU,DMR
 2634628,DD5SV,Christoph Bernd,Heitkamp,Muenster,NW,DEU,DMR
 2634629,DO1RWM,Ralf,Wilkin,no_city,NW,DEU,DMR
 2634630,DL8LSB,Lars,Saborosch,Bochum,NW,DEU,DMR
 2634631,DC6KW,Ewald,Welzenberg,Koeln,NW,DEU,DMR
 2634632,DK3RN,Peter,Kern,Waldbroel,NW,DEU,DMR
+2634633,DO1AKI,Arkadius,Motyl,Moenchengladbach,NW,DEU,DMR
 2634634,DO3YMS,Marko,Schweizek,no_city,NW,DEU,DMR
 2634635,DK7EM,Walter,Boeke,Krefeld,NW,DEU,DMR
 2634636,DC4DO,Manfred,Seppelt,Kreuztal,NW,DEU,DMR
@@ -18304,9 +18352,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634648,DL8ZBW,Joachim,Nowak,Castrop- Rauxel,NW,DEU,DMR
 2634649,DO1OW,Jens Oliver Norbert,Winkler,Bonn,NW,DEU,DMR
 2634650,DG1KFK,Frank,Korbel,Bruehl,NW,DEU,DMR
+2634651,DN9NTO,Nadine,Klein,Oberasbach,BY,DEU,DMR
 2634652,DK6DT,Wilhelm,Foeckeler,Brilon,NW,DEU,DMR
 2634653,DO1FBI,Nils,Huisink,Mettmann,NW,DEU,DMR
 2634654,DO1GP,Peter Guede Y,Stork,Lippstadt,NW,DEU,DMR
+2634655,DN9NTO,Nadine,Klein,Oberasbach,BY,DEU,DMR
 2634656,DO1AIR,Dirk,Nilsson,no_city,NW,DEU,DMR
 2634657,DO8NS,Nils,Schneider,Witten,NW,DEU,DMR
 2634658,DL3EBQ,Helmut,Schuhmann,no_city,NW,DEU,DMR
@@ -18349,11 +18399,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634699,DL2DBR,Fritz-Otto,Wirths,Siegen,NW,DEU,DMR
 2634700,DG5EAU,Klaus Michael,Ruebsam,no_city,,DEU,DMR
 2634701,DH3JH,Heinrich,Klaff,Velbert,NW,DEU,DMR
+2634702,DN9NB,Michael,Hertel,Gelsenkirchen,NW,DEU,DMR
 2634703,DK1PB,Petra,Bender,no_city,NW,DEU,DMR
 2634704,DD1JD,Dirk,Symons,Erkrath,NW,DEU,DMR
 2634705,DB9BF,Detlef,Schumann,Duisburg,NW,DEU,DMR
 2634706,DL1QA,Dietmar,Ernst,Muenster,NW,DEU,DMR
 2634707,DL3KE,Mathias,Schmitt,Bonn,NW,DEU,DMR
+2634708,DN9RIC,Jan,Richert,Haltern am See,NW,DEU,DMR
 2634709,DL2EZ,Frank,Bohl,Geldern,NW,DEU,DMR
 2634710,DO3BTC,Andreas,Schumacher,no_city,NW,DEU,DMR
 2634711,DL5VU,Marc,Haessler,no_city,NW,DEU,DMR
@@ -18405,9 +18457,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634762,DD6SL,Sascha,Langer,Salzhemmendorf,NI,DEU,DMR
 2634763,DK9GUN,Gerd Ulrich,Nagels,no_city,NW,DEU,DMR
 2634764,DL1JZ,Rene,Hansen,no_city,NW,DEU,DMR
+2634765,DN9FE,Jens,Giesswein,Feucht,BY,DEU,DMR
 2634766,DL3VJ,Dieter,Drieschner,no_city,NW,DEU,DMR
 2634767,DL1EIC,Bernd,Wiebus,Oberhausen,NW,DEU,DMR
 2634768,DF3DD,Hans,Altmeyer,Bergisch Gladbach,NW,DEU,DMR
+2634769,DO1JGB,Gerhard,Beduerftig,Doebern,BB,DEU,DMR
 2634770,DG2EBE,Karl-Heinz,Neumann,Essen,NW,DEU,DMR
 2634771,DL3SF,Christian,Sikorski,Gronau,NW,DEU,DMR
 2634772,DL1EA,Rolf,Hoymann,Goch,NW,DEU,DMR
@@ -18422,6 +18476,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634781,DL5QL,Klaus,Schneider,Coesfeld,NW,DEU,DMR
 2634782,DH6SH,Horst,Schnitzler,Koeln,NW,DEU,DMR
 2634783,DO4MO,Moritz,Hillenbrand,Bedburg,NW,DEU,DMR
+2634784,DL6LAL,Michael,Sponholz,Kiel,SH,DEU,DMR
 2634785,DL1FS,Frank,Strauch,Essen,NW,DEU,DMR
 2634787,DO1WBA,Wolfgang Paul,Borkner,Moenchengladbach,NW,DEU,DMR
 2634788,DO6KC,Christian,Krah,Bochum,NW,DEU,DMR
@@ -18448,6 +18503,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634815,DG6EAX,Hans,Pfeffer,Essen,NW,DEU,DMR
 2634816,DO1DWS,Werner,Schmidt,Schmallenberg,NW,DEU,DMR
 2634817,DO5ABC,Juergen Adolf,Schaefer,Witten,NW,DEU,DMR
+2634818,DL6LAL,Michael,Sponholz,Kiel,SH,DEU,DMR
 2634819,DF6UG,Guenther,Koeppen,Wuerselen,NW,DEU,DMR
 2634820,DG1DAN,Uwe,Theurich,Grevenbroich,NW,DEU,DMR
 2634822,DO2MBA,Marcus,Berenberg,Wuppertal,NW,DEU,DMR
@@ -18492,11 +18548,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634864,DG4YEB,Klaus,Steinke,Bottrop,NW,DEU,DMR
 2634865,DL9DBC,Heinz,Lohrmann,Dortmund,NW,DEU,DMR
 2634866,DK2PG,Juergen,Loewner,Muenster,NW,DEU,DMR
+2634867,DN9KAR,Karl Alfons,Robold,Simmelsdorf,BY,DEU,DMR
 2634868,DM1YP,Klaus,Renke,Sundern,NW,DEU,DMR
 2634869,DG7KBI,Sebastian,Wolfrum,Aachen,NW,DEU,DMR
 2634870,DM7RAT,Stephan Karl,Flechsig,Bochum,NW,DEU,DMR
 2634871,DO5PW,Frank,Winkler,Norden,NI,DEU,DMR
 2634872,DB1RB,Rainer,Balke,no_city,NW,DEU,DMR
+2634873,DC3AM,Siegfried,Gross,Wolfenbuettel,NI,DEU,DMR
 2634874,DJ0XE,Wolfgang,Schneider,Wesseling,NW,DEU,DMR
 2634875,DM1VA,Gernot,Volkland,no_city,NW,DEU,DMR
 2634876,DG1YIQ,Marco-Alexander,Reinke,Neuenkirchen,NW,DEU,DMR
@@ -18510,9 +18568,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634885,DF0MG,Clubst.,,Moenchengladbach,NW,DEU,DMR
 2634886,DL1KSM,Siegfried,Mischke,Erftstadt-Liblar,NW,DEU,DMR
 2634887,DL1LKG,Lothar,Kauerz,Korschenbroich,NW,DEU,DMR
+2634888,DL9PK,Phillip,Kessels,Berlin,BE,DEU,DMR
 2634889,DF7QG,Udo,Wuttke,Rheine,NW,DEU,DMR
 2634890,DL8KSW,Sebastian,Wegner,Koeln,NW,DEU,DMR
 2634891,DL6YCU,Reimund,Koettendorf,Ahlen,NW,DEU,DMR
+2634892,DL9PK,Phillip,Kessels,Berlin,BE,DEU,DMR
 2634893,DL9YCP,Martin,Labsch,Gelsenkirchen,NW,DEU,DMR
 2634894,DC4AB,Andreas,Buchwald,Erkrath,NW,DEU,DMR
 2634895,DF6HQ,Ralf,Oppermann,Krefeld,NW,DEU,DMR
@@ -18523,6 +18583,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634900,DK8KH,Albert Mario,Fehrer,Koeln,NW,DEU,DMR
 2634901,DB4ST,Stefan Ulrich,Hegner,Loehne,NW,DEU,DMR
 2634902,DO6ALF,Alfons,Ehrenfried,Schwerte,NW,DEU,DMR
+2634903,DN9HPB,Hans-Peter,Meyer,Berlin,BE,DEU,DMR
 2634904,DL9KBJ,Georg,Jakob,Koeln,NW,DEU,DMR
 2634905,DO1HMW,Hans Martin,Wilde,Bergkamen,NW,DEU,DMR
 2634906,DF9GM,Gerd,Larisch,Bonn,NW,DEU,DMR
@@ -18554,10 +18615,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634934,DO5KHR,Karl-Heinz,Reitzel,Koeln,NW,DEU,DMR
 2634935,DL6OA,Heini,Schreiber,Freudenberg,NW,DEU,DMR
 2634936,DO2FRH,Frederic Noah,Hufnagel,Bochum,NW,DEU,DMR
+2634937,DH1FBY,Dionyz,Lupan,Weiterstadt,HE,DEU,DMR
 2634938,DG6YES,Franz-Josef,Liekmeier,Delbrueck,NW,DEU,DMR
 2634939,DH4HN,Sebastian,Hahn,Essen,NW,DEU,DMR
 2634940,DL9PP,Patrick,Plettau,Mettmann,NW,DEU,DMR
 2634941,DC6SK,Stefan,Klausing,Neuenkirchen,NW,DEU,DMR
+2634942,DN9AFX,Florian,Panzer,Bamberg,BY,DEU,DMR
 2634943,DL1KF,Roman,Klinger,Aachen,NW,DEU,DMR
 2634944,DC1KF,Danuta,Klinger,Aachen,NW,DEU,DMR
 2634945,DK2JK,Heribert,Schulte,Warstein,NW,DEU,DMR
@@ -18565,6 +18628,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634947,DG3KCB,Hans-Juergen,Lanzki,Pulheim,NW,DEU,DMR
 2634948,DG5DAT,Ralf,Hoeinghaus,Witten,NW,DEU,DMR
 2634949,DL8QB,Felix,Schoen,Aachen,NW,DEU,DMR
+2634950,DL8AN,Andreas,Bach,No_city,NW,DEU,DMR
 2634951,DB4YH,Gerald,Fickler,Luebbecke,NW,DEU,DMR
 2634952,DO7JPG,Joerg,Gottwald,Solingen,NW,DEU,DMR
 2634953,DH1KBM,Michael Thomas,Bauer,Euskirchen,NW,DEU,DMR
@@ -18575,6 +18639,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634958,DG7EKJ,Markus,Lubowitzki,Moenchengladbach,NW,DEU,DMR
 2634959,DL3EK,Lothar,Paisler,Neukirchen-Vluyn,NW,DEU,DMR
 2634960,DD2VO,Rene,Dohr,Wermelskirchen,NW,DEU,DMR
+2634961,DD0MA,Wolfgang,Fahrmeier,Puchheim,BY,DEU,DMR
 2634962,DO9TO,Christoph,Benker,Legden,NW,DEU,DMR
 2634963,DD9DW,Egbert,Steinhausen,Essen,NW,DEU,DMR
 2634968,DO6WJ,Joerg,Weinhardt,Langerwehe,NW,DEU,DMR
@@ -18585,6 +18650,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634973,DO5WA,Klaus,Zomack,Castrop-Rauxel,NW,DEU,DMR
 2634974,DL1KFS,Franz,Scholl,Nideggen,NW,DEU,DMR
 2634976,DG5KI,Ralf,Hellwig,Flammersfeld,NW,DEU,DMR
+2634977,DA6YMB,Matthias,Benatzky,No_city,HE,DEU,DMR
 2634979,DL2ECC,Wolfgang,Sass,Bedburg,NW,DEU,DMR
 2634980,DB5DG,Ulrich,Kleine,Hagen,NW,DEU,DMR
 2634981,DL4YDQ,Heinrich,Trocha,Marl,NW,DEU,DMR
@@ -18603,7 +18669,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2636013,DL3BKE,Wolfgang Peter,Baacke,Seligenstadt,HE,DEU,DMR
 2636014,DF9FZ,Gerhard,Rueckle,no_city,HE,DEU,DMR
 2636015,DG7FDN,Brigitte,Rueckle,no_city,HE,DEU,DMR
-2636016,DO2JPG,Jan Patrick,Gottwald,Hochheim,HE,DEU,DMR
+2636016,DO2JPG,Jan,Gottwald,Hochheim,HE,DEU,DMR
 2636017,DC0OL,Jan,Kessler,Darmstadt,HE,DEU,DMR
 2636018,DK2EZ,Kurt-Uwe,Moede,Frankenau,HE,DEU,DMR
 2636019,DG2ZJ,Gerhard,Kleine,Korbach,HE,DEU,DMR
@@ -18617,7 +18683,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2636027,DH9MR,Michael,Reinisch,Taunusstein,HE,DEU,DMR
 2636028,DD1BZ,Martin Franz,Bezzenberger,Langen,HE,DEU,DMR
 2636029,DG3EG,Elke,Georgi,Fuerth,BY,DEU,DMR
-2636030,DO1MOR,Moritz Lukas,Schaefer,Heusenstamm,HE,DEU,DMR
+2636030,DO1MOR,Moritz,Schaefer,Heusenstamm,HE,DEU,DMR
 2636031,DO8MAR,Martin,Hoffmann,no_city,HE,DEU,DMR
 2636032,DL9ABH,Thorsten,Bruhns,Oberursel,HE,DEU,DMR
 2636033,DJ6GK,Michael,Ferger,Marburg,HE,DEU,DMR
@@ -20037,7 +20103,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2638930,DL4MFA,Werner,Pueschel,Kaufbeuren,BY,DEU,DMR
 2638931,DF7PIT,Peter,Schenkel,Buxheim,BY,DEU,DMR
 2638932,DL3MCI,Helmut,Groedl,Otterfing,BY,DEU,DMR
-2638933,DL1KSA,Karl,Schwab,Taufkirchen,BY,DEU,DMR
 2638934,DB9RZ,Andreas,Mueller,Julbach,BY,DEU,DMR
 2638935,DL5MFO,Hans Peter,Demharter,Schwabmuenchen,BY,DEU,DMR
 2638936,DG2NBR,Barbara,Grasser,Memmelsdorf,BY,DEU,DMR
