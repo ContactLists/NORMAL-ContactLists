@@ -4532,7 +4532,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2224643,IU2LTC,Fabio,,Torre De Busi (LC),Lombardia,ITA,DMR
 2224644,IU3MBY,Giannantonio,Depalo,Piovene Rocchette (VI),Veneto,ITA,DMR
 2224645,IW4DLK,Claudio,Zerbini,Massa Fiscaglia (FE),Emilia-Rom.,ITA,DMR
-2224646,IU4MKF,Paolo,,Travo (PC),Emilia-Rom.,ITA,DMR
+2224646,IU4MKF,Paolo,Ferri,Travo (PC),Emilia-Rom.,ITA,DMR
 2224647,IU2ECT,Enzo,Trapanotto,Busto Arsizio (VA),Lombardia,ITA,DMR
 2224648,IU3MBX,Franco,,San Martino Di Venezze (RO),Veneto,ITA,DMR
 2224649,IW2GXC,Antonio,Milanesi,Crespiatica (LO),Lombardia,ITA,DMR
@@ -8223,7 +8223,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228382,IU8KCD,Iacopo,,Napoli (NA),Campania,ITA,DMR
 2228383,IZ8FPD,Carmine,Cestrone,San Prisco (CE),Campania,ITA,DMR
 2228384,IU8SSY,Emiliano,Occhibove,Piedimonte Matese (CE),Campania,ITA,DMR
-2228385,IU8DBB,Massimo,,Giugliano (NA),Campania,ITA,DMR
+2228385,IU8DBB,Massimo,Panico,Giugliano In Campania (NA),Campania,ITA,DMR
 2228386,IZ8QJV,Mario,Riposo,Sgennaro Vesuviano (NA),Campania,ITA,DMR
 2228387,IW8ROB,Mario,Bonofiglio,Rende (CS),Calabria,ITA,DMR
 2228388,IK8IPO,Alfredo,Livigni,Cardito (NA),Campania,ITA,DMR
@@ -10554,7 +10554,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2230729,IU4RXZ,Giorgio,,San Prospero (MO),Emilia-Rom.,ITA,DMR
 2230730,IK8HVK,Francesco Saverio,Gemboni,Pompei (NA),Campania,ITA,DMR
 2230731,IZ8OEK,Giovanni,Coppola,Casalnuovo Di Napoli (NA),Campania,ITA,DMR
-2230732,IU5IKK,Giancarlo,Brilli,Pisa (PI),Toscana,ITA,DMR
+2230732,IU5IKK,Giancarlo,Brilli,Parlascio (PI),Toscana,ITA,DMR
 2230733,IU3SAC,Gianpietro,Gottardo,Padova (PD),Veneto,ITA,DMR
 2230734,IW5DPF,Stefano,Orlandi,Poppi (AR),Toscana,ITA,DMR
 2230735,IU8SAI,Raffaele,Di Bonito,Bacoli (NA),Campania,ITA,DMR
@@ -11874,6 +11874,22 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232057,IT9JXR,Vito,Monopoli,Militello In Val Di Catania (CT),Sicilia,ITA,DMR
 2232058,IU6SAV,Daniele,Disante,Fano (PU),Marche,ITA,DMR
 2232059,IW4APM,Maurizio,Vezzalini,Castelnuovo Rangone (MO),Emilia-Rom.,ITA,DMR
+2232060,IU3QWU,Davide,Dametto,Ponte Nelle Alpi (BL),Veneto,ITA,DMR
+2232061,IU1RUG,Giovanni,Oselladore,Santena (TO),Piemonte,ITA,DMR
+2232062,IU1AUS,Mario,Benedetto,Barge (CN),Piemonte,ITA,DMR
+2232063,IU2HDG,Carmelo,Marcello,Solaro (MI),Lombardia,ITA,DMR
+2232064,IU7QKP,Michele,Sfregola,Bisceglie (BT),Puglia,ITA,DMR
+2232065,IZ1JKP,Remo,Matte,Bibiana (TO),Piemonte,ITA,DMR
+2232066,IN3JIG,Giorgio,De Bernardi,Ortisei (BZ),Trentino AA,ITA,DMR
+2232067,IU5DXB,Giuseppe,Frugoli,Monte San Quirico (LU),Toscana,ITA,DMR
+2232068,IT9RXQ,Maria,Di Caro,Agrigento (AG),Sicilia,ITA,DMR
+2232069,IU1QAB,Alessandro,Lunardi,Grugliasco (TO),Piemonte,ITA,DMR
+2232070,IZ7FMP,Fabrizio,Prudenzano,Manduria (TA),Puglia,ITA,DMR
+2232071,IU5SID,Giulio,Giachi,Reggello (FI),Toscana,ITA,DMR
+2232072,IU3ULS,Fabio,Vergotti,Zero Branco (TV),Veneto,ITA,DMR
+2232073,IU5NRS,Fabrizio,Barenco,Piancastagnaio (SI),Toscana,ITA,DMR
+2232074,IU2KED,Santo,Pittaro,Milano (MI),Lombardia,ITA,DMR
+2232075,IU3GLW,Fabriano,Berti,Mestre (VE),Veneto,ITA,DMR
 2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),Sicilia,ITA,DMR
 2280001,4U1ITU,International,Arc,Geneva,No_regio,CHE,DMR
 2280002,HB3XWO,Kornel,Becker,Basel,No_regio,CHE,DMR
@@ -12303,6 +12319,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280427,HB9UW,Radioclub,Unterwalden,Ennetmoos,Nidwalden,CHE,DMR
 2280428,HB9FGJ,Luca,Bertagnolio,Saint Livres,Vaud,CHE,DMR
 2280429,HB9ZHT,Daniel,Schwab,Oberlunkhofen,Aargau,CHE,DMR
+2280430,HB3XEK,Ywan,Abbatiello,Biere,Vaud,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -13911,7 +13928,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2780030,9H1UG,Roger,Barrett,Msida,Msida,MLT,DMR
 2780031,9H1YP,Joe,,,,MLT,DMR
 2780032,9H1SR,Salvo,Raccampo,Swatar,All Regions,MLT,DMR
-2780033,9H1MD,Mario,Degabriele,Sliema,Malta,MLT,DMR
+2780033,9H1MD,Mario,Degabriele,Sliema,All Regions,MLT,DMR
 2780034,9H1XE,Robm0ora,,Wirral,England,MLT,DMR
 2780035,9H3EN,Nik,,Zabbar,No_regio,MLT,DMR
 2780036,9H5TB,Raymond,Previ,Naxxar,No_regio,MLT,DMR
