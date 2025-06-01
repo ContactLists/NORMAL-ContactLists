@@ -1,4 +1,3 @@
-1023002,VA3ECM Mathieu ,Goulet Ottawa Hull Ontario             | CAN
 1023007,VA3BOC Hans    ,Bockholt Cornwall  Ontario             | CAN
 1023008,VE3JMR Mark    ,Robinson Niagara F Ontario             | CAN
 1023009,VA3AMO Rolando ,Parto Scarborough  Ontario             | CAN
@@ -60,7 +59,7 @@
 1023103,VE2QX Dmr      ,Link Ottawa        Ontario             | CAN
 1023104,VE3RVK Fernando,Goncalves Etobicok Ontario             | CAN
 1023105,VA3GVB Garry   ,Van-Bruchem Fonthi Ontario             | CAN
-1023106,VE3BRA Bowmanvi,Club Bowmanville   Ontario             | CAN
+1023106,VE3BRA Canadian,Bowmanville        Ontario             | CAN
 1023107,VE3KLY Erin    ,Kelly Red Rock     Ontario             | CAN
 1023111,VA3CEF Greg    ,Char On            Ontario             | CAN
 1023112,VE3SJU Brian   ,Santor Gloucester  Ontario             | CAN
@@ -423,6 +422,7 @@
 2060291,ON5AB Paul     ,Bolsius Hoeilaart  No_regio            | BEL
 2060292,ON6ZK Hans     ,Geyskens Tielt Win No_regio            | BEL
 2060293,ON4IR Manoel   ,Da Silva Casquilho No_regio            | BEL
+2060294,ON2PAT Patrick ,Van Den Bosch Lomm Limburg             | BEL
 2060295,ON7CFZ no_name ,no_city            No_regio            | BEL
 2060296,ON3PBC no_name ,no_city            No_regio            | BEL
 2060297,ON6NY Willy    ,Coutereel Middelke No_regio            | BEL
@@ -888,7 +888,7 @@
 2060762,ON3LBA Luc     ,Boroje Turnhout    Antwerp             | BEL
 2060763,ON8FAB Fabrice ,Clementi Saint Mar Luxemburg           | BEL
 2060764,ON3WY Jerome   ,Jerome Charleroi   Hainaut             | BEL
-2060765,ON7AQC Casimir ,Seminck Zonhoven                       | BEL
+2060765,ON7AQC Casimir ,Seminck Zonhoven   Limburg             | BEL
 2060766,ON5LBV Van Lyse,Bernard Libin      Luxemburg           | BEL
 2060767,ON6QV Michel   ,Deprez Gembloux    Namur               | BEL
 2060768,ON8ET Erik     ,Tuybens Ronse      Oost Vlaanderen     | BEL
@@ -2680,7 +2680,7 @@
 2080694,F0DAT Dias     ,Ludovic Oytier St  Rhone-Alpes         | FRA
 2080695,F4GUV Michel   ,Loyer              Nouvelle Aquitaine  | FRA
 2080696,F5RUZ Gilles   ,Fauveaux Paris     Ile-De-France       | FRA
-2080697,F4IVW Gustavo  ,De Los Santos Lalu Aquitaine           | FRA
+2080697,F4IVW Gustavo  ,Gdls Laluque       Nouvelle Aquitaine  | FRA
 2080698,F1EVM Jean     ,Huet Le Genest Sai Pays De La Loire    | FRA
 2080699,F6ENL          ,Biancalana         Nouvelle Aquitaine  | FRA
 2080700,F1DKD Michel   ,Thevenot Villers L No_regio            | FRA
@@ -3685,6 +3685,7 @@
 2081704,F5MKD Michel   ,Jacob Mundolsheim  Alsace              | FRA
 2081705,F4LFG Yohann   ,Lemoine Campagnoll Normandie           | FRA
 2081706,F5VLQ Emilio   ,Grebot Brion       Bourgogne Franche Co| FRA
+2081707,F0FUV Rene     ,Charlier Athesans  Bourgogne Franche Co| FRA
 2081777,F4JBM Francois ,Saint Cloud        Ile De France       | FRA
 2081778,F1UFW Saletzki ,Sebastien Aussonne Occitanie           | FRA
 2081779,F4JJQ Pierre   ,Baussart Bailleul  Hauts De France     | FRA
@@ -5053,7 +5054,7 @@
 2089337,F4CGQ Frederic ,Dailliez Feignies  All Others          | FRA
 2089338,F1OMM Alain    ,Bouin Saint-Pierre All Others          | FRA
 2089339,F5JYK Michel   ,Beauplet Sainte Au All Others          | FRA
-2089340,F4HXC Bertrand ,Garin Bus          All Others          | FRA
+2089340,F4HXC Bertrand ,Garin Bus          Hauts De France     | FRA
 2089341,F5NZD Andre    ,Didier Amigny-Rouy All Others          | FRA
 2089342,F4TZR Gerard   ,Parnet Amancey     All Others          | FRA
 2089343,F4FUG Vincent  ,Mazy Dunkerque     All Others          | FRA
@@ -5673,6 +5674,7 @@
 2280428,HB9FGJ Luca    ,Bertagnolio Saint  Vaud                | CHE
 2280429,HB9ZHT Daniel  ,Schwab Oberlunkhof Aargau              | CHE
 2280430,HB3XEK Ywan    ,Abbatiello Biere   Vaud                | CHE
+2280431,HB3YNF Daniel  ,Thueler Ebnat Kapp St Gallen           | CHE
 2281001,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281002,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281003,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
@@ -7574,7 +7576,7 @@
 3020332,VO1WEB Matthew ,Webb Conception Ba Newfoundland And Lab| CAN
 3020333,VA2VIZ Marie   ,Gratton Bouchervil Qc                  | CAN
 3020334,VE6MLC Wenn    ,Fraser Leduc       Ab                  | CAN
-3020335,VE3RGC Raymond ,Gregoire Chestervi On                  | CAN
+3020335,VE3RGC Raymond ,Gregoire Chestervi Ontario             | CAN
 3020336,VE3DBM Donald  ,Buchan             Ontario             | CAN
 3020337,VE3TXK Christop,Curd Alliston      On                  | CAN
 3020338,VO1NAR North   ,Team Portugal Cove Newfoundland        | CAN
@@ -7924,7 +7926,6 @@
 3020691,VA2JQT Jean    ,Paquette Longueuil Qc                  | CAN
 3020692,VE3BRJ Christop,Landry Orleans     On                  | CAN
 3020693,VE7AS Gary     ,Skett Langley      Bc                  | CAN
-3020694,VA2GGE Gerald  ,Garceau Trois-Rivi Qc                  | CAN
 3020695,VE2EBK Dany    ,Belanger Quebec    Qc                  | CAN
 3020696,VE3ARD Allan   ,Drew Pickering     On                  | CAN
 3020697,VA2BK Dany     ,Belanger Quebec    Qc                  | CAN
@@ -8088,7 +8089,6 @@
 3020864,VA2UN Stephane ,Damours Laval      Qc                  | CAN
 3020865,VA2UN Stephane ,Damours Laval      Qc                  | CAN
 3020866,VA6CYA Ernie   ,Mah Calgary        Ab                  | CAN
-3020867,VA2CCI Claude  ,Todd Troisrivieres Qc                  | CAN
 3020868,VA2NPR Carole  ,Luquette Laval     Qc                  | CAN
 3020869,VA6CP Ceasar   ,Pulvinar Drumhelle Ab                  | CAN
 3020870,VE3WKG Kevin   ,Girard Hamilton    On                  | CAN
@@ -8976,7 +8976,7 @@
 3021766,VE2VW Sylvain  ,Remillard Salaberr Quebec              | CAN
 3021767,VE3UDB David   ,Bate Bowmanville   Ontario             | CAN
 3021768,VA7GJH Graham  ,Holwill Squamish   British Columbia    | CAN
-3021769,VA3XTH Todd    ,Hoffman Toronto    Ontario             | CAN
+3021769,VE3TJH Todd    ,Hoffman Toronto    Ontario             | CAN
 3021770,VE3ZV Stephen  ,Land Waterford     Ontario             | CAN
 3021771,VE9DJD Dan     ,Dupuis Riverview   New Brunswick       | CAN
 3021772,VE7LCG Daniel  ,Romila Coquitlam   British Columbia    | CAN
@@ -9821,7 +9821,7 @@
 3022633,VE2SXE Konstant,Madzaras Montreal  Quebec              | CAN
 3022634,VE2ATW Martin  ,Cloutier Chertsey  Quebec              | CAN
 3022635,VA2SSS Etienne ,Ali Longueuil      Quebec              | CAN
-3022636,VA3ECM Mathieu ,Goulet Ottawa-Hull Quebec              | CAN
+3022636,VA3ECM Mathieu ,Goulet Ottawa      Ontario             | CAN
 3022637,VE2DWB Michael ,Vezina Montreal    Quebec              | CAN
 3022638,VA2CDZ Charles ,Dorion Gatineau    Quebec              | CAN
 3022639,VA2FH Gilbert  ,Roy                Quebec              | CAN
@@ -11969,7 +11969,7 @@
 3024807,VE6JEM Jerre   ,Manlangit Calgary  Alberta             | CAN
 3024808,VE7RB John     ,Mackay Port Albern British Columbia    | CAN
 3024809,VE2AHJ Marc    ,Pilon Que Bec      Quebec              | CAN
-3024810,VE2CUZ Re Al   ,Drouin Saint Jerom Quebec              | CAN
+3024810,VE2CUZ Real Jun,Drouin Saint Jerom Quebec              | CAN
 3024811,VE6GDL Gregory ,Lightheart Calgary Alberta             | CAN
 3024812,VE2DVG Normand ,Juneau Drummondvil Quebec              | CAN
 3024813,VA3TEC Michael ,Kennedy Orle Ans   Ontario             | CAN
@@ -13567,6 +13567,16 @@
 3026410,VA2ZCF Mathieu ,Leclerc Gatineau   Quebec              | CAN
 3026411,VA3JYT Jason   ,Hoy Brantford      Ontario             | CAN
 3026412,VE2FKS Sebastie,Forest Laval       Quebec              | CAN
+3026413,VA6EBR Eric    ,Brown              Alberta             | CAN
+3026414,VA3BUA Rob     ,Beckers Manotick   Ontario             | CAN
+3026415,VE7GVA Darcey  ,Middleton Vancouve British Columbia    | CAN
+3026416,VA3ECM Mathieu ,Goulet Ottawa      Ontario             | CAN
+3026417,VE1CT Robert   ,Titus New Minas    Nova Scotia         | CAN
+3026418,VA7FOK Dan     ,Surrey             British Columbia    | CAN
+3026419,VE6NIX Stephani,Smith Airdrie      Alberta             | CAN
+3026420,VA3FHQ Alastair,Francis Ottawa     Ontario             | CAN
+3026421,VE2CSM Sylvain ,Cap Sante          Quebec              | CAN
+3026422,VA2CWW Simon   ,Peterson Deux Mont Quebec              | CAN
 3026912,VA7RGM Robert  ,Meldrum West Kelow British Columbia    | CAN
 3026913,VA6LTV Larry   ,Vollstaedt Cochran Alberta             | CAN
 3026914,VE3ZWX James Br,Brien London       Ontario             | CAN
@@ -13919,8 +13929,8 @@
 3028012,VE3KAY Chris   ,Kang Nyork         Yukon               | CAN
 3029001,VE9MP Nick     ,Robinson Grand Fal New Brunswick       | CAN
 3029002,VE9MP Nick     ,Robinson Grand Fal New Brunswick       | CAN
-3029003,VE9GLN Glen    ,Bizeau Fredericton New Brunswick       | CAN
-3029004,VE9MCR Glen    ,Bizeau Fredericton New Brunswick       | CAN
+3029003,VE9GLN Glen    ,Fredericton        New Brunswick       | CAN
+3029004,VE9MCR Glen    ,Fredericton        New Brunswick       | CAN
 3029005,VE1KO Ted      ,Owen Burton        New Brunswick       | CAN
 3029006,VE9NCH Paul    ,Hare Fredericton   New Brunswick       | CAN
 3029007,VE9HAM Charles ,Mcallan Fredericto New Brunswick       | CAN
