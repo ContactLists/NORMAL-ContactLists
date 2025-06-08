@@ -870,7 +870,6 @@
 2060744,ON3EF Filip    ,Filip                                            Antwerp                 BEL
 2060745,ON5AG Antonio  ,Antonio Gallo            Flemalle Haute          Liege                   BEL
 2060746,ON3CAB Robert  ,Robert Feyaerts          Charleroi               Hainaut                 BEL
-2060747,ON6TL Raphael  ,Raphael Ghislain         La Hestre               Hainaut                 BEL
 2060748,ON8PB Patrick  ,Patrick Baton            Ligny                   Namur                   BEL
 2060749,ON3PW Raphael  ,Raphael Camberlin        Seraing Liege           Liege                   BEL
 2060750,ON7SX Michel   ,Michel Steensels         Diepenbeek              Limburg                 BEL
@@ -909,6 +908,7 @@
 2060783,OO0O Rudy      ,Rudy Vds                 Deinze                  Oost Vlaanderen         BEL
 2060784,ON3GB Dimitri  ,Dimitri Coremans         Bouwel                  Antwerp                 BEL
 2060785,ON3KDS Jan     ,Jan                      None                    Vlaams Brabant          BEL
+2060786,ON3RVS Ronny   ,Ronny Van Severen        Ramskapelle Nwp W       West Vlaanderen         BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -1708,7 +1708,7 @@
 2066018,ON3RDG Roger   ,Roger Docquiert          Jurbise                 Hainaut                 BEL
 2066019,ON3DEC Didier  ,Didier Docquiert         Jurbise                 Hainaut                 BEL
 2066020,ON4LGD Jacques ,Jacques Letocart         Ransart                 Hainaut                 BEL
-2066021,ON3GE Raphael  ,Raphael Ghislain         La Louvire              Hainaut                 BEL
+2066021,ON6TL Raphael  ,Raphael Ghislain         La Louviere             Hainaut                 BEL
 2066022,ON3BMW Arnauld ,Arnauld Amaglio          La Louviere             Hainaut                 BEL
 2066023,ON4YI Jean-Luc ,Jean-Luc Michot          Bierce                  Hainaut                 BEL
 2066024,ON5QE Willy    ,Willy Libioulle          Seneffe                 Hainaut                 BEL
@@ -3785,6 +3785,14 @@
 2081873,F4JTH Eric     ,Eric                     Matton Et Clemency      Grand                   FRA
 2081874,F4MCK Daniel   ,Daniel Tapie             Aucamville              Occitanie               FRA
 2081875,F4MIB Bruno    ,Bruno                    None                    Auvergne Rhone Alpes    FRA
+2081876,F4VXH Francisco,Francisco                France                  Bourgogne Franche Comte FRA
+2081877,F4HZW Jimmy    ,Jimmy                    Paris                   Ile De France           FRA
+2081878,F4MLN Gilles   ,Gilles Huet              Chilleurs Aux Bois      Centre Val De Loire     FRA
+2081879,F4LDN Philippe ,Philippe Perraud         Mont Sur Monnet         Bourgogne Franche Comte FRA
+2081880,F4MHV Yann     ,Yann Ferron              Saint Meloir Des Ondes  Bretagne                FRA
+2081881,F4WFN Riccardo ,Riccardo                                         Provence Alpes Cote D Az FRA
+2081882,F4LRU Jean Mich,Jean Michel Sillard      Toulon                  Provence Alpes Cote D Az FRA
+2081883,F4FEY Manceau  ,Manceau Maxime           Orvault                 Pays De La Loire        FRA
 2082001,F4FUL Cyril    ,Cyril Teitler            Sciez                   Rhone-Alpes             FRA
 2082002,F5VIN Heiko    ,Heiko Damerau            Thoiry                  Rhone-Alpes             FRA
 2082003,F1AGU Charles H,Charles Henri Sap        Aillon Le Vieux         Auvergne Rhone Alpes    FRA
@@ -3835,7 +3843,7 @@
 2082048,F5EMT Serge    ,Serge Boutet             St-Maurice              No_regio                FRA
 2082049,F5ANZ Antoine  ,Antoine Alfonsi          Saint Paul              No_regio                FRA
 2082050,F5GFE Alain    ,Alain Meynard            Chambles                No_regio                FRA
-2082051,F5ODP Francois-,Francois-Xavier Peyrin   Lyon                    No_regio                FRA
+2082051,F5ODP Francois ,Francois Xavier Peyrin                           Nouvelle Aquitaine      FRA
 2082052,F4DBW Jean-Loui,Jean-Louis Guenot        Venissieux              No_regio                FRA
 2082053,F4UHA Marcel   ,Marcel Thoumazet         Doussard                Rhne-Alpes              FRA
 2082054,F1MZL Pichon   ,Pichon Daniel            Boisset                 Rhne-Alpes              FRA
@@ -4448,7 +4456,7 @@
 2086064,F4FBP Denis    ,Denis Gueneau            Paris                   Aquitaine               FRA
 2086065,F5PMW Jean     ,Jean Gallois             Beauvoir Sur Niort      Aquitaine               FRA
 2086066,F1GQL Gerard   ,Gerard Quinault          La Charriere            Aquitaine               FRA
-2086067,F5ODP Francois ,Francois Peyrin          Lyon                    Aquitaine               FRA
+2086067,F5ODP Francois ,Francois Xavier Peyrin                           Nouvelle Aquitaine      FRA
 2086068,F6FWS Roger    ,Roger Gazeau             Villenave d'Ornon       Aquitaine               FRA
 2086069,F5VMN Etor     ,Etor Munos               Urrugne                 Aquitaine               FRA
 2086070,F8EJK Philippe ,Philippe Ferte           Cestas                  Aquitaine               FRA
@@ -5117,7 +5125,7 @@
 2089400,F4DZA Philippe ,Philippe Camus           Rouen                   No_regio                FRA
 2089401,F4HRN Cyril    ,Cyril Cardon             Forest Montiers         No_regio                FRA
 2089402,F6GEE Patrick  ,Patrick Rumiz            Jeandelaincourt         Meurthe-Et-Moselle      FRA
-2089403,F8BJE Guy      ,Guy                                              Bourgogne Franche Comte FRA
+2089403,F8BJE Guy      ,Guy                      Seurre                  Bourgogne Franche Comte FRA
 2089404,F4ALP Patrice  ,Patrice Delporte         Lys Lez Lannoy          Departement Du Nord     FRA
 2089405,F6JHL Yann     ,Yann Kessel              Sains En Gohelle        No_regio                FRA
 2089406,F4GZO Jacques  ,Jacques Parmentier       Anneville               All Others              FRA
@@ -5675,6 +5683,8 @@
 2280429,HB9ZHT Daniel  ,Daniel Schwab            Oberlunkhofen           Aargau                  CHE
 2280430,HB3XEK Ywan    ,Ywan Abbatiello          Biere                   Vaud                    CHE
 2280431,HB3YNF Daniel  ,Daniel Thueler           Ebnat Kappel            St Gallen               CHE
+2280432,HB9EXK Stefan  ,Stefan Funk              Teufen                  Appenzell Outer Rhodes  CHE
+2280433,HB9HDL Craig   ,Craig Shaw               Regensdorf              Zurich                  CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -7595,7 +7605,7 @@
 3020351,VE6LUI Luisito ,Luisito Franco           Edmonton                Ab                      CAN
 3020352,VE7VU Dan      ,Dan Cameron              Marysville              British Columbia        CAN
 3020353,VE3IB James    ,James Mcneil             Brampton                On                      CAN
-3020354,VE6HAM Robert  ,Robert Burrill           Edmonton                Alberta                 CAN
+3020354,VE6HAM Bob     ,Bob Burrill              Edmonton                Alberta                 CAN
 3020355,VE7TRW Wade    ,Wade Thompson                                    British Columbia        CAN
 3020356,VA1DB Donald   ,Donald Booker            Blandford               Nova Scotia             CAN
 3020357,VA7WRP Cameron ,Cameron Chu              Whistler                Bc                      CAN
@@ -12636,7 +12646,7 @@
 3025478,VE3ZAE Justin  ,Justin Sangoi            Plattsville             Ontario                 CAN
 3025479,VA6FAB Fabien  ,Fabien Monsaingeon       Calgary                 Alberta                 CAN
 3025480,VE6IV Kirby    ,Kirby Nesbitt            Calgary                 Alberta                 CAN
-3025481,VE2NFT David   ,David Bergeron           Trois Rivieres          Quebec                  CAN
+3025481,VE2NFT David   ,David Bergeron           Batiscan                Quebec                  CAN
 3025482,VE2UMG Martial ,Martial Gourde           Quebec                  Quebec                  CAN
 3025483,VE7DAQ Sorin Da,Sorin Daniel Antonescu   New Westminster         British Columbia        CAN
 3025484,VE3ELT Michel  ,Michel Bourgeois         Hawkesbury              Ontario                 CAN
@@ -13577,6 +13587,19 @@
 3026420,VA3FHQ Alastair,Alastair Francis         Ottawa                  Ontario                 CAN
 3026421,VE2CSM Sylvain ,Sylvain                  Cap Sante               Quebec                  CAN
 3026422,VA2CWW Simon   ,Simon Peterson           Deux Montagnes          Quebec                  CAN
+3026423,VE3YTP Andrew  ,Andrew Norwood           Etobicoke               Ontario                 CAN
+3026424,VE7YLL Yongli  ,Yongli                   Burnaby                 British Columbia        CAN
+3026425,VA2KEY Philippe,Philippe Depelteau                               Quebec                  CAN
+3026426,VE9NCC Eugene  ,Eugene Culbert           Woodstock               New Brunswick           CAN
+3026427,VE9RDA Ian     ,Ian Cameron              Saint John              New Brunswick           CAN
+3026428,VE2WUT Francis ,Francis Guay             Valdor                  Quebec                  CAN
+3026429,VA2NLX Nicolas ,Nicolas Lamarche                                 Quebec                  CAN
+3026430,VE9YW Scott    ,Scott Theall                                     New Brunswick           CAN
+3026431,VE3FQE Lawrence,Lawrence Hobbs           Ottawa                  Ontario                 CAN
+3026432,VA7DVT Andrew  ,Andrew Thompson          Vancouver               British Columbia        CAN
+3026433,VE3MNA Mark    ,Mark Nowicki             Tobermory               Ontario                 CAN
+3026434,VE3ERC Elmira R,Elmira Radio Club        Elmira                  Ontario                 CAN
+3026435,VA3ZJW William ,William                                          Ontario                 CAN
 3026912,VA7RGM Robert  ,Robert Meldrum           West Kelowna            British Columbia        CAN
 3026913,VA6LTV Larry   ,Larry Vollstaedt         Cochrane                Alberta                 CAN
 3026914,VE3ZWX James Br,James Bradley Brien      London                  Ontario                 CAN
