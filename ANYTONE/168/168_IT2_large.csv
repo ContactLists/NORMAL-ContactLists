@@ -7069,7 +7069,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227204,IK7EJT,Simplicio,Moro,Taranto (TA),ITA/Puglia,,Private Call,None
 ,2227205,IK7SUI,Vito,Lamanna,Taranto (TA),ITA/Puglia,,Private Call,None
 ,2227206,IZ7UEE,Ascanio,Filippis,Taranto (TA),ITA/Puglia,,Private Call,None
-,2227207,IU7IQS,Marco,Cazzato,Nardo (LE),ITA/Puglia,,Private Call,None
+,2227207,IU7IQS,Marco,Cazzato,Nardo  (LE),ITA/Puglia,,Private Call,None
 ,2227208,I7TTV,Tommaso,Tamburrano,Carosino (TA),ITA/Puglia,,Private Call,None
 ,2227209,IU2TOG,Fedele,Lopinto,Milano (MI),ITA/Lombardia,,Private Call,None
 ,2227210,IK7HPG,Giuseppe,Dimitri,Talsano (TA),ITA/Puglia,,Private Call,None
@@ -7182,7 +7182,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227320,IU7IMO,Massimiliano,Bottallo,Brindisi (BR),ITA/Puglia,,Private Call,None
 ,2227321,IW7ECT,Luca,,Deliceto (FG),ITA/Puglia,,Private Call,None
 ,2227322,IZ7ZKV,Bruno,Morgese,Acquaviva Delle Fonti (BA),ITA/Puglia,,Private Call,None
-,2227323,IU7JYJ,Amedeo,,Bari (BA),ITA/Puglia,,Private Call,None
+,2227323,IU7JYJ,Amedeo,Curci,Trani (BT),ITA/Puglia,,Private Call,None
 ,2227324,IZ7EXI,Maurizio,Lotoro,Barletta (BA),ITA/Puglia,,Private Call,None
 ,2227325,IU7KFV,Giuseppe,,Conversano (BA),ITA/Puglia,,Private Call,None
 ,2227326,IK7DTR,Gaetano,Cisternino,Adelfia (BA),ITA/Puglia,,Private Call,None
@@ -8811,7 +8811,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228972,IU4PQP,Matteo,Gallignani,Imola (BO),ITA/Emilia-Rom.,,Private Call,None
 ,2228973,IU7GQY,Gianluca,Cassano,Alessano (LE),ITA/Puglia,,Private Call,None
 ,2228974,IW9GUQ,Giovanni,Donato,Valderice (TP),ITA/Sicilia,,Private Call,None
-,2228975,IU4PRN,Mauro,Bonomini,Modena (MO),ITA/Emilia-Rom.,,Private Call,None
+,2228975,IU1UDX,Mauro,Bonomini,San Germano Chisone (TO),ITA/Piemonte,,Private Call,None
 ,2228976,IZ1LAX,Luca,Giraudi,Alessandria (AL),ITA/Piemonte,,Private Call,None
 ,2228977,IZ1NGY,Massimo,Palumbo,Nichelino (TO),ITA/Piemonte,,Private Call,None
 ,2228978,IK2WBK,Gennaro,Piermatteo,Busto Arsizio (VA),ITA/Lombardia,,Private Call,None
@@ -11927,9 +11927,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232106,IW2LOY,Roberto,Soldi,Arluno (MI),ITA/Lombardia,,Private Call,None
 ,2232107,IK1VGG,Franco,La Paglia,Biella (BI),ITA/Piemonte,,Private Call,None
 ,2232108,IV3KUU,Alessandro,Maccapani,Monfalcone (GO),ITA/Friuli VG,,Private Call,None
-,2232109,IU1THV,Renato,Spinelli,Recco (GE),ITA/Liguria,,Private Call,None
+,2232109,IU1TVH,Renato,Spinelli,Recco (GE),ITA/Liguria,,Private Call,None
 ,2232110,IU2RPM,Francesco,Virzi,Ponte S.Pietro (BG),ITA/Lombardia,,Private Call,None
 ,2232111,IU1USY,Nicola,Ragazzi,Novara (NO),ITA/Piemonte,,Private Call,None
+,2232112,IZ7UNK,Maurizio,Morea,Putignano (BA),ITA/Puglia,,Private Call,None
+,2232113,IS0DMN,Domenico,Manca,Oschiri (SS),ITA/Sardegna,,Private Call,None
+,2232114,IK8PXW,Domenico,Sannino,San Giorgio A Cremano (NA),ITA/Campania,,Private Call,None
+,2232115,IZ7QEB,Angelo,Vetrano,Brindisi (BR),ITA/Puglia,,Private Call,None
+,2232116,IW2CFB,Marco,Cinquini,Missaglia (LC),ITA/Lombardia,,Private Call,None
+,2232117,IU1TKL,Massimo,Franco,Torino (TO),ITA/Piemonte,,Private Call,None
+,2232118,IU3UTK,Flavio,Negrini,No_city (),ITA/,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),ITA/Sicilia,,Private Call,None
 ,2280001,4U1ITU,International,Arc,Geneva,CHE/No_regio,,Private Call,None
 ,2280002,HB3XWO,Kornel,Becker,Basel,CHE/No_regio,,Private Call,None
@@ -12364,6 +12371,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280432,HB9EXK,Stefan,Funk,Teufen,CHE/Appenzell Outer Rhodes,,Private Call,None
 ,2280433,HB9HDL,Craig,Shaw,Regensdorf,CHE/Zurich,,Private Call,None
 ,2280434,HB9DSP,Ferdy,De Martin,Ins,CHE/Bern,,Private Call,None
+,2280435,HB3YAW,Nicolas,Trachsel,Miex,CHE/Valais,,Private Call,None
+,2280436,HB3YNG,Adam,,,CHE/Zurich,,Private Call,None
 ,2281001,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
 ,2281002,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
 ,2281003,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
@@ -12661,8 +12670,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2283008,HB9HVS,Heinz,Hofstetter,Wynigen,CHE/Bern und Oberwallis,,Private Call,None
 ,2283009,HB9MCY,Max,Thomi,Bremgarten,CHE/Bern und Oberwallis,,Private Call,None
 ,2283010,HB9CJQ,Urs,Thomi,Ittigen,CHE/Bern und Oberwallis,,Private Call,None
-,2283011,HB9BEN,Ruedi,,Brienzwiler,CHE/Haslital,,Private Call,None
-,2283012,HB9BEN,Ruedi,,Brienzwiler,CHE/Haslital,,Private Call,None
+,2283011,HB9BEN,Ruedi,,Brienzwiler,CHE/Bern,,Private Call,None
+,2283012,HB9BEN,Ruedi,,Brienzwiler,CHE/Bern,,Private Call,None
 ,2283013,HB3YAM,Vreni,,Brienzwiler,CHE/Haslital,,Private Call,None
 ,2283014,HB9MHS,Roland,,Bern,CHE/Bern und Umgebung,,Private Call,None
 ,2283015,HB3YEI,Martin,,Unterseen,CHE/Interlaken,,Private Call,None
@@ -12676,7 +12685,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2283023,HB9EVK,Barbara,,Frutigen,CHE/Frutigland,,Private Call,None
 ,2283024,HB3YUK,Oli,,Bern,CHE/Bern und Umgebung,,Private Call,None
 ,2283025,HB9DTN,Lorenz,,Bern,CHE/Bern und Umgebung,,Private Call,None
-,2283026,HB9BEN,Ruedi,,Brienzwiler,CHE/Haslital,,Private Call,None
+,2283026,HB9BEN,Ruedi,,Brienzwiler,CHE/Bern,,Private Call,None
 ,2283027,HB9FGW,Urs,,Helgisried,CHE/Seftigen,,Private Call,None
 ,2283028,HB9FGW,Urs,,Helgisried,CHE/Seftigen,,Private Call,None
 ,2283029,HB3YEH,Jan,,Matten,CHE/Interlaken,,Private Call,None
@@ -13240,7 +13249,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286048,HB3YNL,Davide,Cattaneo,Grono,CHE/Zentralschweiz und T,,Private Call,None
 ,2286049,HB3YVN,Ennio,Foletta,Gordola,CHE/Zentralschweiz und T,,Private Call,None
 ,2286050,HB9FWB,Arti,Bordoni,Rosone,CHE/Ticino,,Private Call,None
-,2286051,HB9FBJ,Andy,Cariglia,Ascona,CHE/Zentralschweiz und T,,Private Call,None
+,2286051,HB9FBJ,Andrea,,Ascona,CHE/Ticino,,Private Call,None
 ,2286052,HB9HJJ,Thomas,Marchy,Brunnen,CHE/Schwyz,,Private Call,None
 ,2286053,HB9ODL,Danilo,Calderoli,Lugano,CHE/Zentralschweiz und T,,Private Call,None
 ,2286054,HB9FWB,Arti,Bordoni,Rosone,CHE/Ticino,,Private Call,None
@@ -13281,7 +13290,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286089,HB9O,Exhibition,Luzern,Luzern,CHE/Zentralschweiz und T,,Private Call,None
 ,2286090,HB9ODL,Danilo,Calderoli,Lugano,CHE/Zentralschweiz und T,,Private Call,None
 ,2286091,HB9FPF,Emanuele,Pero,Bioggio,CHE/Zentralschweiz und T,,Private Call,None
-,2286092,HB9FBJ,Andrea,Cariglia,Ascona,CHE/Zentralschweiz und T,,Private Call,None
+,2286092,HB9FBJ,Andrea,,Ascona,CHE/Ticino,,Private Call,None
 ,2286093,HB9EFK,Nick,Steinbruecker,Locarno,CHE/Zentralschweiz und T,,Private Call,None
 ,2286094,HB9LO,Locarno,Group,Locarno,CHE/Zentralschweiz und T,,Private Call,None
 ,2286095,HB9EIX,Bruno,Frutig,Horw,CHE/Zentralschweiz und T,,Private Call,None
