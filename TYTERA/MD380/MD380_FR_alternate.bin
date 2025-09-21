@@ -1,4 +1,4 @@
-876896
+877962
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -168,12 +168,10 @@
 1023064,VA3CQB,Stephen Shein,Burlington,Ontario,Stephen,CAN
 1023066,VA3RHW,Norman Osborne,,Ontario,Norman,CAN
 1023068,VE3RBO,Ruth Dahl,London,Ontario,Ruth,CAN
-1023069,VE3LJL,Luc Lebel,Toronto,Ontario,Luc,CAN
 1023070,VA3GHI,Bogdan Ghitescu,Toronto,Ontario,Bogdan,CAN
 1023071,VA3DBL,David Lehman,Utopia,Ontario,David,CAN
 1023072,VE3WMZ,Bill Moss,,Ontario,Bill,CAN
 1023074,VE3LTB,Brian Belanger,Windsor,Ontario,Brian,CAN
-1023076,VE3LJL,Luc Lebel,Toronto,Ontario,Luc,CAN
 1023078,VA3TSE,Thomas Sprinzing,Toronto,Ontario,Thomas,CAN
 1023079,VE3XBH,Brian Herling,Mississauga,Ontario,Brian,CAN
 1023080,VE3MDN,Mark Dalhouse,Mississauga,Ontario,Mark,CAN
@@ -970,7 +968,7 @@
 2060709,ON3BHV,Hubert Balon,,Wal Brabant,Hubert,BEL
 2060710,ON2PH,Philippe Thiry,Barvaux Sur Ourthe,Luxemburg,Philippe,BEL
 2060711,ON5NA,Bart Vandesande,Geraardsbergen,Oost Vlaanderen,Bart,BEL
-2060712,ON3PK,Peter M A Kenis,Lummen,Limburg,Peter M A,BEL
+2060712,ON3PK,Peter Kenis,Lummen,Limburg,Peter,BEL
 2060713,ON7OAK,Willy Cockhuyt,Lochristi Zeveneken,Oost Vlaanderen,Willy,BEL
 2060714,ON3SLC,Laurent Seha,Saint Ghislain,Hainaut,Laurent,BEL
 2060715,ON3BAE,Andre Baeyens,Charleroi,Hainaut,Andre,BEL
@@ -995,7 +993,7 @@
 2060734,ON4KDT,Alain Delelet,Mont Saint Guibert,Wal Brabant,Alain,BEL
 2060735,ON3BPA,Bart Palmkoek,Sint Niklaas,Oost Vlaanderen,Bart,BEL
 2060736,ON9MP,Marko,Brussels,,Marko,BEL
-2060737,ON3GIR,Gilbert Rentmeesters,Antwerpen,Antwerp,Gilbert,BEL
+2060737,ON2GIR,Gilbert Rentmeesters,Antwerpen,Antwerp,Gilbert,BEL
 2060738,ON3GC,Geoffrey Cara,Ans  Liege,Liege,Geoffrey,BEL
 2060739,ON5JC,Christoph Janker,Brussels,Brussels,Christoph,BEL
 2060740,ON3JCO,Jan Cornelis,Oud Turnhout,Antwerp,Jan,BEL
@@ -1022,7 +1020,7 @@
 2060761,OO7D,Daniel Van der Stuyft,Lede,Oost Vlaanderen,Daniel,BEL
 2060762,ON3LBA,Luc Boroje,Turnhout,Antwerp,Luc,BEL
 2060763,ON8FAB,Fabrice Clementi,Saint Mard,Luxemburg,Fabrice,BEL
-2060764,ON3WY,Jerome Jerome,Charleroi,Hainaut,Jerome,BEL
+2060764,ON6TJ,Jerome Jerome,Charleroi,Hainaut,Jerome,BEL
 2060765,ON7AQC,Casimir Seminck,Zonhoven,Limburg,Casimir,BEL
 2060766,ON5LBV,Van Lysebetten Bernard,Libin,Luxemburg,Van Lysebetten,BEL
 2060767,ON6QV,Michel Deprez,Gembloux,Namur,Michel,BEL
@@ -1074,6 +1072,8 @@
 2060813,ON4CGZ,Gerdy,Oostkamp,West Vlaanderen,Gerdy,BEL
 2060814,ON5OC,Kris De Rijcke,Dendermonde,Oost Vlaanderen,Kris,BEL
 2060815,ON4VVR,Vicky Van Ryssel,Westende,West Vlaanderen,Vicky,BEL
+2060816,ON8VR,Chris,Boom,Antwerp,Chris,BEL
+2060817,ON3SEA,Raf,Antwerp  Hoboken,Antwerp,Raf,BEL
 2061001,ON8SVH,Stijn Hende,Oudenaarde,Oost-Vlaanderen,Stijn,BEL
 2061002,ON8SI,Simon Pauw,Oosterzele,Oost-Vlaanderen,Simon,BEL
 2061003,ON5LUC,Luc Lourense,Gent,Oost-Vlaanderen,Luc,BEL
@@ -2718,7 +2718,7 @@
 2080568,F1PTV,Jacques,Ginestas,No_regio,Jacques,FRA
 2080569,F5SPJ,Alain,Aspremont,No_regio,Alain,FRA
 2080570,F4FXV,Alain,Vallauris,No_regio,Alain,FRA
-2080571,TK4TO,Chris,Bastia (sv),No_regio,Chris,FRA
+2080571,TK4TO,Chris,Bastia,No_regio,Chris,FRA
 2080572,F4IRO,Quentin Santos,Paris,Ile De France,Quentin,FRA
 2080573,F1CHF,Francois Jouan,Franconville,Ile-De-France,Francois,FRA
 2080574,F0DWJ,Jean Michel Pascal,Aix En Provence,Provence Alpes Cote D Azur,Jean Michel,FRA
@@ -3010,7 +3010,7 @@
 2080860,F4IVZ,Herve Croq,Le Pradet,Provence Alpes Cote D Azur,Herve,FRA
 2080861,F8AXW,Sylvain Gava,Pineuilh,Nouvelle-Aquitaine,Sylvain,FRA
 2080862,F5IHN,David Aknin,Bezouce,Occitanie,David,FRA
-2080863,F4IEE,F4iee Cyril,Aston,Occitanie,F4iee,FRA
+2080863,F4IEE,Cyril,Aston,Occitanie,,FRA
 2080864,F4IAA,Laurent Batrancourt,La Douze,Nouvelle-Aquitaine,Laurent,FRA
 2080865,F5SXD,Christophe Lejeune,,Normandie,Christophe,FRA
 2080866,F4JDN,Jean-Michel Cohen,Orsay,No_regio,Jean-Michel,FRA
@@ -3388,7 +3388,7 @@
 2081241,F8HNC,Dominique Bouvier,Tourlaville,,Dominique,FRA
 2081242,F4JOP,Je Rome Joe,Longuyon,Grand Est,Je Rome,FRA
 2081243,F1DKC,Georges Sommer,Chevigny St Sauveur,Bourgogne Franche Comte,Georges,FRA
-2081244,F4EIK,Laurent Mario Colin,,Grand,Laurent Mario,FRA
+2081244,F4EIK,Laurent Colin,,Grand,Laurent,FRA
 2081245,F4CUB,Michel Saclier,Talant,Bourgogne Franche Comte,Michel,FRA
 2081246,F1GLR,Robert Starace,,Provence Alpes Cote D Azur,Robert,FRA
 2081247,F4JLM,Fabien Tichit,Neuveglise Sur Truyere,Auvergne Rhone Alpes,Fabien,FRA
@@ -3484,7 +3484,7 @@
 2081338,F6AIM,Jean Pierre Bessou,Sainte Soulle,Nouvelle Aquitaine,Jean Pierre,FRA
 2081339,F4CJN,Michel Del Bove,Aubagne,Provence Alpes Cote D Azur,Michel,FRA
 2081340,F4JPK,Reynald Derome,Sin Le Noble,Hauts de France,Reynald,FRA
-2081341,F4IIQ,Jean Francois Jeff Injalrac,MORTROUX,Nouvelle Aquitaine,Jean Francois Jeff,FRA
+2081341,F4IIQ,Jean Injalrac,MORTROUX,Nouvelle Aquitaine,Jean,FRA
 2081342,F4JPV,Patrice Coullare,,Auvergne Rhone Alpes,Patrice,FRA
 2081343,F4JPO,Stephane Dubos,Saint Germain De La Grange,Ile De France,Stephane,FRA
 2081344,F8FQX,Nicolas Sinieokoff,Dijon,Bourgogne Franche Comte,Nicolas,FRA
@@ -3785,10 +3785,10 @@
 2081640,F4LUC,Cassegrain Lasierra Richard,,Pays De La Loire,Cassegrain Lasierra,FRA
 2081641,F4LVS,Mickael Klose,Cocheren,Grand,Mickael,FRA
 2081642,F4VVU,Klood Hartz,Gorcy,Grand,Klood,FRA
-2081643,F4KOE,Radioclub Des Amis Fort De Comboire,Claix,Auvergne Rhone Alpes,Radioclub Des Amis,FRA
+2081643,F4KOE,Radioclub Fort De Comboire,Claix,Auvergne Rhone Alpes,Radioclub,FRA
 2081644,F4DAS,Guy Boyer,,,Guy,FRA
 2081645,F4LVO,Serge Schleusner,Salles La Source,Occitanie,Serge,FRA
-2081646,F5SYF,Jean Paul Grimaud,Escoutoux,Auvergne Rhone Alpes,Jean Paul,FRA
+2081646,F5SYF,Jean Grimaud,Escoutoux,Auvergne Rhone Alpes,Jean,FRA
 2081647,F4JFC,Jean Bouet,Beruges,Nouvelle Aquitaine,Jean,FRA
 2081648,F5OQK,Jean Paul Jolly,,Pays De La Loire,Jean Paul,FRA
 2081649,F1UPT,Noel Rose,Baguer Pican,,Noel,FRA
@@ -3820,7 +3820,7 @@
 2081675,F4LMS,Quentin Stutzmann,Kurtzenhouse,Alsace,Quentin,FRA
 2081676,F6BZT,Marc Heddebaut,Isle Sur La Sorgue,Provence Alpes Cote D Azur,Marc,FRA
 2081677,F4MFU,Constantin Aubry,,,Constantin,FRA
-2081678,F4KOL,Toulouse Tdxg,Toulouse,Occitanie,Toulouse Tdxg,FRA
+2081678,F4KOL,Toulouse,Toulouse,Occitanie,Toulouse,FRA
 2081679,F0DPK,Benjamin Egea,Eslettes,Normandie,Benjamin,FRA
 2081680,F4MGH,Thomas,Meru,Hauts De France,Thomas,FRA
 2081681,F5RAZ,Jean Paul Marguier,Lure,Bourgogne Franche Comte,Jean Paul,FRA
@@ -3999,6 +3999,12 @@
 2081910,F4IRW,Thibaut,Pont Saint Esprit,Occitanie,Thibaut,FRA
 2081911,F5TOL,Mike Mike,Rohrwiller,Alsace,Mike,FRA
 2081912,F4LNA,Alexis Boisseau,St Claude De Diray,Centre Val De Loire,Alexis,FRA
+2081913,F4GQT,Michael,Heuringhem,Hauts De France,Michael,FRA
+2081914,F4AZS,Serge,Lamothe,Auvergne Rhone Alpes,Serge,FRA
+2081915,F4MLK,Kor,France,Normandie,Kor,FRA
+2081916,F4MQG,Pascal,Crouttes Sur Marne,Hauts De France,Pascal,FRA
+2081917,F4WFX,Fred,Maisoncelles En Brie,Ile De France,Fred,FRA
+2081918,F4LDT,Alain,Issy Les Moulineaux,Ile De France,Alain,FRA
 2082001,F4FUL,Cyril Teitler,Sciez,Rhone-Alpes,Cyril,FRA
 2082002,F5VIN,Heiko Damerau,Thoiry,Rhone-Alpes,Heiko,FRA
 2082003,F1AGU,Charles Henri Sap,Aillon Le Vieux,Auvergne Rhone Alpes,Charles Henri,FRA
@@ -5493,7 +5499,7 @@
 2280032,HB3XXB,Tobias Ruff,Bergdietikon,Aargau,Tobias,CHE
 2280033,HB9CKF,Eduard Heinrich Meister,,,Eduard Heinrich,CHE
 2280034,HB9GHL,Lars Horvath,Luzern,Lucerne,Lars,CHE
-2280035,HB9ZG,Uska Sektion Zug,,Zug,Uska Sektion,CHE
+2280035,HB9ZG,Uska Zug,,Zug,Uska,CHE
 2280036,HB9CJX,Marco Rissi,Wil,St Gallen,Marco,CHE
 2280037,HB9VIN,Patrick Favre,,,Patrick,CHE
 2280038,HB9JCB,Johann Zuercher,,Lucerne,Johann,CHE
@@ -5678,7 +5684,7 @@
 2280217,HB9HTB,Marco Caforio,Chiasso,Ticino,Marco,CHE
 2280218,HB3XVA,Adrian Spichtig,Hochdorf,Lucerne,Adrian,CHE
 2280219,HB9DQI,Peter,None,Basel-Country,Peter,CHE
-2280220,HB9HST,Stefan Steve Escher,,Fribourg,Stefan Steve,CHE
+2280220,HB9HST,Stefan Escher,,Fribourg,Stefan,CHE
 2280221,HB3YXZ,Dani Kalberer,Mels,St. Gallen,Dani,CHE
 2280222,HB9HRG,Cosimo Fadda,Tesserete,Ticino,Cosimo,CHE
 2280223,HB9DMB,Simon Rood,,Bern,Simon,CHE
@@ -5753,7 +5759,7 @@
 2280292,HB9DKY,Hans Peter Meier,,Basel City,Hans Peter,CHE
 2280293,HB9OBM,Renato Zanelli,6597 Agarone,Ticino,Renato,CHE
 2280294,HB9FDY,Michael Boehm,,Aargau,Michael,CHE
-2280295,HB9HDJ,Juerg George Seiler,Titterten,Basel Country,Juerg George,CHE
+2280295,HB9HDJ,Juerg Seiler,Titterten,Basel Country,Juerg,CHE
 2280296,HB9HPE,Joel Krauser,Basel,Basel City,Joel,CHE
 2280297,HB9HXZ,Reto Masero,Thalheim,Aargau,Reto,CHE
 2280298,HB9GUN,Andi Brand,Oberwangen,Bern,Andi,CHE
@@ -5914,6 +5920,9 @@
 2280453,HB9TSQ,Moritz,None,Zurich,Moritz,CHE
 2280454,HB3YSY,Stephane Cuilleron,Gland,Vaud,Stephane,CHE
 2280455,HB9ZAX,Victor Mattle,Dietikon,Zurich,Victor,CHE
+2280456,HB9EDI,Serge,Brislach,Basel Country,Serge,CHE
+2280457,HB9ILW,Christophe,Sargans,St Gallen,Christophe,CHE
+2280458,HB9IOK,Pascal,La Chaux De Fonds,Neuchatel,Pascal,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,Cedric,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,Cedric,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,Cedric,CHE
@@ -7998,7 +8007,7 @@
 3020520,VE2KWS,Stephane Gelinas,Shawinigan,Quebec,Stephane,CAN
 3020521,VE7SDN,Susan Roma,Burnaby,Bc,Susan,CAN
 3020522,VE7SDN,Susan Roma,Burnaby,Bc,Susan,CAN
-3020523,VO1CMT,Scouts Canada  Camp Morristown,,Newfoundland,Scouts Canada  Camp,CAN
+3020523,VO1CMT,Scouts Morristown,,Newfoundland,Scouts,CAN
 3020524,VA7RA,Roland Corkum,Coquitlam,Bc,Roland,CAN
 3020525,VE6AFP,Philippine Philccom,Edmonton,Ab,Philippine,CAN
 3020526,VA2FPE,Francois Perrier,St-Barnabe N,Qc,Francois,CAN
@@ -9361,7 +9370,7 @@
 3021914,VA2AYA,Anthony Caya,Blainville,Qc,Anthony,CAN
 3021915,VE1INN,Allen Harris,Hammonds Plains,Nova Scotia,Allen,CAN
 3021916,VE3UB,Steven Trowbridge,Keswick,Ontario,Steven,CAN
-3021917,VA2WDW,Cedric Lamoureux,Laprairie,Newfoundland,Cedric,CAN
+3021917,VE2CL,Cedric Lamoureux,Laprairie,Newfoundland,Cedric,CAN
 3021918,VE3RRD,Alvin Duncan,Barrie,Ontario,Alvin,CAN
 3021919,VE3ZPP,Dan Macdonald,Kitchener,Ontario,Dan,CAN
 3021920,VE3XQC,George Rakobowchuk,Mississauga,Ontario,George,CAN
@@ -11682,7 +11691,7 @@
 3024280,VO2ET,Darryl Collins,Labrador City,Newfoundland,Darryl,CAN
 3024281,VE2DTB,David Tremblay,Levis,Quebec,David,CAN
 3024282,VE2PRI,Patrice Rivard,Yamachiche,Quebec,Patrice,CAN
-3024283,VE5DCP,Douglas Pfaff,Regina (cs),Saskatchewan,Douglas,CAN
+3024283,VE5DCP,Douglas Pfaff,Regina,Saskatchewan,Douglas,CAN
 3024284,VE2MKX,Jules Lemieux,Saint Moise,Quebec,Jules,CAN
 3024285,VA7ORV,Michael Coulter,Campbell River,British Columbia,Michael,CAN
 3024286,VA3JXP,Paulo Assuncao,North York,Ontario,Paulo,CAN
@@ -11925,7 +11934,7 @@
 3024523,VA6MME,Mia Salomakhin,Cardston,Alberta,Mia,CAN
 3024524,VE7KTC,Carl Cooke,Aldergrove,British Columbia,Carl,CAN
 3024525,VE2WLQ,Nicolas Bessette,Sherbrooke Qc,Quebec,Nicolas,CAN
-3024526,VA5VER,Samver Buendia,Regina (cs),Saskatchewan,Samver,CAN
+3024526,VA5VER,Samver Buendia,Regina,Saskatchewan,Samver,CAN
 3024527,VE3QDA,Xing Chen,Toronto,Ontario,Xing,CAN
 3024528,VE7LAE,Bradley Timmins,North Vancouver,British Columbia,Bradley,CAN
 3024529,VA3XAN,Jzan Guan,Toronto,Ontario,Jzan,CAN
@@ -11950,7 +11959,7 @@
 3024548,VE3FSW,Paul Costigan,Paris,Ontario,Paul,CAN
 3024549,VA2LGP,Luc Ge Linas,Shawinigan,Quebec,Luc,CAN
 3024550,VA3PO,Daniel Lavoie,Gloucester,Ontario,Daniel,CAN
-3024551,VE3XQV,Ve3xqv Twamley,Belleville,Ontario,Ve3xqv,CAN
+3024551,VE3XQV,Twamley,Belleville,Ontario,Twamley,CAN
 3024552,VE3KRU,Keith Gill,Severn,Ontario,Keith,CAN
 3024553,VE2UNX,Joseph Alonso,Longueuil,Quebec,Joseph,CAN
 3024554,VA7PKP,Syed Shah,Abbotsford,British Columbia,Syed,CAN
@@ -11961,7 +11970,7 @@
 3024559,VA7TSJ,Travis Strain,Maple Ridge,British Columbia,Travis,CAN
 3024560,VE3BRV,Derek Howes,Orleans,Ontario,Derek,CAN
 3024561,VE3QKK,Youngmi Kwak,North York,Ontario,Youngmi,CAN
-3024562,VA2LEQ,Va2leq Godbout,Laval,Quebec,Va2leq,CAN
+3024562,VA2LEQ,Godbout,Laval,Quebec,Godbout,CAN
 3024563,VA3JKW,Jerome Bosman,Listowel,Ontario,Jerome,CAN
 3024564,VA7QAT,Paul Kowal,Burnaby,British Columbia,Paul,CAN
 3024565,VA3MZD,Roderick Murray,Fergus,Ontario,Roderick,CAN
@@ -12196,7 +12205,7 @@
 3024795,VE7KXK,Kevin Carriere,Brackendale,British Columbia,Kevin,CAN
 3024796,VA2PBQ,Patric Be Gin,Saint-Norbert-D-Arthabaska,Quebec,Patric,CAN
 3024797,VA7HHU,Xiaoqin Hu,Langley,British Columbia,Xiaoqin,CAN
-3024798,VE5JRS,John Rick Saunders,Regina,Saskatchewan,John Rick,CAN
+3024798,VE5JRS,John Saunders,Regina,Saskatchewan,John,CAN
 3024799,VE7QBE,Paul Edge,Qualicum Beach,British Columbia,Paul,CAN
 3024800,VE2VAB,Georges Chaudron,Gatineau,Quebec,Georges,CAN
 3024801,VE7LCN,Lon Nolin,Qualicum Beach,British Columbia,Lon,CAN
@@ -12613,7 +12622,7 @@
 3025215,VE1MAG,Michael Goudreault,Dartmouth,Nova Scotia,Michael,CAN
 3025216,VY2AN,Ricardo Angel,Cornwall,Prince Edward Island,Ricardo,CAN
 3025217,VE7NSK,Aleksey Bykov,Burnaby,British Columbia,Aleksey,CAN
-3025218,VE7PAE,Perica Peter Jugovic,Salmon Arm,British Columbia,Perica Peter,CAN
+3025218,VE7PAE,Perica Jugovic,Salmon Arm,British Columbia,Perica,CAN
 3025219,VE2LSS,Alexandre Leneveu,Sainte Marthe,Quebec,Alexandre,CAN
 3025220,VE2OPN,Petar Gueorguiev,Pointe Claire,Quebec,Petar,CAN
 3025221,VA3YMS,Mark Jason Samborski,Blue Mountains,Ontario,Mark Jason,CAN
@@ -12760,7 +12769,7 @@
 3025363,VE3ZPY,Alain Olsen,Lancaster,Ontario,Alain,CAN
 3025364,VE2WP,Jonathan Goulet,Beauharnois,Quebec,Jonathan,CAN
 3025365,VA2KFU,Deroy,Anjou,Quebec,Deroy,CAN
-3025366,VE7IP,East Kootenay Arc,Cranbrook,British Columbia,East Kootenay Arc,CAN
+3025366,VE7IP,East,Cranbrook,British Columbia,East,CAN
 3025367,VA3AYD,Jon Styles,Haliburton,Ontario,Jon,CAN
 3025368,VE4CYW,Ching Yin Eric Wong,Winnipeg,Manitoba,Ching Yin Eric,CAN
 3025369,VE7ZCZ,Zachariah Crow,Victoria,British Columbia,Zachariah,CAN
@@ -12835,7 +12844,7 @@
 3025438,VE3IOU,Dale Butt,Cambridge,Ontario,Dale,CAN
 3025439,VE3DXW,Daniel Wrobel,no_city,Ontario,Daniel,CAN
 3025440,VE3IHB,Bryan Bonnett,Lynedoch,Ontario,Bryan,CAN
-3025441,VE7XUV,University Of Victoria Experimental Radio Group,Victoria,British Columbia,University Of Victoria Experimental Radio Group,CAN
+3025441,VE7XUV,University,Victoria,British Columbia,University,CAN
 3025442,VE7HCU,no_name,Vancouver,British Columbia,no_name,CAN
 3025443,VE7NIZ,Kesar Singh Nizzar,Richmond,British Columbia,Kesar Singh,CAN
 3025444,VA7CVD,David Findlay,Courtenay,British Columbia,David,CAN
@@ -12865,7 +12874,7 @@
 3025468,VA6FTF,Sviatoslav Polishchuk,no_city,Alberta,Sviatoslav,CAN
 3025469,VE6ALO,Alexandre Opotchanov,Calgary,Alberta,Alexandre,CAN
 3025470,VE7QYR,Denise Woodford,Kingsgate,British Columbia,Denise,CAN
-3025471,VE3EIE,Johnny Krzysztof Mroz,Nepean,Ontario,Johnny Krzysztof,CAN
+3025471,VE3EIE,Johnny Mroz,Nepean,Ontario,Johnny,CAN
 3025472,VE3AJI,Reed Norman Leslie,Nepean,Ontario,Reed Norman,CAN
 3025473,VA2DIY,Jocelyn Tremblay,Quebec,Quebec,Jocelyn,CAN
 3025474,VE7KZ,David Keith Barkes,Langley,British Columbia,David Keith,CAN
@@ -12882,7 +12891,7 @@
 3025485,VA3HFC,Darie Marza,Oakville,Ontario,Darie,CAN
 3025486,VE3XZF,Adrian Sheppard,Pickering,Ontario,Adrian,CAN
 3025487,VE3PUP,Wendy Bennett,Burgessville,Ontario,Wendy,CAN
-3025488,VA3ODW,Shiyu William Yuan,Ottawa,Ontario,Shiyu William,CAN
+3025488,VA3ODW,Shiyu Yuan,Ottawa,Ontario,Shiyu,CAN
 3025489,VA2EPJ,Eric Poulin,Clarenceville,Quebec,Eric,CAN
 3025490,VE6VBF,Ricki Munro,Sherwood Park,Alberta,Ricki,CAN
 3025491,VE3PSE,Stanley Alexander Koren,Sudbury,Ontario,Stanley Alexander,CAN
@@ -12933,7 +12942,7 @@
 3025536,VA7PUJ,Simran Sandhu,Kimberley,British Columbia,Simran,CAN
 3025537,VO1DNK,Derrick Keating,Marystown,Newfoundland,Derrick,CAN
 3025538,VE2YMC,Michel Chouinard,Quebec,Quebec,Michel,CAN
-3025539,VE3BCA,Blair Andrew Cawston,Napanee,Ontario,Blair Andrew,CAN
+3025539,VE3BCA,Blair Cawston,Napanee,Ontario,Blair,CAN
 3025540,VA2VOB,Mario Aube,Saint Bruno,Quebec,Mario,CAN
 3025541,VE2TUS,Serge Turmel,Quebec,Quebec,Serge,CAN
 3025542,VA6BAX,Brian Attfield,Grimshaw,Alberta,Brian,CAN
@@ -12950,7 +12959,7 @@
 3025553,VA7UY,Paul Sperandeo,Mission,British Columbia,Paul,CAN
 3025554,VA7WWX,Bertram Harrison,Brentwood Bay,British Columbia,Bertram,CAN
 3025555,VA3DTG,Dwight Thompson,Tillsonburg,Ontario,Dwight,CAN
-3025556,VE3ISO,Rodney L Clifton,Burlington,Ontario,Rodney L,CAN
+3025556,VE3ISO,Rodney Clifton,Burlington,Ontario,Rodney,CAN
 3025557,VE3DED,Thomas Charles Dowswell,Parry Sound,Ontario,Thomas Charles,CAN
 3025558,VE4WK,Witold Maciej Kinsner,Winnipeg,Manitoba,Witold Maciej,CAN
 3025559,VE7WNL,William Loe,Fort St John,British Columbia,William,CAN
@@ -12980,7 +12989,7 @@
 3025583,VE3VNA,Ryan Fraser,Toronto,Ontario,Ryan,CAN
 3025584,VE2AH,Michel Despins,Val David,Quebec,Michel,CAN
 3025585,VA7CGM,Ken Staples,Royston,British Columbia,Ken,CAN
-3025586,VA1SAR,Darren  Bruce Mac Leod,New Waterford,Nova Scotia,Darren  Bruce,CAN
+3025586,VA1SAR,Darren Mac Leod,New Waterford,Nova Scotia,Darren,CAN
 3025587,VE9KZ,Kyle Boyle,Rothesay,New Brunswick,Kyle,CAN
 3025588,VAY7BAJ,Jeff Pollock,Radium Hot Springs,British Columbia,Jeff,CAN
 3025589,VE5ZVX,Steven Bossley,Yorkton,Saskatchewan,Steven,CAN
@@ -13111,7 +13120,7 @@
 3025714,VE7HIB,Brittany Herbert,Fort St John,British Columbia,Brittany,CAN
 3025715,VA3BVT,John Hamilton,Osgoode,Ontario,John,CAN
 3025716,VA2LRZ,Luc Robitaille,Quebec,Quebec,Luc,CAN
-3025717,VE3PXX,Peter A Schmidt,Oakville,Ontario,Peter A,CAN
+3025717,VE3PXX,Peter Schmidt,Oakville,Ontario,Peter,CAN
 3025718,VE4HF,Joselito Lagman,Winnipeg,Manitoba,Joselito,CAN
 3025719,VE2GPP,Guy Poulin,Sainte Brigitte De Laval,Quebec,Guy,CAN
 3025720,VE3KSI,Bob Capson,Dorchester,Ontario,Bob,CAN
@@ -13175,7 +13184,7 @@
 3025778,VE3KNO,Murray Johnson,Carlisle,Ontario,Murray,CAN
 3025779,VA2MPH,Steve Cusson,Sorel Tracy,Quebec,Steve,CAN
 3025780,VA4NJF,Nicholas Hill,Winnipeg,Manitoba,Nicholas,CAN
-3025781,VE3OZG,Christopher E Wardle,Hastings,Ontario,Christopher E,CAN
+3025781,VE3OZG,Christopher Wardle,Hastings,Ontario,Christopher,CAN
 3025782,VE9GF,Mathew Hengst,Point La,New Brunswick,Mathew,CAN
 3025783,VA3TNE,Andrew Tane,Wasaga Beach,Ontario,Andrew,CAN
 3025784,VA3BFX,Aron Posen,Sunderland,Ontario,Aron,CAN
@@ -13195,7 +13204,7 @@
 3025798,VA2DBB,Daniel Larouche,Quebec,Quebec,Daniel,CAN
 3025799,VA3TYD,Herman Mak,North York,Ontario,Herman,CAN
 3025800,VA2CU,Michel Chouinard,Longueuil,Quebec,Michel,CAN
-3025801,VA3XRY,Shannon Dale Coolican,Kingston,Ontario,Shannon Dale,CAN
+3025801,VA3XRY,Shannon Coolican,Kingston,Ontario,Shannon,CAN
 3025802,VE2SZG,Sebastien Gleason,Granby,Quebec,Sebastien,CAN
 3025803,VE9JCT,Jean Claude Theriault,Shediac,New Brunswick,Jean Claude,CAN
 3025804,VA2ESA,Savard,Maddington,Quebec,,CAN
@@ -13461,7 +13470,7 @@
 3026065,VE6BRJ,Barry Mccoubrey,Calgary,Alberta,Barry,CAN
 3026066,VA6KRK,Kelly Klatt,Medicine Hat,Alberta,Kelly,CAN
 3026067,VA6CPK,Dale Grant,Calgary,Alberta,Dale,CAN
-3026068,VE7VAK,Eric F Lange,Union,British Columbia,Eric F,CAN
+3026068,VE7VAK,Eric Lange,Union,British Columbia,Eric,CAN
 3026069,VE6PTE,Pierre Smolarek,Calgary,Alberta,Pierre,CAN
 3026070,VA6CJC,Chris Cutrara,Calgary,Alberta,Chris,CAN
 3026071,VE6EVC,Eugene Cole,Cochrane,Alberta,Eugene,CAN
@@ -13723,7 +13732,7 @@
 3026327,VA7GGP,Gheorghe Galbin Pristavu,Port Moody,British Columbia,Gheorghe,CAN
 3026328,VA7KHL,Tony Jiang,,British Columbia,Tony,CAN
 3026329,VE5BV,William Wolff,Regina,Saskatchewan,William,CAN
-3026330,VA3JTY,Joe Tak Chan,Markham,Ontario,Joe Tak,CAN
+3026330,VA3JTY,Joe Chan,Markham,Ontario,Joe,CAN
 3026331,VE7VCC,Westcoast Amateur Radio Association,Victoria,British Columbia,Westcoast Amateur Radio Association,CAN
 3026332,VA4MAJ,Mark Jenkins,,Manitoba,Mark,CAN
 3026333,VE6DIL,Mario Di Lallo,Airdrie,Alberta,Mario,CAN
@@ -13827,7 +13836,7 @@
 3026431,VE3FQE,Lawrence Hobbs,Ottawa,Ontario,Lawrence,CAN
 3026432,VA7DVT,Andrew Thompson,Vancouver,British Columbia,Andrew,CAN
 3026433,VE3MNA,Mark Nowicki,Tobermory,Ontario,Mark,CAN
-3026434,VE3ERC,Elmira Radio Club,Elmira,Ontario,Elmira Radio Club,CAN
+3026434,VE3ERC,Elmira,Elmira,Ontario,Elmira,CAN
 3026435,VA3ZJW,William,,Ontario,William,CAN
 3026436,VA7GMZ,Glenn Morgan,Victoria,British Columbia,Glenn,CAN
 3026437,VA3KWG,Kenneth Gansel,Niagara On The Lake,Ontario,Kenneth,CAN
@@ -13960,6 +13969,7 @@
 3026564,VE2TIC,Jacques Bilodeau,Nantes,Quebec,Jacques,CAN
 3026565,VE3IK,Brian,Whitby,Ontario,Brian,CAN
 3026566,VA3CNM,Bruce Lan,Toronto,Ontario,Bruce,CAN
+3026567,VE7MXU,Randy,,British Columbia,Randy,CAN
 3026912,VA7RGM,Robert Meldrum,West Kelowna,British Columbia,Robert,CAN
 3026913,VA6LTV,Larry Vollstaedt,Cochrane,Alberta,Larry,CAN
 3026914,VE3ZWX,James Bradley Brien,London,Ontario,James Bradley,CAN
@@ -13984,6 +13994,24 @@
 3026933,VE7LW,Charles Royston,Kelowna,British Columbia,Charles,CAN
 3026934,VA2EVS,Patrick Vaillancourt,,Quebec,Patrick,CAN
 3026935,VE4ZWR,Progyadeep,,Manitoba,Progyadeep,CAN
+3026936,VE3FZG,Julian,Laurentian Hills,Ontario,Julian,CAN
+3026937,VA7GSS,Gordon,Kamloops,British Columbia,Gordon,CAN
+3026938,VA2OSI,Pierre,,Quebec,Pierre,CAN
+3026939,VE3JOL,Joerg,Carp,Ontario,Joerg,CAN
+3026940,VE7JSX,Pat,Summerland,British Columbia,Pat,CAN
+3026941,VA7WWE,Daniel,,British Columbia,Daniel,CAN
+3026942,VE6ST,Richard,Calgary,Alberta,Richard,CAN
+3026943,VE2TNP,Stephane,Montreal,Quebec,Stephane,CAN
+3026944,VE7RE,Derek,Delta,British Columbia,Derek,CAN
+3026945,VA7DCY,Darcy,,British Columbia,Darcy,CAN
+3026946,VA3WZD,Aaron,,Ontario,Aaron,CAN
+3026947,VE1JHF,Jeremy,Lower Sackville,Nova Scotia,Jeremy,CAN
+3026948,VE3LJL,Luc,Kapuskasing,Ontario,Luc,CAN
+3026949,VE3LJL,Luc,Kapuskasing,Ontario,Luc,CAN
+3026950,VA2PPP,Club,,Quebec,Club,CAN
+3026951,VO1AW,Brian,Gander,Newfoundland,Brian,CAN
+3026952,VE3EAU,David,Almonte,Ontario,David,CAN
+3026953,VE1LJ,Murray,Upper Falmouth,Nova Scotia,Murray,CAN
 3027001,VE7NWX,Emcomm Wstmnstr,New Westminster,British Columbia,Emcomm,CAN
 3027002,VE7NWX,Emcomm Wstmnstr,New Westminster,British Columbia,Emcomm,CAN
 3027003,VE7NWX,Emcomm Wstmnstr,New Westminster,British Columbia,Emcomm,CAN
@@ -14317,7 +14345,7 @@
 3028001,VY1CA,Kelly Quocksister,Whitehorse,Yukon,Kelly,CAN
 3028002,VE3YUL,John Muise,Ottawa,Yukon,John,CAN
 3028005,VE3GCT,Gary Crawford,Nyork,Yukon,Gary,CAN
-3028006,VE3YCX,Ve3ycx Lenfesty,Burlington,Yukon,Ve3ycx,CAN
+3028006,VE3YCX,Lenfesty,Burlington,Yukon,Lenfesty,CAN
 3028009,VE3PWJ,Pete Johns,Oshawa,Yukon,Pete,CAN
 3028010,VY1BAT,Wolf Zemp,Whitehorse,Yukon,Wolf,CAN
 3028011,VA3QU,Chris Kang,Nyork,Yukon,Chris,CAN
