@@ -943,6 +943,9 @@
 2060819,ON9CJ Chad     ,Gottignies         Hainaut             | BEL
 2060820,ON8APZ Benoit  ,Gent               Oost Vlaanderen     | BEL
 2060821,ON3VO Peter    ,Asse               Vlaams Brabant      | BEL
+2060822,ON8MKP Maren   ,Bilzen Hoeselt     Limburg             | BEL
+2060823,ON1PH Paul     ,Eupen              Liege               | BEL
+2060824,ON6CD Filip    ,Sint Martens Latem Oost Vlaanderen     | BEL
 2061001,ON8SVH Stijn   ,Hende Oudenaarde   Oost-Vlaanderen     | BEL
 2061002,ON8SI Simon    ,Pauw Oosterzele    Oost-Vlaanderen     | BEL
 2061003,ON5LUC Luc     ,Lourense Gent      Oost-Vlaanderen     | BEL
@@ -3748,6 +3751,10 @@
 2081734,F4MRX Emmanuel ,Paris              Ile De France       | FRA
 2081735,F4FJK Jerome   ,Orleans            Centre Val De Loire | FRA
 2081736,F4ILR Antony   ,Lempdes            Auvergne Rhone Alpes| FRA
+2081737,F4LZA Pierre   ,Jayat              Auvergne Rhone Alpes| FRA
+2081738,F4MSS Ali      ,Metz               Grand               | FRA
+2081739,F5MJL Jean Loui,                   Nouvelle Aquitaine  | FRA
+2081740,F4MRW Phil     ,Velving            Grand               | FRA
 2081777,F4JBM Francois ,Saint Cloud        Ile De France       | FRA
 2081778,F1UFW Saletzki ,Sebastien Aussonne Occitanie           | FRA
 2081779,F4JJQ Pierre   ,Baussart Bailleul  Hauts De France     | FRA
@@ -5817,6 +5824,11 @@
 2280461,HB3XGC Juergen ,Spreitenbach       Aargau              | CHE
 2280462,HB3XZJ Guido   ,Spiez              Bern                | CHE
 2280463,HB9KAX Martin  ,Baetterkinden      Bern                | CHE
+2280464,HB3YND Andreas ,Zuerich            Zurich              | CHE
+2280465,HB9INH Olivier ,Giubiasco          Ticino              | CHE
+2280466,HB9SQE Emil    ,Arisdorf           Basel Country       | CHE
+2280467,HB9HUO David   ,Null               Solothurn           | CHE
+2280468,HB9HFJ Patrick ,Cousset            Fribourg            | CHE
 2281001,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281002,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281003,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
@@ -8336,6 +8348,7 @@
 3020947,VA2REM Remi    ,Gagnon Laval       Qc                  | CAN
 3020948,VA2MVY Michel  ,Vachon Vaudreuil-D Qc                  | CAN
 3020949,VE3VAV David   ,Wilson Shelburne   On                  | CAN
+3020950,VE2PLH Pierre  ,Levis              Quebec              | CAN
 3020951,VE2KAH Roger   ,Beaulieu Shawiniga Qc                  | CAN
 3020952,VE6KAG Gerhard ,Kelter Calgary Alb Ab                  | CAN
 3020953,VE6KAG Gerhard ,Kelter Calgary Alb Ab                  | CAN
@@ -8372,6 +8385,7 @@
 3020984,VA2CNE Cedric  ,Nerot Dorval       Qc                  | CAN
 3020985,VE3EFF Jeff    ,Milne Arnprior     On                  | CAN
 3020986,VA7NH Rene     ,Bekkema Campbell R British Columbia    | CAN
+3020987,VA3FSW Jean    ,                   Ontario             | CAN
 3020988,VA2ADW Roland  ,Marcil Trois Rivie Qc                  | CAN
 3020989,VA7EFZ Scott   ,Simmons Salt Sprin Bc                  | CAN
 3020990,VE7KI Michael  ,Beaveridge Abbotsf Bc                  | CAN
@@ -8388,6 +8402,7 @@
 3021001,VE1ZB Mike     ,Masters Oxford     Nova Scotia         | CAN
 3021002,VE1ZB Mike     ,Masters Oxford     Nova Scotia         | CAN
 3021003,VE1EJB Joe     ,Boutilier Bridgewa Nova Scotia         | CAN
+3021004,VE1ZG Douglas  ,Henry Timberlea    Nova Scotia         | CAN
 3021005,VE1JCS James   ,Salamone Antigonis Nova Scotia         | CAN
 3021006,VE1ZC Ron      ,Reashore Dartmouth Nova Scotia         | CAN
 3021007,VE1CCC Andrew  ,Cornwall Sackville Nova Scotia         | CAN
@@ -8476,6 +8491,7 @@
 3021092,VE7WAE Arthur  ,Witmans Surrey     Bc                  | CAN
 3021093,VA3OBO Mark    ,Richardson Hamilto On                  | CAN
 3021094,VE6BGL Wallace ,Gardiner High Rive Ab                  | CAN
+3021095,VA3GF Norman   ,Freidin Burlington On                  | CAN
 3021096,VE6SRP David   ,Bacon Airdrie      Ab                  | CAN
 3021097,VA3AOQ Philip  ,Carter Burlington  On                  | CAN
 3021098,VE3BSB James   ,Crampton Perth     On                  | CAN
@@ -8749,6 +8765,7 @@
 3021366,VA7KMG Paul    ,Keenleyside Surrey British Columbia    | CAN
 3021367,VA7KMG Paul    ,Keenleyside Surrey British Columbia    | CAN
 3021368,VE3FOD Greg    ,Denyes Belleville  Ontario             | CAN
+3021369,VE5XET Darin   ,                   Saskatchewan        | CAN
 3021370,VE3OIC Eric    ,Brown Barrie       Ontario             | CAN
 3021371,VE7NZT Nicola  ,Port Moody         British Columbia    | CAN
 3021372,VE2ZBZ Stephane,Quebec             Quebec              | CAN
@@ -8824,11 +8841,13 @@
 3021443,VE3WHU Bruce   ,Mackay             Ontario             | CAN
 3021444,VE4MAB Markanth,Winnipeg           Manitoba            | CAN
 3021445,VE4SIG James   ,Winnipeg           Manitoba            | CAN
+3021446,VE9AES Rodrick ,Moncton            New Brunswick       | CAN
 3021447,VA7GCA Graham  ,Cartwright Vancouv British Columbia    | CAN
 3021448,VO1NAR Northatl,Portugal Cove      Newfoundland        | CAN
 3021449,VA3DDU Dennis  ,Scarborough        Ontario             | CAN
 3021450,VA2FKR Peter   ,Legault Godmanches Quebec              | CAN
 3021451,VA3YKZ Wmalan  ,Unionville         Ontario             | CAN
+3021452,VE2SYN Sylvain ,Saint Gabriel De B Quebec              | CAN
 3021453,VE1BQC Ronald  ,Boucher Nackawic   New Brunswick       | CAN
 3021454,VE1BQC Ronald  ,Boucher Nackawic   New Brunswick       | CAN
 3021455,VE7RU Ken      ,Victoria           British Columbia    | CAN
@@ -8841,6 +8860,7 @@
 3021462,VE2GR Dominique,Naneix Saint Bruno Quebec              | CAN
 3021463,VE7CRB Charles ,Bacon Cranbrook    British Columbia    | CAN
 3021464,VA6AKA Torstein,Tidemann Blackfald Alberta             | CAN
+3021465,VE3EAM Joshua  ,Ottawa             Ontario             | CAN
 3021466,VA2FES Guillaum,Montreal           Quebec              | CAN
 3021467,VA3JKF Jason   ,Fayre Toronto      Ontario             | CAN
 3021468,VE7RXA Roy     ,Asseltine Port Moo British Columbia    | CAN
@@ -9382,6 +9402,7 @@
 3022009,VE2NY Denis    ,Genest Chateauguay Quebec              | CAN
 3022010,VE2EKL Mario   ,Bilodeau St-Jean-S Quebec              | CAN
 3022011,VE2DPF Jacques ,St-Pierre Havelock Quebec              | CAN
+3022012,VE2SE Jean-Pier,Desilets St-Ignace Quebec              | CAN
 3022013,VA2RK Tom      ,Dupont Quebec      Quebec              | CAN
 3022014,VE2UAL Alexis  ,Langlois St-Jean-S Quebec              | CAN
 3022015,VE2EAL Jacques ,St-Pierre Saint-Je Quebec              | CAN
@@ -9465,6 +9486,7 @@
 3022093,VE2SE Jean     ,Desilets St-Ignace Quebec              | CAN
 3022094,VA2PV Pascal   ,Villeneuve St-Amab Quebec              | CAN
 3022095,VE2JOS Jose    ,Cournoyer Sorel-Tr Quebec              | CAN
+3022097,VE2SE Jean-Pier,Desilet St-Ignace  Quebec              | CAN
 3022098,VA2PSL Steve   ,Perron Blainville  Quebec              | CAN
 3022099,VE2PVR Pascal  ,Villenuve Saint Am Quebec              | CAN
 3022100,VA2FP Fabrizio ,Pieruccetti Montre Quebec              | CAN
@@ -9486,6 +9508,8 @@
 3022116,VE2ZVL Martin  ,Proulx             Quebec              | CAN
 3022117,VE2ZVL Martin  ,Proulx             Quebec              | CAN
 3022118,VE3JPZ Joseph  ,Pinter no_city     No_regio            | CAN
+3022119,VA7ILZ Brett   ,                   British Columbia    | CAN
+3022120,VE7WJN Walter  ,Penticton          British Columbia    | CAN
 3022121,VE2NMB Martin  ,Berube Louiseville Quebec              | CAN
 3022123,VE2GLG Guy     ,Guy Bedard Otterbu Quebec              | CAN
 3022124,VE2JN Jean     ,Drolet Laval       Quebec              | CAN
@@ -11142,6 +11166,7 @@
 3023809,VA3PRF Kenneth ,Owen Burlington    Ontario             | CAN
 3023810,VE3ODR Robert  ,Simpson Washago    Ontario             | CAN
 3023811,VA7AEL Dave    ,Parker Delta       British Columbia    | CAN
+3023812,VE3CZI Norman  ,Freidin Burlington Ontario             | CAN
 3023813,VE3FRK Allen   ,Fricke Port Colbor Ontario             | CAN
 3023814,VE3AXC Kirill  ,Kats Mississauga   Ontario             | CAN
 3023815,VA3CMM Cory    ,Mah Severn         Ontario             | CAN
