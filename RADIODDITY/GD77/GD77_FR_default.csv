@@ -959,6 +959,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060836,ON3LIB,Jonas,Jonas,Ghoy,Hainaut,BEL
 2060837,ON8RG,Johan,Johan,Ostend Belgium,West Vlaanderen,BEL
 2060838,ON4DRH,Jos,Jos,Bilzen Hoeselt,Limburg,BEL
+2060839,ON7DE,Eddy,Eddy,Londerzeel,Vlaams Brabant,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -3950,6 +3951,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081920,F5CBP,Jean,Jean,Ploemel,Bretagne,FRA
 2081921,F1HOM,Jclaude,Jclaude,Carpentras,Provence Alpes Cote D Azur,FRA
 2081922,F4LIP,Jean,Jean,Hussigny,Grand,FRA
+2081923,F4MVT,Elies,Elies,,Occitanie,FRA
+2081924,F1MMT,Jean Michel,Jean Michel,Nonemarseille,Provence Alpes Cote D Azur,FRA
+2081925,F8KFG,Cezoc,Cezoc,Marseille,Provence Alpes Cote D Azur,FRA
+2081926,F1JZM,Thierry,Thierry,Amiens,Hauts De France,FRA
+2081927,F6HIW,Denis,Denis,Dosches,Grand,FRA
+2081928,F4MSM,Laurent,Laurent,Arsy,Hauts De France,FRA
 2082001,F4FUL,Cyril Teitler,Cyril,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko Damerau,Heiko,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles Henri Sap,Charles Henri,Aillon Le Vieux,Auvergne Rhone Alpes,FRA
@@ -5890,6 +5897,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280478,HB9IRX,Thomas,Thomas,Reinach,Basel Country,CHE
 2280479,HB3YQC,Matthias,Matthias,None,Bern,CHE
 2280480,HB9INA,Andre,Andre,Selzach,Solothurn,CHE
+2280481,HB3YQD,Colin,Colin,Walkringen,Bern,CHE
+2280482,HB9GZU,Christian,Christian,Thierachern,Bern,CHE
 2281001,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
@@ -9571,6 +9580,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3022119,VA7ILZ,Brett,Brett,,British Columbia,CAN
 3022120,VE7WJN,Walter,Walter,Penticton,British Columbia,CAN
 3022121,VE2NMB,Martin Berube,Martin,Louiseville,Quebec,CAN
+3022122,VA7GAB,Gregory,Gregory,,British Columbia,CAN
 3022123,VE2GLG,Guy Guy Bedard,Guy,Otterburn Park,Quebec,CAN
 3022124,VE2JN,Jean Drolet,Jean,Laval,Quebec,CAN
 3022125,VE2MQF,Michelle Boyer,Michelle,Stoke,Quebec,CAN
@@ -9894,6 +9904,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3022444,VA2LOJ,Jonathan Levesque,Jonathan,Gatineau,Quebec,CAN
 3022445,VA2STK,Michel Tache,Michel,Chicoutimi,Quebec,CAN
 3022446,VA2SPU,Claude Gelinas,Claude,Shawinigan,Quebec,CAN
+3022447,VE2MSS,Serge Martel,Serge,Trois Pistoles,Quebec,CAN
 3022448,VE2BUJ,Alain Levasseur,Alain,Trois-Rivieres,Quebec,CAN
 3022449,VE2LRE,Remi Lavoie,Remi,La Baie,Quebec,CAN
 3022452,VE2HSQ,Henry Scott,Henry,Quebec,Quebec,CAN
@@ -9916,6 +9927,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3022469,VE2DDT,Michel Ricard,Michel,Chicoutimi,Quebec,CAN
 3022470,VA2CIS,Steeve Beaupre,Steeve,Jonquiere,Quebec,CAN
 3022472,VE2KTN,Catherine Boivin,Catherine,Chicoutimi,Quebec,CAN
+3022473,VE2ISQ,Serge Martel,Serge,Trois Pistoles,Quebec,CAN
 3022474,VE2UY,Roy Pinkney,Roy,Laval,Quebec,CAN
 3022475,VE2PGH,Patrick Harris,Patrick,Montreal,Quebec,CAN
 3022476,VE2HOT,Nicola Ciarallo,Nicola,Montreal,Quebec,CAN
@@ -14050,7 +14062,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3026619,VA3UAP,Daryl,Daryl,Trenton,Ontario,CAN
 3026620,VA7JNX,Janis,Janis,,British Columbia,CAN
 3026621,VE3ATL,Daniel,Daniel,Hawkesbury,Ontario,CAN
-3026622,VA5ZKB,Kevin,Kevin,None,British Columbia,CAN
+3026622,VA7ZKB,Kevin,Kevin,None,British Columbia,CAN
 3026623,VE2TMX,Maurice,Maurice,Shawinigan,Quebec,CAN
 3026624,VE2RRP,Roch,Roch,Shawinigan,Quebec,CAN
 3026625,VE2NGM,Norayr,Norayr,,Quebec,CAN
@@ -14062,6 +14074,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3026631,VA2DC,Denis,Denis,Brossard,Quebec,CAN
 3026632,VE5ALD,Alden,Alden,Saskatoon,Saskatchewan,CAN
 3026633,VE7KUL,Todd,Todd,Chilliwack,British Columbia,CAN
+3026634,VA6RTA,Arta,Arta,Calgary,Alberta,CAN
+3026635,VE3HZT,Derek,Derek,Sarnia,Ontario,CAN
+3026636,VE3YTZ,Gregory,Gregory,Ottawa,Ontario,CAN
+3026637,VE2OHS,Sonny,Sonny,,Ontario,CAN
+3026638,VA6DOA,Patrick,Patrick,Edmonton,Alberta,CAN
+3026639,VA7PXZ,Patrick,Patrick,Squamish,British Columbia,CAN
+3026640,VA7MBR,Mike,Mike,Nanaimo,British Columbia,CAN
 3026912,VA7RGM,Robert Meldrum,Robert,West Kelowna,British Columbia,CAN
 3026913,VA6LTV,Larry Vollstaedt,Larry,Cochrane,Alberta,CAN
 3026914,VE3ZWX,James Bradley Brien,James Bradley,London,Ontario,CAN
