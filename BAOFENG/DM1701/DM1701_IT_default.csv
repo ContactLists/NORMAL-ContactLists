@@ -733,6 +733,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2220751,IS0NBP,Giovanni,Scalas,Assemini (CA),Sardegna,ITA,DMR
 2220752,IW0HMS,Domenico,Bertuccio,Roma (RM),Lazio,ITA,DMR
 2220753,IZ0ASK,Mario,Zuccacci,Terni (TR),Umbria,ITA,DMR
+2220754,IU0VJK,Federico,,Roma (RM),Lazio,ITA,DMR
 2220755,IZ0EJP,Alessio,Piccirillo,Roma,Lazio,ITA,DMR
 2220756,IZ0GXM,Tiziano,Caliandro,Roma,Lazio,ITA,DMR
 2220757,IU0HVM,Marco,Eleuteri,Genzano Di Roma (RM),Lazio,ITA,DMR
@@ -1367,7 +1368,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2221399,IW1ARF,Emilio,Rosi,Novara (NO),Piemonte,ITA,DMR
 2221400,IU1IFT,Fabio,Portonero,Villarbasse (TO),Piemonte,ITA,DMR
 2221401,IW7EAA,Nicola,Ranieri,Capurso (BA),Puglia,ITA,DMR
-2221402,IK1DPA,Roberto,Rebaudo,Sanremo,Liguria,ITA,DMR
+2221402,IZ4MPH,Mirko,Ragazzini,Brisighella (RA),Emilia-Rom.,ITA,DMR
 2221403,IW1DSA,Marco,Felisati,Villadossola (VB),Piemonte,ITA,DMR
 2221404,IZ1NHA,Paolo,Blais,Sauze d'Oulx (TO),Piemonte,ITA,DMR
 2221405,IW1CHD,Enrico,Agatino,Torino,Piemonte,ITA,DMR
@@ -5359,7 +5360,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225431,IU5MIZ,Prisco,,Siena (SI),Toscana,ITA,DMR
 2225432,IU5HKK,Nicola,Paganelli,Lucca (LU),Toscana,ITA,DMR
 2225433,IU5IBV,Samuele,Francalacci,Marina Di Grosseto (GR),Toscana,ITA,DMR
-2225434,IZ5OTC,Filippo,Gentile,Pontassieve (FI),Toscana,ITA,DMR
 2225435,IU5AVO,Maurizio,Lunardi,Cecina,Toscana,ITA,DMR
 2225436,IU5KZL,David,Barneschi,Cortona (AR),Toscana,ITA,DMR
 2225437,IU5FFL,Enrico,Bragagnolo,Pescia (PT),Toscana,ITA,DMR
@@ -6823,7 +6823,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226909,IK8VRO,Pasquale,Lavino,Roccarainola (NA),Campania,ITA,DMR
 2226910,IK7UKJ,Ruggiero,Stella,Barletta (BT),Puglia,ITA,DMR
 2226911,IU7IWT,Vincenzo,Scarongella,Ruvo Di Puglia (BA),Puglia,ITA,DMR
-2226912,IW2NKE,Gian,Solazzi,Milano (MI),Lombardia,ITA,DMR
 2226913,IK8YOQ,Massimo,Mancusi,Pompei,Campania,ITA,DMR
 2226914,IU8OMJ,Bruno,Pica,Trecase (NA),Campania,ITA,DMR
 2226915,IK8OHC,Michele,De Simone,Casoria (NA),Campania,ITA,DMR
@@ -9306,7 +9305,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229414,IT9DEA,Salvatore,Corrao,Palermo (PA),Sicilia,ITA,DMR
 2229415,IT9DEH,Guglielmo,,Palermo,Sicilia,ITA,DMR
 2229416,ID9HFU,Francesco,,Lipari (ME),Sicilia,ITA,DMR
-2229417,IT9HVU,Calkalos,,Canicatti,Sicilia,ITA,DMR
+2229417,IT9HVU,Calogero,,Canicatti (AG),Sicilia,ITA,DMR
 2229418,IT9GUF,Carlo,Raimondo,Modica (RG),Sicilia,ITA,DMR
 2229419,IT9HOV,Antonio,Modica,Ragusa (RA),Sicilia,ITA,DMR
 2229420,IT9ICZ,Pietro,Alfano,Casteltermini (AG),Sicilia,ITA,DMR
@@ -12231,7 +12230,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232352,IZ2EXC,Alberto,Aliatis,Curtatone (MN),Lombardia,ITA,DMR
 2232353,IU0UZI,Filippo,Catalano,Aprilia (LT),Lazio,ITA,DMR
 2232354,IU1UOD,Giuseppe,,Borgo San Dalmazzo (CN),Piemonte,ITA,DMR
-2232355,IZ1HIE,Franco,Arza',Bolano (SP),Liguria,ITA,DMR
 2232356,IU0PXG,Andrea,Andreocci,Aprilia (LT),Lazio,ITA,DMR
 2232357,IZ2QYF,Ersilio,Bertoja,Milano (MI),Lombardia,ITA,DMR
 2232358,IU8ERA,Antonio,Galileo,Amalfi (SA),Campania,ITA,DMR
@@ -12374,4 +12372,26 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232495,IU2VQO,Alessandro,,Magenta (MI),Lombardia,ITA,DMR
 2232496,IZ0HZQ,Maurizio,Garilli,Roma (RM),Lazio,ITA,DMR
 2232497,IU2VRU,Ileana,Bodini,Brescia (BS),Lombardia,ITA,DMR
+2232498,I4ZNW,Marco,Zanoni,Piacenza (PC),Emilia-Rom.,ITA,DMR
+2232499,IU2VSX,Giorgio,,Casorezzo (MI),Lombardia,ITA,DMR
+2232500,IK8LOV,Massimiliano,Laconca,Venosa (PZ),Basilicata,ITA,DMR
+2232501,IU4SQT,Massimiliano,Cesari,Cesena (FC),Emilia-Rom.,ITA,DMR
+2232502,IU5PTB,Paolo,Veracini,Bibbona (LI),Liguria,ITA,DMR
+2232503,IU5VKD,Francesco,Bisi,Castellina Marittima (PI),Toscana,ITA,DMR
+2232504,IW5BNY,Roberto,Lepri,Firenze (FI),Toscana,ITA,DMR
+2232505,IW0QNL,Dario,Tommasi,Foligno (PG),Umbria,ITA,DMR
+2232506,IW3ICS,Paolo,Manfrin,Grignano Polesine (RO),Veneto,ITA,DMR
+2232507,IU7TJO,Antonio,,Foggia (FG),Puglia,ITA,DMR
+2232508,IV3KOU,Emilio,,Faedis (UD),Friuli VG,ITA,DMR
+2232509,IW0FAY,Giovanni,,Ardea (RM),Lazio,ITA,DMR
+2232510,IZ6TSG,Edoardo,Margiotta,Capestrano (AQ),Marche,ITA,DMR
+2232511,IU3UKI,Mario,Collu,Monteforte D'Alpone (VR),Veneto,ITA,DMR
+2232512,IZ5QUG,Riccardo,Pulvirenti,Capannori (LU),Toscana,ITA,DMR
+2232513,IV3ZXF,Massimo,Malaroda,Ruda (UD),Friuli VG,ITA,DMR
+2232514,IU2QDQ,Pietro,Anteini,Pegognaga (MN),Lombardia,ITA,DMR
+2232515,IT9LCN,Massimiliano,Spoto,Mascalucia (CT),Sicilia,ITA,DMR
+2232516,IS0CMM,Agostino,Sunis,Sassari (SS),Sardegna,ITA,DMR
+2232517,IU4OTW,Alessandro,Paganelli,Modena (MO),Emilia-Rom.,ITA,DMR
+2232518,IU1TLR,Andrea,Brustia,Quarna Sopra (VB),Piemonte,ITA,DMR
+2232519,IU7SWJ,Antonio,Tenace,Bari (BA),Puglia,ITA,DMR
 2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),Sicilia,ITA,DMR
