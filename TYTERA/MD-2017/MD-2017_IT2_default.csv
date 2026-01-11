@@ -3462,7 +3462,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2223520,IU3IOY,Sandro Funes,,Alpago (BL),Veneto,ITA
 2223521,IZ3ZMR,Luciano Bolzon,,Venezia,Veneto,ITA
 2223522,IZ3NUW,Luca Smagliato,,Stra (VE),Veneto,ITA
-2223523,IW3QSC,Walter Chermaz,,Trieste (TS),Friuli VG,ITA
+2223523,IW3QSC,Walter Chermaz,,Trieste,Friuli VG,ITA
 2223524,IU3ILO,Fabio Rizzato,,Mira (VE),Veneto,ITA
 2223525,IV3VJH,Emanuele Latorraca,,S.Vito Al Tagliamento (PN),Friuli VG,ITA
 2223526,IU3EIF,Stefano Berno,,Sovizzo (VI),Veneto,ITA
@@ -3477,7 +3477,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2223535,IW3SMR,Michele Bressan,,Lignano Sabbiadoro (UD),Friuli VG,ITA
 2223536,IZ3PYI,Massimiliano,,Verona,Veneto,ITA
 2223537,IW3GUN,Delio Coldebella,,Verona (VR),Veneto,ITA
-2223538,IU3IWG,Dario Paganini,,Verona (VR),Veneto,ITA
+2223538,IU3IWG,Dario Paganini,,Verona,Veneto,ITA
 2223539,IU3CMD,Franco Lunazzi,,Marghera (VE),Veneto,ITA
 2223540,IW3QRM,Gianni Qual,,Udine (UD),Friuli VG,ITA
 2223541,IV3VPR,Piergiorgio Moreale,,Udine (UD),Friuli VG,ITA
@@ -5466,7 +5466,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2225538,IT9DOL,Dino,,Palermo,Sicilia,ITA
 2225539,IZ0LHM,Sergio Biasio,,Roma (RM),Lazio,ITA
 2225540,IU2NRO,Fred,,Milano (MI),Lombardia,ITA
-2225541,IU2NQL,Jacopo Jannone,,Bergamo (BG),Lombardia,ITA
+2225541,IU2NQL,Jacopo Jannone,,Bergamo,Lombardia,ITA
 2225542,IZ1YTN,Marco,,Torino,Piemonte,ITA
 2225543,IZ3NCQ,Paolo Curro,,Padova (PD),Veneto,ITA
 2225544,IZ4KAN,Marco Vivarelli,,Cattolica (RN),Emilia-Rom.,ITA
@@ -6823,6 +6823,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2226909,IK8VRO,Pasquale Lavino,,Roccarainola (NA),Campania,ITA
 2226910,IK7UKJ,Ruggiero Stella,,Barletta (BT),Puglia,ITA
 2226911,IU7IWT,Vincenzo Scarongella,,Ruvo Di Puglia (BA),Puglia,ITA
+2226912,IW2NKE,Gian Solazzi,,Milano (MI),Lombardia,ITA
 2226913,IK8YOQ,Massimo Mancusi,,Pompei,Campania,ITA
 2226914,IU8OMJ,Bruno Pica,,Trecase (NA),Campania,ITA
 2226915,IK8OHC,Michele De Simone,,Casoria (NA),Campania,ITA
@@ -9262,7 +9263,6 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2229371,IT9VHP,Giuseppe Tartano,,Carini (PA),Sicilia,ITA
 2229372,IT9AWE,Umberto Marino,,Palermo (PA),Sicilia,ITA
 2229373,IQ9OW,A.R.P. Messina,,Messina,Sicilia,ITA
-2229374,IT9MEW,Marco Cannamela,,Trapani (TP),Sicilia,ITA
 2229375,IT9VXS,Giovanni Samanna,,Paceco,Sicilia,ITA
 2229376,IT9BGY,Salvatore Laudani,,Randazzo (CT),Sicilia,ITA
 2229377,IW9FDD,Vito Morana,,Piedimonte Etneo,Sicilia,ITA
@@ -9927,6 +9927,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2230037,IZ1TNG,Marco Brusco,,Alba (CN),Piemonte,ITA
 2230038,IW8FBR,Valentino Pacelli,,Guardia Sanframondi (BN),Campania,ITA
 2230039,IV3IKL,Liviano Calabro,,San Giovanni Al Natisone (UD),Friuli VG,ITA
+2230040,IU0INR,Roberto Sabatini,,Trevignano Romano (RM),Lazio,ITA
 2230041,IT9EVM,Vincenzo Giobbe,,Castelvetrano (TP),Sicilia,ITA
 2230042,IT9XDU,Calogero Lino,,Ribera (AG),Sicilia,ITA
 2230043,IK1QFT,Andrea Valori,,Moncalieri (TO),Piemonte,ITA
@@ -12367,7 +12368,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2232490,IU7VTO,Giovanni Mancarella,,Sava (TA),Puglia,ITA
 2232491,IU5VMJ,Mario,,Laterina (AR),Toscana,ITA
 2232492,IV3LAN,Matteo,,Trieste (TS),Friuli VG,ITA
-2232493,IK4ZIF,Gian Luigi Rossi,,Bettola (PC),Emilia-Rom.,ITA
+2232493,IK4ZIF,Gian Rossi,,Bettola,Emilia-Rom.,ITA
 2232494,IU5VNN,Federico,,Cavriglia (AR),Toscana,ITA
 2232495,IU2VQO,Alessandro,,Magenta (MI),Lombardia,ITA
 2232496,IZ0HZQ,Maurizio Garilli,,Roma (RM),Lazio,ITA
@@ -12394,6 +12395,21 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2232517,IU4OTW,Alessandro Paganelli,,Modena (MO),Emilia-Rom.,ITA
 2232518,IU1TLR,Andrea Brustia,,Quarna Sopra (VB),Piemonte,ITA
 2232519,IU7SWJ,Antonio Tenace,,Bari (BA),Puglia,ITA
+2232520,IZ7LMX,Gino Portaluri,,Maglie (LE),Puglia,ITA
+2232521,IN3FBC,Gabriel,,Bruneck (BZ),Trentino AA,ITA
+2232522,IU0VPL,Ivano,,Roma (RM),Lazio,ITA
+2232523,IU1TJV,Roberto Santavenere,,Torino (TO),Piemonte,ITA
+2232524,IU0VSD,Alessandro,,Castel Gandolfo (RM),Lazio,ITA
+2232525,IU0GCQ,Andrea Golisano,,Roma (RM),Lazio,ITA
+2232526,IK4MTF,Pietro Corsi,,Piacenza (PC),Emilia-Rom.,ITA
+2232527,IU2VQJ,Gianni,,San Giuliano Milanese (MI),Lombardia,ITA
+2232528,IZ6BGN,Angelo,,Jesi (AN),Marche,ITA
+2232529,IT9KVV,Mario Bellamacina,,Furci Siculo (ME),Sicilia,ITA
+2232530,IU7VOD,Michele Coccia,,Manfredonia (FG),Puglia,ITA
+2232531,IU3VPS,Marco Vedovato,,Scorze' (VE),Veneto,ITA
+2232532,IU5TTR,Marco Provenzano,,Livorno (LI),Liguria,ITA
+2232533,IU4VYZ,Gaetano Stabile,,Forli (FC),Emilia-Rom.,ITA
+2232534,IU4VRV,Donato Pepe,,Pieve Di Cento (BO),Emilia-Rom.,ITA
 2242222,IT9JFW,Lorenzo Faletra,,Palermo (PA),Sicilia,ITA
 2280001,4U1ITU,International Arc,,Geneva,No_regio,CHE
 2280002,HB3XWO,Kornel Becker,,Basel,No_regio,CHE
