@@ -893,7 +893,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060771,ON6OTO,Willy,Willy,Peeters,Brussels,Brussels - BEL,,Private Call,None
 ,2060772,ON6OMO,Marel,Marel,Berg,Manternach,Luxemburg - BEL,,Private Call,None
 ,2060773,ON1HDV,Hendrik,Hendrik,De Vloed,Melle,Oost Vlaanderen - BEL,,Private Call,None
-,2060774,ON3SM,Salvator,Salvator,Messina,Chatelineau,Hainaut - BEL,,Private Call,None
 ,2060775,ON3KLA,Kristof,Kristof,Lamont,Westerlo,Antwerp - BEL,,Private Call,None
 ,2060776,ON5JDB,Johan,Johan,Debaeke,Zwevezele,West Vlaanderen - BEL,,Private Call,None
 ,2060777,ON4BAT,Jan,Jan,Santermans,Hasselt,Limburg - BEL,,Private Call,None
@@ -959,10 +958,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060838,ON4DRH,Jos,Jos,,Bilzen Hoeselt,Limburg - BEL,,Private Call,None
 ,2060839,ON7DE,Eddy,Eddy,,Londerzeel,Vlaams Brabant - BEL,,Private Call,None
 ,2060840,ON7SSU,Jim,Jim,,Uccle,Brussels - BEL,,Private Call,None
-,2060841,ON3EF,Filip,Filip,,,Antwerp - BEL,,Private Call,None
+,2060841,ON3EF,Phil,Phil,,Antwerp,Antwerp - BEL,,Private Call,None
 ,2060842,ON3HAB,Hans,Hans,,Balegem,Oost Vlaanderen - BEL,,Private Call,None
 ,2060843,ON4AEU,Herman,Herman,,Kessel,Antwerp - BEL,,Private Call,None
 ,2060844,ON4JCO,Johan,Johan,,Halle,Vlaams Brabant - BEL,,Private Call,None
+,2060845,ON3NDS,Nico,Nico,,Oosterzele,Oost Vlaanderen - BEL,,Private Call,None
+,2060846,ON8WG,Guy,Guy,,Oosterzele,Oost Vlaanderen - BEL,,Private Call,None
+,2060847,ON5GM,Mark,Mark,,Blanden,Vlaams Brabant - BEL,,Private Call,None
+,2060848,ON7ALD,Loison,Loison,,Tournai,Hainaut - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,Stijn,Hende,Oudenaarde,Oost-Vlaanderen - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,Simon,Pauw,Oosterzele,Oost-Vlaanderen - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,Luc,Lourense,Gent,Oost-Vlaanderen - BEL,,Private Call,None
@@ -3968,8 +3971,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081934,F5UOU,Michel,Michel,,Saint Georges Les Baillargeauxx,Nouvelle Aquitaine - FRA,,Private Call,None
 ,2081935,F4HQD,Yves,Yves,,Angers,Pays De La Loire - FRA,,Private Call,None
 ,2081936,F4BVB,Parret,Parret,,Teillet Argenty,Auvergne Rhone Alpes - FRA,,Private Call,None
-,2081937,F5NGZ,Chevillion,Chevillion,,Neuves Maisons,Grand - FRA,,Private Call,None
+,2081937,F5NGZ,Bruno,Bruno,,Neuves Maisons,Grand - FRA,,Private Call,None
 ,2081938,F4MOE,Stephane,Stephane,,Chateaurenard,Provence Alpes Cote D Azur - FRA,,Private Call,None
+,2081939,F4MLF,Serge,Serge,,Bedarrides,Provence Alpes Cote D Azur - FRA,,Private Call,None
+,2081940,F4MNL,Fix,Fix,,Le Thoronet,Provence Alpes Cote D Azur - FRA,,Private Call,None
+,2081941,F4CUE,Tony,Tony,,Le Teil,Auvergne Rhone Alpes - FRA,,Private Call,None
+,2081942,F4IED,Velle,Velle,,Limours,Ile De France - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,Cyril,Teitler,Sciez,Rhone-Alpes - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,Heiko,Damerau,Thoiry,Rhone-Alpes - FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,Charles Henri,Sap,Aillon Le Vieux,Auvergne Rhone Alpes - FRA,,Private Call,None
@@ -5917,6 +5924,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280485,HB3YDD,Nik,Nik,,Bern,Bern - CHE,,Private Call,None
 ,2280486,HB9TVJ,Markus,Markus,,Wollerau,Schwyz - CHE,,Private Call,None
 ,2280487,HB9INL,Yves,Yves,,Aubonne,Vaud - CHE,,Private Call,None
+,2280488,HB3YQD,Colin,Colin,,Walkringen,Bern - CHE,,Private Call,None
+,2280489,HB9VKL,Alain,Alain,,Les Diablerets,Vaud - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -9572,7 +9581,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022093,VE2SE,Jean,Jean,Desilets,St-Ignace De Loyola,Quebec - CAN,,Private Call,None
 ,3022094,VA2PV,Pascal,Pascal,Villeneuve,St-Amable,Quebec - CAN,,Private Call,None
 ,3022095,VE2JOS,Jose,Jose,Cournoyer,Sorel-Tracy,Quebec - CAN,,Private Call,None
-,3022096,VE2RI,Rene,Rene,,Roxboro,Quebec - CAN,,Private Call,None
+,3022096,VE2RI,Rene,Rene,Champagne,Roxboro,Quebec - CAN,,Private Call,None
 ,3022097,VE2SE,Jean-Pierre,Jean-Pierre,Desilet,St-Ignace De Loyola,Quebec - CAN,,Private Call,None
 ,3022098,VA2PSL,Steve,Steve,Perron,Blainville,Quebec - CAN,,Private Call,None
 ,3022099,VE2PVR,Pascal,Pascal,Villenuve,Saint Amable,Quebec - CAN,,Private Call,None
@@ -9598,7 +9607,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022119,VA7ILZ,Brett,Brett,,,British Columbia - CAN,,Private Call,None
 ,3022120,VE7WJN,Walter,Walter,,Penticton,British Columbia - CAN,,Private Call,None
 ,3022121,VE2NMB,Martin,Martin,Berube,Louiseville,Quebec - CAN,,Private Call,None
-,3022122,VA7GAB,Gregory,Gregory,,,British Columbia - CAN,,Private Call,None
+,3022122,VE2RI,Rene,Rene,Champagne,Roxboro,Quebec - CAN,,Private Call,None
 ,3022123,VE2GLG,Guy,Guy,Guy Bedard,Otterburn Park,Quebec - CAN,,Private Call,None
 ,3022124,VE2JN,Jean,Jean,Drolet,Laval,Quebec - CAN,,Private Call,None
 ,3022125,VE2MQF,Michelle,Michelle,Boyer,Stoke,Quebec - CAN,,Private Call,None
@@ -14095,7 +14104,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026634,VA6RTA,Arta,Arta,,Calgary,Alberta - CAN,,Private Call,None
 ,3026635,VE3HZT,Derek,Derek,,Sarnia,Ontario - CAN,,Private Call,None
 ,3026636,VE3YTZ,Gregory,Gregory,,Ottawa,Ontario - CAN,,Private Call,None
-,3026637,VE2OHS,Sonny,Sonny,,,Ontario - CAN,,Private Call,None
+,3026637,VE2OHS,Sonny,Sonny,,Montreal,Quebec - CAN,,Private Call,None
 ,3026638,VA6DOA,Patrick,Patrick,,Edmonton,Alberta - CAN,,Private Call,None
 ,3026639,VA7PXZ,Patrick,Patrick,,Squamish,British Columbia - CAN,,Private Call,None
 ,3026640,VA7MBR,Mike,Mike,,Nanaimo,British Columbia - CAN,,Private Call,None
@@ -14121,7 +14130,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026660,VE7SLY,Edward,Edward,,Victoria,British Columbia - CAN,,Private Call,None
 ,3026661,VA7WEX,Martin,Martin,,Langley,British Columbia - CAN,,Private Call,None
 ,3026662,VA3YFZ,Yifan,Yifan,,Toronto,Ontario - CAN,,Private Call,None
-,3026663,VE7WVX,Wayne,Wayne,,,British Columbia - CAN,,Private Call,None
+,3026663,VE7WVX,Wayne,Wayne,,Vancouver,British Columbia - CAN,,Private Call,None
 ,3026664,VE2OGU,Roger,Roger,,Thetford Mines,Quebec - CAN,,Private Call,None
 ,3026665,VE3PRN,Daniel,Daniel,,Cambridge,Ontario - CAN,,Private Call,None
 ,3026666,VE3NDW,Glenn,Glenn,,St Catharines,Ontario - CAN,,Private Call,None
@@ -14137,6 +14146,20 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026676,VE4TM,Rod,Rod,,Ste Anne,Manitoba - CAN,,Private Call,None
 ,3026677,VE2QVL,Marc,Marc,,Saint Eustache,Quebec - CAN,,Private Call,None
 ,3026678,VE2SAD,Sebastien,Sebastien,,Victoriaville,Quebec - CAN,,Private Call,None
+,3026679,VE3IJU,James,James,,Midland,Ontario - CAN,,Private Call,None
+,3026680,VA2EZW,Jeremie,Jeremie,,Saint Lin Laurentides,Quebec - CAN,,Private Call,None
+,3026681,VE3BFY,Matthew,Matthew,,Navan,Ontario - CAN,,Private Call,None
+,3026682,VE9CO,Cory,Cory,,Nasonworth,New Brunswick - CAN,,Private Call,None
+,3026683,VE2XRA,Richard,Richard,,Chateauguay,Quebec - CAN,,Private Call,None
+,3026684,VE1KEO,Jeffery,Jeffery,,Wolfville,Nova Scotia - CAN,,Private Call,None
+,3026685,VA7VGL,Matt,Matt,,Coquitlam,British Columbia - CAN,,Private Call,None
+,3026686,VE1ORR,Stephen,Stephen,,Amherst,Nova Scotia - CAN,,Private Call,None
+,3026687,VE1WAR,Stephen,Stephen,,Amherst,Nova Scotia - CAN,,Private Call,None
+,3026688,VA3MWF,Michael,Michael,,Kitchener,Ontario - CAN,,Private Call,None
+,3026689,VA1BAT,Mark Batt,Mark Batt,,Lower Sackville,Nova Scotia - CAN,,Private Call,None
+,3026690,VA3EYY,Vitaly,Vitaly,,Thornhill,Ontario - CAN,,Private Call,None
+,3026691,VE3XXQ,Paulo,Paulo,,North York,Ontario - CAN,,Private Call,None
+,3026692,VE3EYY,Vitaly,Vitaly,,Thornhill,Ontario - CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,Robert,Meldrum,West Kelowna,British Columbia - CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,Larry,Vollstaedt,Cochrane,Alberta - CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,James Bradley,Brien,London,Ontario - CAN,,Private Call,None

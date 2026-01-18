@@ -893,7 +893,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060771,ON6OTO,Willy,,Brussels,Brussels,BEL
 2060772,ON6OMO,Marel,,Manternach,Luxemburg,BEL
 2060773,ON1HDV,Hendrik,,Melle,Oost Vlaanderen,BEL
-2060774,ON3SM,Salvator,,Chatelineau,Hainaut,BEL
 2060775,ON3KLA,Kristof,,Westerlo,Antwerp,BEL
 2060776,ON5JDB,Johan,,Zwevezele,West Vlaanderen,BEL
 2060777,ON4BAT,Jan,,Hasselt,Limburg,BEL
@@ -959,10 +958,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060838,ON4DRH,Jos,,Bilzen Hoeselt,Limburg,BEL
 2060839,ON7DE,Eddy,,Londerzeel,Vlaams Brabant,BEL
 2060840,ON7SSU,Jim,,Uccle,Brussels,BEL
-2060841,ON3EF,Filip,,,Antwerp,BEL
+2060841,ON3EF,Phil,,Antwerp,Antwerp,BEL
 2060842,ON3HAB,Hans,,Balegem,Oost Vlaanderen,BEL
 2060843,ON4AEU,Herman,,Kessel,Antwerp,BEL
 2060844,ON4JCO,Johan,,Halle,Vlaams Brabant,BEL
+2060845,ON3NDS,Nico,,Oosterzele,Oost Vlaanderen,BEL
+2060846,ON8WG,Guy,,Oosterzele,Oost Vlaanderen,BEL
+2060847,ON5GM,Mark,,Blanden,Vlaams Brabant,BEL
+2060848,ON7ALD,Loison,,Tournai,Hainaut,BEL
 2061001,ON8SVH,Stijn,,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,,Gent,Oost-Vlaanderen,BEL
@@ -3968,8 +3971,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081934,F5UOU,Michel,,Saint Georges Les Baillargeauxx,Nouvelle Aquitaine,FRA
 2081935,F4HQD,Yves,,Angers,Pays De La Loire,FRA
 2081936,F4BVB,Parret,,Teillet Argenty,Auvergne Rhone Alpes,FRA
-2081937,F5NGZ,Chevillion,,Neuves Maisons,Grand,FRA
+2081937,F5NGZ,Bruno,,Neuves Maisons,Grand,FRA
 2081938,F4MOE,Stephane,,Chateaurenard,Provence Alpes Cote D Azur,FRA
+2081939,F4MLF,Serge,,Bedarrides,Provence Alpes Cote D Azur,FRA
+2081940,F4MNL,Fix,,Le Thoronet,Provence Alpes Cote D Azur,FRA
+2081941,F4CUE,Tony,,Le Teil,Auvergne Rhone Alpes,FRA
+2081942,F4IED,Velle,,Limours,Ile De France,FRA
 2082001,F4FUL,Cyril,,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko,,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles Henri,,Aillon Le Vieux,Auvergne Rhone Alpes,FRA
@@ -5917,6 +5924,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280485,HB3YDD,Nik,,Bern,Bern,CHE
 2280486,HB9TVJ,Markus,,Wollerau,Schwyz,CHE
 2280487,HB9INL,Yves,,Aubonne,Vaud,CHE
+2280488,HB3YQD,Colin,,Walkringen,Bern,CHE
+2280489,HB9VKL,Alain,,Les Diablerets,Vaud,CHE
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
@@ -9598,7 +9607,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3022119,VA7ILZ,Brett,,,British Columbia,CAN
 3022120,VE7WJN,Walter,,Penticton,British Columbia,CAN
 3022121,VE2NMB,Martin,,Louiseville,Quebec,CAN
-3022122,VA7GAB,Gregory,,,British Columbia,CAN
+3022122,VE2RI,Rene,,Roxboro,Quebec,CAN
 3022123,VE2GLG,Guy,,Otterburn Park,Quebec,CAN
 3022124,VE2JN,Jean,,Laval,Quebec,CAN
 3022125,VE2MQF,Michelle,,Stoke,Quebec,CAN
@@ -14095,7 +14104,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026634,VA6RTA,Arta,,Calgary,Alberta,CAN
 3026635,VE3HZT,Derek,,Sarnia,Ontario,CAN
 3026636,VE3YTZ,Gregory,,Ottawa,Ontario,CAN
-3026637,VE2OHS,Sonny,,,Ontario,CAN
+3026637,VE2OHS,Sonny,,Montreal,Quebec,CAN
 3026638,VA6DOA,Patrick,,Edmonton,Alberta,CAN
 3026639,VA7PXZ,Patrick,,Squamish,British Columbia,CAN
 3026640,VA7MBR,Mike,,Nanaimo,British Columbia,CAN
@@ -14121,7 +14130,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026660,VE7SLY,Edward,,Victoria,British Columbia,CAN
 3026661,VA7WEX,Martin,,Langley,British Columbia,CAN
 3026662,VA3YFZ,Yifan,,Toronto,Ontario,CAN
-3026663,VE7WVX,Wayne,,,British Columbia,CAN
+3026663,VE7WVX,Wayne,,Vancouver,British Columbia,CAN
 3026664,VE2OGU,Roger,,Thetford Mines,Quebec,CAN
 3026665,VE3PRN,Daniel,,Cambridge,Ontario,CAN
 3026666,VE3NDW,Glenn,,St Catharines,Ontario,CAN
@@ -14137,6 +14146,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026676,VE4TM,Rod,,Ste Anne,Manitoba,CAN
 3026677,VE2QVL,Marc,,Saint Eustache,Quebec,CAN
 3026678,VE2SAD,Sebastien,,Victoriaville,Quebec,CAN
+3026679,VE3IJU,James,,Midland,Ontario,CAN
+3026680,VA2EZW,Jeremie,,Saint Lin Laurentides,Quebec,CAN
+3026681,VE3BFY,Matthew,,Navan,Ontario,CAN
+3026682,VE9CO,Cory,,Nasonworth,New Brunswick,CAN
+3026683,VE2XRA,Richard,,Chateauguay,Quebec,CAN
+3026684,VE1KEO,Jeffery,,Wolfville,Nova Scotia,CAN
+3026685,VA7VGL,Matt,,Coquitlam,British Columbia,CAN
+3026686,VE1ORR,Stephen,,Amherst,Nova Scotia,CAN
+3026687,VE1WAR,Stephen,,Amherst,Nova Scotia,CAN
+3026688,VA3MWF,Michael,,Kitchener,Ontario,CAN
+3026689,VA1BAT,Mark Batt,,Lower Sackville,Nova Scotia,CAN
+3026690,VA3EYY,Vitaly,,Thornhill,Ontario,CAN
+3026691,VE3XXQ,Paulo,,North York,Ontario,CAN
+3026692,VE3EYY,Vitaly,,Thornhill,Ontario,CAN
 3026912,VA7RGM,Robert,,West Kelowna,British Columbia,CAN
 3026913,VA6LTV,Larry,,Cochrane,Alberta,CAN
 3026914,VE3ZWX,James Bradley,,London,Ontario,CAN
