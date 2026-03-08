@@ -1,4 +1,4 @@
-# AnyTone AT578UV/AT868UV/AT878UV #
+# AnyTone AT578UV/AT868UV/AT878UV/AT890UV #
 
 If you have trouble downloading the CSV-files, try to download the RAR!
 *WW*.RAR		Worldwide lists
