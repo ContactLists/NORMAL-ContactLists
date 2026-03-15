@@ -921,6 +921,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060867,ON8TX,Brecht,,Paal,Limburg,BEL
 2060868,ON8LB,Laurens,,Bekkevoort,Vlaams Brabant,BEL
 2060869,ON3GHZ,Gilles,,Sint Pieters Leeuw,Vlaams Brabant,BEL
+2060870,ON3VPS,Adrien,,Waterloo,Wal Brabant,BEL
+2060871,ON3XAF,Janssens,,Brussels,Brussels,BEL
+2060872,ON7UX,Jan,,Aartselaar,Antwerp,BEL
+2060873,ON4KSD,Uba,,Oostduinkerke,West Vlaanderen,BEL
 2061001,ON8SVH,Stijn,,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,,Gent,Oost-Vlaanderen,BEL
@@ -3976,6 +3980,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081984,F4MOS,Stephane,,Paris,Ile De France,FRA
 2081985,F4MPZ,Daniel,,Aignan,Occitanie,FRA
 2081986,F4VUE,Tobias,,Gif Sur Yvette,Ile De France,FRA
+2081987,F4LJA,Ronan,,Lormont,Nouvelle Aquitaine,FRA
+2081988,F4VXR,Tom,,Kerlouan,Bretagne,FRA
 2082001,F4FUL,Cyril,,Sciez,Rhone-Alpes,FRA
 2082002,F5VIN,Heiko,,Thoiry,Rhone-Alpes,FRA
 2082003,F1AGU,Charles Henri,,Aillon Le Vieux,Auvergne Rhone Alpes,FRA
@@ -5943,6 +5949,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280505,HB9DGL,David,,Courfaivre,Jura,CHE
 2280506,HB3XZD,Joel,,Courgevaux,Fribourg,CHE
 2280507,HB3YQN,Jan,,Sins,Aargau,CHE
+2280508,HB9IST,Oytun,,Gattikon,Zurich,CHE
+2280509,HB9XBQ,Fredi,,Olten,Solothurn,CHE
+2280510,HB3XVJ,Tony,,Villars Bozon,Vaud,CHE
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
@@ -9273,6 +9282,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3022143,VE2JE,Jean,,St Georges De Champl,Quebec,CAN
 3022144,VA2DG,Daniel,,Saint-Jean-Sur-Riche,Quebec,CAN
 3022146,VE2THE,Pierre,,Blainville,Quebec,CAN
+3022151,VE2TLM,Michel,,Montreal,Quebec,CAN
 3022154,VA2DBJ,Robert,,Lacolle,Quebec,CAN
 3022161,VA2HU,Krzysztof,,Lasalle,Quebec,CAN
 3022164,VA2HOM,Pascal,,St Ambroise,Quebec,CAN
@@ -9317,9 +9327,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3022237,VE2TJE,Jean,,Sherbrooke,Quebec,CAN
 3022238,VE2VF,Jean,,Sherbrooke,Quebec,CAN
 3022241,VA2PRC,Yves,,Quebec,Quebec,CAN
+3022244,VE2GDR,Raynald,,St-Joseph Du Lac,Quebec,CAN
 3022245,VE2MKJ,Sa,,Sherbrooke,Quebec,CAN
 3022246,VE2BLT,Donald,,Sherbrooke,Quebec,CAN
 3022248,VE2GXC,Guillaume,,Magog,Quebec,CAN
+3022249,VE2GDR,Raynald,,St-Joseph Du Lac,Quebec,CAN
 3022252,VE2FRL,Fernand,,Sherbrooke,Quebec,CAN
 3022253,VE2WER,Andre,,Mont Carmel,Quebec,CAN
 3022254,VE2TAU,Marcel,,Shawinigan,Quebec,CAN
@@ -9778,6 +9790,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3023084,VE3UGG,Gord,,Wallaceburg,Ontario,CAN
 3023085,VE3UGG,Gord,,Wallaceburg,Ontario,CAN
 3023091,VA3MK,Markku,,Georgetown,Ontario,CAN
+3023094,VA3VS,Robert,,Windsor,Ontario,CAN
+3023108,VE3PTC,Bob,,Windsor,Ontario,CAN
 3023109,VE3OJN,Mel,,Moose Creek,Ontario,CAN
 3023113,VA3ISP,Jeff,,Hammond,Ontario,CAN
 3023116,VA3MKO,Mark,,Toronto,Ontario,CAN
@@ -9786,12 +9800,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3023122,VA3RQ,Jon,,Oakville,Ontario,CAN
 3023125,VA3XFT,Don,,Toronto,Ontario,CAN
 3023126,VA3MPG,James,,Barrie,Ontario,CAN
+3023129,VE3EAB,Dave,,Oshawa,Ontario,CAN
 3023131,VE3SQT,Richard,,Hanover,Ontario,CAN
 3023135,VA3FIS,Tom,,Toronto,Ontario,CAN
 3023136,VA3XTS,Adrian,,Toronto,Ontario,CAN
 3023137,VE3ZMO,Shawn,,Toronto,Ontario,CAN
+3023142,VE3EAB,Dave,,Oshawa,Ontario,CAN
 3023144,VO1HAX,Brandon,,,Newfoundland,CAN
 3023146,VE3PV,Rick,,Windsor,Ontario,CAN
+3023149,VA3EE,Donnie,,Windsor,Ontario,CAN
 3023150,VE3ERQ,Lloyd,,,Ontario,CAN
 3023151,VE3MIC,Mike,,Phelpston,Ontario,CAN
 3023154,VE3TVD,Doug,,Nottawa,Ontario,CAN
@@ -12822,6 +12839,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026769,VE1MJF,Clayton,,Eastern Passage,Nova Scotia,CAN
 3026770,VE1NRL,Norman,,Richfield,Nova Scotia,CAN
 3026771,VA3PLQ,Paul,,Timmins,Ontario,CAN
+3026772,VA6JCN,Chris,,St Albert,Alberta,CAN
+3026773,VA3ODR,Dave,,Oshawa,Ontario,CAN
+3026774,VE4BKR,Nadiia,,Winnipeg,Manitoba,CAN
+3026775,VE1KB,Kelly,,Mount Uniacke,Nova Scotia,CAN
+3026776,VE2MHQ,Marquis,,Levis,Quebec,CAN
+3026777,VA3SR,Patricia,,Lasalle,Ontario,CAN
+3026778,VE3PAT,Patricia,,Lasalle,Ontario,CAN
+3026779,VE3BW,Matthew,,Lasalle,Ontario,CAN
+3026780,VE1JTH,Jeffrey,,Hantsport,Nova Scotia,CAN
+3026781,VA3NKS,Nagaraj,,Mississauga,Ontario,CAN
+3026782,VA3SXG,Steven,,North,Ontario,CAN
 3026912,VA7RGM,Robert,,West Kelowna,British Columbia,CAN
 3026913,VA6LTV,Larry,,Cochrane,Alberta,CAN
 3026914,VE3ZWX,James Bradley,,London,Ontario,CAN

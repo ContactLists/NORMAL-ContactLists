@@ -682,7 +682,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220702,IW0FFQ,Alessandro,Costantini,Roma,ITA/Lazio,,Private Call,None
 ,2220703,IU0JUU,Francescantonio,,Sperlonga,ITA/Lazio,,Private Call,None
 ,2220704,IU0AHA,Giuseppe,Manfre,Fiano Romano,ITA/Lazio,,Private Call,None
-,2220705,I0HCJ,Fabrizio,Marincola,Montopoli Sabina (RI),ITA/Lazio,,Private Call,None
+,2220705,I0HCJ,Fabrizio,Marincola,Montopoli Sabina,ITA/Lazio,,Private Call,None
 ,2220706,IU0GEM,Claudio,Bernardini,Roma,ITA/Lazio,,Private Call,None
 ,2220707,IQ0QJ,Sezione,C.I.S.A.R,Assisi (PG),ITA/Umbria,,Private Call,None
 ,2220708,IU0KCT,Francesca,,Grottaferrata (RM),ITA/Lazio,,Private Call,None
@@ -712,7 +712,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220732,IU0KCG,Giovangualberto,,Roma,ITA/Lazio,,Private Call,None
 ,2220733,IU0JEA,Antonio,,Marsciano (PG),ITA/Umbria,,Private Call,None
 ,2220734,IK0XBC,Andrea,Cenci,Roma (RM),ITA/Lazio,,Private Call,None
-,2220735,IU0DUI,Paolo,,Roma (RM),ITA/Lazio,,Private Call,None
+,2220735,IU0DUI,Paolo,,Roma,ITA/Lazio,,Private Call,None
 ,2220736,IZ0TUU,Massimo,,Roma (RM),ITA/Lazio,,Private Call,None
 ,2220737,IZ0MIH,Marco,Raule,Grottaferrata (RM),ITA/Lazio,,Private Call,None
 ,2220738,IS0CAK,Gianni,Puggioni,Capoterra (CA),ITA/Sardegna,,Private Call,None
@@ -4129,7 +4129,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224199,IU4FMX,Giacomo,,Bologna (BO),ITA/Emilia-Rom.,,Private Call,None
 ,2224200,IU4HFG,Landi,Ubertino,Piacenza,ITA/Emilia-Rom.,,Private Call,None
 ,2224201,IW4CPU,Alessandro,Anelli,Slazzaro Di Savena (BO),ITA/Emilia-Rom.,,Private Call,None
-,2224202,IW4BFF,Gian-Luca,Demaria,Casalecchio Di Reno,ITA/Emilia-Rom.,,Private Call,None
+,2224202,IW4BFF,Gian Luca,Demaria,Casalecchio Di Reno (BO),ITA/Emilia-Rom.,,Private Call,None
 ,2224203,IZ4VMA,Lorenzo,Zuelli,Parma,ITA/Emilia-Rom.,,Private Call,None
 ,2224204,IU4ICB,Stefano,,Rimini (RN),ITA/Emilia-Rom.,,Private Call,None
 ,2224205,IZ4FXC,Greg,Michele,Serramazzoni (MO),ITA/Emilia-Rom.,,Private Call,None
@@ -5435,13 +5435,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225511,IW2AHG,Maurizio,Quaroni,Milano (MI),ITA/Lombardia,,Private Call,None
 ,2225512,IU3NNK,Constantin-Anton,,Mossano (VI),ITA/Veneto,,Private Call,None
 ,2225513,IT9IHS,Antonino,Vernuccio,Ispica (RG),ITA/Sicilia,,Private Call,None
-,2225514,IU8NMV,Giuseppe,D Auria,Castel San Giorgio (SA),ITA/Campania,,Private Call,None
+,2225514,IU8NMV,Giuseppe,D'Auria,Castel San Giorgio (SA),ITA/Campania,,Private Call,None
 ,2225515,IV3IIB,Danilo,,Aviano (PN),ITA/Friuli VG,,Private Call,None
 ,2225516,IK2GSO,Enrico,Colombo,Seveso,ITA/Lombardia,,Private Call,None
 ,2225517,IZ5QZS,Enrico,Innocenti,Gioviano (LU),ITA/Toscana,,Private Call,None
 ,2225518,IV3HZX,Mireno,,Aviano,ITA/Friuli VG,,Private Call,None
 ,2225519,IU1NHD,Stefano,Galano,Valmadonna (AL),ITA/Piemonte,,Private Call,None
-,2225520,IU4MSN,Nicola,Zelocchi,no_city,ITA/Emilia-Rom.,,Private Call,None
+,2225520,IU4MSN,Nicola,Zelocchi,Carpi (MO),ITA/Emilia-Rom.,,Private Call,None
 ,2225521,IU3NOL,Franco,Composta,Verona (VR),ITA/Veneto,,Private Call,None
 ,2225522,IU5KRE,Antonio,Turini,Pontedera (PI),ITA/Toscana,,Private Call,None
 ,2225523,IU7NKZ,Marco,,Scanzano Jonico,ITA/Basilicata,,Private Call,None
@@ -9523,7 +9523,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229636,IS0IYF,Matteo,Deriu,Capoterra (CA),ITA/Sardegna,,Private Call,None
 ,2229637,IK2XSR,Mauro,Vicentini,Roverbella (MN),ITA/Lombardia,,Private Call,None
 ,2229638,I5ZGQ,Piero,Gaggio,Firenze (FI),ITA/Toscana,,Private Call,None
-,2229639,IQ7UQ,Clubst.,E.R.A. Sezione Foggia,Troia (FG),ITA/Puglia,,Private Call,None
 ,2229640,IU7QCE,Alessandro,Rizzo,Maruggio (TA),ITA/Puglia,,Private Call,None
 ,2229641,IU8GKG,Luca,Sauro,Ripabottoni (CB),ITA/Molise,,Private Call,None
 ,2229642,IW1GMA,Massimo,Montemagno,Verbania Intra (VB),ITA/Piemonte,,Private Call,None
@@ -9872,7 +9871,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229986,IZ7SIR,Pietro,Giandomenico,Castellaneta (TA),ITA/Puglia,,Private Call,None
 ,2229987,IV3JBE,Edoardo,Violante,Duino Aurisina (TS),ITA/Friuli VG,,Private Call,None
 ,2229988,IZ7ETP,Michele,Francioso,Massafra (TA),ITA/Puglia,,Private Call,None
-,2229989,IQ0RM,A.R.I.,Roma,Roma (RM),ITA/Lazio,,Private Call,None
+,2229989,IQ0RM,Clubst.,A.R.I. Sez. Di Roma,Roma (RM),ITA/Lazio,,Private Call,None
 ,2229990,IW3BHU,Bruno,Piasenti,Bressanone (BZ),ITA/Trentino AA,,Private Call,None
 ,2229991,IU6PYR,Alessandro,Tordino,Pescara (PE),ITA/Abruzzo,,Private Call,None
 ,2229992,IU2QBG,Luca,Zaffaroni,Limbiate (MI),ITA/Lombardia,,Private Call,None
@@ -11792,7 +11791,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231911,IV3KPX,Paolo,Parenzan,Trieste (TS),ITA/Friuli VG,,Private Call,None
 ,2231912,IU2SKZ,Benedetto,Ladislao,Milano (MI),ITA/Lombardia,,Private Call,None
 ,2231913,I2WQ,Scandio,Guarnaschelli,Legnano (MI),ITA/Lombardia,,Private Call,None
-,2231914,IU3PAF,Mario Antonio,Bonmara,Rosa' (VI),ITA/Veneto,,Private Call,None
+,2231914,IU3PAF,Mario,Bonmara,Rosa',ITA/Veneto,,Private Call,None
 ,2231915,IU7EHF,Alessio,Ribezzi,San Vito Dei Normanni (BR),ITA/Puglia,,Private Call,None
 ,2231916,IZ7ZWU,Francesco,Vavalle,Noicattaro (BA),ITA/Puglia,,Private Call,None
 ,2231917,IU3CYW,Giuseppe,Giordano,Treviso (TV),ITA/Veneto,,Private Call,None
@@ -12062,7 +12061,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232185,IU1TKN,Manrico,Corsano,Verbania (VB),ITA/Piemonte,,Private Call,None
 ,2232186,IK1HXM,Umberto,Ottonello,Ovada (AL),ITA/Piemonte,,Private Call,None
 ,2232187,IU1MZQ,Sandro,Venerussi,Torino (TO),ITA/Piemonte,,Private Call,None
-,2232188,IU2SKI,Rosario,Arico,Como (CO),ITA/Lombardia,,Private Call,None
+,2232188,IU2SKI,Rino,Arico',Como (CO),ITA/Lombardia,,Private Call,None
 ,2232189,IK2NCC,Carlo,Matarazzo,Rho (MI),ITA/Lombardia,,Private Call,None
 ,2232190,IU5MMJ,Mattia,Sartori,Fauglia (PI),ITA/Toscana,,Private Call,None
 ,2232191,IU8ADR,Giuseppe,Colantuono,Napoli (NA),ITA/Campania,,Private Call,None
@@ -12671,6 +12670,30 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232799,IU0VOY,Francesco,Fiacco,Lido Di Ostia (RM),ITA/Lazio,,Private Call,None
 ,2232800,IU2VWG,Mauro,Macii,Legnano (MI),ITA/Lombardia,,Private Call,None
 ,2232801,IV3LBN,Alessandra,Cont,Palmanova (UD),ITA/Friuli VG,,Private Call,None
+,2232802,IU0TGZ,Daniele,,Tivoli Terme (RM),ITA/Lazio,,Private Call,None
+,2232803,IU2SKB,Paolo,Baroni,Mantova (MN),ITA/Lombardia,,Private Call,None
+,2232804,IT9LCC,Paolo,Ricali,Messina (ME),ITA/Sicilia,,Private Call,None
+,2232805,IW3BEH,Davide,Detassis,Trento (TN),ITA/Trentino AA,,Private Call,None
+,2232806,IU2WJH,Salvatore,Risuglia,Milano (MI),ITA/Lombardia,,Private Call,None
+,2232807,IW0RDT,Giacomo,Tesei,Perugia (PG),ITA/Umbria,,Private Call,None
+,2232808,IK4GRF,Fausto,Portesi,Castell'Arquato (PC),ITA/Emilia-Rom.,,Private Call,None
+,2232809,IZ8KOX,Michele,Rispoli,Pontecagnano Faiano (SA),ITA/Campania,,Private Call,None
+,2232810,IU1PZI,Michele,,Alessandria (AL),ITA/Piemonte,,Private Call,None
+,2232811,IT9LJD,Maurizio,Triscari,Giardini Naxos (ME),ITA/Sicilia,,Private Call,None
+,2232812,IU6VSY,Gianpietro,Cocco,Fossacesia (CH),ITA/Abruzzo,,Private Call,None
+,2232813,IW2LWB,Fabio,Jaci,Albavilla (CO),ITA/Lombardia,,Private Call,None
+,2232814,IU5NPJ,Fabiano,Puglisi,Sansepolcro (AR),ITA/Toscana,,Private Call,None
+,2232815,IZ1UHA,Stefano,Verdirame,Carcare (SV),ITA/Liguria,,Private Call,None
+,2232816,IU0WFT,Alberto,Razzi,Roma (RM),ITA/Lazio,,Private Call,None
+,2232817,IZ5IOS,Rudy,Calistri,Pistoia (PT),ITA/Toscana,,Private Call,None
+,2232818,IN3LHA,Arnold,,Ulten (BZ),ITA/Trentino AA,,Private Call,None
+,2232819,IU7UBH,Antonio,,Bisceglie (BT),ITA/Puglia,,Private Call,None
+,2232820,IU0TOK,Domenico,Felici,Roma (RM),ITA/Lazio,,Private Call,None
+,2232821,IU3UXL,Gianpaolo,Tomio,Borgo Valbelluna (BL),ITA/Veneto,,Private Call,None
+,2232822,IU2VYA,Lohengrin,Giraud,Induno Olona (VA),ITA/Lombardia,,Private Call,None
+,2232823,IU5TSY,Avio,Maffei,Montopoli In Vald'Arno (PI),ITA/Toscana,,Private Call,None
+,2232824,IU2NYE,Ivan,De Francesco,Milano (MI),ITA/Lombardia,,Private Call,None
+,2232825,IU2BXV,Domenico,Ambrosetti,Noviglio (MI),ITA/Lombardia,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),ITA/Sicilia,,Private Call,None
 ,2280001,4U1ITU,International,Arc,Geneva,CHE/No_regio,,Private Call,None
 ,2280002,HB3XWO,Kornel,Becker,Basel,CHE/No_regio,,Private Call,None
@@ -13179,6 +13202,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280505,HB9DGL,David,,Courfaivre,CHE/Jura,,Private Call,None
 ,2280506,HB3XZD,Joel,,Courgevaux,CHE/Fribourg,,Private Call,None
 ,2280507,HB3YQN,Jan,,Sins,CHE/Aargau,,Private Call,None
+,2280508,HB9IST,Oytun,,Gattikon,CHE/Zurich,,Private Call,None
+,2280509,HB9XBQ,Fredi,,Olten,CHE/Solothurn,,Private Call,None
+,2280510,HB3XVJ,Tony,,Villars Bozon,CHE/Vaud,,Private Call,None
 ,2281001,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
 ,2281002,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
 ,2281003,HB3YNV,Cedric,,Saint-Cergue,CHE/Waadt,,Private Call,None
