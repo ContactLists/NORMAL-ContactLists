@@ -196,7 +196,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020195,SV4RIV,Fil,Anavra Karditsa,Dodecanese,GRC
 2020196,SV2AEE,Alekos,Thessaloniki,Kentriki Makedonia,GRC
 2020197,SV8FCU,Yiannis,Chios Gr 82100 Hellas,Kentriki Makedonia,GRC
-2020198,SV2BXZ,Fotis,Argos Orestiko/Kastoria,Dytiki Makedonia,GRC
+2020198,SV2BXZ,Fotis,Argos Orestiko,Dytiki Makedonia Kentriki Makedonia,GRC
 2020199,SV4RNT,Antonis,Volos,No_regio,GRC
 2020200,SY1DFI,Oleg,Athens,No_regio,GRC
 2020201,SY8BOC,Tsampikos,Samos Island,No_regio,GRC
@@ -324,7 +324,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020323,SV1SSF,Charalampos,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GRC
 2020324,SV1EPN,Charalampos,Vari - Attikis,No_regio,GRC
 2020325,SY2DKT,Athanasios,Ptolemaida,Dytiki Makedonia / Kentriki Makedonia,GRC
-2020326,SV0XAD,Nicholas John,,Attiki / Sterea Ellada / Dytiki Ellada,GRC
+2020326,SV0XAD,John,Vrilissia,Attiki Sterea Ellada Dytiki Ellada,GRC
 2020327,SY4AYX,Ioannis,Larissa,Thessalia,GRC
 2020328,SY4DLO,Aggelos,Karditsa,Thessalia,GRC
 2020329,SV1SSL,Chris,Xolargos,Hradec Kralove Region,GRC
@@ -1652,6 +1652,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2021652,SZ4KRD,Radio Club Karditsa,Karditsa,Thessalia,GRC
 2021653,SY2EJG,Dimitris,Thessaloniki,Dytiki Makedonia Kentriki Makedonia,GRC
 2021654,SY5ELV,Nikos,Rodos Rhodes Island Dodecanesa,Dodecanese,GRC
+2021655,SV5SHQ,Georgios,Kos,Dodecanese,GRC
+2021656,SV9FBN,Kostas,Heraklion Crete Isl,Kriti,GRC
+2021657,SV2WU,Vasilis,Thessaloniki,Dytiki Makedonia Kentriki Makedonia,GRC
+2021658,SV5TTR,Ioannis,Kalymnos Island,Dodecanese,GRC
+2021659,SV9TOQ,Dimitris,Chania,Kriti,GRC
+2021660,SY1ESD,Tony,Athens,Attiki Sterea Ellada Dytiki Ellada,GRC
 2022001,SV2XI,Kleanthis,Thessaloniki,Kentriki Makedonia,GRC
 2022002,SV2RGC,Konstantinos,Kastoria,Ipiros Ditiki Makedo,GRC
 2022003,SV2LLJ,Ioannis,Naoussa,Makedonia Thraki,GRC
@@ -1679,7 +1685,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2022025,SY2CEO,Dimitris,Nea Skioni,Chalkidiki,GRC
 2022026,SV2AYW,Andreas,Ptolemaida,Dytiki Makedonia,GRC
 2022027,SY2CCN,Elefterios,Kentriki,Kentriki Makedonia,GRC
-2022028,SV2BXZ,Fotios,Kastoria,Dytiki Makedonia,GRC
+2022028,SV2BXZ,Fotis,Argos Orestiko,Dytiki Makedonia Kentriki Makedonia,GRC
 2022029,SV2ESV,Vasilios,Kastoria,Dytiki Makedonia,GRC
 2022030,SV2CLJ,Thomas,Thessaloniki,Kentriki Makedonia,GRC
 2022031,SV2DSD,Sakis,Kassandreia,Kentriki Makedonia,GRC
@@ -1747,7 +1753,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2022093,SY2BBG,Alexios,Giannitsa,Kentriki Makedonia,GRC
 2022094,SV2RYU,Nikos,Thessaloniki,Kentriki Makedonia,GRC
 2022095,SV2SEL,Christos,,,GRC
-2022096,SZ2RCK,Rc,Kastoria,Dytiki Makedonia,GRC
+2022096,SZ2RCK,Radioclub Of Kastoria,Kastoria,Dytiki Makedonia Kentriki Makedonia,GRC
 2022097,SV2RR,Grigorios,Kilkis,Kentriki Makedonia,GRC
 2022098,SV2SBG,Aristotelis,no_city,Kentriki Makedonia,GRC
 2022099,SV2DFN,Aristidis,Thessaloniki,Kentriki Makedonia,GRC
@@ -3846,6 +3852,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041489,PD0ART,Aart,Den Helder,Noord Holland,NLD
 2041490,PA0RKZ,no_name,Wormerveer,Noord Holland,NLD
 2041491,PB0SMA,Fred,Heerhendrikskinderen,Zeeland,NLD
+2041492,PH5D,Dirk,Schoonoord,Drenthe,NLD
+2041493,PD2HP,Hagen,Utrecht,Utrecht,NLD
 2042001,PA0HTW,Henk,Rotterdam,Zuid-Holland,NLD
 2042002,PA0HTW,Henk,Rotterdam,Zuid-Holland,NLD
 2042003,PA3DFN,Philip,Spijkenisse,Zuid-Holland,NLD
@@ -4079,7 +4087,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042249,PA3GKU,Fred,Nootdorp,Zuid-Holland,NLD
 2042250,PA0ONH,Niek,Den Haag,Zuid-Holland,NLD
 2042251,PH0RH,Rene,Zoetermeer,Zuid-Holland,NLD
-2042252,PD0ADL,Theo,Delft,Zuid-Holland,NLD
+2042252,PD9O,Theo,Delft,Zuid Holland,NLD
 2042253,PD7JT,Jan,Dordrecht,Zuid-Holland,NLD
 2042255,PA1HA,Henry,Dordrecht,Zuid-Holland,NLD
 2042256,PA3BVS,Ben,Brielle,Zuid-Holland,NLD
@@ -6624,6 +6632,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060881,ON3MAD,Martin,Oostende,West Vlaanderen,BEL
 2060882,ON3MAA,Maarten,Bierbeek,Vlaams Brabant,BEL
 2060883,ON5QP,Paul,Berlare,Oost Vlaanderen,BEL
+2060884,ON3CVM,Caroline,Oostende,West Vlaanderen,BEL
+2060885,ON3WC,Andy,Malle,Antwerp,BEL
+2060886,ON3MRC,Marc,Brussels,Brussels,BEL
+2060887,ON1PW,Koen,Turnhout,Antwerp,BEL
+2060888,ON3CK,Kim,Putte,Antwerp,BEL
+2060889,ON3WIT,Johan,Merkem Houthulst,West Vlaanderen,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -8405,7 +8419,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080705,F8EFJ,Yann,Paris,Ile De France,FRA
 2080706,F0EHQ,Philippe,Lorient,No_regio,FRA
 2080707,F6CZQ,Philippe,Le Bourget Du,Auvergne Rhone Alpes,FRA
-2080708,F4IOW,Jean-Maurice,Colmar,Alsace,FRA
+2080708,F4IOW,Mwayembe,Colmar,Alsace,FRA
 2080709,F0GXD,Fernand,Mietesheim,No_regio,FRA
 2080710,F4IGP,Jean,Beauchamp,Ile-De-France,FRA
 2080711,F4HYP,Jean-Luc,Thionville,No_regio,FRA
@@ -9688,7 +9702,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081993,F4LTQ,Patrick,Moussey,Grand,FRA
 2081994,F4GVZ,Marc,Fresne La Mere,Normandie,FRA
 2081995,F4MKO,Matthew,Fresne La Mere,Normandie,FRA
-2081996,F4NEB,Jeanch,Coursegoules,Provence Alpes Cote D Azur,FRA
+2081996,F4NEB,no_name,Coursegoules,Provence Alpes Cote D Azur,FRA
 2081997,F4MPR,Benoit,Ville La Grand,Auvergne Rhone Alpes,FRA
 2081998,F1BRR,Patrick,Dole,Bourgogne Franche Comte,FRA
 2082001,F4FUL,Cyril,Sciez,Rhone-Alpes,FRA
@@ -9948,6 +9962,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082255,F4FAA,Laurent,Puy Saint Martin,Rhone-Alpes,FRA
 2082256,F1CKT,Michel,Echirolles,Auvergne-Rhone-Alpes,FRA
 2082257,F5MOP,Jeanlouis,Etrez,Auvergne-Rhone-Alpes,FRA
+2082258,F4NFR,Thierry,Neufchatel Hardelot,Hauts De France,FRA
+2082259,F1LZC,Pascal,Saran,Pays De La Loire,FRA
+2082260,F4NFJ,Pascal,Leudon En Brie,Ile De France,FRA
+2082261,F4IIC,Andre,Voiron,Auvergne Rhone Alpes,FRA
+2082262,F4NFA,Serge,Sens,Bourgogne Franche Comte,FRA
+2082263,F4NFO,Stephane,Les Lucs Sur Boulogne,Pays De La Loire,FRA
+2082264,F8ATI,Richard,Lyon,Auvergne Rhone Alpes,FRA
+2082265,F4IOM,Yann,Plumelin,Bretagne,FRA
 2083001,F1IZL,Jean-Yves,La Tour Du Crieu,No_regio,FRA
 2083002,F4GEM,Arnaud,Cornebarrieu,No_regio,FRA
 2083003,F1BBG,Gerard,Tarascon Sur Ariege,No_regio,FRA
@@ -11610,7 +11632,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140413,EB9MN,Munoz,Ceuta,Ceuta,ESP
 2140414,EA7KLI,Nachogalan,Marbella,Andalucia,ESP
 2140415,EA5JAQ,Alvaro,Valencia,Valencia,ESP
-2140416,EA5QY,Victoriano,Catral,Alicante,ESP
+2140416,EA5QY,Victor,Catral,Alicante,ESP
 2140417,EA3HHU,Javier,Alcarras (ll),Cataluna,ESP
 2140418,EB5FKY,Jordi,Canals,Valencia,ESP
 2140419,EA6ANR,Didac,Ciutadella De Menorca,Islas Baleares,ESP
@@ -11740,7 +11762,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140543,EA4HIP,Alex,Mstoles,No_regio,ESP
 2140544,EA1FGF,Luiss,A Coruna,Galicia,ESP
 2140545,EA5JAU,Manu,Valencia,Valencia,ESP
-2140546,EA2PZ,Josjuliin,Las Palmas De Gran Canari,No_regio,ESP
+2140546,EA2PZ,Jose,Donostia San Sebastian,Gipuzkoa,ESP
 2140547,EA4AAC,no_name,Parla,No_regio,ESP
 2140548,EA2EUI,Alvaro,Plentzia,No_regio,ESP
 2140549,EA7KMR,Rafael,Cabra,No_regio,ESP
@@ -15522,7 +15544,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2144347,EA4AD,Jesus,Meco,Excluding Albacete,ESP
 2144348,EA4GIR,Jose,Albacete,Excluding Albacete,ESP
 2144349,EB4BIL,Julian,Madrid,Excluding Albacete,ESP
-2144350,EA4AQM,Victor,Algete,Excluding Albacete,ESP
+2144350,EA4AQM,Victor,Algete,Madrid,ESP
 2144351,EA4EP,Jesus,Meco,Excluding Albacete,ESP
 2144352,EA4OF,Luis,Madrid,Excluding Albacete,ESP
 2144353,EA4URC,U.R.,Cuenca,Excluding Albacete,ESP
@@ -18137,7 +18159,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2146971,EA4HYN,Francisco,Madrid,Madrid,ESP
 2146972,EA7KOK,Francisco Jesus,El Puerto Santa Maria,Cadiz,ESP
 2146973,EA5AFE,Oliver Mas,no_city,Alicante,ESP
-2146974,EA7KGU,Leonardo Ariel,,Malaga,ESP
+2146974,EA7KGU,Leonardo,Marbella,Malaga,ESP
 2146975,EA5ABG,Bartolome,Carcaixent,Valencia,ESP
 2146976,EB7BXI,Angel,Almeria,Almeria,ESP
 2146977,EA4EDB,Alexis,Boadilla del Monte,Madrid,ESP
@@ -18911,7 +18933,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2147745,EA7FTX,Carlos,Cordoba,Andalucia,ESP
 2147746,EA7URA,Uraal,Cadiz,No_regio,ESP
 2147747,EA7KGR,Virtudes,Velez Malaga,No_regio,ESP
-2147748,EA7HJW,Carlos,Cadiz,Andalucia,ESP
+2147748,EA7HJW,Carlis,Chipiona,Cadiz,ESP
 2147749,EB7DQN,Jose,Jaen,Andalucia,ESP
 2147750,EA7EZR,Jose,Huelva,Andalucia,ESP
 2147751,EB7ATD,Manolo,Baena,Andalucia,ESP
@@ -19548,7 +19570,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2148383,EA4AVB,Mario,Ocana Toledo,Toledo,ESP
 2148384,EA2FDI,Hector,Irun,Gipuzkoa,ESP
 2148385,EA1FLW,Alberto,Burgos,Burgos,ESP
-2148386,EA5JQY,Massimiliano,,,ESP
+2148386,EA5JQY,Massi,Denia,Alicante,ESP
 2148387,EA4HVG,Carlos,Madrid,Madrid,ESP
 2148388,EA7JHK,Angel,Chiclana De La Frontera,Cadiz,ESP
 2148389,EA3IUQ,no_name,Viladecans,Barcelona,ESP
@@ -21308,9 +21330,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2150146,EA8AED,Juan,Las Palmas De Gran Canaria,Las Palmas,ESP
 2150147,EA5JOX,Jose,Alicante,Alicante,ESP
 2150148,EA7DTD,Francisco,Armilla,Granada,ESP
-2150149,EA3JIY,no_name,Agramunt,Lerida,ESP
+2150149,EA3JIY,Calin,Agramunt,Lerida,ESP
 2150150,EA5KDV,Jose,Elche,Alicante,ESP
 2150151,EA7LIR,Pablo,Cijuela,Granada,ESP
+2150152,EB7GGU,Josemanuel,Sevilla,Sevilla,ESP
+2150153,EA7HPL,Andres,Pozoblanco,Cordoba,ESP
+2150154,EA8DLF,Jose,Telde,Las Palmas,ESP
+2150155,EA2FLM,Borja,Irun,Gipuzkoa,ESP
+2150156,EB6TO,Miquel,Manacor  Mallorca,Baleares,ESP
+2150157,EA3DTU,Jose,El Prat De Llobregat,Barcelona,ESP
+2150158,EA5JZP,Llorenc,Castellon De La Plana,Castellon,ESP
+2150159,EA1KBA,Jorge,Verin,Ourense,ESP
+2150160,EA1KAB,Heri,Soria,Soria,ESP
+2150161,EA7LPT,David,Seville,Sevilla,ESP
+2150162,EA2FJS,Angel,Vitoria Gasteiz,Alava,ESP
+2150163,EA1KBC,Tamara,Siero,Asturias,ESP
+2150164,EA7LQP,Juan,Cordoba,Cordoba,ESP
+2150165,EA7LQZ,Diego,Santa Maria De Trassierra,Cordoba,ESP
+2150166,EA5KFC,Raul,Godella,Valencia,ESP
 2160001,HA8DJ,Sandor,Bordany,Csongrad County,HUN
 2160002,HA4XA,Istvan,Budapest,Budapest,HUN
 2160003,HA5KSP,Karl,Budapest,Budapest,HUN
@@ -21684,6 +21721,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2160379,HA1NB,Balazs,Salkoveskut,Nyugat Dunantul,HUN
 2160380,HA6BNC,Bence,Debrecen,Eszak Alfold,HUN
 2160381,HG7WBA,Attila,Gyomro,Pest,HUN
+2160382,HA6HEG,Marosyi,Sepsi,Budapest,HUN
+2160383,HA6HEG,Marosyi,Sepsi,Budapest,HUN
+2160384,HA6HEG,Marosyi,Sepsi,Budapest,HUN
+2160385,HA6HEG,Marosyi,Sepsi,Budapest,HUN
+2160386,HA7ZX,Kalman,Godollo,Pest,HUN
 2161001,HA2TO,Arpad,Papa,Veszprum,HUN
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HUN
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HUN
@@ -22727,6 +22769,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2180556,E78AL,Alem,Zenica,All Regions,BIH
 2180557,E70VUK,Vedad,Ilidza,All Regions,BIH
 2180558,E71RHM,Rusmir,Travnik,All Regions,BIH
+2180559,E71EGR,Radio Klub Gradacac,Gradacac,All Regions,BIH
 2190001,9A5PH,Richard,Murter,No_regio,HRV
 2190002,9A5DW,Johann,Zadar,No_regio,HRV
 2190003,9A0W,Ivan,Oroslevje,No_regio,HRV
@@ -24211,6 +24254,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2200789,YT1FEN,Nikola,Obrenovac,All Regions,SRB
 2200790,YT7PMI,Pedja,Belgrade,All Regions,SRB
 2200791,YT7VUK,Vuk,Belgrade,All Regions,SRB
+2200792,YU6BTB,Borisa,Belgrade,All Regions,SRB
+2200793,YT7SED,Slavko,Novi,All Regions,SRB
+2200794,YU4CAB,Vidak,Belgrade,All Regions,SRB
+2200795,YU6ICA,Ivana,Belgrade,All Regions,SRB
 2200999,YT3VD,Dejan,Belgrade,All Regions,SRB
 2201000,YU4RIS,Ivan,Beograd,All Regions,SRB
 2202222,YT5HOK,Marko,Beograd,All Regions,SRB
@@ -28735,7 +28782,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224586,IV3CVE,Davide,Casarsa Della Delizia (PN),Friuli VG,ITA
 2224587,IU2KUZ,Kenzo,Rivolta d'Adda (CR),Lombardia,ITA
 2224588,IN3HKZ,Hannes,Laives (BZ),Trentino AA,ITA
-2224589,IV3HQC,Matteo,Savorgnano Del Torre (UD),Friuli VG,ITA
+2224589,IV3HQC,Matteo,Povoletto (UD),Friuli VG,ITA
 2224590,IU2MAH,Carlo,Casatenovo (LC),Lombardia,ITA
 2224591,IN3HUT,Oskar,Weitental (BZ),Trentino AA,ITA
 2224592,IU2LUH,Giuliano,Brescia (BS),Lombardia,ITA
@@ -29036,7 +29083,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224888,I4XLT,Sauro,Modena (MO),Emilia-Rom.,ITA
 2224889,IK3STF,Pierfederico,Este (PD),Veneto,ITA
 2224890,IW3EZF,Maurizio,Chioggia (VE),Veneto,ITA
-2224891,IK2RZG,Roberto,Robecchetto Con Induno (MI),Lombardia,ITA
+2224891,IK2RZG,Massimo,Robecchetto Con Induno (MI),Lombardia,ITA
 2224892,IU2MFB,Giig982,Milano,Lombardia,ITA
 2224893,IZ3SVY,Luca,Verona,Veneto,ITA
 2224894,IZ4IRY,Marco,Bologna (BO),Emilia-Rom.,ITA
@@ -30884,6 +30931,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226754,IV3VNV,Nicola,Sgonico (TS),Friuli VG,ITA
 2226755,IU6OGY,Piero,Montesilvano,Abruzzo,ITA
 2226756,IK0ZRR,Giuseppe,Roma (RM),Lazio,ITA
+2226757,IZ7DTI,Walter,Monopoli (BA),Puglia,ITA
 2226758,IW9GUR,Davide,Catania (CT),Sicilia,ITA
 2226759,IT9BOC,Giuseppe,Bronte (CT),Sicilia,ITA
 2226760,IW2NIH,Massimo,Boltiere,Lombardia,ITA
@@ -32926,7 +32974,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228818,IU1HHC,Marco,Mombarcaro (CN),Piemonte,ITA
 2228819,IU0PLI,Alessio,Genzano (RM),Lazio,ITA
 2228820,IU8OSL,Vincenzo,Cava De Tirreni (SA),Campania,ITA
-2228821,IZ2WGY,Fabio,Cassano Magnago (VA),Lombardia,ITA
+2228821,IU2WGY,Fabio,Cassano Magnago (VA),Lombardia,ITA
 2228822,IT9HZF,Antonino,Partinico (PA),Sicilia,ITA
 2228823,I3BUI,Roberto,Marostica (VI),Veneto,ITA
 2228824,IT9VVZ,Vincenzo,Agrigento (AG),Sicilia,ITA
@@ -34968,7 +35016,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230867,IK4WMI,Fabrizio,Vignola (MO),Emilia-Rom.,ITA
 2230868,IT9JVF,Gianvincenzo,Alcamo (TP),Sicilia,ITA
 2230869,IZ1KCO,Davide,Torino (TO),Piemonte,ITA
-2230870,IU2SFD,Fulvio Paolo,Milano (MI),Lombardia,ITA
+2230870,IU2SFD,Fulvio,Milano (MI),Lombardia,ITA
 2230871,IZ0GMS,Guglielmo,San Polo Dei Cavalieri (RM),Lazio,ITA
 2230872,IT9IUV,Salvatore,Ispica (RG),Sicilia,ITA
 2230873,IK8LVP,Giorgio,Afragola (NA),Campania,ITA
@@ -36970,6 +37018,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2232882,IU1WKJ,Maurizio,Borgomanero (NO),Piemonte,ITA
 2232883,IU6PVB,Giovanni,San Benedetto Del Tronto (AP),Toscana,ITA
 2232884,IU1QRJ,Leo,Genova (GE),Liguria,ITA
+2232885,IW2ICA,Maurizio,Milano (MI),Lombardia,ITA
+2232886,IU4UWY,No_name,Bologna (BO),Emilia-Rom.,ITA
+2232887,IU2RON,Gabriele,Barzano' (LC),Lombardia,ITA
+2232888,IZ7NPJ,Salvatore,Lecce (LE),Puglia,ITA
+2232889,IU5TTC,Cesare,Figline Incisa Valdarno (FI),Toscana,ITA
+2232890,IK8MBA,Giuseppe,Potenza (PZ),Basilicata,ITA
+2232891,IU2QSU,Paolo,Milano (MI),Lombardia,ITA
+2232892,IU0NHX,Iacopo,Roma (RM),Lazio,ITA
+2232893,IZ2JNI,Max,No_city,Lombardia,ITA
+2232894,IU7KTD,Fabio,Bitonto (BA),Puglia,ITA
+2232895,IU1TMN,Umberto,Volpiano (TO),Piemonte,ITA
+2232896,IU2VXL,Andrea,Sesto Calende (VA),Lombardia,ITA
+2232897,IU0PNB,Sean,Nettuno (RM),Lazio,ITA
+2232898,IU1VCD,Gaetano,Torino (TO),Piemonte,ITA
+2232899,IW5CQE,Enrico,Vicchio (FI),Toscana,ITA
 2242222,IT9JFW,Lorenzo,Palermo (PA),Sicilia,ITA
 2260001,YO3DSG,Daniel,Bucharest,Bucuresti / Ilfov,ROU
 2260002,YO6YLJ,Nico,Tirgu-Mures,Mures,ROU
@@ -37482,7 +37545,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260516,YO3IVA,Ivan,Bucharest,Bucuresti Ilfov,ROU
 2260517,YO3WHX,Tudor,None,Bucuresti Ilfov,ROU
 2260518,YO3ICT,Eduard,Bucharest,Bucuresti Ilfov,ROU
-2260519,YO5OHJ,Stefan,None,Alba Bihor Bistrita Nasaud Cluj Maramures Salaj Satu Mare,ROU
 2260520,YO7AIJ,Madalin,Mioveni,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
 2260521,YO8RFS,Calin,Botosani,Bacau Botosani Iasi Neamt Suceava Vaslui,ROU
 2260522,YO8ERA,Constantin,Halip,Bacau Botosani Iasi Neamt Suceava Vaslui,ROU
@@ -37585,7 +37647,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260620,YO3IHG,Vlad,Bucharest,Bucuresti Ilfov,ROU
 2260622,YO3IHG,Vlad,Bucharest,Bucuresti Ilfov,ROU
 2260623,YO2RSI,Silviu,Timisoara,Hunedoara Timis,ROU
-2260624,YO3INQ,Gabriel,Otopeni,Bucuresti Ilfov,ROU
 2260625,YO3INQ,Gabriel,Otopeni,Bucuresti Ilfov,ROU
 2260626,YO3INQ,Gabriel,Otopeni,Bucuresti Ilfov,ROU
 2260627,YO3INQ,Gabriel,Otopeni,Bucuresti Ilfov,ROU
@@ -37629,11 +37690,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260665,YO3DEX,Victor,Bucuresti,Bucuresti Ilfov,ROU
 2260666,YO3DEX,Victor,Bucuresti,Bucuresti Ilfov,ROU
 2260667,YO3DEX,Victor,Bucuresti,Bucuresti Ilfov,ROU
+2260668,YO7IUM,Mihai,Pitesti,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
+2260669,YO7IUM,Mihai,Pitesti,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
+2260670,YO7IUM,Mihai,Pitesti,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
+2260671,YO7IUM,Mihai,Pitesti,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
+2260672,YO7IUM,Mihai,Pitesti,Arges Dolj Gorj Mehedinti Olt Valcea,ROU
+2260673,YO3ASZ,Lucian,Bucuresti,Bucuresti Ilfov,ROU
+2260674,YO3KWT,Radionetgrup,Bucharest,Bucuresti Ilfov,ROU
+2260675,YO3ABB,Ivana,Bucharest,Bucuresti Ilfov,ROU
+2260676,YO3ABA,Luca,Bucharest,Bucuresti Ilfov,ROU
 2261000,YO5MDA,Dumi,Satu Mare,Alba / Bihor / Bistrita Nasaud / Cluj / Maramures / Salaj / Satu Mare,ROU
 2261001,YO3GTS,Dan,Bucharest,Bucharest,ROU
 2261111,YO3IHG,Vlad,Bucharest,Bucuresti Ilfov,ROU
 2261313,YO8TEH,Izzy,Bacau,Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,ROU
 2261414,YO8TEH,Izzy,Bacau,Bacau Botosani Iasi Neamt Suceava Vaslui,ROU
+2261967,YO3INQ,Gabriel,Otopeni,Bucuresti Ilfov,ROU
 2262000,YO2OCP,Mihai,Timisoara,Hunedoara / Timis,ROU
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,ROU
 2262002,YO2LIC,Vali,Timisoara,Judeul Timi,ROU
@@ -37768,7 +37839,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2263057,YO3GEJ,Adrian,Bucuresti,Judeul Ilfov,ROU
 2263058,YO3GSK,Campeanu,Bucuresti,Judeul Ilfov,ROU
 2263059,YO3IRZ,Vlad,Bucuresti,Municipiul Bucureti,ROU
-2263060,YO3IRA,Radu,Bucharest,Municipiul Bucureti,ROU
+2263060,YO3IRA,Radu,Bucharest,Bucuresti Ilfov,ROU
 2263061,YO3IXW,Bogdan,Bucuresti,Judeoul Ilfov,ROU
 2263064,YO3DRK,Radu,Bucuresti,Cnty,ROU
 2263066,YO3IOY,Charalampos,Bucuresti,Judeul Ialomia,ROU
@@ -38543,7 +38614,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280405,HB3XGP,Ernesto,Lugaggia,Ticino,CHE
 2280406,HB3YBU,Simone,Faido,Ticino,CHE
 2280407,HB3XFZ,Philipp,Gurtnellen,Uri,CHE
-2280408,HB9INU,Pierre Alain,Allschwil,Basel Country,CHE
+2280408,HB9INU,Pierre,Allschwil,Basel Country,CHE
 2280409,HB9HPA,Simon,Walchwil,Zug,CHE
 2280410,HB9VAA,Joseph,,Geneva,CHE
 2280411,HB9INV,Daniel,Biel,Bern,CHE
@@ -40699,6 +40770,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300476,OK5AZ,Rosta,Brno,South Moravian Region,CZE
 2300477,OK7JDN,Jan,Havirov,Moravian Silesian Region,CZE
 2300478,OK7DC,David,Brno,South Moravian Region,CZE
+2300479,OK1ABC,Marcel,,Prague,CZE
 2300480,OK3RZR,Ondrej,Liberec,Liberec Region,CZE
 2300481,OK1MIT,Mirek,Slatinany,Pardubice Region,CZE
 2300482,OK2INM,Miroslav,Kromeriz,Zlin Region,CZE
@@ -40721,6 +40793,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300499,OK9TMI,Tomas,Ostrava,Moravian Silesian Region,CZE
 2300500,OK1MLW,Libor,Ceska Trebova,Pardubice Region,CZE
 2300501,OK9ALF,Pavel,Ostrava,South Moravian Region,CZE
+2300502,OK1JTV,Tomas,Horni Slavkov,Karlovy Vary Region,CZE
 2301001,OK9DTZ,David,Prague,Hlavni Mesto Praha,CZE
 2301002,OK3ZB,Zdenek,Praha,Hlavni Mesto Praha,CZE
 2301003,OK1MX,Milan,Praha,Hlavni Mesto Praha,CZE
@@ -42491,6 +42564,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320968,OE2LDM,Christian,Mattsee,SBG,AUT
 2320969,OE3SSV,Christoph,Ratzersdorf An der Traisen,NOE,AUT
 2320970,OE7MOX,Martin,Erpfendorf,TIROL,AUT
+2320971,OE1MKB,Manuel,Wien,WIEN,AUT
 2321001,OE1KBC,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt,Wien,WIEN,AUT
@@ -44284,7 +44358,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2340126,M0JKK,Crompton,Blackburn,England,GBR
 2340127,G7HEP,Arthur,Launceston,England,GBR
 2340128,G4JJP,Richard,Shepton Mallet,England,GBR
-2340129,M1TJH,Terry,South Gloucestershire,England,GBR
+2340129,M0TJX,Terry,South Gloucestershire,England,GBR
 2340130,M0MWF,Erik,no_city,No_regio,GBR
 2340131,2E0WWE,Gary,Surrey,England,GBR
 2340132,M0KMD,Mehmet,Essex,England,GBR
@@ -44564,7 +44638,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2340406,M7JPN,Ben,Sheffield,England,GBR
 2340407,2E0RPZ,Robert,Plymouth,England,GBR
 2340408,M7BKN,Jim,Cradley Heath,England,GBR
-2340409,2E1IIY,Andrew,Hook,No_regio,GBR
+2340409,M8NLR,Andrew,Melksham,England,GBR
 2340410,M0HAC,Chris,Swansea,Wales,GBR
 2340411,M7NRH,Aaron,Reigate,England,GBR
 2340412,M7PLP,Paul,St Helens,England,GBR
@@ -49904,7 +49978,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2345882,M0MNM,Paul,Stockport,England,GBR
 2345883,G3TMD,Ted,Scotter,England,GBR
 2345884,M6UBM,Brad,no_city,England,GBR
-2345885,2E0WDI,Ian,Taunton,England,GBR
+2345885,M8WDI,Ian,Taunton,England,GBR
 2345886,G0WRS,Warc,Warrington,England,GBR
 2345887,G0IIF,John,S Yorks,England,GBR
 2345888,M0YDA,Derek,Humshaugh,England,GBR
@@ -50190,7 +50264,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2346170,G8KOM,Douglas,Reading,England,GBR
 2346171,M1GKD,Rob,Swindon,England,GBR
 2346172,2E0EZC,Andrew,Bruton,England,GBR
-2346173,M0JHP,Hector,London,England,GBR
+2346173,G5JHP,Dover,Erith,England,GBR
 2346174,G0FYQ,David,Halifax,England,GBR
 2346175,G4HXE,Alan,Southampton,England,GBR
 2346177,G0CRB,Allen,Warwickshire,England,GBR
@@ -50866,7 +50940,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2346850,M0RRL,Kathleen,Newton Aycliffe,No_regio,GBR
 2346851,M0SAC,Michael,Gillingham,No_regio,GBR
 2346852,G0GTN,John,Shrewsbury,No_regio,GBR
-2346853,M6OPV,Paul,Durham,No_regio,GBR
+2346853,M9RIP,Paul,Newton Aycliffe,England,GBR
 2346854,M6LLN,Andy,Cambridgeshire,No_regio,GBR
 2346855,G6CGY,Robert,Hartlepool,England,GBR
 2346856,M8FRL,Lloyd,Mirfield,England,GBR
@@ -51173,7 +51247,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2347160,G1WWX,Paul,no_city,England,GBR
 2347161,M7DCH,David,Sale,England,GBR
 2347162,M7GQW,Marc,Hoddesdon,England,GBR
-2347163,G1LBU,Rayparry,Tyne And Wear,England,GBR
+2347163,G7LBU,Ray,Washington Tyne And Wear,England,GBR
 2347164,M6IVG,Nigel,no_city,England,GBR
 2347165,M9XGS,Grant,Rayleigh,England,GBR
 2347166,M0IXY,Andy,Fryerns,England,GBR
@@ -52120,7 +52194,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348112,G1TAY,Alec,Stalham Norfolk,Alec,GBR
 2348113,G0KAD,Mike,Crawley,England,GBR
 2348114,M0YIK,Craig,Haydock St Helens,England,GBR
-2348115,M3YSV,no_name,Benfleet,No_regio,GBR
+2348115,M3YSV,Samantha,London,England,GBR
 2348116,M0NRG,Nigel,Fareham,No_regio,GBR
 2348117,2E0FOR,Ian,Derby (ao),No_regio,GBR
 2348118,2E0EZZ,no_name,no_city,No_regio,GBR
@@ -53242,7 +53316,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2349243,2E0XQA,Matthew,Felixstowe,England,GBR
 2349244,M6FHE,Model635,Norwich,No_regio,GBR
 2349245,M0CQL,no_name,Barnsley,No_regio,GBR
-2349246,G1LBU,Raymond,no_city,Tyne And Wear,GBR
+2349246,G7LBU,Ray,Washington Tyne And Wear,England,GBR
 2349247,G7SWS,Olly,Spalding,No_regio,GBR
 2349248,M7ARU,Mabufu,Spalding,No_regio,GBR
 2349249,M7WAM,Ian,Cumbria,No_regio,GBR
@@ -54063,7 +54137,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2350068,GW7EXH,Barrie,Rhyl,Wales,GBR
 2350069,M7JBV,Geoffrey,Exeter,England,GBR
 2350070,M0VKB,Robert,Stratford-Upon-Avon,England,GBR
-2350071,2M0SXA,Alastair,Errol,Scotland,GBR
+2350071,M8SXA,Alastair,Errol,Scotland,GBR
 2350072,M6PDD,Andrew,Ashford,England,GBR
 2350073,M7AVT,Aigars,Carlisle,England,GBR
 2350074,M7CPV,Keith,Wakefield,England,GBR
@@ -55491,6 +55565,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2351507,G4YME,Mike,Camelford,England,GBR
 2351508,M0MOL,Gareth,Barrow-In-Furness,England,GBR
 2351509,M0CEC,Geoff,Liverpool,England,GBR
+2351510,M0DKR,David,Blackpool,England,GBR
 2351511,2E0KME,Kim,Oxford,England,GBR
 2351512,G0DNI,Gary,Shrewsbury,England,GBR
 2351513,G1MXO,Phil,Blackburn,England,GBR
@@ -56760,7 +56835,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2352788,G0EPC,Paul,Swindon,England,GBR
 2352789,M9VLX,Alexandru,Southampton,England,GBR
 2352790,2E0YQC,Garry,New Romney,England,GBR
-2352791,2E0SJA,Andy,Ashford,England,GBR
+2352791,M8SJA,Andy,Ashford,England,GBR
 2352792,G8MVV,Ian,Stoke-On-Trent,England,GBR
 2352793,M3OZP,Chris,Folkestone,England,GBR
 2352794,2E0KCB,Keith,Littlehampton,England,GBR
@@ -60004,7 +60079,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2356078,G3ZRK,Ray,North Tyneside,England,GBR
 2356079,M7EWY,Mike,Chatham,England,GBR
 2356080,M7CNK,Kenneth,Northampton,England,GBR
-2356081,MM9DEL,Derek,Fauldhouse,Scotland,GBR
+2356081,MM9DEL,Del,Fauldhouse,Scotland,GBR
 2356082,MW7XDY,Joshua,Wrexham,Wales,GBR
 2356083,M1TNT,Peter,Tamworth,England,GBR
 2356084,MM3XIA,Iain,Carnwath,Scotland,GBR
@@ -60874,7 +60949,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2356957,M0MBZ,Mike,Hartlepool,England,GBR
 2356958,G1CFE,Alan,Blackpool,England,GBR
 2356959,2I0ARM,Alan,Downpatrick,Northern Ireland,GBR
-2356960,M3YSV,Dave,Peterborough,England,GBR
+2356960,M3YSV,Samantha,London,England,GBR
 2356961,G5IIA,Steven,Northampton,England,GBR
 2356962,M7FBY,Daniel,Dukinfield,England,GBR
 2356963,G0TPT,Martin,Sheffield,England,GBR
@@ -60966,6 +61041,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2357050,M0JXR,Bradley,Bristol,England,GBR
 2357051,M7HRK,Eran Joseph,Bury St Edmunds,England,GBR
 2357052,2E0JKH,Garry,Northampton,England,GBR
+2357053,G4OWW,Kazkay,Bridlington,England,GBR
 2357054,G8RHL,John,,England,GBR
 2357055,M7IJT,Anthony,Exeter,England,GBR
 2357056,G5FAB,Jt Repeaters,Leighton Buzzard,England,GBR
@@ -61664,7 +61740,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2357752,M7VSB,Simon,Leeds,England,GBR
 2357753,M7VMV,Shayne,Bournemouth,England,GBR
 2357754,M1EGP,Robert,Staplehurst Kent,England,GBR
-2357755,M7RRV,Ghaith Jack,Birmingham,England,GBR
+2357755,M7RRV,Ghaith,Birmingham,England,GBR
 2357756,G7MNN,Simon,Epping,England,GBR
 2357757,G4IFQ,Andrew,Sidmouth,England,GBR
 2357758,M7IBT,Simon,,England,GBR
@@ -61768,7 +61844,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2357856,MM0TDB,Derek,Lanarkshire,Scotland,GBR
 2357857,M7JUK,Simon,Birmingham,England,GBR
 2357858,M7YKN,Erdem,London,England,GBR
-2357859,M7IFP,Marcus,Basingstoke,England,GBR
 2357860,G6YUA,David,Accrington,England,GBR
 2357861,G6YUA,David,Accrington,England,GBR
 2357862,G6NLW,Ian,Brighouse,England,GBR
@@ -62309,7 +62384,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2358397,2M0GTR,Stuart,Renfrew,Scotland,GBR
 2358398,M9IXL,Thomas,Burton,England,GBR
 2358399,M7UKQ,Daniel,Coventry,England,GBR
-2358400,M6TZK,Neil,None,England,GBR
+2358400,M9THU,Neil,Chelmsford,England,GBR
 2358401,MI1AZS,Paul,Carrickfergus,Northern Ireland,GBR
 2358402,M7PLK,Jaroslaw,Oxford,England,GBR
 2358403,G1MJS,Matthew,Stowmarket,England,GBR
@@ -62698,7 +62773,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2358789,G0PMJ,Dave,Darlington,England,GBR
 2358791,G7WEX,Michelle,Lancaster,England,GBR
 2358792,G7JDI,Dennis,Mullion,England,GBR
-2358793,M7ROQ,Alexander,Glenrothes,Scotland,GBR
+2358793,MM7ROQ,Alexander,Glenrothes,Scotland,GBR
 2358794,M3ROY,Steve,Mansfield,England,GBR
 2358795,M0NER,Alan,Tyne  Wear,England,GBR
 2358796,GW4STC,Steven,Cricceith,Wales,GBR
@@ -62731,6 +62806,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2358823,M0ELC,Les,Horncastle,England,GBR
 2358824,M0GDI,Mayfuse,Leicester,England,GBR
 2358825,G3ARM,Keith,Lincoln,England,GBR
+2358826,MI0JQY,Mark,Garvagh Coleraine,Northern Ireland,GBR
+2358827,MB6UN,Shaun,Leicester,England,GBR
+2358828,G7EBP,no_name,Maidenhead,England,GBR
+2358829,GW6VLK,Simon,Aberangell,Wales,GBR
+2358830,2E0WDW,William,Chelmsford,England,GBR
+2358831,G7SMO,Steve,Sheffield,England,GBR
+2358832,M7RFE,Phil,Guildford,England,GBR
+2358833,M7HFS,David,Great Torrington,England,GBR
+2358834,MI7MNQ,Desmond,Ballynahinch,Northern Ireland,GBR
+2358835,M7LFP,Colin,Stourbridge,England,GBR
+2358836,M7KBI,Garry,Kirkwall,Scotland,GBR
+2358837,G1ISO,Michael,Stockport,England,GBR
+2358838,M7WFO,Oscar,Cambridge,England,GBR
 2360000,M0NOA,Anthony,Leeds,England,GBR
 2360001,M1HAC,Alex,Southampton,England,GBR
 2360002,M1HAC,Alex,Southampton,England,GBR
@@ -63087,6 +63175,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2380345,OZ6DAL,Jack,Askeby,Sjaelland,DNK
 2380346,OZ1MF,Michael,Odense,Syddanmark,DNK
 2380347,OZ2UH,Ulrik,Loesning,Midtjylland,DNK
+2380348,OZ1X,Zdravko,Glostrup,Hovedstaden,DNK
+2380349,OZ1DZI,Bjarne,Vordingborg,Sjaelland,DNK
 2380822,OZ8ADK,Anders Dam,Lyngby,Hovedstaden,DNK
 2380823,5P4L,Matt,Vejle,Syddanmark,DNK
 2380824,OV4SB,Sana,Ringsted,Sjaelland,DNK
@@ -65666,6 +65756,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2401190,SM7DUZ,Ingvar,Malmo,Skane,SWE
 2401191,SA5OKK,Oskar,Aby,Ostergotland,SWE
 2401192,SM6VPC,Christian,Lindome,Vastra Gotaland,SWE
+2401193,SH4LIF,Jonny,Ludvika,Dalarna,SWE
 2402002,SA2BNO,Peter,Kiruna,Norrbotten County,SWE
 2402003,SA2CJG,Mikael,Kiruna,Norrbotten County,SWE
 2402004,SA2BNO,Peter,Kiruna,Norrbotten County,SWE
@@ -67675,6 +67766,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2420647,LB5ZK,Filip,Oslo,Oslo,NOR
 2420648,LA9BR,Morten,Trondheim,Troendelag,NOR
 2420649,LA9AY,Ulle,Oslo,Oslo,NOR
+2420650,LA6PHA,Erik,Sem,Vestfold,NOR
 2421001,LA6VMA,Tommy,Dal,Akershus,NOR
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NOR
 2421003,LA2YUA,Robin,Strmmen,Akershus,NOR
@@ -69286,6 +69378,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2441784,OH9DMK,Paulus,Oulu,All Regions,FIN
 2441785,OH2DTE,Paavo,Espoo,All Regions,FIN
 2441786,OH2LWN,Tom,Vantaa,All Regions,FIN
+2441787,OH2FLI,Karri,Helsinki,All Regions,FIN
+2441788,OH9DYW,Toni,Rovaniemi,All Regions,FIN
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FIN
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FIN
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FIN
@@ -70341,6 +70435,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2470113,YL3QH,Lauris,Riga,All Regions,LVA
 2470114,YL3APY,Aigars,Jurmala,All Regions,LVA
 2470115,YL3ATJ,Juris,Riga,All Regions,LVA
+2470116,YL3CAAG,Aldis,Riga,All Regions,LVA
 2480001,ES2AST,Marek,Kose,No_regio,EST
 2480002,ES2FJR,Ivan,Tallinn,Lubja Kula,EST
 2480003,ES1BRD,Dmitri,Tallinn,All Regions,EST
@@ -70486,6 +70581,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2480143,ES1VTL,Vootele,Tallinn,All Regions,EST
 2480144,ES1HEM,Heili,Tallinn,All Regions,EST
 2480145,ES1VTL,Vootele,Tallinn,All Regions,EST
+2480146,ES8VTMO,Hanno,Parnu,All Regions,EST
 2488888,ES2ETA,Henry,,All Regions,EST
 2500001,RU0LA,Aleksandr,Chernigovka,No_regio,RUS
 2500002,R0AET,Vladimir,Ptayozhnyy,No_regio,RUS
@@ -72209,7 +72305,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2501848,R8QBF,Dmitrii,Kurgan,All Regions,RUS
 2501849,R2DABE,Rostislav,Stupino,All Regions,RUS
 2501850,R5VDQ,Artem,Vladimir,All Regions,RUS
-2501851,R3DJW,Mikhail,Serpuhov,All Regions,RUS
+2501851,RC3DJ,Mikhail,Serpuhov,All Regions,RUS
 2501852,UB4RGW,Ramil,None,All Regions,RUS
 2501853,R0FBG,Andrey,Dolinsk,All Regions,RUS
 2501854,R2FDZ,Aleksander,Kaliningrad,All Regions,RUS
@@ -72508,7 +72604,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2502264,UB8QBT,Andrey,Kurgan,All Regions,RUS
 2502265,R2FDX,Oleg,Kaliningrad,All Regions,RUS
 2502266,UB1AVE,Anton,Saynt Peterzburg,All Regions,RUS
-2502267,UB8CRZ,Ivan,None,All Regions,RUS
+2502267,R8CJY,Ivan,Sverdlovsk,All Regions,RUS
 2502268,R3KPJ,Oleg,Voronezh,All Regions,RUS
 2502269,UB3DKE,Alexander,Moscow,All Regions,RUS
 2502270,UB6ZBM,Aleksei,Lugansk,All Regions,RUS
@@ -72986,7 +73082,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2502744,R9FEL,Evgenii,Chaykovsky,All Regions,RUS
 2502745,R9FEL,Evgenii,Chaykovsky,All Regions,RUS
 2502746,UB3XBL,Ivan,Kaluga,All Regions,RUS
-2502747,RA3VLZ,Aleksey,Vladimir,All Regions,RUS
 2502748,UA8ACH,Aleksey,Chelyabinsk,All Regions,RUS
 2502749,R1CEO,Oleg,Leningrad Region,All Regions,RUS
 2502750,R2AMG,Alexey,Moscow,All Regions,RUS
@@ -73041,7 +73136,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2502799,R8AJK,Pavel,Chelyabinsk,All Regions,RUS
 2502800,UB3BGN,Aleksandr,Mscow,All Regions,RUS
 2502801,UB4RBS,Marat,Innopolis,All Regions,RUS
-2502802,R4HDN,Alexander,Moscow,All Regions,RUS
+2502802,R3DOQ,Alexander,Moscow,All Regions,RUS
 2502803,UB3TJA,Alexander,Dzerzhinsk,All Regions,RUS
 2502804,R1BMP,Alexey,Saint Petersburg,All Regions,RUS
 2502805,R1ZAO,Artem,Monchegorsk,All Regions,RUS
@@ -73099,6 +73194,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2502858,UB3KGP,Anton,Voronezh,All Regions,RUS
 2502859,R4NBV,Sergey,Kirov,All Regions,RUS
 2502860,R1BOD,Anton,Kolpino,All Regions,RUS
+2502861,RA6YC,Sergey,Maikop,All Regions,RUS
+2502862,RX9CDR,Alexandr,Ekaterinburg,All Regions,RUS
+2502863,RW3QKB,Sergey,Pavlovsk,All Regions,RUS
+2502864,R2SDS,Evgeny,Ryazan,All Regions,RUS
+2502865,UB1TAR,Dmitrii,Velikiy Novgorod,All Regions,RUS
+2502866,UB8QCC,Igor,Kurgan,All Regions,RUS
+2502867,R2ZFI,Serg,Grayvoron,All Regions,RUS
+2502868,R2BJI,Sergei,Moscow,All Regions,RUS
+2502869,R2AAZ,Alexander,Moscow,All Regions,RUS
+2502870,RY8CAG,Alexey,Yekaterinburg,All Regions,RUS
 2503001,R3ABM,Artem,Morshansky,No_regio,RUS
 2503002,R3ABM,Artem,Morshansky,No_regio,RUS
 2503003,RK3AQG,Takhirov,Moscow,No_regio,RUS
@@ -74614,6 +74719,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2550915,UR5FUV,Viktor,Odesa,All Regions,UKR
 2550916,US5ZCP,Konstantin,Mykolayv,All Regions,UKR
 2550917,US5WAN,Ivan,Lviv,All Regions,UKR
+2550918,UT4FJ,Alex,Odessa,All Regions,UKR
+2550919,US5TA,Anatolii,Null,All Regions,UKR
+2550920,UT9NA,Sergei,Vinnytsia,All Regions,UKR
+2550921,UR4UUY,Ruslan,Kyiv,All Regions,UKR
+2550922,UT3UGC,Oleksii,Kyiv,All Regions,UKR
+2550923,UW5ESW,Dmytro,Dnipro,All Regions,UKR
 2555555,UR5SSB,Yaroslav,Ivano Frankivsk,All Regions,UKR
 2570001,EW7AS,Uladzimir,Klimovichi,All Regions,BLR
 2570002,EW7AS,Uladzimir,Klimovichi,All Regions,BLR
@@ -76213,7 +76324,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2601452,SQ9ONP,Krzysztof,Gliwice,,POL
 2601453,SQ7JZQ,Tomasz,Dabkowice Dolne,,POL
 2601454,SN6ZDA,Zhp,Wroclaw,,POL
-2601455,SP6ZHP,Zhp,Wroclaw,,POL
 2601456,SP9KGB,Krzysztof,Ruda Slaska,,POL
 2601457,SP3BSI,Mariusz,Witkowo,wielkopolskie,POL
 2601458,SO5HIM,Pawel,Warszawa,mazowieckie,POL
@@ -78804,6 +78914,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2604172,SQ2KAI,Grzegorz,Lysomice,Kujawsko Pomorskie,POL
 2604173,SP5BAT,Pawel,Wolomin,Mazowieckie,POL
 2604174,SP9DRK,Dariusz,Bielsko Biala,A›lae…skie,POL
+2604175,SP4RH,Piotr,Giedajty,Warmia„sko Mazurskie,POL
+2604176,SP9MTM,Matthew,Stanowice,A›lae…skie,POL
+2604177,SQ9SF,Mateusz,Tarnow,Maa‚opolskie,POL
+2604178,SQ5DAY,Piotr,Warszawa,Mazowieckie,POL
+2604179,SQ7JAR,Jaroslaw,Kutno,A‚a³dzkie,POL
+2604180,SO7P,Piotr,Biala,A‚a³dzkie,POL
+2604181,SQ9PKM,Lukasz,Lukowica,Maa‚opolskie,POL
+2604182,SP3MNM,Mikolaj,Poznan,Wielkopolskie,POL
+2604183,HF9MA,Mateusz,Krakow,Maa‚opolskie,POL
+2604184,SQ1DAP,Artur,Pelczyce,Zachodniopomorskie,POL
+2604185,SP5PAN,Pawel,Warszawa,Mazowieckie,POL
+2604186,SP9TUTU,Sebastian,Czeladz,A›lae…skie,POL
+2604187,SP9KTC,Grzegorz,Katowice,A›lae…skie,POL
 2605001,SP5GDM,Jan,Wierzbica,Mazowieckie,POL
 2605002,SP5GDM,Jan,Wierzbica,Mazowieckie,POL
 2605003,SP5GDM,Jan,Wierzbica,Mazowieckie,POL
@@ -79993,7 +80116,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2609326,SP9AMF,Igor,Bielsko Biala,Slaskie,POL
 2609327,SQ9JKL,Tomasz,Zaborze,Slaskie,POL
 2609328,SQ9HHO,Zbigniew,Raciborz,Slaskie,POL
-2609329,SQ9MLW,Robert,Bielsko Biala,,POL
 2609330,SQ9LFQ,Jozef,Limanowa,Malopolskie,POL
 2609331,SP9KWR,Rafal,Raciechowice,Malopolskie,POL
 2609333,HF9D,Daniel,Bytom,Slaskie,POL
@@ -84710,7 +84832,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624674,DC9KK,Peter,Troisdorf,NW,DEU
 2624675,DL1AE,Kurt,no_city,NW,DEU
 2624676,DM6HB,Holger,Kaarst,NW,DEU
-2624677,DN9CS,Claudia,Hilden,NW,DEU
+2624677,DA6CL,Claudia,Hilden,NW,DEU
 2624678,DG9DCJ,Robert-Paul,Dortmund,NW,DEU
 2624679,DB7QE,Norbert,Tecklenburg,NW,DEU
 2624680,DA6CB,Christian,Goeppingen,BW,DEU
@@ -95410,6 +95532,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2635712,DL3MML,Monika,Huenfelden,HE,DEU
 2635713,DA1TKR,Thomas,Reutlingen,BW,DEU
 2635714,DL1MEV,Robert,Grafrath,BY,DEU
+2635715,DC5PK,Denis,Beltheim,RP,DEU
+2635716,DL1BKE,Joerg,Nuremberg,BY,DEU
+2635717,DL8RBJ,Thomas,Heroldsberg,BY,DEU
+2635718,DO1XX,Dirk,Ramelsloh,NI,DEU
+2635719,DO1XX,Dirk,Ramelsloh,NI,DEU
+2635720,DO1XX,Dirk,Ramelsloh,NI,DEU
+2635721,DJ6KS,Knut,Bad Vilbel,HE,DEU
+2635722,DJ1NG,Guido,Haundorf,BY,DEU
+2635723,DA6IM,Ingomergel,Hannover,NI,DEU
+2635724,DL1KRW,Wolfgang,Neunkirchen-Seelscheid,NW,DEU
+2635725,DL7EL,Theocharis,Griesheim,HE,DEU
+2635726,DA0IGH,Clubst.,Berlin,BE,DEU
+2635729,DN9WE,Erik,Saarbruecken,SL,DEU
 2636001,DO8AE,Andreas,Lollar,HE,DEU
 2636002,DL6AAO,Arthur,Witzenhausen,HE,DEU
 2636003,DL4FBW,Wolfgang,Korbach,HE,DEU
@@ -98432,6 +98567,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2680739,CT2KIU,Joao,Coimbra,Regiao Centro,PRT
 2680740,CR7BOB,Luis,Seixal,Regiao De Lisboa,PRT
 2680741,CR7BVX,Silva,Almada,Regiao De Lisboa,PRT
+2680742,CT2GUR,Paulo,Alcobaca,Regiao Centro,PRT
+2680743,CR7CAX,Luis,Odivelas,Regiao De Lisboa,PRT
+2680744,CT2GUZ,Arnaldo,Vila Nova De Santo Andre,Regiao De Alentejo,PRT
 2681001,CT2HMR,Manuel,Amarante,Porto District,PRT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PRT
 2681003,CT2GSW,Rui,Maia,Porto District,PRT
@@ -101043,6 +101181,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2840828,LZ1VPN,Viktor,Plovdiv,Plovdiv,BGR
 2840829,LZ1TRH,Vasil,Sofia,Sofia City,BGR
 2840830,LZ1MES,Martin,Breznik,Pernik,BGR
+2840831,LZ1SEC,Desislava,Dupnica,Kyustendil,BGR
+2840832,LZ3VIP,Ivan,Sofia,Sofia,BGR
+2840833,LZ1SJH,Stamo,Bankya,Sofia,BGR
+2840834,LZ2LBP,Lachezar,Sofia,Sofia,BGR
 2843333,LZ3OM,Kiril,Sofia,All Regions,BGR
 2849998,LZ1JPK,Jordan,Pernik,All Regions,BGR
 2860001,TA6TC,Mirac,Samsun,,TUR
@@ -103551,7 +103693,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2862517,TA2ITY,Tamer,Kocaeli,,TUR
 2862518,TB1AAV,Colak,Istanbul,,TUR
 2862519,TA0B,Hayri,Buyukada Istanbul,,TUR
-2862520,TA3AIH,Bozkurt,Mudanya,,TUR
+2862520,TA3HI,Atil,Mudanya,Aegean Region,TUR
 2862521,TB3GD,Mustafa,,,TUR
 2862522,TA8IHC,Ihsan,Gaziantep,,TUR
 2862523,YM8KA,Trac,Sahinbey Gaziantep,Southeastern Anatolia Region,TUR
@@ -105215,7 +105357,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2864247,TA9M,Goekhan,Erzurum,Eastern Anatolia Region,TUR
 2864249,TB2PEZ,Serdar,Pendik,Marmara Region,TUR
 2864250,TA3HZK,Zafer,,Aegean Region,TUR
-2864251,TB1AHA,Tuncay,Istanbul,Marmara Region,TUR
 2864252,TA5TRK,Zeki Onur,Karaman,Central Anatolia Region,TUR
 2864253,TB3AEC,no_name,Bursa,Marmara Region,TUR
 2864254,TB3BBQ,Fatih,,Marmara Region,TUR
@@ -105236,7 +105377,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2864269,TB4AJE,no_name,,Aegean Region,TUR
 2864270,TA3DIO,Ibrahim,Izmir,Aegean Region,TUR
 2864271,TA3SXE,Yurdakul,,Aegean Region,TUR
-2864272,TA4EBT,Ertugrul Berk,Denizli,Aegean Region,TUR
+2864272,TA4EBT,Ertugrul,Denizli,Aegean Region,TUR
 2864273,TA2EAZ,Ahmet Celalettin,Istanbul,Marmara Region,TUR
 2864274,TA8SYH,Seyho,,Southeastern Anatolia Region,TUR
 2864275,TA1HB,Alperen,Tekirdag,Marmara Region,TUR
@@ -107965,7 +108106,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2867050,TA3OTO,Ibrahim,Izmir,Aegean Region,TUR
 2867051,YM5XOU,Club,Nigde Omer Halisdemir University,Central Anatolia Region,TUR
 2867052,TA9SAR,Ahmet,Bitlis Tatvan,Eastern Anatolia Region,TUR
-2867053,TB1FEQ,Fahri Emre,Istanbul,Marmara Region,TUR
+2867053,TB1FEQ,Fahriemre,Istanbul,Marmara Region,TUR
 2867054,TB7MBS,Mukremin,Kayseri,Central Anatolia Region,TUR
 2867055,TA6HKN,Hakan,Amasya,Black Sea Region,TUR
 2867056,TB3ATE,Tugay,Merkez,Marmara Region,TUR
@@ -108618,7 +108759,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2867706,TB5DXD,Bilal,Adana,Mediterranean Region,TUR
 2867707,TA9BLD,Mehmet,Van,Eastern Anatolia Region,TUR
 2867708,TB2MYS,Recayi,Sakarya,Marmara Region,TUR
-2867709,TB2NCO,Nicola,Istanbul,Marmara Region,TUR
+2867709,TB2NCO,Murat,Istanbul,Marmara Region,TUR
 2867710,TA5C,Can,Mersin,Mediterranean Region,TUR
 2867712,TA1SBO,Selma,Istanbul,Marmara Region,TUR
 2867713,TB2GLC,Gulcin,Istanbul,Marmara Region,TUR
@@ -108679,6 +108820,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2867770,TB5TET,Mehmet,Adana,Mediterranean Region,TUR
 2867771,TB3MKK,Mahmut,Manisa,Aegean Region,TUR
 2867772,TA2FMJ,Murat,Istanbul,Marmara Region,TUR
+2867773,TB2MQS,Mehmet,Kocaeli,Marmara Region,TUR
+2867774,TA2PG,Yasar,Koceli,Marmara Region,TUR
+2867775,TA2ZSK,Seyfullah,Istanbul,Marmara Region,TUR
+2867776,TB2EFO,Emre,Kocaeli,Marmara Region,TUR
 2867777,TA2SEK,Serhat,Yalova,Marmara Region,TUR
 2867778,TB3GEI,Seckin,Izmir,Aegean Region,TUR
 2867779,TA7YIL,Alperen,Ordu,Black Sea Region,TUR
@@ -108901,6 +109046,26 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2867998,TA3BYY,Yasin,Bursa,Marmara Region,TUR
 2867999,TA2TUU,Mehmet,Ankara,Central Anatolia Region,TUR
 2868000,YM6KV,Baktrad,Merkez,Central Anatolia Region,TUR
+2868001,TA1TCY,Cemre,Istanbul,Marmara Region,TUR
+2868002,TA2DWP,Berker,Ankara,Central Anatolia Region,TUR
+2868003,TA8BMW,Mustafa,Malatya,Eastern Anatolia Region,TUR
+2868004,YM5KA,Trac Adana Subesi,Adana,Mediterranean Region,TUR
+2868005,TB2TRW,Oguzhan,Sakarya,Marmara Region,TUR
+2868006,TA4UY,Yasar,Antalya,Mediterranean Region,TUR
+2868007,TB1KST,Huseyin,Istanbul,Marmara Region,TUR
+2868008,TA2YOO,Ali,Merkez Bilecik,Central Anatolia Region,TUR
+2868009,TA4GLY,Murat,Usak,Aegean Region,TUR
+2868010,TA3GBG,Guvenc,Bursa,Marmara Region,TUR
+2868011,TA1CTR,Muhammed,Istanbul,Marmara Region,TUR
+2868012,TA4DOR,Ata,Antalya,Mediterranean Region,TUR
+2868013,TB2AZI,Aziz,Istanbul,Marmara Region,TUR
+2868014,TA1ZHN,Ozhan,Istanbul,Marmara Region,TUR
+2868015,TA1YKL,Berktay,Beyoglu,Marmara Region,TUR
+2868016,TA1GCB,Gamze,Istanbul,Marmara Region,TUR
+2868017,TA6TAT,Nafiz,Samsun,Black Sea Region,TUR
+2868018,TA1GMH,Muhammed,Istanbul,Marmara Region,TUR
+2868019,TB2GAD,Goktug,Istanbul,Marmara Region,TUR
+2868020,TB1TSY,Samed,Istanbul,Marmara Region,TUR
 2868686,TB3ACU,Baris,Buca,Aegean Region,TUR
 2868888,TA1QQ,Erol,Istanbul,Marmara Region,TUR
 2880001,OY8W,Steffen,Kollafjordur,All Regions,FRO
@@ -109987,6 +110152,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2931069,S50H,Peter,Ljubljana,Osrednjeslovenska,SVN
 2931070,S56ZCL,Luciano,Koper  Capodistria  Dostava,Jugovzhodna Slovenija,SVN
 2931071,S57DMG,Daniel,Ljubljana,Osrednjeslovenska,SVN
+2931072,S54PAJ,Robert,Selnica Ob Dravi,Podravska,SVN
+2931073,S50SFK,Felix,Maribor,Podravska,SVN
+2931074,S55PO,Misel,Podkum,Zasavska,SVN
+2931075,S52SP,Srecko,Majsperk,Podravska,SVN
+2931076,S58BS,Boris,Pretrez,Jugovzhodna Slovenija,SVN
+2931078,S55ME,Mihailo,Zagorje Ob Savi,Zasavska,SVN
+2931079,S50AH,Almir,Hrastnik,Zasavska,SVN
 2940001,Z36AEC,Herolind,Gostivar,Gostivar,MKD
 2940002,Z32IT,Dragan,Skopje,Skopje Regionskopje,MKD
 2940003,Z32IT,Dragan,Skopje,Skopje,MKD
