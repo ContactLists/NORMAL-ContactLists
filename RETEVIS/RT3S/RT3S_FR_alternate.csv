@@ -95,7 +95,7 @@
 2060028,ON4EST Eduard  ,Eduard Smet              De Panne                West-Vlaanderen         BEL
 2060029,ON4OQ Yves     ,Yves Tourain             Damme                   West-Vlaanderen         BEL
 2060030,ON6HC Onz      ,Onz Oostkust             Knokke-Heist            West-Vlaanderen         BEL
-2060031,ON5BD Pierre   ,Pierre Braet             Knokke-Heist            West-Vlaanderen         BEL
+2060031,ON5GZ Philippe ,Philippe                 Bruxelles               Brussels                BEL
 2060032,ON3AGI Gino    ,Gino Ameele              Ieper                   West-Vlaanderen         BEL
 2060033,ON5AWE Erik    ,Erik Waele               Westende                West-Vlaanderen         BEL
 2060034,ON3VJI Jeannick,Jeannick                 Ieper                   West-Vlaanderen         BEL
@@ -811,8 +811,8 @@
 2060751,ON3DJT Jeroen  ,Jeroen Tackaert          Erpe Mere               Oost Vlaanderen         BEL
 2060752,ON8DJ Johan    ,Johan De Pauw                                    Antwerp                 BEL
 2060753,ON4MAP Marc    ,Marc Parade              Orp Jauche              Wal Brabant             BEL
-2060754,ON3BKI Ben     ,Ben De Breuker                                   Antwerp                 BEL
-2060755,ON3BKI Ben     ,Ben De Breuker                                   Antwerp                 BEL
+2060754,ON5BD Ben      ,Ben                      Malle                   Antwerp                 BEL
+2060755,ON5BD Ben      ,Ben                      Malle                   Antwerp                 BEL
 2060756,ON5BI Marc     ,Marc De Meyer                                    Antwerp                 BEL
 2060757,ON1JB Joris    ,Joris Baeten                                     Limburg                 BEL
 2060758,ON4CKF Jean Pie,Jean Pierre Knight       Herentals               Antwerp                 BEL
@@ -949,6 +949,11 @@
 2060891,OS9T Philip    ,Philip                   Oostduinkerke           West Vlaanderen         BEL
 2060892,ON1PR Roland   ,Roland                   Koksijde                West Vlaanderen         BEL
 2060893,ON3EF Phil     ,Phil                     Antwerp                 Antwerp                 BEL
+2060894,ON6BLE Kurt    ,Kurt                     Lotenhulle              Oost Vlaanderen         BEL
+2060895,ON3PDR Paul    ,Paul                     Kalken                  Oost Vlaanderen         BEL
+2060896,ON3AVT Arvid   ,Arvid                    Koksijde                West Vlaanderen         BEL
+2060897,ON4MGJ Thierry ,Thierry                  Herseaux                Hainaut                 BEL
+2060898,ON3ARG Geert   ,Geert                    Adegem                  Oost Vlaanderen         BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -4284,6 +4289,8 @@
 2082266,F4LAG Gilles   ,Gilles                   Douai                   Hauts De France         FRA
 2082267,F4MXO Gab      ,Gab                      Paris                   Ile De France           FRA
 2082268,F4NGT Francois ,Francois                 Couilly Pont Aux Dames  Ile De France           FRA
+2082269,F4MXK Guillaume,Guillaume                Douai                   Hauts De France         FRA
+2082270,F1AFZ Christian,Christian                Mardie                  Centre Val De Loire     FRA
 2083001,F1IZL Jean-Yves,Jean-Yves Ricklin        La Tour Du Crieu        No_regio                FRA
 2083002,F4GEM Arnaud   ,Arnaud Davrinche         Cornebarrieu            No_regio                FRA
 2083003,F1BBG Gerard   ,Gerard Samson            Tarascon Sur Ariege     No_regio                FRA
@@ -5740,7 +5747,7 @@
 2280248,HB9TMM Markus  ,Markus Brinkrolf         Bern                    Bern                    CHE
 2280249,HB9HMI Christia,Christian Tschudi        Rupperswil              Aargau                  CHE
 2280250,HB3XCI Marius  ,Marius Ernst             Wuerenlos               Aargau                  CHE
-2280251,HB9HRB Zufferey,Zufferey                 Chippis                                         CHE
+2280251,HB9HRB Raphael ,Raphael                  Chippis                 Valais                  CHE
 2280252,HB9HMV Fabian  ,Fabian Mauchle           Andwil                  St Gallen               CHE
 2280253,HB9HUD Reto    ,Reto Welter              Urdorf                  Zurich                  CHE
 2280254,HB9SEX Rene    ,Rene Vonlanthen          Duedingen                                       CHE
@@ -6009,6 +6016,9 @@
 2280517,HB3YQT Thomas  ,Thomas                   Benken                  St Gallen               CHE
 2280518,HB3XZG Walter  ,Walter                   Steinhausen             Zug                     CHE
 2280519,HB9IPV Gaetan  ,Gaetan                   Sion                    Valais                  CHE
+2280520,HB9TRR Peter   ,Peter                    Pfaeffikon              Zurich                  CHE
+2280521,HB9EYO Philipp ,Philipp                  Basel                   Basel City              CHE
+2280522,HB3YQX David   ,David                    Lucerne                 Lucerne                 CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -9353,6 +9363,7 @@
 3022095,VE2JOS Jose    ,Jose Cournoyer           Sorel-Tracy             Quebec                  CAN
 3022096,VE2RI Rene     ,Rene Champagne           Roxboro                 Quebec                  CAN
 3022097,VA7RJQ Richard ,Richard                  Sechelt                 British Columbia        CAN
+3022098,VA2PSL Steve   ,Steve                    Blainville              Quebec                  CAN
 3022100,VA2FP Fabrizio ,Fabrizio Pieruccetti     Montreal                Quebec                  CAN
 3022101,VE2FIW Remi    ,Remi                     Longueuil               Quebec                  CAN
 3022105,VE2MF Mario    ,Mario Desruisseaux       Princeville             Quebec                  CAN
@@ -9444,6 +9455,7 @@
 3022265,VE2AUR Lino    ,Lino Reis                Sorel Tracy             Quebec                  CAN
 3022267,VE2ZFP Flavio  ,Flavio Pohlmann          Montreal                Quebec                  CAN
 3022268,VE2KBI Eric    ,Eric Martel              Sorel                   Quebec                  CAN
+3022269,VE2MFL Fernand ,Fernand                  Sorel Tracy             Quebec                  CAN
 3022273,VA2BEO Michel  ,Michel Blouin            Sherbrooke              Quebec                  CAN
 3022274,VE2KBI Eric    ,Eric Martel              Sorel                   Quebec                  CAN
 3022281,VA2IA Denis    ,Denis                    Sherbrooke              Quebec                  CAN
@@ -9479,6 +9491,7 @@
 3022340,VE2LAM Sylvain ,Sylvain Lamarre          Rimouski                Quebec                  CAN
 3022342,VA2GRE Rejean  ,Rejean                   Saint Dominique         Quebec                  CAN
 3022344,VA2DG Daniel   ,Daniel Audet             Saint-Jean-Sur-Richelieu Quebec                  CAN
+3022345,VE2MPD David   ,David                    Verdun                  Quebec                  CAN
 3022346,VE2IV Pierre   ,Pierre Champagne                                 Quebec                  CAN
 3022347,VE2TSM Mario   ,Mario Torino             Rawdon                  Quebec                  CAN
 3022348,VE2IMS Rejean  ,Rejean Roy               Varennes                Quebec                  CAN
@@ -9555,6 +9568,7 @@
 3022473,VA3OOW George  ,George                   Cambridge               Ontario                 CAN
 3022475,VE2PGH Patrick ,Patrick Harris           Montreal                Quebec                  CAN
 3022476,VE2HOT Nicola  ,Nicola Ciarallo          Montreal                Quebec                  CAN
+3022477,VE2BI Gilles   ,Gilles                   La Baie                 Quebec                  CAN
 3022478,VA2RP Renald   ,Renald Perrault          Terrebonne              Quebec                  CAN
 3022479,VE2GRO Remi    ,Remi Bouchard            Chicoutimi              Quebec                  CAN
 3022480,VA2DFL Daniel  ,Daniel Fortin                                    Quebec                  CAN
@@ -10013,6 +10027,7 @@
 3023295,VA3TF Teresa   ,Teresa Fox               Mississauga             Ontario                 CAN
 3023297,VA3SII Simon   ,Simon Wilton             Woodstock               Ontario                 CAN
 3023308,VA3CTT Wf      ,Wf Tsang                 Woodbridge              Ontario                 CAN
+3023310,VE3PZR Mark    ,Mark                     London                  Ontario                 CAN
 3023315,VE3MPH John    ,John Patrick             Windsor                 Ontario                 CAN
 3023316,VA3DRM David   ,David Morgan             Mount Hope              Ontario                 CAN
 3023319,VA3FLC Mark    ,Mark Arnett              Hamilton                Ontario                 CAN
@@ -10059,6 +10074,7 @@
 3023410,VA3WWL Jose    ,Jose                     Mono                    Ontario                 CAN
 3023411,VE3HOR Tom     ,Tom Pillon               London                  Ontario                 CAN
 3023412,VE3FMQ Joseph  ,Joseph Cooper            Toronto                 Ontario                 CAN
+3023416,VA3CB Rick     ,Rick                     Georgetown              Ontario                 CAN
 3023418,VE3CDX Rick    ,Rick                     Georgetown              Ontario                 CAN
 3023420,VE3ZBG Brett   ,Brett Gilbank            London                  Ontario                 CAN
 3023422,VA3RSX Ron     ,Ron Spencer              Brampton                Ontario                 CAN
@@ -10074,6 +10090,7 @@
 3023441,VE3JXX John    ,John Scheeringa          Elmira                  Ontario                 CAN
 3023444,VE3WVA Rusty   ,Rusty Auxier             M Chigeeng              Ontario                 CAN
 3023446,VA3BVH Bryan   ,Bryan Vetor              Leamington              Ontario                 CAN
+3023450,VA3CB Rick     ,Rick                     Georgetown              Ontario                 CAN
 3023452,VE3OR Hans     ,Hans Winzen              Foxboro                 Ontario                 CAN
 3023453,VE3HHZ Charles ,Charles Doubrough        Orillia                 Ontario                 CAN
 3023454,VA3OMP Gregory ,Gregory Speakman         Ottawa                  Ontario                 CAN
@@ -10252,6 +10269,7 @@
 3023731,VA3ANZ William ,William Ridgeway         Clearview               Ontario                 CAN
 3023734,VA3GOC Joseph  ,Joseph Shynn             Elmvale                 Ontario                 CAN
 3023736,VA3LW Arnold   ,Arnold Mcbay             Welland                 Ontario                 CAN
+3023738,VA3SAE Frank   ,Frank                    Cornwall                Ontario                 CAN
 3023741,VE3NBI Anoop   ,Anoop Sofat              Markham                 Ontario                 CAN
 3023743,VE3TRQ Ted     ,Ted Rypma                Waterloo                Ontario                 CAN
 3023744,VA3SFA Syed    ,Syed Akber               Toronto                 Ontario                 CAN
@@ -10290,6 +10308,7 @@
 3023798,VA3JCL Julio   ,Julio                    Pefferlaw               Ontario                 CAN
 3023799,VE7GFH Gordon  ,Gordon Hawkey            Kelowna                 British Columbia        CAN
 3023801,VA3STU Stuart  ,Stuart Ross              Aurora                  Ontario                 CAN
+3023803,VA3XFC Fred    ,Fred                     Dundas                  Ontario                 CAN
 3023804,VE3OGB Randy   ,Randy Munro              Toronto                 Ontario                 CAN
 3023805,VE6FMH Frank-Mi,Frank-Michael Hofmann    Calgary                 Alberta                 CAN
 3023811,VA7AEL Dave    ,Dave Parker              Delta                   British Columbia        CAN
@@ -10371,6 +10390,7 @@
 3023931,VE3IQL Terrance,Terrance Basom           Ancaster                Ontario                 CAN
 3023932,VE3TLT Trevor  ,Trevor Taylor            Straffordville          Ontario                 CAN
 3023933,VE3SRI Paul    ,Paul Wallace             Langton                 Ontario                 CAN
+3023934,VE3LDJ Luke    ,Luke                     Windsor                 Ontario                 CAN
 3023935,VE3CEU Thomas  ,Thomas Rudd              Burlington              Ontario                 CAN
 3023936,VE3BVD Robert  ,Robert Sweet             Wallaceburg             Ontario                 CAN
 3023937,VE3JX Ronald Da,Ronald David Hayes                               Ontario                 CAN
@@ -13141,8 +13161,23 @@
 3026876,VE2MJW Martin  ,Martin                   Notre Dame Du Bon Consei Quebec                  CAN
 3026877,VE1RCI Quentin ,Quentin                  Dartmouth               Nova Scotia             CAN
 3026878,VE2KEL Eric    ,Eric                     Trois Rivieres          Quebec                  CAN
-3026879,VE2UDA Club Va2,Club Va2rso              Saint Come              Quebec                  CAN
+3026879,VE2UDA Club De ,Club De Radio Amateur Va2 Saint Come              Quebec                  CAN
 3026880,VA3VES Anton   ,Anton                    Toronto                 Ontario                 CAN
+3026881,VE3EZJ Joshua  ,Joshua                   Aurora                  Ontario                 CAN
+3026882,VY2OE Nathan   ,Nathan                   Oyster Bed Bridge       Prince Edward Island    CAN
+3026883,VA4RNR Allan   ,Allan                    Winnipeg                Manitoba                CAN
+3026884,VA7WZJ Zhan    ,Zhan                     West Vancouver          British Columbia        CAN
+3026885,VE7VKN Victor  ,Victor                   Surrey                  British Columbia        CAN
+3026886,VE7CBE Colin   ,Colin                    Surrey                  British Columbia        CAN
+3026887,VE6LFC Robert  ,Robert                   Edmonton                Alberta                 CAN
+3026888,VA3NDE Jett    ,Jett                     Richmond Hill           Ontario                 CAN
+3026889,VA2AD Mario    ,Mario                    Bromont                 Quebec                  CAN
+3026890,VE2OPB Pierre  ,Pierre                   Trois Rivieres          Quebec                  CAN
+3026891,VA4CAT Catherin,Catherine                Winnipeg                Manitoba                CAN
+3026892,VE4VCC Ihor    ,Ihor                     Winnipeg                Manitoba                CAN
+3026893,VE2LYK Chris   ,Chris                    Boucherville            Quebec                  CAN
+3026894,VE7TOA Thomas  ,Thomas                   North Vancouver         British Columbia        CAN
+3026895,VA3XAZ Amir    ,Amir                     Toronto                 Ontario                 CAN
 3026912,VA7RGM Robert  ,Robert Meldrum           West Kelowna            British Columbia        CAN
 3026913,VA6LTV Larry   ,Larry Vollstaedt         Cochrane                Alberta                 CAN
 3026914,VE3ZWX James Br,James Bradley Brien      London                  Ontario                 CAN
