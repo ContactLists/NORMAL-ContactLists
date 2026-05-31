@@ -203,7 +203,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2220205,IZ0MXY,Antonio,Pallotti,Roma (RM),Lazio,ITA,DMR
 2220206,IW0EZW,Giulio,Latini,Campagnano Di Roma (RM),Lazio,ITA,DMR
 2220207,IZ0KHZ,Maurizio,Angelini,Roma (RM),Lazio,ITA,DMR
-2220208,IW0REF,Claudio,Zerbo,Stroncone,Umbria,ITA,DMR
+2220208,IW0REF,Claudio,Zerbo,Stroncone (TR),Umbria,ITA,DMR
 2220209,IZ0ROV,Giancarlo,Pisotti,Monte Porzio Catone (RM),Lazio,ITA,DMR
 2220210,IZ0YIX,Massimo,Bruno,Ardea (RM),Lazio,ITA,DMR
 2220213,IZ0ROX,Michele,Sciacca,Roma (RM),Lazio,ITA,DMR
@@ -2666,7 +2666,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2222717,IU2DYO,Luca,Gheza,Spinone Al Lago,Lombardia,ITA,DMR
 2222718,IU2JFG,Corrado,Pecora,Cinisello Balsamo (MI),Lombardia,ITA,DMR
 2222719,I2XQZ,Francesco,Angelo,Gallarate,Lombardia,ITA,DMR
-2222720,IW2ODG,Francesco,De Gregorio,Monza (MB),Lombardia,ITA,DMR
+2222720,IW2ODG,Francesco,De Gregorio,Muggio' (MB),Lombardia,ITA,DMR
 2222721,I2ZID,Adriano,,Carpenedolo (BS),Lombardia,ITA,DMR
 2222722,IZ2RPA,Alessandro,Pasta,Villa Di Serio (BG),Lombardia,ITA,DMR
 2222723,IU2IJL,Alberto,Rusconi,Fenegro (CO),Lombardia,ITA,DMR
@@ -5273,7 +5273,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225349,IU5HIQ,Francesco,Punturiero,Latignano (PI),Toscana,ITA,DMR
 2225350,IW5CHW,Maurizio,Belli,Firenze (FI),Toscana,ITA,DMR
 2225351,IK5ZAF,Matteo,Ribecchini,Empoli (FI),Toscana,ITA,DMR
-2225352,IK5VLP,Alessandro,Benassai,Figline Valdarno,Toscana,ITA,DMR
+2225352,IK5VLP,Alessandro,Benassai,Figline Incisa Valdarno (FI),Toscana,ITA,DMR
 2225353,IW5AOM,Giorgio,Tricomi,Pozzo Della Chiana (AR),Toscana,ITA,DMR
 2225354,IU5KZG,Stefano,Giannotti,Lamporeccchio (PT),Toscana,ITA,DMR
 2225355,IW5CSJ,Roberto,Riccio,Firenze (FI),Toscana,ITA,DMR
@@ -8772,7 +8772,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228883,IU4MUB,Graziano,Sola,Anzola Dell Emilia (BO),Emilia-Rom.,ITA,DMR
 2228884,IT9IOF,Pietro,Cinquemani,Palermo (PA),Sicilia,ITA,DMR
 2228885,IZ5XYM,Marco,Meini,Capannoli (PI),Toscana,ITA,DMR
-2228886,IW3BMW,Bosco,Paolo,Levico Terme (TN),Trentino AA,ITA,DMR
+2228886,IW3BMW,Paolo,Bosco,Levico Terme (TN),Trentino AA,ITA,DMR
 2228887,IV3INV,Guido,Durli,Udine (UD),Friuli VG,ITA,DMR
 2228888,IU8POD,Costantino,Molinaro,Benevento (BN),Campania,ITA,DMR
 2228889,IU1PPN,Claudio,Mioci,San Germano Chisone (TO),Piemonte,ITA,DMR
@@ -11099,7 +11099,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231217,IN3JIJ,Mattia,Vanni,Primiero San Martino Di Castrozza (TN),Trentino AA,ITA,DMR
 2231218,IT9KJD,Fabio,Terminelli,Palermo (PA),Sicilia,ITA,DMR
 2231219,IU1FJV,Saverio Piergiorgio,Ciambrone,Settimo Torinese (TO),Piemonte,ITA,DMR
-2231220,IT9KJT,Vincenzo,Zambito,Santo Stefano Quisquina (AG),Sicilia,ITA,DMR
+2231220,IT9KJT,Mauro,Zambito,Santo Stefano Quisquina (AG),Sicilia,ITA,DMR
 2231221,IT9KKG,Salvatore,Borzi,Motta Sant Anastasia (CT),Sicilia,ITA,DMR
 2231222,IT9KIC,Francesco,Muffoletto,Cefalu (PA),Sicilia,ITA,DMR
 2231223,IU3RGS,Enrico,Tocchio,Badia Polesine (RO),Veneto,ITA,DMR
@@ -11625,7 +11625,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231744,IK3BSM,Daniele,Livieri,Marghera (VE),Veneto,ITA,DMR
 2231745,IW2KEY,Roberto,Di Biase,Milano,Lombardia,ITA,DMR
 2231746,IU0TYH,Christian,Napoli,Roma (RM),Lazio,ITA,DMR
-2231747,IW2OHK,Oscar,Galletti,Sesto San Giovanni (MI),Lombardia,ITA,DMR
 2231748,IK2YYM,Giuseppe,Pecchi,Rovescala (PV),Lombardia,ITA,DMR
 2231749,IS0CBC,Vincenzo,Di Monte,Sestu (CA),Sardegna,ITA,DMR
 2231750,IU5TSW,Francesco,Iapichino,Quercianella (LI),Liguria,ITA,DMR
@@ -12849,6 +12848,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232983,IU7UTX,Giuseppe,Montanaro,Bernalda (MT),Basilicata,ITA,DMR
 2232984,I1IOQ,Luca,Jachia,Torino (TO),Piemonte,ITA,DMR
 2232985,IU5PTP,Marco,Cianferoni,Reggello (FI),Toscana,ITA,DMR
+2232986,IZ2WET,Alberto,Celani,Busto Arsizio (VA),Lombardia,ITA,DMR
+2232987,IK3ZQU,Alberto,Gollo,San Giovanni Lupatoto (VR),Veneto,ITA,DMR
+2232988,IW8PMS,Demetrio,Cuzzocrea,Reggio Calabria (RC),Calabria,ITA,DMR
+2232989,IZ7DOK,Marco,De Carlo,Lecce (LE),Puglia,ITA,DMR
+2232990,IZ8EWD,Gianfranco,Sordetti,Potenza (PZ),Basilicata,ITA,DMR
+2232991,IR8ZXF,Romolo,,Roccella Ionica (RC),Calabria,ITA,DMR
+2232992,IK0NKA,Luigi,Strano,Roma (RM),Lazio,ITA,DMR
+2232993,IU2VUK,Devis,,Suello (LC),Lombardia,ITA,DMR
+2232994,IU7VCJ,Pasquale,,Gravina In Puglia (BA),Puglia,ITA,DMR
+2232995,IU3VMF,Lorenzo,Coda,Vicenza (VI),Veneto,ITA,DMR
+2232996,IT9MRX,Giuseppe,Chiarenza,Palermo (PA),Sicilia,ITA,DMR
 2242222,IT9JFW,Lorenzo,Faletra,Palermo (PA),Sicilia,ITA,DMR
 2280001,4U1ITU,International,Arc,Geneva,No_regio,CHE,DMR
 2280002,HB3XWO,Kornel,Becker,Basel,No_regio,CHE,DMR
@@ -13374,6 +13384,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280522,HB3YQX,David,,Lucerne,Lucerne,CHE,DMR
 2280523,HB9WDG,Daniel,,Ibach,Schwyz,CHE,DMR
 2280524,HB3YQZ,Christophe,,Vuisternens En Ogoz,Fribourg,CHE,DMR
+2280525,HB9HYD,Marty,,Seewen,Schwyz,CHE,DMR
+2280527,HB9HKL,Raffaele,,Stabio,Ticino,CHE,DMR
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE,DMR
@@ -14841,6 +14853,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288542,HB9ANF,Hans-Joerg,Spring,Wiesendangen,Zuerich und Thurgau,CHE,DMR
 2288822,HB9SDB,Rolf,Tschumi,Waedenswil,Zuerich und Thurgau,CHE,DMR
 2288867,HB9BXQ,Renato,Schlittler,Zuerich,Zuerich und Thurgau,CHE,DMR
+2288888,HB3YEA,Michael,,Spreitenbach,Aargau,CHE,DMR
 2289000,HB9SG,no_name,,,,CHE,DMR
 2289001,HB9SOF,Charly,Strassmann,Bettwiesen,Zuerich und Thurgau,CHE,DMR
 2289002,HB9SWR,Werner,,Trogen,Ostschweiz,CHE,DMR
