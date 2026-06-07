@@ -523,7 +523,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280522,HB3YQX,David,David,Lucerne,Lucerne,CHE
 2280523,HB9WDG,Daniel,Daniel,Ibach,Schwyz,CHE
 2280524,HB3YQZ,Christophe,Christophe,Vuisternens En Ogoz,Fribourg,CHE
-2280525,HB9HYD,Marty,Marty,Seewen,Schwyz,CHE
+2280525,HB9HYD,Albin,Albin,Seewen,Schwyz,CHE
 2280527,HB9HKL,Raffaele,Raffaele,Stabio,Ticino,CHE
 2281001,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Cedric,Saint-Cergue,Waadt,CHE
@@ -3072,7 +3072,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320976,OE3MEI,Michael Eichinger,Michael,Aggsbach-Dorf,NOE,AUT
 2320977,OE7XCI,Clubst. OEVSV TYROL,Clubst.,Innsbruck,TIROL,AUT
 2320979,OE3HNM,Markus,Markus,Neuhofen An der Ybbs,NOE,AUT
-2320980,OE1AVO,Armin,Armin,Wien,WIEN,AUT
 2320986,OE8BAD,Andreas Boeck,Andreas,,,AUT
 2320987,OE5RLN,Reinhard Lorenz,Reinhard,Gurten Bei Ried im Innkreis,OOE,AUT
 2320988,OE6FEF,Florian Fiala,Florian,Schaeffern,STMK,AUT
@@ -3081,6 +3080,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320991,OE1FKR,Friedrich Krischke,Friedrich,Wien,WIEN,AUT
 2320992,OE5CNH,Christian Haun,Christian,Luftenberg An der Donau,OOE,AUT
 2320993,OE1MLD,Michael Lohse,Michael,Wien,WIEN,AUT
+2320994,OE1KPZ,Markus Meissner,Markus,Wien,WIEN,AUT
+2320995,OE1AVO,Armin,Armin,Wien,WIEN,AUT
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
@@ -3120,7 +3121,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321037,OE1VZ,Werner Hochgoetz,Werner,Wien,WIEN,AUT
 2321038,OE1SRC,Hans,Hans,Wien,WIEN,AUT
 2321039,OE1SGW,Gregor Sobotka,Gregor,Wien,WIEN,AUT
-2321040,OE1PHS,Heribert Puchardt,Heribert,Wien,WIEN,AUT
 2321041,OE1PZC,Peter Zoechling,Peter,Wien,WIEN,AUT
 2321042,OE1RIC,Richard Menedetter,Richard,Wien,WIEN,AUT
 2321043,OE1WKL,Willibald Kraml,Willibald,Wien,WIEN,AUT
@@ -3204,7 +3204,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321123,OE1MHA,Michael Hansbauer,Michael,Wien,,AUT
 2321124,OE1MHA,Michael Hansbauer,Michael,Wien,,AUT
 2321125,OE1CKW,Friedrich Polak,Friedrich,Wien,WIEN,AUT
-2321126,OE1PHS,Heribert Puchardt,Heribert,Wien,WIEN,AUT
 2321127,OE1RGU,Robert Gilge,Robert,Wien,WIEN,AUT
 2321128,OE1ULA,Martin,Martin,Wien,WIEN,AUT
 2321129,OE1BAW,Wilfried Baender,Wilfried,Wien,WIEN,AUT
@@ -4066,6 +4065,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325192,OE5NVL,Manfred Autengruber,Manfred,Linz,KTN,AUT
 2325193,OE5GUS,Stefan Gusenbauer,Stefan,Schwertberg,OOE,AUT
 2325251,OE5DRP,Peter Albrecht,Peter,Schlaegl,OOE,AUT
+2325573,OE1AVO,Armin,Armin,Wien,WIEN,AUT
 2326001,OE6HEF,Harald Enko,Harald,St. Peter Ob Judenburg,STMK,AUT
 2326002,OE6HXF,Michael Hofstaetter,Michael,Hartberg,STMK,AUT
 2326003,OE6WKE,Kerstin Wolf,Kerstin,Hart-Purgstall,STMK,AUT
@@ -4284,7 +4284,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326235,OE6VHF,Joerg Kohlhofer,Joerg,Sankt Oswald Bei Plankenwarth,STMK,AUT
 2326236,OE6RSD,Reinhard Stipsic,Reinhard,Gleisdorf,STMK,AUT
 2326237,OE6TSG,Dieter Tschermernig,Dieter,Graz,STMK,AUT
-2326238,OE6CUD,Christian Thurner,Christian,Graz-Strassgng,STMK,AUT
+2326238,OE6CUD,Chris Thurner,Chris,Graz,STMK,AUT
 2326239,OE6PBD,Peter Boehler,Peter,Hausmannstaetten,STMK,AUT
 2326351,OE6DJG,Rolf-Dietrich Jahn,Rolf-Dietrich,Kainbach,STMK,AUT
 2326532,OE6JWD,Klaus-Dieter Wolf,Klaus-Dieter,Eggersdorf Bei Graz,STMK,AUT
@@ -4630,6 +4630,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328860,OE8AAK,Anton Augustin,Anton,Villach,KTN,AUT
 2328862,OE8PKR,Paul Karlin,Paul,St Magdalen,KTN,AUT
 2328864,OE8BGQ,Gerhard Brandner,Gerhard,Steinfeld,KTN,AUT
+2328888,OE1AVO,Armin,Armin,Wien,WIEN,AUT
 2329001,OE9KFV,Frank Kossidowski,Frank,Hoerbranz,VBG,AUT
 2329002,OE9KSV,Karl Schoell,Karl,Bregenz,VBG,AUT
 2329003,OE9IGV,Ingo Giesinger,Ingo,Dornbirn,VBG,AUT
@@ -6990,7 +6991,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622291,DB6LV,Juergen Jensen,Juergen,Husum,SH,DEU
 2622292,DL9LBG,Michael Eggers,Michael,Luetjenburg,SH,DEU
 2622293,DG2LAR,Jan-Erik Jessen,Jan-Erik,Drelsdorf,SH,DEU
-2622294,DM0HAT,Relais/Bake/Gateway,Relais/Bake/Gateway,Groemitz,SH,DEU
+2622294,DM0HAT,Rudi Schwenniger,Rudi,Groemitz,SH,DEU
 2622295,DC0KL,Lennart Kramer,Lennart,Hamburg,HH,DEU
 2622296,DC4RIS,Christopher Intemann,Christopher,Hamburg,HH,DEU
 2622297,DL5PL,Rene Weiss,Rene,no_city,HH,DEU
@@ -14347,7 +14348,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629937,DL7AQT,Frank Lamprecht,Frank,Berlin,BE,DEU
 2629938,DL7ADB,Michael Graefe,Michael,Berlin,BE,DEU
 2629939,DC3BR,Brigitte Reiff,Brigitte,Hamburg,HH,DEU
-2629940,DO2ADH,Andreas Dietmar Halscheidt,Andreas,Untermeitingen,BY,DEU
+2629940,DB1AD,Andreas Halscheidt,Andreas,Untermeitingen,BY,DEU
 2629941,DC8CB,Christian Boening,Christian,Muenchen,BY,DEU
 2629942,DO8RO,Reinhard Ofenloch,Reinhard,Heppenheim,HE,DEU
 2629943,DL8SAM,Alois Schatzl,Alois,Poing,BY,DEU
@@ -17318,7 +17319,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632981,DL4DBK,Detlef Schweers,Detlef,Frondenberg,NW,DEU
 2632982,DB5HA,Harald Bill,Harald,Odenthal,NW,DEU
 2632983,DN9RRY,Rene Rychlik,Rene,Glueckstadt,SH,DEU
-2632984,DO9AFA,Marco Schuschnig,Marco,Ergolding,BY,DEU
+2632984,DF9AFA,Marco Schuschnig,Marco,Ergolding,BY,DEU
 2632985,DN9XL,Stefan Beck,Stefan,Erftstadt,NW,DEU
 2632986,DO7NP,Norbert Pletz,Norbert,Schulzendorf,BB,DEU
 2632987,DC4RP,Peter Roehm,Peter,Bernried,BY,DEU
@@ -19523,7 +19524,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2635227,DL0HOF,Clubst. Dok-B09,Clubst.,Oberkotzau,BY,DEU
 2635228,DO9TB,Thomas Bausch,Thomas,Alfdorf,BW,DEU
 2635229,DC2FK,Manfred Knoerr,Manfred,Norderstedt,SH,DEU
-2635230,DO9AX,Andreas Koenig,Andreas,Neuhofen,RP,DEU
+2635230,DA2AK,Andreas Koenig,Andreas,Neuhofen,RP,DEU
 2635231,DN9MIF,Michael Fenner,Michael,Wiemersdorf,SH,DEU
 2635232,DO6SJR,Stefan Junger,Stefan,Duesseldorf,NW,DEU
 2635233,DO2FMT,Max Timpe,Max,Herzberg am Harz,NI,DEU
@@ -20202,7 +20203,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2636046,DB1ZD,Engelbert Karl Bertrand,Engelbert Karl,Seligenstadt,HE,DEU
 2636048,DC1HB,Christian Bralant,Christian,Bruchkoebel,HE,DEU
 2636174,DL3YEN,No_name Beckmann,No_name,,,DEU
-2636175,DG9RAK,No_name Spiessl,No_name,,,DEU
+2636175,DG9RAK,Heribert Spiessl,Heribert,Gilching,BY,DEU
 2636176,DB7VM,Markus Kirst,Markus,Saarbruecken,SL,DEU
 2636177,DO1PA,Paul Muth,Paul,Konstanz,BW,DEU
 2636178,DL7HD,No_name Schmidt,No_name,Berlin,BE,DEU
@@ -20275,6 +20276,30 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2636245,DH8WE,Frank Koecher,Frank,Rosenthal am Rennsteig,SACHSEN THUERINGEN,DEU
 2636246,DF5DR,Dieter Rohrberg,Dieter,Floersheim,HE,DEU
 2636247,DA1ASA,Borja Ruiz,Borja,Wunstorf,NI,DEU
+2636248,DO9BW,Bernd Weihe,Bernd,Gielde,NI,DEU
+2636249,DL6TZ,Torsten Zunker,Torsten,Gummersbach,NW,DEU
+2636250,DC4TG,Thomas Gondorf,Thomas,Willich,NW,DEU
+2636251,DN9SHA,Sascha Hartmann,Sascha,Gevelsberg,NW,DEU
+2636252,DJ6JH,John Hillyer,John,Hambruecken,BW,DEU
+2636253,DA6TLA,Thomas Lake,Thomas,Remagen,RP,DEU
+2636254,DN9FR,Ronald Fritz,Ronald,Mannheim,BW,DEU
+2636255,DH7ZU,Franz Zuther,Franz,Berlin,BE,DEU
+2636256,DO2XYZ,Joerg Koch Koch,Joerg Koch,Bad Homburg,HE,DEU
+2636257,DH2KBS,Klaus Breker,Klaus,Steinheim,NW,DEU
+2636258,DB9SK,Konrad Mettmann,Konrad,Lauchheim,BW,DEU
+2636259,DL4ZY,Frederik Duerr,Frederik,Finning,BY,DEU
+2636260,DL3KAT,Guenther Mester,Guenther,Hellenthal,NW,DEU
+2636261,DB1AM,Andreas Jochmann,Andreas,Goslar,NI,DEU
+2636262,DB2WT,Stefan Kirking,Stefan,Duisburg,NW,DEU
+2636263,DO2TU,Thomas Unterhuber,Thomas,Kassel,HE,DEU
+2636264,DN9SO,Sascha Ja¤nke,Sascha,Mettlach,SL,DEU
+2636265,DA6PC,Jorrg Laue,Jorrg,Olfen,NW,DEU
+2636266,DL1NI,Nils Andresen,Nils,Hamburg,HH,DEU
+2636267,DG2YCY,Helmut Bergmann,Helmut,Twistetal-Ober-Waroldern,HE,DEU
+2636268,DN9MSN,Mario Siedenburg,Mario,Nordholz,NI,DEU
+2636269,DG4BG,Horst Lorenz,Horst,Bayreuth,BY,DEU
+2636270,DG2WL,Roland Duerr,Roland,Finning,BY,DEU
+2636271,DN9NJK,John Kopp,John,Nuernberg,BY,DEU
 2636363,DD1ZZ,Haris Trgo,Haris,Koeln,NW,DEU
 2637001,DF6MP,Marcus Prantner,Marcus,Reutlingen,BW,DEU
 2637002,DO2STO,Matthias Scholze,Matthias,Stockach,BW,DEU
