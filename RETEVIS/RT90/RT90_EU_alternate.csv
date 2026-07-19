@@ -1707,6 +1707,10 @@
 2021710,SY1FBJ Kostas  ,Athens             Attiki Sterea Ellada| GRC
 2021711,SV1TUZ Stathis ,Athens             Attiki Sterea Ellada| GRC
 2021712,SV1TVA Alexandr,Marousi Attica  Gr Attiki Sterea Ellada| GRC
+2021713,SY3FAY Sotiris ,Patras             Attiki Sterea Ellada| GRC
+2021714,SV9TUX Chrysova,Ierapetra          Kriti               | GRC
+2021715,SV1TNE Kostas  ,Agrinio            Attiki Sterea Ellada| GRC
+2021716,SV4TUL George  ,Volos              Thessalia           | GRC
 2022001,SV2XI Kleanthis,Thessaloniki       Kentriki Makedonia  | GRC
 2022002,SV2RGC Konstant,Makris Kastoria    Ipiros Ditiki Makedo| GRC
 2022003,SV2LLJ Ioannis ,Kokovidis Naoussa  Makedonia Thraki    | GRC
@@ -2868,7 +2872,7 @@
 2040434,PD0RWT Michel  ,Markusevic 3024ep  Zuid-Holland        | NLD
 2040435,PA3AL Wim      ,Beerden Dordrecht  Zuid Holland        | NLD
 2040436,PA2RSD Roel    ,Dirks Grootebroek  Noord-Holland       | NLD
-2040437,PE1LME Eap     ,Lampe Hoorn Nh     Noord-Holland       | NLD
+2040437,PE1LME Evert   ,Hoorn              Noord Holland       | NLD
 2040438,PD7LJ Looijjan ,Schuurman Tiel     Gelderland          | NLD
 2040440,PA3ABR Albert  ,Paalman 7475ms Mar Overijssel / Flevola| NLD
 2040441,PD4RD Richard  ,Duffelen Hendrik I Zuid-Holland        | NLD
@@ -3945,6 +3949,8 @@
 2041597,PD2MNT Mario   ,Nijmegen           Gelderland          | NLD
 2041598,PE0LAG Theo    ,Breda              Noord Brabant       | NLD
 2041599,PE1PR Mar      ,Heerlen            Limburg             | NLD
+2041600,PD1SN Andre    ,Purmerend          Noord Holland       | NLD
+2041601,PD4JJ Joop     ,Zierikzee          Zeeland             | NLD
 2042001,PA0HTW Henk    ,Post Rotterdam     Zuid-Holland        | NLD
 2042002,PA0HTW Henk    ,Post Rotterdam     Zuid-Holland        | NLD
 2042003,PA3DFN Philip  ,Schroth Spijkeniss Zuid-Holland        | NLD
@@ -6508,6 +6514,7 @@
 2060665,ON4CET Bart    ,De Pooter          Antwerp             | BEL
 2060666,ON3AGU Andrei  ,Gulei Brussels     Brussels            | BEL
 2060667,ON1GR Gunther  ,Tongeren           Limburg             | BEL
+2060668,ON7OT Olivier  ,Charleroi          Hainaut             | BEL
 2060669,ON3LGD Laurent ,Gallez Kain        Hainaut             | BEL
 2060670,ON7GTM Adrian  ,Zaventem           Vlaams Brabant      | BEL
 2060671,ON8VO Verbois  ,Namur              Namur               | BEL
@@ -6553,7 +6560,7 @@
 2060711,ON5NA Bart     ,Vandesande Geraard Oost Vlaanderen     | BEL
 2060712,ON3PK Peter    ,Kenis Lummen       Limburg             | BEL
 2060713,ON7OAK Willy   ,Cockhuyt Lochristi Oost Vlaanderen     | BEL
-2060714,ON3SLC Laurent ,Seha Saint Ghislai Hainaut             | BEL
+2060714,ON2SLC Laurent ,Saint Ghislain     Hainaut             | BEL
 2060715,ON3BAE Andre   ,Baeyens Charleroi  Hainaut             | BEL
 2060716,ON7TGN Johan   ,Perreman Erpe Mere Oost Vlaanderen     | BEL
 2060717,ON4PVC Parent  ,Vincent Villers Le Liege               | BEL
@@ -6644,7 +6651,7 @@
 2060804,ON1BDC Dirk    ,Claesen Bilzen Hoe Limburg             | BEL
 2060805,ON3DE Dimitri  ,Rombaut Beveren Kr Oost Vlaanderen     | BEL
 2060806,ON5AJ Jurgen   ,Lochristi          Oost Vlaanderen     | BEL
-2060807,ON3TGU Guido   ,None               Antwerp             | BEL
+2060807,ON4TG Guido    ,Hoogstraten        Antwerp             | BEL
 2060808,ON4KTZ Franky  ,Dens Putte         Antwerp             | BEL
 2060809,ON1YGR Yoeri   ,Grypdonck Zwijnaar Oost Vlaanderen     | BEL
 2060810,ON7AUR Aurore  ,Delfosse Maubray   Hainaut             | BEL
@@ -6760,6 +6767,10 @@
 2060931,ON4DV Dirk     ,Zedelgem           West Vlaanderen     | BEL
 2060932,ON2GN Geert    ,Nijlen             Antwerp             | BEL
 2060933,ON3OMG Griet   ,Tienen             Vlaams Brabant      | BEL
+2060934,ON7DJ Dimitri  ,Zoersel            Antwerp             | BEL
+2060935,ON2RV Rudy     ,Blankenberge       West Vlaanderen     | BEL
+2060936,ON3VD Dirk     ,Grotenberge Zotteg Oost Vlaanderen     | BEL
+2060937,ON3AMZ Johnny  ,Hoboken            Antwerp             | BEL
 2061001,ON8SVH Stijn   ,Hende Oudenaarde   Oost-Vlaanderen     | BEL
 2061002,ON8SI Simon    ,Pauw Oosterzele    Oost-Vlaanderen     | BEL
 2061003,ON5LUC Luc     ,Lourense Gent      Oost-Vlaanderen     | BEL
@@ -9857,7 +9868,7 @@
 2082025,F4EGZ Cedric   ,Lamouche Ceyrat    No_regio            | FRA
 2082026,F8CIL Pascal   ,Duvivier Cosne Dal No_regio            | FRA
 2082027,F1PXU Jacques  ,Auriol Saint Geoir No_regio            | FRA
-2082028,F5IDF Laurent  ,Obadia Neuville Su No_regio            | FRA
+2082028,F5IDF Laurent  ,Neuville Sur       Auvergne Rhone Alpes| FRA
 2082029,F5PBQ Xavier   ,Cholat St Jean d'A No_regio            | FRA
 2082030,F4HOF Celestine,Gramaize Saint Eti Auvergne Rhone Alpes| FRA
 2082031,F4ASS Sebastien,Gache Saint Apolin Auvergne Rhone Alpes| FRA
@@ -10112,7 +10123,7 @@
 2082282,F4NIC Jean Marc,Saint Cyprien      Occitanie           | FRA
 2082283,F4BKO Ciavarell,Nice               Provence Alpes Cote | FRA
 2082284,F5ICC Francois ,Sarlat La Caneda   Nouvelle Aquitaine  | FRA
-2082285,F5GEL Grzelczyk,Theding            Grand               | FRA
+2082285,F5GEL Daniel   ,Theding            Grand               | FRA
 2082286,F4LDA Edouard  ,Paris              Ile De France       | FRA
 2082287,F4MSA Virgil   ,Saint Barthelemy D Pays De La Loire    | FRA
 2082288,F4NEX Michel   ,Saverne            Alsace              | FRA
@@ -10140,6 +10151,9 @@
 2082310,F4NHP Francois ,Saint Just         Auvergne Rhone Alpes| FRA
 2082311,F4MMY Alexandre,Aix En Provence    Provence Alpes Cote | FRA
 2082312,F5LWM Daniel   ,Clavans En Haut Oi Auvergne Rhone Alpes| FRA
+2082313,F4NLC Bruno    ,Entrechaux         Provence Alpes Cote | FRA
+2082314,F4NMM Philippe ,Paris              Ile De France       | FRA
+2082315,F4NLV Yoann    ,Ollioules          Provence Alpes Cote | FRA
 2083001,F1IZL Jean-Yves,Ricklin La Tour Du No_regio            | FRA
 2083002,F4GEM Arnaud   ,Davrinche Cornebar No_regio            | FRA
 2083003,F1BBG Gerard   ,Samson Tarascon Su No_regio            | FRA
@@ -10156,7 +10170,7 @@
 2083014,F5PDA Jose     ,Yague Montrejeax   No_regio            | FRA
 2083015,F5FDR Edgar    ,Rouquet Castanet T No_regio            | FRA
 2083016,F1SVA Veronique,Rouquet Castanet T No_regio            | FRA
-2083017,F5SEP Chabane  ,Rabastens De Bigor Occitanie           | FRA
+2083017,F5SEP Maertens ,Rabastens De Bigor Occitanie           | FRA
 2083018,F5SGY Jean     ,Louey                                  | FRA
 2083019,F5TQH Jean-Fran,Cabarrou Ibos      No_regio            | FRA
 2083020,F8DJD Philippe ,Baude Mauvezin     No_regio            | FRA
@@ -11619,7 +11633,7 @@
 2140230,EA5IZM no_name ,no_city            No_regio            | ESP
 2140231,EA3ATS Ridguay ,Tomas Call Sing Cx No_regio            | ESP
 2140232,EA7IJX Jose    ,Quintero Sevilla   No_regio            | ESP
-2140233,EA1EGO Juan    ,Manuel no_city     No_regio            | ESP
+2140233,EA1EGO Juanmanu,Columbrianos Ponfe Leon                | ESP
 2140234,EC3DEL Nacho   ,Les                No_regio            | ESP
 2140235,EA1FDT Paco    ,La Alamedilla      Castilla Y Leon     | ESP
 2140236,EA6ANC Llpallis,Alaior             No_regio            | ESP
@@ -12441,7 +12455,7 @@
 2141054,EB1AJP Antonio ,Diaz O Rosal       Galicia             | ESP
 2141055,EA1PVC Carlos  ,Casado Salamanca   Salamanca           | ESP
 2141056,EA1CI Jose Ange,Casanova Ourense   Ourense             | ESP
-2141057,EC1CS Jose     ,Crespo Ourense     Galicia             | ESP
+2141057,EC1CS Joseramon,Ourense            Ourense             | ESP
 2141058,EA1IRH Josu    ,Bedia Oviedo       Principado De Asturi| ESP
 2141059,EA1GIK Victor  ,Lago Fene          Galicia             | ESP
 2141060,EB1DWF Pedro   ,Fuertes Ponferrada Castilla Y Leun     | ESP
@@ -12881,7 +12895,7 @@
 2141494,EB1RD Juan     ,Gutierrez Oviedo   Principado De Asturi| ESP
 2141495,EA1CVN Jose    ,Sevilla Oviedo     Asturias            | ESP
 2141496,EA1ILW Sebastia,Pineiro Cambados   Galicia             | ESP
-2141498,EC1CS Jose     ,Crespo Ourense     Galicia             | ESP
+2141498,EC1CS Joseramon,Ourense            Ourense             | ESP
 2141499,EA1EUM Maria   ,Plaza Revilla De C Cantabria           | ESP
 2141500,EA1IVM Esquilas,Oviedo             Castilla Y Leon     | ESP
 2141501,EA1FG Angel    ,Anxo Coruna        Coruna              | ESP
@@ -17662,7 +17676,7 @@
 2146301,EA3IQI Juan    ,Llena Navarro      Barcelona           | ESP
 2146302,EA4HTM Rau L   ,Cantarero Madrid   Madrid              | ESP
 2146303,EA2EYS Edorta  ,Corbera Gorliz     Vizcaya             | ESP
-2146304,EB7BSZ Juan    ,Bermu Dez no_city  Jaen                | ESP
+2146304,EB7BSZ Juan    ,Alcala La Real     Jaen                | ESP
 2146305,EA1FPU Guillerm,Vinagre Leo N      Leon                | ESP
 2146306,EA4NE Jose     ,Navalespino        Madrid              | ESP
 2146307,EA2BAO Jose    ,Dominguez Monzon   No_regio            | ESP
@@ -17774,7 +17788,7 @@
 2146413,EA7IXW Diego   ,Leal Medina no_cit Malaga              | ESP
 2146414,EA4ECY Juan Est,Hidalgo De La Vela Madrid              | ESP
 2146415,EA4HUM Lucas   ,In80eb Madrid      Madrid              | ESP
-2146416,EA9PY Jose Mari,Roca Gonzalez 5100 Ceuta               | ESP
+2146416,EA9PY Jose     ,Ceuta              Ceuta               | ESP
 2146417,EA3GNF Joan    ,Martinez Aldover   Tarragona           | ESP
 2146418,EA2EYE Julian  ,Gomez Clerencia Za Zaragoza            | ESP
 2146420,EA5INH Raul    ,Murcia             Murcia              | ESP
@@ -18358,7 +18372,7 @@
 2146999,EA6VZ Toni     ,Frau Inca Palma De Baleares            | ESP
 2147000,EA5JLV Juan Vic,no_city            Castellon           | ESP
 2147001,EA7UW Rafael   ,Millan Malaga      Andalucia           | ESP
-2147002,EA7CRA Jose    ,Alabarce Granada   Andalucia           | ESP
+2147002,EA7CRA Jose    ,Almeria            Almeria             | ESP
 2147003,EA7JRS Manuel  ,Snchez Jerez De La Andalucia           | ESP
 2147004,EA7IYR Juan Car,Granada            Granada             | ESP
 2147006,EA7DYY Santiago,Sanlucar           Cadiz               | ESP
@@ -18499,7 +18513,7 @@
 2147141,EA7KK Benjamin ,Gallego Montellano Andalucia           | ESP
 2147142,EA7AMU Antonio ,Munoz Sevilla      Andalucia           | ESP
 2147143,EA7ZT Jose     ,Garcia Sevilla     Andalucia           | ESP
-2147144,EA7QY Francisco,Rodriguez Moron De Andalucia           | ESP
+2147144,EA7QY Paco     ,Moron De La Fronte Sevilla             | ESP
 2147145,EA7LD Francisco,Blanca Torredelcam Andalucia           | ESP
 2147146,EA7OR Francisco,Diaz Cordoba       Andalucia           | ESP
 2147147,EA7BPN Juan    ,Dominguez Sevilla  Andalucia           | ESP
@@ -19667,7 +19681,7 @@
 2148310,EA1FRG Gregorio,Ramirez Ribera Arr Asturias            | ESP
 2148311,EA7HA Marcos   ,Jaen                                   | ESP
 2148312,EA2AFV Alfonso ,De La Fuente Marti Vizcaya             | ESP
-2148313,EA4DQT Victor A,Eguiluz Palacio Ma Madrid              | ESP
+2148313,EA4DQT Alberto ,Madrid             Madrid              | ESP
 2148314,EA1CCT Manuel  ,Pereira Fraga      Coruna              | ESP
 2148315,EA4IDA Daniel  ,Cuadrado Sanchez M Madrid              | ESP
 2148316,EA7LAK no_name ,Granada            Granada             | ESP
@@ -21023,7 +21037,7 @@
 2149668,EA3JEU Alberto ,Barcelona          Barcelona           | ESP
 2149669,EA1JWA Francisc,Ourense            Ourense             | ESP
 2149670,EA3JEW Bernat  ,Hospitalet De Llob Barcelona           | ESP
-2149671,EA4ISL David   ,Plasencia          Caceres             | ESP
+2149671,EA4ISL Dav     ,Plasencia          Caceres             | ESP
 2149672,EA5EOP Sebas   ,Alicante           Alicante            | ESP
 2149673,EB1EDC Luis    ,Pereiro De Aguiar  Ourense             | ESP
 2149674,EA3JFD Oscar   ,Ripollet           Barcelona           | ESP
@@ -21511,7 +21525,7 @@
 2150157,EA3DTU Jose    ,El Prat De Llobreg Barcelona           | ESP
 2150158,EA5JZP Llorenc ,Castellon De La Pl Castellon           | ESP
 2150159,EA1KBA Jorge   ,Verin              Ourense             | ESP
-2150160,EA1KAB Heri    ,Soria              Soria               | ESP
+2150160,EA1KAB Alberto ,Soria              Soria               | ESP
 2150161,EA7LPT David   ,Seville            Sevilla             | ESP
 2150162,EA2FJS Angel   ,Vitoria Gasteiz    Alava               | ESP
 2150163,EA1KBC Tamara  ,Siero              Asturias            | ESP
@@ -21749,6 +21763,16 @@
 2150406,EA3JKS Daniel  ,Canoves            Barcelona           | ESP
 2150407,EA4JAH Jcmorffe,Mostoles           Madrid              | ESP
 2150408,EA4JBQ Oscar   ,Alcala De Henares  Madrid              | ESP
+2150409,EA4FVW Eugenio ,Madrid             Madrid              | ESP
+2150410,EA4JBP Oscar   ,Mejorada Del Campo Madrid              | ESP
+2150411,EA2FMM Fernando,Zaragoza           Zaragoza            | ESP
+2150412,EA5KGX Angelo  ,Sagunto            Valencia            | ESP
+2150413,EA1KDQ Antonino,Santa Marta De Tor Salamanca           | ESP
+2150414,EA1KDL Pedro   ,Gijon              Asturias            | ESP
+2150415,EA3IVN Alberto ,Sant Celoni        Barcelona           | ESP
+2150416,EA4JCQ Nico    ,Collado Villalba   Madrid              | ESP
+2150417,EA7LDS Antonio ,Moron De La Fronte Sevilla             | ESP
+2150418,EA9AR Javier   ,Melilla            Melilla             | ESP
 2157000,EA7IYR Juan Car,Granada            Granada             | ESP
 2160001,HA8DJ Sandor   ,Bordany            Csongrad County     | HUN
 2160002,HA4XA Istvan   ,Budapest           Budapest            | HUN
@@ -22138,6 +22162,7 @@
 2160394,HA7HLR Robert  ,Szigetszentmiklos  Pest                | HUN
 2160395,HA8AR Pali     ,Bekescsaba         Del Alfold          | HUN
 2160396,HG7WHD David   ,Kistarcsa          Pest                | HUN
+2160397,HA5GY Istvan   ,Debrecen           Eszak Alfold        | HUN
 2161001,HA2TO Arpad    ,Orban Papa         Veszprum            | HUN
 2161002,HA4XA Istvan   ,Matrai Szekesfeher Fejur               | HUN
 2161003,HA9MDP Peter   ,Barnoczki Babolna  Komurom-Esztergom   | HUN
@@ -22325,6 +22350,7 @@
 2165035,HA5RU Gyula    ,Bueki Budapest     Budapest            | HUN
 2165036,HA4AA Andras   ,Arato Budapest     Budapest            | HUN
 2165037,HA5AS Akos     ,Szeift Budapest    Budapest            | HUN
+2165038,HA5CD Csaba    ,Budapest           Pest                | HUN
 2165039,HG5CHN Laszlo  ,Vizsy Budapest     Budapest            | HUN
 2165040,HG5CDA Jezso   ,Zoltan Budapest    Budapest            | HUN
 2165041,HG5CCT Tibor   ,Turcsan Budapest   Budapest            | HUN
@@ -22428,6 +22454,7 @@
 2167008,HG9AR Andras   ,Ecsedi Miskolc     Borsod-Abauj-Zemplun| HUN
 2167009,HA7WHP Istvan  ,Szabo Budakeszi    Pest County         | HUN
 2167010,HA5OZA Jozsef  ,Kabelacs Majoshaza Pest County         | HUN
+2167011,HA5CD Csaba    ,Budapest           Pest                | HUN
 2167012,HA7JMA Attila  ,Kiss Pecel         Budapest            | HUN
 2167013,HG7JAK Lorant  ,Levai Szzhalombatt Pest County         | HUN
 2167014,HA7JUQ Laszlo  ,Terjeki Jaszbereny Jusz-Nagykun-Szolnok| HUN
@@ -23188,6 +23215,7 @@
 2180566,E77RDM Davor   ,Mostar             All Regions         | BIH
 2180567,E75DGZ Dragan  ,Zenica             All Regions         | BIH
 2180568,E78GRE Rijad   ,Mostar             All Regions         | BIH
+2180569,E72PGO Igor    ,Sarajevo           All Regions         | BIH
 2190001,9A5PH Richard  ,Harbauer Murter    No_regio            | HRV
 2190002,9A5DW Johann   ,Schmidt Zadar      No_regio            | HRV
 2190003,9A0W Ivan      ,Vlasic Oroslevje   No_regio            | HRV
@@ -23904,6 +23932,7 @@
 2190722,9A3DFK Karlo   ,Zagreb             Zagreb              | HRV
 2190723,9A3DGE Lovro   ,Zagreb             City Of Zagreb      | HRV
 2190724,9A7AUZ Vilko   ,Cargovec           Varaa¾din           | HRV
+2190725,9A3CEW Ivan    ,Split              Split Dalmatia      | HRV
 2200001,YT2CQ Miloslav ,Miskar Novi Sad    No_regio            | SRB
 2200002,YU1VI Slobodan ,Nikolic Belgrade   Slobodan            | SRB
 2200003,YU5JZI Igor    ,Joncic Beograd     No_regio            | SRB
@@ -24710,6 +24739,13 @@
 2200819,YU6SOF Sofija  ,Belgrade           All Regions         | SRB
 2200820,YU6DEJ Dejan   ,Sabac              All Regions         | SRB
 2200821,YU7IEF Boris   ,Subotica           All Regions         | SRB
+2200822,YU3POP Sinisa  ,Sabac              All Regions         | SRB
+2200823,YU6RXX Milan   ,Nikinci            All Regions         | SRB
+2200824,YT1VBA Aleksand,Belgrade           All Regions         | SRB
+2200825,YT1VBM Michel  ,Belgrade           All Regions         | SRB
+2200826,YT1VBI Igor    ,Belgrade           All Regions         | SRB
+2200827,YT1DSP Dragan  ,Borca              All Regions         | SRB
+2200828,YU5REA Bojana  ,Beograd            All Regions         | SRB
 2200999,YT3VD Dejan    ,Vujcic Belgrade    All Regions         | SRB
 2201000,YU4RIS Ivan    ,Beograd            All Regions         | SRB
 2202222,YT5HOK Marko   ,Beograd            All Regions         | SRB
@@ -25260,7 +25296,7 @@
 2220561,IZ0VRX Germano ,Nesi Guarcino (FR) Lazio               | ITA
 2220562,IS0MKX Giuseppe,Corona Cagliari (C Sardegna            | ITA
 2220563,IZ0RTP Dante   ,Allerino Soriano N Lazio               | ITA
-2220564,IK0PHW Antonio ,Casano Anzio       Lazio               | ITA
+2220564,IK0PHW Antonio ,Casano Anzio (RM)  Lazio               | ITA
 2220565,IU0GCC Andrea  ,Castel Giorgio     Umbria              | ITA
 2220566,IU0HPQ Alberto ,Santini Trevi (PG) Umbria              | ITA
 2220567,I0ZLI Luciano  ,Buccioni Roma      Lazio               | ITA
@@ -25527,7 +25563,7 @@
 2220830,IW0EAJ Gianni  ,Capezzuto Roma     Lazio               | ITA
 2220831,IW0RSU Federico,Orsi Narni         Umbria              | ITA
 2220832,IS0GFR Maurizio,Anoffo Selargius   Sardegna            | ITA
-2220833,IK3NAD Daniele ,Voltolina Meolo    Veneto              | ITA
+2220833,IK3NAD Daniele ,Voltolina Meolo (V Veneto              | ITA
 2220834,IU0DYW Vincenzo,Iovine Roma (RM)   Lazio               | ITA
 2220835,IZ0OJT Giuseppe,Iacope Roma (RM)   Lazio               | ITA
 2220836,IZ0PVS Fiorasi ,Mauro Ladispoli (R Lazio               | ITA
@@ -27553,7 +27589,7 @@
 2222892,IW2NPX Domenico,Gallina Lainate (M Lombardia           | ITA
 2222893,IZ2XFX Alessand,Redaelli Corbetta  Lombardia           | ITA
 2222894,I2IEJ Gabriele ,Chiorboli Milano ( Lombardia           | ITA
-2222895,IZ2LVC Mario   ,Banfi Magenta      Lombardia           | ITA
+2222895,IZ2LVC Mario   ,Banfi Magenta (MI) Lombardia           | ITA
 2222896,IW2KVT Mauro   ,Scandroglio Cassan Lombardia           | ITA
 2222897,IU2EFK Riccardo,Scandroglio Cassan Lombardia           | ITA
 2222898,IW2MQX Andrea  ,Scandroglio Cassan Lombardia           | ITA
@@ -28251,7 +28287,7 @@
 2223599,IW3GXG Valerio ,Banzato Padova (PD Veneto              | ITA
 2223600,IW3ARN Ugo     ,Fanti Rumo (TN)    Trentino AA         | ITA
 2223601,IV3IDP Daniele ,Pesamosca Chiusafo Friuli VG           | ITA
-2223602,IK3EDT Mariange,Rossetto Cavaso De Veneto              | ITA
+2223602,IK3EDT Mariange,Rossetto Sernaglia Veneto              | ITA
 2223603,IV3APE Gabriele,Edalucci Gorizia ( Friuli VG           | ITA
 2223604,IZ3GWJ Crisna  ,Pengo Lendinara (R Veneto              | ITA
 2223605,IW3QVZ Maurizio,Marino Trieste (TS Friuli VG           | ITA
@@ -29040,7 +29076,7 @@
 2224399,IU4KSF Paolo   ,Lasagni Reggio Emi Emilia-Rom.         | ITA
 2224400,IZ4IFW Marco   ,Parma              Emilia-Rom.         | ITA
 2224401,I4NQD Dino     ,Mosca Corlo Di For Emilia-Rom.         | ITA
-2224402,IZ4TNW Antonio ,Cerati Vergato     Emilia-Rom.         | ITA
+2224402,IZ4TNW Antonio ,Cerati Vergato (BO Emilia-Rom.         | ITA
 2224403,IU4KPE Angelo  ,Caruso Modena (MO) Emilia-Rom.         | ITA
 2224404,IU4DDU Giancarl,Donato Pontenure   Emilia-Rom.         | ITA
 2224405,IZ4UHV Matteo  ,Bologna            Emilia-Rom.         | ITA
@@ -30178,7 +30214,6 @@
 2225543,IZ3NCQ Paolo   ,Curro Padova (PD)  Veneto              | ITA
 2225544,IZ4KAN Marco   ,Vivarelli Cattolic Emilia-Rom.         | ITA
 2225545,IU3NPM Silvano ,Bordin Merlara (PD Veneto              | ITA
-2225546,IK8CVE Angelo  ,Ciardiello Ciardel Campania            | ITA
 2225547,IU4GPY Aldo    ,Pellicciari Grizza Emilia-Rom.         | ITA
 2225548,IU3NPG Renato  ,Ben Agordo (BL)    Veneto              | ITA
 2225549,IT9IIJ Mario   ,Vitti Aci Castello Sicilia             | ITA
@@ -34421,7 +34456,6 @@
 2229837,IV3AOW Bernardi,Tamburlini Campofo Friuli VG           | ITA
 2229838,IU4PTA Gian    ,Buzzoni Montevegli Emilia-Rom.         | ITA
 2229839,IT9BPN Antonino,Castriciano Messin Sicilia             | ITA
-2229840,IV3QBE Flavio  ,Dal Soglio Reana D Friuli VG           | ITA
 2229841,IT9JFN Genzone ,Maurizio Caltaniss Sicilia             | ITA
 2229842,IW3RFA Dario   ,Claricini Trieste  Friuli VG           | ITA
 2229843,IZ0SCI Stefano ,Bonifazi Narni (TR Umbria              | ITA
@@ -35276,7 +35310,7 @@
 2230696,IT9UDQ Nicolo  ,Passanante Trapani Sicilia             | ITA
 2230697,IK8UDK Bruno   ,Iacoletti Lanzara  Campania            | ITA
 2230698,IW0ELF Michele ,Sabia Roma (RM)    Lazio               | ITA
-2230699,IU0NHE Carlo Ma,Dante Pistolini Ro Lazio               | ITA
+2230699,IU0NHE Carlo   ,Dante Roma (RM)    Lazio               | ITA
 2230700,IZ1SFR Gilfredo,Cavagnolo Pino Tor Piemonte            | ITA
 2230701,IW8PGR Antonio ,Violi Vibo Valenti Calabria            | ITA
 2230702,IU4RYI Ferdinan,Belliere Bologna ( Emilia-Rom.         | ITA
@@ -37610,6 +37644,27 @@
 2233053,IU8WQS Vincenzo,Rao Polistena (RC) Calabria            | ITA
 2233054,IK8FGV Antonio ,Palermo Avellino ( Campania            | ITA
 2233055,IU1TWU Ernesto ,Soressi Arenzano ( Liguria             | ITA
+2233056,IZ2RLX Stefano ,Cabeto Cassina De  Lombardia           | ITA
+2233057,IU5SFC Piero   ,Cerrai Livorno (LI Liguria             | ITA
+2233058,IU5VYE Moreno  ,Del Santo Rapolano Toscana             | ITA
+2233059,IW4DUV Fabio   ,Bovelacci Forli' ( Emilia-Rom.         | ITA
+2233060,IU1JQJ Pier Fra,Cunsolo Chieri (TO Piemonte            | ITA
+2233061,IU7USG Michele ,Sacco San Severo ( Puglia              | ITA
+2233062,IK4PKN Paolo   ,Castoldi Bertinoro Emilia-Rom.         | ITA
+2233063,IZ2JOJ Antonio ,Frontera Milano (M Lombardia           | ITA
+2233064,I4MMX Mauro    ,Montanari Monte S. Emilia-Rom.         | ITA
+2233065,IK0PFJ Roberto ,Covanti Gubbio (PG Umbria              | ITA
+2233066,IU3UNH Roberto ,Pozzi Preganziol ( Veneto              | ITA
+2233067,IU0WRI David   ,Monterotondo (RM)  Lazio               | ITA
+2233068,I1FQH Franco   ,Prete Casale Monfe Piemonte            | ITA
+2233069,IU2SNK Francesc,Cinisello Balsamo  Lombardia           | ITA
+2233070,IU8IZU Massimo ,Cuccarano Eboli (S Campania            | ITA
+2233071,IQ7GC Clubst.  ,A.R.I. CASTELLANA  Puglia              | ITA
+2233072,IS0LBE Francesc,Spada Barumini (CA Sardegna            | ITA
+2233073,IU1VXE Denis   ,Frugarolo (AL)     Piemonte            | ITA
+2233074,IU6WRW Marco   ,Vinci Tossicia (TE Abruzzo             | ITA
+2233075,IU5VMI Salvator,Prato (PO)         Toscana             | ITA
+2233076,IK6PUO Filippo ,Capuani Pineto (TE Abruzzo             | ITA
 2242222,IT9JFW Lorenzo ,Faletra Palermo (P Sicilia             | ITA
 2260001,YO3DSG Daniel  ,Salagean Bucharest Bucuresti / Ilfov   | ROU
 2260002,YO6YLJ Nico    ,Tirgu-Mures        Mures               | ROU
@@ -38054,7 +38109,7 @@
 2260450,YO8RXH Silviu  ,Maxim Targu Neamt  Bacau / Botosani / I| ROU
 2260451,YO5ATI Attila  ,Antal Radaia       Alba / Bihor / Bistr| ROU
 2260452,YO3EGE George  ,Ispas Bucharest    Bucuresti / Ilfov   | ROU
-2260453,YO3DSX Sergiu  ,None               Bucuresti / Ilfov   | ROU
+2260453,YO3SP Sergiu   ,Domnesti           Bucuresti Ilfov     | ROU
 2260454,YO3IQK Catalin ,Berceni            Bucuresti / Ilfov   | ROU
 2260455,YO2NDS Sebastia,Negrea Timisoara   Hunedoara / Timis   | ROU
 2260456,YO2AGE Danut   ,Crisan Lipova      Hunedoara / Timis   | ROU
@@ -38071,6 +38126,7 @@
 2260467,YO8RCD Constant,Rusu Barlad        Bacau / Botosani / I| ROU
 2260468,YO3CAL Daniel  ,Cainamisir None    Bucuresti / Ilfov   | ROU
 2260469,YO3ANT Ion     ,Bucharest          Bucuresti / Ilfov   | ROU
+2260470,YO5OKM Ladislav,Ciugud Alba        Alba Bihor Bistrita | ROU
 2260471,YO8AIU Marius  ,Targu Nemt         Bacau / Botosani / I| ROU
 2260472,YO3JTF Stefan  ,Bucharest          Bucuresti / Ilfov   | ROU
 2260473,YO7NIM Florin  ,Stoica Pitesti     Arges / Dolj / Gorj | ROU
@@ -38295,7 +38351,7 @@
 2260701,YO3HEY Dragos  ,Bucharest          Bucuresti Ilfov     | ROU
 2260702,YO6RNE Nelu    ,Sfantu Gheorghe    Brasov Covasna Hargh| ROU
 2260703,YO4VLS Florin  ,Constanta          Braila Constanta Gal| ROU
-2260704,YO3DSX Sergiu  ,Domnesti           Bucuresti Ilfov     | ROU
+2260704,YO3SP Sergiu   ,Domnesti           Bucuresti Ilfov     | ROU
 2260705,YO6AKK Adrian  ,Sfantu Gheorghe    Brasov Covasna Hargh| ROU
 2260706,YO6AKK Adrian  ,Sfantu Gheorghe    Brasov Covasna Hargh| ROU
 2260707,YO6AKK Adrian  ,Sfantu Gheorghe    Brasov Covasna Hargh| ROU
@@ -38320,7 +38376,7 @@
 2260727,YO6FVZ Mircea  ,Brasov             Brasov Covasna Hargh| ROU
 2260728,YO6DJB Tibor   ,Tirgu Mures        Brasov Covasna Hargh| ROU
 2260729,YO3SRY Petrica ,Bucuresti          Bucuresti Ilfov     | ROU
-2260730,YO3DSX Sergiu  ,Domnesti           Bucuresti Ilfov     | ROU
+2260730,YO3SP Sergiu   ,Domnesti           Bucuresti Ilfov     | ROU
 2260731,YO5AOO Victor  ,Cluj Napoca        Alba Bihor Bistrita | ROU
 2260732,YO6ANX Andrei  ,Targu Mures        Brasov Covasna Hargh| ROU
 2260733,YO2ASE Robert  ,Timisoara          Hunedoara Timis     | ROU
@@ -38338,6 +38394,9 @@
 2260745,YO6SAP Rudi    ,Baraolt            Brasov Covasna Hargh| ROU
 2260746,YO6SAP Rudi    ,Baraolt            Brasov Covasna Hargh| ROU
 2260747,YO6SAP Rudi    ,Baraolt            Brasov Covasna Hargh| ROU
+2260748,YO9HXU Tica    ,Campina            Bucuresti Ilfov     | ROU
+2260749,YO3IEW Andrei  ,Bucharesti         Bucuresti Ilfov     | ROU
+2260750,YO5ODA Gergely ,Cluj Napoca        Alba Bihor Bistrita | ROU
 2261000,YO5MDA Dumi    ,Stratan Satu Mare  Alba / Bihor / Bistr| ROU
 2261001,YO3GTS Dan     ,Bucharest          Bucharest           | ROU
 2261111,YO3IHG Vlad    ,Bucharest          Bucuresti Ilfov     | ROU
@@ -39390,6 +39449,10 @@
 2280539,HB3XCV Daniel  ,Kappelen           Bern                | CHE
 2280540,HB9FBB Andreas ,Pura               Ticino              | CHE
 2280541,HB9IIX Patrick ,Valchava           Grigioni Grisons    | CHE
+2280542,HB9IUQ Luca    ,Olten              Solothurn           | CHE
+2280543,HB9TXN Gouello ,Pully              Vaud                | CHE
+2280544,HB9HEE Lukas   ,Sumiswald          Bern                | CHE
+2280545,HB3YQE Simone  ,Verscio            Ticino              | CHE
 2281001,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281002,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
 2281003,HB3YNV Cedric  ,Saint-Cergue       Waadt               | CHE
@@ -41481,6 +41544,8 @@
 2300524,OK2TPT Lubos   ,Trinec             Moravian Silesian Re| CZE
 2300525,OK1XDB Pavel   ,Hradec Kralove     Hradec Kralove Regio| CZE
 2300526,OK5ARI Ariel   ,Znojmo             South Moravian Regio| CZE
+2300527,OK1TCZ Tomas   ,Prague             Prague              | CZE
+2300528,OK3NKO Zdenek  ,Kourim             Central Bohemian Reg| CZE
 2301001,OK9DTZ David   ,Prague             Hlavni Mesto Praha  | CZE
 2301002,OK3ZB Zdenek   ,Brichacek Praha    Hlavni Mesto Praha  | CZE
 2301003,OK1MX Milan    ,Barvir Praha       Hlavni Mesto Praha  | CZE
@@ -42130,6 +42195,7 @@
 2310175,OM1AKT Jakub   ,Casta              Bratislavsky        | SVK
 2310176,OM5ABO Milan   ,Celadice           Nitriansky Trencians| SVK
 2310177,OM6AIT Marian  ,Martin             Banskobystricky Zili| SVK
+2310178,OM6ABC Peter   ,Martin             Banskobystricky Zili| SVK
 2311001,OM1ATS Daniel  ,Bratislava         Bratislavsky        | SVK
 2311002,OM1AEG Anton   ,Srnka Bratislava   Bratislavsky        | SVK
 2311003,OM1EI Marian   ,Nagy Bratislava    Bratislavsky        | SVK
@@ -43583,6 +43649,7 @@
 2321307,OE6KSD Karl    ,Sundl Bad Gleichen STMK                | AUT
 2321308,OE3WHI Wilhelm ,Schwechat          NOE                 | AUT
 2321309,OE1POS Johannes,Ostermaier Wien    WIEN                | AUT
+2321310,OE3BHM Herwig  ,Macho Brand        NOE                 | AUT
 2321333,OE1TRB Thomas  ,Titz Wien          WIEN                | AUT
 2322001,OE2AIP Philipp ,Aigner Salzburg    SBG                 | AUT
 2322002,OE2WAO Michael ,Wedl Obertrum am S SBG                 | AUT
@@ -46120,7 +46187,7 @@
 2341177,M6TTO Francis  ,                                       | GBR
 2341178,G4EDR David    ,Mappin Filey       England             | GBR
 2341179,G7VBJ David    ,Wager Sutton Coldf England             | GBR
-2341180,G0UIL Dean     ,Brice Taunton      England             | GBR
+2341180,G0UIL Dean     ,Taunton            England             | GBR
 2341181,M0TGK Owen     ,Gallagher Liverpoo England             | GBR
 2341182,G5B0B Robert   ,Milton Keynes      England             | GBR
 2341183,M6TVI Liam     ,Dillane Birmingham England             | GBR
@@ -46781,7 +46848,7 @@
 2341861,M0APC Michael  ,Brown Leeds        England             | GBR
 2341862,2E0JLC Chris   ,Chappell Stockport England             | GBR
 2341863,G7LMF Graham   ,Cowan Telford      England             | GBR
-2341864,2E0FNQ Jon     ,York               England             | GBR
+2341864,M8FNQ Jon      ,York               England             | GBR
 2341865,G8XST William  ,Butchers Torquay   England             | GBR
 2341866,M6WYG David    ,Griffiths Durham   England             | GBR
 2341867,G5MZQ Neil     ,Bishops Stortford  England             | GBR
@@ -49085,6 +49152,7 @@
 2344247,M0LTY Gary     ,Mcanulty Mancheste England             | GBR
 2344248,G8UZW John     ,Durrant Hornchurch England             | GBR
 2344249,G7OAH Ken      ,Adams Cornwall     England             | GBR
+2344250,G1ULE Tony     ,Narborough         England             | GBR
 2344251,2E0NLY Brett   ,Plackett Cheshire  England             | GBR
 2344252,M0BFM Stephen  ,Liverpool          England             | GBR
 2344253,M6DBP Daygan   ,Robinson Cheddar   England             | GBR
@@ -49873,6 +49941,7 @@
 2345043,M6NYJ Adrian   ,Ilkeston           England             | GBR
 2345044,G7SFD Martin   ,King Ramsgate      England             | GBR
 2345045,2E0MYG Mark    ,Young Potton       England             | GBR
+2345046,M9SRW Stuart   ,Leyland            England             | GBR
 2345047,M6OKX Nick     ,Manchester         England             | GBR
 2345048,G7RXR Martin   ,Norwich            England             | GBR
 2345049,M0LSL Andrew   ,Wood Surrey        England             | GBR
@@ -52534,7 +52603,7 @@
 2347726,M0TIZ Zxtiz    ,Polegate           England             | GBR
 2347727,M0VEN Ryan     ,Maven Sunderland   England             | GBR
 2347728,2E0TOK Dave    ,Hull               England             | GBR
-2347729,G1PNB Stevengar,Manchester         England             | GBR
+2347729,G1PNB no_name  ,Manchester         England             | GBR
 2347730,G0VPS David    ,Rotherham          England             | GBR
 2347731,M1AKL no_name  ,no_city            No_regio            | GBR
 2347732,G4UQR John     ,Great Brickhill    England             | GBR
@@ -53775,7 +53844,6 @@
 2348975,M7DVP Dave     ,Ward Colyton Devon No_regio            | GBR
 2348976,G7SOJ Barry    ,Winkleigh          No_regio            | GBR
 2348977,M0ALA A        ,Lomas United Kingd No_regio            | GBR
-2348978,G6ATJ Ivor     ,Abi Cullompton     No_regio            | GBR
 2348979,M0RTU John     ,Wright Witney      England             | GBR
 2348980,M7AZP Darren   ,Ionn Bolton        No_regio            | GBR
 2348981,2E0XMF Pete    ,Foster Norton-On-D No_regio            | GBR
@@ -54430,7 +54498,7 @@
 2349633,2E0MYF Sam     ,Salloway Derby     England             | GBR
 2349634,M0NBB Neal     ,Beresford Ketterin England             | GBR
 2349635,G4UQU David    ,Smith Weddington N England             | GBR
-2349636,M7CDF Colin    ,Forrester Gravesen England             | GBR
+2349636,M9COL Colin    ,Gravesend          England             | GBR
 2349637,M3LDH Lorraine ,Holmes Wirral      England             | GBR
 2349638,M7PRL Paul     ,Friend Kirklees    England             | GBR
 2349639,G6DIY Tim      ,Palmer Alton       England             | GBR
@@ -55935,7 +56003,6 @@
 2351152,G4CCC Chris    ,Young Reading      Berkshire           | GBR
 2351153,2E0DCZ David   ,Mooney Croyden     Surrey              | GBR
 2351154,2E0NVK Laurence,Bolton Meltham     England             | GBR
-2351155,M0RPC Paul     ,Stockport          Cheshire            | GBR
 2351156,G4VZO Martin   ,Dudley             West Midlands       | GBR
 2351157,M1ELR Carl     ,Davies Moreton     Merseyside          | GBR
 2351158,M1TNW Jim      ,Moreton            England             | GBR
@@ -57903,7 +57970,7 @@
 2353140,2W0PCE Phillip ,Iles Caerphilly    Wales               | GBR
 2353141,MW3CHZ Mike    ,Bowen Nr Pontyprid Wales               | GBR
 2353142,MW0ZXY Daniel  ,Pugh Aberystwyth   Wales               | GBR
-2353143,MW0RHD Robert  ,Hughes-Burton Pwll Wales               | GBR
+2353143,MW0RHD Bob     ,Pwllheli           Wales               | GBR
 2353144,GW7VBE Diane   ,Harris Blaengarw   Wales               | GBR
 2353145,2W0HFU Gareth  ,Ralls Merthyr Tydf Wales               | GBR
 2353146,GW8OGI Ian     ,Wareing Abergele   Wales               | GBR
@@ -58011,7 +58078,7 @@
 2353251,M6XSR Simon    ,Mansfield Rogersto Wales               | GBR
 2353252,MW6SLH Shane   ,Newport            Wales               | GBR
 2353253,G5MTB Mark     ,Hawarden           Wales               | GBR
-2353254,MW0RHD Robert  ,Hughes-Burton Llan Wales               | GBR
+2353254,MW0RHD Bob     ,Pwllheli           Wales               | GBR
 2353256,MW3CRU Mark    ,Swansea            Wales               | GBR
 2353257,MW6GWP Geraint ,Price              Wales               | GBR
 2353258,GW0UGQ Maurice ,Webb Flintshire    Wales               | GBR
@@ -61206,7 +61273,7 @@
 2356489,GM4TJD Myles   ,Maclennan Beauly I Scotland            | GBR
 2356490,M0MWT Roy      ,Wilkes Dudley West England             | GBR
 2356491,2E0IWG Dean    ,Lazell Whitehaven  England             | GBR
-2356492,M7IDD Neil Ferg,Iddison Mosborough England             | GBR
+2356492,M7IDD Neilfergu,Mosborough Sheffie England             | GBR
 2356493,M0SUC Cain     ,Stokes Basingstoke England             | GBR
 2356494,M7PTH Paul     ,Thomas Chorley     England             | GBR
 2356495,2E0JRY James   ,Robinson London    England             | GBR
@@ -61698,7 +61765,7 @@
 2356987,M3CCP Paul     ,Smith Nottingham                       | GBR
 2356988,M7WLY Euan     ,Turner Walney      England             | GBR
 2356989,MM9SRU Gordon  ,Prestonpans East L Scotland            | GBR
-2356990,M7GGI Mark     ,Grant Newport Isle England             | GBR
+2356990,M7GGI Mark     ,Newport Isle Of Wi England             | GBR
 2356991,M7IDE John     ,Challoner West Yor England             | GBR
 2356992,M7MUJ Barrie   ,Isaac Fareham      England             | GBR
 2356993,2E0IZN Clive   ,Lavery Grundisburg England             | GBR
@@ -62134,7 +62201,7 @@
 2357426,M7NBJ Brenden  ,Grant Mills Castle England             | GBR
 2357427,M8WPP Simon    ,South Shields      England             | GBR
 2357428,G1YWY Mark     ,Jones Castle Cary  England             | GBR
-2357429,M7GAU David    ,Smithson           England             | GBR
+2357429,M7GAU David    ,Sheffield          England             | GBR
 2357430,M0IZW Paul     ,Raftery North York England             | GBR
 2357431,MW3NEI Neil    ,Mcloughlin Newport Wales               | GBR
 2357432,MW9SAW Simon   ,Tredegar           Wales               | GBR
@@ -62203,6 +62270,7 @@
 2357495,MW7GQY Mike    ,Pmr Radio South Wa Wales               | GBR
 2357496,M7GDU Gavin    ,Dudey Nottingham E England             | GBR
 2357497,M9XTY Ashley   ,Manchester         England             | GBR
+2357498,M8OBG Oliver   ,Leicestershire     England             | GBR
 2357499,M9YJR Justin   ,Aylesbury          England             | GBR
 2357500,G4NOX Keith    ,Campbell Rowlands  England             | GBR
 2357501,2E0CEY Tracey  ,Edwards Norfolk Br England             | GBR
@@ -62859,7 +62927,7 @@
 2358152,M7IUH Anthony  ,Bradford           England             | GBR
 2358153,G0BKR Gary     ,Clark Beaconsfield England             | GBR
 2358154,M7XBH Philip   ,Smith Droitwich    England             | GBR
-2358155,M7WMI Benjamin ,Murphy Kempsey     England             | GBR
+2358155,M9WMI Benjamin ,Kempsey            England             | GBR
 2358156,M9XCN Craig    ,Ipswich            England             | GBR
 2358157,2W0LCB James   ,Swansea            Wales               | GBR
 2358158,G1GJD Stephen  ,Corson Northampton England             | GBR
@@ -63639,7 +63707,6 @@
 2358967,M7DXQ Richard  ,Rotherham          England             | GBR
 2358968,2E0WVT Jason   ,Bilston            England             | GBR
 2358969,M7NGJ Bob Wood ,Salisbury          England             | GBR
-2358970,M7IMN Dennis   ,London             England             | GBR
 2358971,G8KFW Paul     ,Liittlehampton     England             | GBR
 2358973,G4XBX Alex     ,Manchester         England             | GBR
 2358974,M7IYG Neil     ,Hassocks           England             | GBR
@@ -63775,6 +63842,17 @@
 2359106,M7NUV Gary     ,Manchester         England             | GBR
 2359107,MI0WST Del     ,Greyabbey          Northern Ireland    | GBR
 2359108,G0RCT Edward   ,Moreton            England             | GBR
+2359109,G0PDR Ken      ,Cheltenham         England             | GBR
+2359110,2M0BMF Fergus  ,Glasgow            Scotland            | GBR
+2359111,G4OWT Steve    ,Lewes              England             | GBR
+2359112,2E0OBY Toby    ,Paignton           England             | GBR
+2359113,MM7NYD Mark    ,Stranraer          Scotland            | GBR
+2359114,M7IMN Dennis   ,London             England             | GBR
+2359115,2E0IUW Philip  ,Sherwood Nottingha England             | GBR
+2359116,M7NVS Mark     ,Southamptomn       England             | GBR
+2359117,M7NJQ Ian      ,Pontefract         England             | GBR
+2359118,2E0PWZ James   ,Birmingham         England             | GBR
+2359119,M7IYD Allan    ,East Kilbride      Scotland            | GBR
 2360000,M0NOA Anthony  ,De Broise Leeds    England             | GBR
 2360001,M1HAC Alex     ,Southampton        England             | GBR
 2360002,M1HAC Alex     ,Southampton        England             | GBR
@@ -64150,6 +64228,8 @@
 2380364,OZ4AMC Soren   ,Skive              Midtjylland         | DNK
 2380365,OZ4KAJ Kaj     ,Hadsten            Midtjylland         | DNK
 2380366,OZ2CFO Christen,Sydals             Syddanmark          | DNK
+2380367,OZ9BP Benjamin ,Espergaeder        Hovedstaden         | DNK
+2380368,OZ3JC Jan      ,Helsingor          Sjaelland           | DNK
 2380822,OZ8ADK Anders D,Kofoed Lyngby      Hovedstaden         | DNK
 2380823,5P4L Matt      ,Vejle              Syddanmark          | DNK
 2380824,OV4SB Sana     ,Benthien Ringsted  Sjaelland           | DNK
@@ -66762,6 +66842,7 @@
 2401227,SA5AYM Magnus  ,Balsta             Uppsala             | SWE
 2401228,SA6DOG Agnes   ,Gothenburg         Vastra Gotaland     | SWE
 2401229,SA2DOC Johan   ,Lulea              Norrbotten          | SWE
+2401230,SA7KLI Mattias ,Trelleborg         Skane               | SWE
 2402002,SA2BNO Peter   ,Larsson Kiruna     Norrbotten County   | SWE
 2402003,SA2CJG Mikael  ,Nylund Kiruna      Norrbotten County   | SWE
 2402004,SA2BNO Peter   ,Larsson Kiruna     Norrbotten County   | SWE
@@ -70430,6 +70511,12 @@
 2441837,OH4LNT Mikko   ,Varkaus            All Regions         | FIN
 2441838,OH1LWB Oh1al   ,Salo               All Regions         | FIN
 2441839,OH2LHH Hannu   ,Kirkkonummi        All Regions         | FIN
+2441840,OH8DXS Alex    ,Oulu               All Regions         | FIN
+2441841,OH2DXM Matias  ,Helsinki           All Regions         | FIN
+2441842,OH3FVS Jussi   ,Uurainen           All Regions         | FIN
+2441843,OH3FVS Jussi   ,Uurainen           All Regions         | FIN
+2441844,OH3FVS Jussi   ,Uurainen           All Regions         | FIN
+2441845,OH3FVS Jussi   ,Uurainen           All Regions         | FIN
 2442001,OH2LAK Erik    ,Finskas Espoo      Uusimaa             | FIN
 2442002,OH2LAK Erik    ,Finskas Espoo      Uusimaa             | FIN
 2442003,OH2LAK Erik    ,Finskas Espoo      Uusimaa             | FIN
@@ -71134,7 +71221,7 @@
 2448036,OH8KAW Kai     ,Salo Oulu          Oulu                | FIN
 2448037,OH8KW Vesa     ,Jaervelaeinen Oulu Oulu                | FIN
 2448038,OH6EZF Kari    ,Saarela Kalajoki   Oulu                | FIN
-2448039,OH8EVG Petteri ,Tiitto Haapajaervi Oulu                | FIN
+2448039,OH8EVG Petteri ,Haapajarvi         All Regions         | FIN
 2448040,OH6EZF Kari    ,Saarela Kalajoki   Oulu                | FIN
 2448041,OH8BGQ Mlaine  ,Oulu                                   | FIN
 2448042,OH8JGG Kari    ,Rusanen Tynkae     Oulu                | FIN
@@ -71652,6 +71739,8 @@
 2480154,ES3PMR Marko   ,Aespa              All Regions         | EST
 2480155,ES1VTM Marie   ,Tallinn            All Regions         | EST
 2480156,ES0MHI Matthias,Varssu             All Regions         | EST
+2480157,ES4NEON Nelli  ,Narva              All Regions         | EST
+2480158,ES4NIKA Veronik,Narva Joesuu       All Regions         | EST
 2488888,ES2ETA Henry   ,                   All Regions         | EST
 2500001,RU0LA Aleksandr,Chernigovka        No_regio            | RUS
 2500002,R0AET Vladimir ,Ptayozhnyy         No_regio            | RUS
@@ -74383,6 +74472,17 @@
 2502985,RA9MLJ Pavel   ,Omsk               All Regions         | RUS
 2502986,R3VAM Andrey   ,Vladimir           All Regions         | RUS
 2502987,R1BSF Sergey   ,Saint Petersburg   All Regions         | RUS
+2502988,UB9WPD Ilgiz   ,Tyumen             All Regions         | RUS
+2502989,R3DPN Alexey   ,Ozery              All Regions         | RUS
+2502990,UB8LBE Mars    ,Tyumen             All Regions         | RUS
+2502991,R5GJPA Maxim   ,Lipetsk            All Regions         | RUS
+2502992,R1WCH Valentin ,Usvyaty            All Regions         | RUS
+2502993,UB9YDK Dariya  ,Barnaul            All Regions         | RUS
+2502994,R1ZDY Viachesla,Apatity            All Regions         | RUS
+2502995,R9MED Viktor   ,Omsk               All Regions         | RUS
+2502996,R0SDR Eldar    ,Bratsk             All Regions         | RUS
+2502997,RU3YAA Yuriy   ,Klimovo            All Regions         | RUS
+2502998,R5VDK Maksim   ,Vladimir           All Regions         | RUS
 2503001,R3ABM Artem    ,Prilutskiy Morshan No_regio            | RUS
 2503002,R3ABM Artem    ,Prilutskiy Morshan No_regio            | RUS
 2503003,RK3AQG Takhirov,Ikrom Moscow       No_regio            | RUS
@@ -74581,6 +74681,7 @@
 2503377,R3UBV Alrxandr ,Fufaev Ivanovo     All Regions         | RUS
 2503379,UB3DJW Galina  ,no_city            No_regio            | RUS
 2503384,RA3NAN Sergey  ,Morozov Kostroma   All Regions         | RUS
+2503387,UB3ATW Konstant,Moscow             All Regions         | RUS
 2503388,UB3ATX Igor    ,Moscow             Moscow              | RUS
 2503390,R3PJV Aleksandr,no_city            No_regio            | RUS
 2503392,RK3DAM Gennady ,no_city            No_regio            | RUS
@@ -75932,6 +76033,8 @@
 2550950,UW5ESU Roman   ,Zheltyye Vody      All Regions         | UKR
 2550951,UR4UVK Illia   ,Bila Tserkva       All Regions         | UKR
 2550952,UR5QCG Valery  ,Zaporizhzhia       All Regions         | UKR
+2550953,UR5NCE Alexey  ,Vinnytsia          All Regions         | UKR
+2550954,UR5WBO Mykhailo,Pustomyty          All Regions         | UKR
 2555555,UR5SSB Yaroslav,Torbiak Ivano Fran All Regions         | UKR
 2570001,EW7AS Uladzimir,Zakharchenko Klimo All Regions         | BLR
 2570002,EW7AS Uladzimir,Zakharchenko Klimo All Regions         | BLR
@@ -79215,7 +79318,7 @@
 2603225,SP3OZW Waldemar,Fiweg Komorniki    Wielkopolskie       | POL
 2603226,SP3OKU Radoslaw,Koniec Modla Krole Wielkopolskie       | POL
 2603227,SP5ZF Zbigniew ,Fijolek Warszawa   Mazowieckie         | POL
-2603228,SP2PNP Klub    ,Pnp Bydgoszcz      Kujawsko Pomorskie  | POL
+2603228,SP2PNP Klub Sp2,Bydgoszcz          Kujawsko Pomorskie  | POL
 2603229,SQ1WTB Marcin  ,Kodz Malechowo     Zachodniopomorskie  | POL
 2603230,SQ1SK Sebastian,Koba Mierzyn       Zachodniopomorskie  | POL
 2603231,SO5DD Dariusz  ,Dobrowolski Slabom Mazowieckie         | POL
@@ -80315,10 +80418,27 @@
 2604362,SQ5ZB Zbigniew ,Warszawa           Mazowieckie         | POL
 2604363,SP3MID Grzegorz,Poznan             Wielkopolskie       | POL
 2604364,SP5ANI Anna    ,Warszawa           Mazowieckie         | POL
-2604365,SQ9HHR Darek   ,Zywiec             A›lae…skie          | POL
 2604366,SQ9GIN Krzyszto,Bedzin             A›lae…skie          | POL
 2604367,SQ3GX Marcin   ,Poznan             Wielkopolskie       | POL
 2604368,SP3WSK Szymon  ,Czerwonak          Wielkopolskie       | POL
+2604369,SP7LDZ Piotr   ,Lodz               A‚a³dzkie           | POL
+2604370,SP5WZK Czarek  ,Warszawa           Mazowieckie         | POL
+2604371,SP5MPC Mikolaj ,Zlotoklos          Mazowieckie         | POL
+2604372,SP2BOR Bartosz ,Gdansk             Pomorskie           | POL
+2604373,SR5SQ Artur    ,Radziejowice       Mazowieckie         | POL
+2604374,SP8GBD Zbigniew,Lublin             Lubelskie           | POL
+2604375,SQ5XD Wojciech ,Urzut              Mazowieckie         | POL
+2604376,SQ7BBU Jakub   ,Konskie            A›wiae™tokrzyskie   | POL
+2604377,SP2RCL Bogusz  ,Jarczechowo        Kujawsko Pomorskie  | POL
+2604378,SQ6AML Artur   ,Smolec             Dolnoa›lae…skie     | POL
+2604379,SP2CWL Marek   ,Lubraniec          Kujawsko Pomorskie  | POL
+2604380,SP5YPL Klub    ,Plock              Mazowieckie         | POL
+2604381,SP8ZAH Dawid   ,Zahoczewie         Podkarpackie        | POL
+2604382,SQ5GLX Grzegorz,Lomianki Dolne     Mazowieckie         | POL
+2604383,SP9IB Bartosz  ,Krakow             Maa‚opolskie        | POL
+2604384,SP7ECO Lukasz  ,Niemyslow          A‚a³dzkie           | POL
+2604385,SP9TCF Remigius,Katowice           A›lae…skie          | POL
+2604386,SP9RAM Rafal   ,Swierczyniec       A›lae…skie          | POL
 2605001,SP5GDM Jan     ,Galuhn Wierzbica   Mazowieckie         | POL
 2605002,SP5GDM Jan     ,Galuhn Wierzbica   Mazowieckie         | POL
 2605003,SP5GDM Jan     ,Galuhn Wierzbica   Mazowieckie         | POL
@@ -80406,8 +80526,10 @@
 2605104,SP5ZZ Zenon    ,Zawadzki Warszawa  Mazowieckie         | POL
 2605105,SQ8ISD Artur   ,Boguta Swidnik     Lubelskie           | POL
 2605106,SQ5AZZ Dariusz ,Walczak Zuromin    Mazowieckie         | POL
+2605107,SP5AZZ Damian  ,Zuromin            Mazowieckie         | POL
 2605108,SQ8KJK Artur   ,Prus Lublin        Mazowieckie         | POL
 2605109,SQ5AZZ Dariusz ,Walczak Zuromin    Mazowieckie         | POL
+2605110,SP5AZZ Damian  ,Zuromin            Mazowieckie         | POL
 2605111,SQ5HUE Sebastia,Orzechowski Warsza Mazowieckie         | POL
 2605113,SQ5PGC Marcin  ,Pindor Zyrardow    Mazowieckie         | POL
 2605114,SQ4G Grzegorz  ,Sadowski Bialystok Mazowieckie         | POL
@@ -84229,7 +84351,7 @@
 2622617,DG9LP Peer     ,Reymann Nordersted SH                  | DEU
 2622618,DL6LAG Guenter ,Thun Westensee     SH                  | DEU
 2622619,DF4JV Joachim  ,Voss Harrislee     SH                  | DEU
-2622620,DL1CMM Andreas ,Puppe Lauenburg    SH                  | DEU
+2622620,DL1CMM Andreas ,Puppe Lauenburg    HAMBURG SCHLESWIG HO| DEU
 2622621,DK3UM Hans-Joac,Roehl Aumuehle     SH                  | DEU
 2622622,DJ3HKM Klaus   ,Kraft Hamburg      HH                  | DEU
 2622623,DG6SI Ralf     ,Konstanty Luebeck  SH                  | DEU
@@ -86378,7 +86500,7 @@
 2624830,DL7HJS Harald  ,Stuerzebecher no_c                     | DEU
 2624831,DL7BCU Bjoern C,Unger Kevelaer     NW                  | DEU
 2624832,DL6YEM Heiko   ,Baumann Duesseldor NW                  | DEU
-2624833,DN9RP Rainer   ,Porsch Essen       NW                  | DEU
+2624833,DO4RP Rainer   ,Porsch Essen       NW                  | DEU
 2624834,DL9QQ Johannes ,Gerken Hoexter     NW                  | DEU
 2624835,DL1YPS Frank   ,Schael Blomberg    NW                  | DEU
 2624836,DL2RAK Rainer  ,Kau Datteln        NW                  | DEU
@@ -87265,7 +87387,7 @@
 2625751,DO1RLF Ralf    ,Schmitt no_city    SL                  | DEU
 2625752,DB1WS Oliver   ,Zimmermann Spabrue RP                  | DEU
 2625753,DL9FZ Florian  ,Zahn Speyer        RP                  | DEU
-2625754,DN8ONE Ralf    ,Schmitt no_city                        | DEU
+2625754,DN8ONE Ralf    ,Schmitt Bildstock  SL                  | DEU
 2625755,DF3VX Gerd     ,Klein Rehlingen-Si SL                  | DEU
 2625756,DL3JOP Joshua  ,Petry no_city      SL                  | DEU
 2625757,DD1UM Manfred  ,Loesch Kaiserslaut RP                  | DEU
@@ -88352,7 +88474,6 @@
 2626858,DD8MT Thomas   ,Much Friedrichsdor HE                  | DEU
 2626859,DO2KDE Klaus-Di,Ehrhardt no_city                       | DEU
 2626860,DF9ZV Georg    ,Reitz Waldbrunn    HE                  | DEU
-2626861,DL5BW Baldur   ,Wimmel Vellmar     HE                  | DEU
 2626862,DK2FA Michael  ,Doernhoefer Kassel HE                  | DEU
 2626863,DL7XP Patrick  ,Herbert Hessisch L HE                  | DEU
 2626864,DH1MH Michael  ,Herbert Michelstad HE                  | DEU
@@ -92592,7 +92713,7 @@
 2631324,DJ5NF Martin   ,Stuerznickel Schoe RP                  | DEU
 2631325,DH0GMI Michael ,Boehm Emmendingen  BW                  | DEU
 2631326,DG1JK Juergen  ,Koenig Wegberg     NW                  | DEU
-2631327,DL5VB Rafael Am,Virillo Baston Ess BW                  | DEU
+2631327,DL5VB Rafael   ,Virillo Baston Amb BY                  | DEU
 2631328,DH8IAM Thomas  ,Munde Dohna        SN                  | DEU
 2631329,DB8KS Sarah    ,Menninger Wuerzbur BY                  | DEU
 2631330,DL7COC Christia,Back Lampertheim   HE                  | DEU
@@ -92618,7 +92739,7 @@
 2631350,DF1BB Bjoern   ,Biesenbach Bochum  NW                  | DEU
 2631351,DL0GHI ClubSt. ,H39 MARIENBURG Han NI                  | DEU
 2631352,DO6TW Thomas   ,Weitzel Braunschwe NI                  | DEU
-2631353,DL4JC Jens-Chri,Merg Riegelsberg   SL                  | DEU
+2631353,DL4JC Jens     ,Merg Riegelsberg   SL                  | DEU
 2631354,DM1MK Mathias  ,Kempke Schwarmsted NI                  | DEU
 2631355,DL2MWB Wolfgang,Endres Ottobeuren  BY                  | DEU
 2631356,DK5KP Klaus    ,Hartmann Emsdetten NW                  | DEU
@@ -92860,7 +92981,7 @@
 2631594,DG6MA Marco    ,Becker Winnenden   BW                  | DEU
 2631595,DH3JK Joachim  ,Knebel Alsbach-Hae HE                  | DEU
 2631596,DO2FRK Frank   ,Krug Stendal       ST                  | DEU
-2631597,DO5SOB Bernd   ,Sobottka Weidenste BW                  | DEU
+2631597,DL5BW Bernd    ,Sobottka Weidenste BW                  | DEU
 2631598,DC1CP Christian,Pyka Bochum        NW                  | DEU
 2631599,DO2KST Stefan  ,Kaiser Irlbach     BY                  | DEU
 2631600,DJ5SW Stefan   ,Schmacke Witten    NW                  | DEU
@@ -93483,6 +93604,7 @@
 2632222,DN9NAK Andreas ,Kempter Nuernberg  BY                  | DEU
 2632223,DH1HRM Markus  ,Stamm Schwabach    BY                  | DEU
 2632224,DA1MN Roman    ,Hofer Neustadt A.D BY                  | DEU
+2632225,DL6JJ Jadyn    ,Jaeger Karlsruhe   BW                  | DEU
 2632226,DO4ADK Andreas ,Koerber Braunschwe NI                  | DEU
 2632227,DO5DOM Dominik ,Hense Korbach Stro HE                  | DEU
 2632228,DN9JC Christian,Raschke Dorsten    NW                  | DEU
@@ -96322,7 +96444,7 @@
 2635108,DA6LTW Josef   ,Stautner Waldmuenc BY                  | DEU
 2635109,DO2ARD Andre'  ,Rusche Cremlingen  NI                  | DEU
 2635110,DR1UAM Clubst. ,Rusche Cremlingen  BY                  | DEU
-2635111,DN9HO Horst-Ger,Dehmel Guntersblum RP                  | DEU
+2635111,DA6HO Horst    ,Dehmel Guntersblum RP                  | DEU
 2635112,DM1PWN Michael ,Mueller Leverkusen NW                  | DEU
 2635113,DO9SJ Sebastian,Jankowsky Esslinge BW                  | DEU
 2635114,DO9MRB Michael ,Becker Oldenburg   NI                  | DEU
@@ -97368,6 +97490,27 @@
 2636417,DG5SBK Rainer  ,Sins Reutlingen    BW                  | DEU
 2636418,DA6HR Hartmut  ,Richthammer Regens BY                  | DEU
 2636419,DL1ALU Andreas ,Ludwig Freudenberg BW                  | DEU
+2636420,DG4LD Dirk     ,Thomsen Harrislee  SH                  | DEU
+2636421,DN9HEL Katharin,Krambrock Mettlach SL                  | DEU
+2636422,DO4ACM Achim   ,Mrotzek Bottrop    NW                  | DEU
+2636423,DM7WB Marco    ,Mueller Weingarten BW                  | DEU
+2636424,DG7KA Werner   ,Jaeger Monheim am  NW                  | DEU
+2636425,DO1ALG Andreas ,Geray Eglofs       BW                  | DEU
+2636426,DK1BP Bernard  ,Pranjic Oberhausen BY                  | DEU
+2636427,DO7LCK Christop,Kroemer Luenen     NW                  | DEU
+2636428,DN9SKT Tom     ,Bercks Roesrath    NW                  | DEU
+2636429,DK4KT Klaus    ,Treutler Herzogenr NW                  | DEU
+2636430,DN9HEY Simone  ,Teller Kassel      HE                  | DEU
+2636431,DL2LIP Wolfgang,Buhr Lage          NI                  | DEU
+2636432,DL4PA Gerhard  ,Oberlaender Berlin BE                  | DEU
+2636433,DL8AVH Veronika,Haug Leonberg      BW                  | DEU
+2636434,DL1YY Johann   ,Spanhake Neubiberg BY                  | DEU
+2636435,DL1PAL Uwe     ,Herforth Essen     NW                  | DEU
+2636436,DO1SHN Harald  ,Nowak Aalen-Wasser BW                  | DEU
+2636437,DO6MOD Veronika,Modes Kelheim      BY                  | DEU
+2636438,DN9WAV Sergej  ,Meier Ahrensburg   SH                  | DEU
+2636439,DL7KI Norbert  ,Neupert Tostedt    NI                  | DEU
+2636440,DC4GI Frank    ,Fader Schramberg   BW                  | DEU
 2637001,DF6MP Marcus   ,Prantner Reutlinge BW                  | DEU
 2637002,DO2STO Matthias,Scholze Stockach   BW                  | DEU
 2637003,DK7OJ Klaus    ,Puschmann Sauldorf BW                  | DEU
@@ -99620,7 +99763,7 @@
 2680005,CT2GWW Juliocos,Amadora            No_regio            | PRT
 2680006,CS7AWL Julio   ,Amadora            Regiao De Lisboa    | PRT
 2680007,CT1FAW no_name ,no_city            No_regio            | PRT
-2680008,CT2HDT Tiago   ,Pinto Arruda Dos V Tiagopinto          | PRT
+2680008,CT2HDT Tiago   ,Sobral De Monte Ag Regiao De Lisboa    | PRT
 2680009,CU3EQ Josetoste,Angra Do Heroismo  No_regio            | PRT
 2680010,CT4VB Jose     ,Roseiro Carnaxide  No_regio            | PRT
 2680011,CT2IFC no_name ,no_city            No_regio            | PRT
@@ -100411,6 +100554,13 @@
 2680825,CT2HEW Diogo   ,Oeiras             Regiao De Lisboa    | PRT
 2680826,CT1FBQ Jose    ,Silves             Regiao De Algarve   | PRT
 2680827,CR7CEZ Marcelo ,Alcobaca           Regiao Centro       | PRT
+2680828,CR7CDO Rui     ,Braga              Regiao Norte        | PRT
+2680829,CR7BUJ Angelo  ,Alcabideche        Regiao De Lisboa    | PRT
+2680830,CR7BPU Honorato,Aveiro             Regiao Centro       | PRT
+2680831,CR7BWQ Luis    ,Aveiro             Regiao Centro       | PRT
+2680832,CR7CFM Fabio   ,Penamacor          Regiao Centro       | PRT
+2680833,CR7CFL Jose    ,Penamacor          Regiao Centro       | PRT
+2680834,CR7CFK Rafael  ,Castelo Branco     Regiao Centro       | PRT
 2681001,CT2HMR Manuel  ,Amarante           Porto District      | PRT
 2681002,CT1DQV Eduardo ,Goncalves Chaves   Vila Real           | PRT
 2681003,CT2GSW Rui     ,Calada Maia        Porto District      | PRT
@@ -100664,7 +100814,7 @@
 2682110,CT2IFO Fernando,Santos Alcobaca    Leiria              | PRT
 2682111,CT2IGY Carlos  ,Nunes Figueiro Dos Leiria              | PRT
 2682112,CS7AHO Vito    ,Marques Sao Martin Leiria              | PRT
-2682113,CT4TX Jose     ,Ctcoprteu Coimbra  Regiao Centro       | PRT
+2682113,CT4TX Jose Melo,Coimbra            Regiao Centro       | PRT
 2682114,CT1FYW Pedro   ,Almeida Covilha    Castelo Branco      | PRT
 2682115,CR7ANJ Diogo   ,Coimbra            Coimbra             | PRT
 2682116,CT1BYQ Jose    ,Bartolo Caldas Da  Leiria              | PRT
@@ -100796,7 +100946,6 @@
 2683019,CT1AIC Rui     ,Costa Carcavelos   Lisboa              | PRT
 2683020,CT1BUW Jose    ,Pires Estoril      Lisboa              | PRT
 2683022,CS7ADG Luis    ,Paula Odivelas     Lisbon              | PRT
-2683023,CT1DTE Luis    ,Valadas Oeiras     Lisboa              | PRT
 2683024,CT2HMX Hugo    ,Barata Mem Martins Lisboa              | PRT
 2683025,CT1FHI Jorge   ,Cardoso Cascais    Lisboa              | PRT
 2683026,CT1EGT Jose    ,Taborda Cascais    Lisbon              | PRT
@@ -101357,6 +101506,7 @@
 2700084,LX2CJ Joao     ,Ehlerange          All Regions         | LUX
 2700085,LX1LANZ Loris  ,Grevenmacher       All Regions         | LUX
 2700086,LX1RG Rol      ,Bettembourg        All Regions         | LUX
+2700087,LX7BNO Bernard ,Luxembourg         All Regions         | LUX
 2701001,LX1CK Christian,Hautcharage        Luxembourg          | LUX
 2701002,LX2KA Arsene   ,Kayl               Luxembourg          | LUX
 2701003,LX1SC Claude   ,Oberkorn           Luxembourg          | LUX
@@ -101964,6 +102114,7 @@
 2720464,EI6IKB Mick    ,Dublin             All Regions         | IRL
 2720465,EI8JQB Mark    ,Wicklow Town       All Regions         | IRL
 2720466,EI7LK Angel    ,Baltimore          All Regions         | IRL
+2720467,EI5JTB Jon     ,Donegal            All Regions         | IRL
 2740001,TF1PA Pier     ,Reykjavik                              | ISL
 2740002,TF8KP Krzysztof,Przybylski Keflavi No_regio            | ISL
 2740003,TF8KP Krzysztof,Przybylski Keflavi No_regio            | ISL
@@ -102076,7 +102227,7 @@
 2780071,9H5TS Trevor   ,Sammut Birkirkara  All Regions         | MLT
 2780072,9H2OR Mario    ,Pullicino Mellieha All Regions         | MLT
 2780073,9H2EC Edward   ,Chetcuti Birkirkar                     | MLT
-2780074,9H2JC John Bapt,Chetcuti Birkirkar                     | MLT
+2780074,9H2JC John     ,Birkirkara         All Regions         | MLT
 2780075,9H2ME James    ,Baldacchino Zejtun All Regions         | MLT
 2780076,9H2LM Lee      ,Martin Santa Vener All Regions         | MLT
 2780077,9H5Q Joseph    ,Borg Mosta         All Regions         | MLT
@@ -102321,7 +102472,7 @@
 2840106,LZ7GW Vladimir ,Sofia              No_regio            | BGR
 2840107,LZ7DP Dimitar  ,Pavlov Burgas      All Regions         | BGR
 2840108,LZ1XA Hristo   ,Haskovo            No_regio            | BGR
-2840109,LZ3SU Stoyan   ,Stoyanov Sliven    All Regions         | BGR
+2840109,LZ3SU Stoyan   ,Sliven             Sliven              | BGR
 2840111,LZ1XM Anton    ,Bankia             No_regio            | BGR
 2840112,LZ1KTC Stefan  ,Sofia              No_regio            | BGR
 2840113,LZ3DC Dragomir ,Karnobat           No_regio            | BGR
@@ -103350,7 +103501,7 @@
 2860282,TA1OCB Cem Basa,Kirklareli                             | TUR
 2860283,TA1NUS Nusret  ,Kirklareli                             | TUR
 2860284,TB4BHO Hasan   ,Antalya                                | TUR
-2860285,TA1AZA Arif Erd,Canakkale                              | TUR
+2860285,TA1AZA Erdem   ,Canakkale          Marmara Region      | TUR
 2860286,TA1IJK Sertac  ,Istanbul                               | TUR
 2860287,TA2GT Kartav   ,Istanbul                               | TUR
 2860288,TA3GY Yunus    ,Manisa                                 | TUR
@@ -104049,6 +104200,7 @@
 2860984,TB1YGE Munevver,Istanbul                               | TUR
 2860985,TA4MM Muhterem ,Afyonkarahisar                         | TUR
 2860986,TA1RT Recai    ,Tunc Istanbul                          | TUR
+2860987,TB4DIK Islam   ,Aydin              Aegean Region       | TUR
 2860988,TA4IKT Tdpkubil,Aydin                                  | TUR
 2860989,TB7EDT Tolga   ,Ordu               Black Sea Region    | TUR
 2860990,TA2OG Bulent   ,Bilgic Istanbul                        | TUR
@@ -104144,7 +104296,7 @@
 2861080,TA2UFW Abtkomut,Ankara                                 | TUR
 2861081,TA3KT Kemal    ,Izmir                                  | TUR
 2861082,TA2AH Ruchan   ,Mugla                                  | TUR
-2861083,TB1TSK Serkanka,                                       | TUR
+2861083,TB1TSK Serkan  ,Istanbul           Marmara Region      | TUR
 2861084,TA4UZE Uzeyir  ,Nazilli                                | TUR
 2861085,TA4LS Mustafa  ,Nazilli            Eastern Anatolia Reg| TUR
 2861086,TA1ULA Yunus   ,Istanbul                               | TUR
@@ -105281,7 +105433,7 @@
 2862222,TA2SYA Arif Yav,Gokcimen Bartin                        | TUR
 2862223,TA4ATX Ta4atx  ,Datca Mugla                            | TUR
 2862224,YM9EHK Hak     ,Van                Eastern Anatolia Reg| TUR
-2862225,TA7ACD Mehmet  ,Sivas              Central Anatolia Reg| TUR
+2862225,TA7RF Mehmet   ,Sivas              Central Anatolia Reg| TUR
 2862226,TA2AJQ Mehmet  ,Satilmis Ankara    Central Anatolia Reg| TUR
 2862227,TA2AFQ Samet   ,Karabuk                                | TUR
 2862228,TA1NDA Alper   ,Durmus Kapakli                         | TUR
@@ -106813,8 +106965,8 @@
 2863821,TB5HAK Hakan   ,Mertli Konya                           | TUR
 2863822,TA2DSM Salih Me,Dogansoy           Mediterranean Region| TUR
 2863823,TB2CQH Aykut   ,Karakas Sakarya    Marmara Region      | TUR
-2863824,TA2R Altinova  ,Karakas Sakarya    Marmara Region      | TUR
-2863825,TB3GCO Sabanci ,Karakas Sakarya    Aegean Region       | TUR
+2863824,TA2R Ismail    ,Istanbul Umraniye  Marmara Region      | TUR
+2863825,TB3GCO Sabanci ,Istanbul Umraniye  Aegean Region       | TUR
 2863826,TA3VAR Murat   ,Erdem Izmir        Aegean Region       | TUR
 2863827,TB3HUS Huseyin ,Emcan Balikesir    Marmara Region      | TUR
 2863828,TA1EDO Edim    ,Karisik Istanbul   Marmara Region      | TUR
@@ -108499,6 +108651,7 @@
 2865559,TB8GKE Ali     ,Goker Malatya      Marmara Region      | TUR
 2865561,TA4DRA Arda    ,Demir Antalya      Mediterranean Region| TUR
 2865562,TA5BED Berrin  ,Dogmus Konya       Central Anatolia Reg| TUR
+2865563,TB4DIK Islam   ,Aydin              Aegean Region       | TUR
 2865564,TA2EDS Eren    ,Dikmen Bolu        Black Sea Region    | TUR
 2865565,TA5FL Kenan    ,Binen Adana        Mediterranean Region| TUR
 2865566,TA6EMR Mert Emr,Asan Corum         Black Sea Region    | TUR
@@ -109300,6 +109453,7 @@
 2866370,TB2YCT no_name ,Kocaeli            Marmara Region      | TUR
 2866371,TA6MLH Melih   ,Urgen Corum        Black Sea Region    | TUR
 2866372,TA1DAL Mesut   ,Dal Istanbul       Marmara Region      | TUR
+2866373,TA1EGK Eyyup   ,Istanbul           Marmara Region      | TUR
 2866374,TA2TWR Bersan  ,Ekici Istanbul     Marmara Region      | TUR
 2866375,TA4WTA Tonguc  ,Antalya            Mediterranean Region| TUR
 2866376,TA3XEE Ethem   ,Elagoz Izmir       Aegean Region       | TUR
@@ -109556,7 +109710,7 @@
 2866628,TA2GVN Ferhat  ,Zor                Marmara Region      | TUR
 2866629,TA2CYT no_name ,Sakarya            Marmara Region      | TUR
 2866630,TA4BFA Furkan  ,Antalya            Mediterranean Region| TUR
-2866631,TB1ARS Batuhan ,Arslan Istanbul    Marmara Region      | TUR
+2866631,TB1ARS Batuhan ,Istanbul           Marmara Region      | TUR
 2866632,TB5ADP Omer Far,Akbey Adana        Mediterranean Region| TUR
 2866633,TB5MDR Hakan   ,Ugurluabaci Konya  Central Anatolia Reg| TUR
 2866634,TA2WL Muhsin   ,Safak Sakarya      Marmara Region      | TUR
@@ -109731,7 +109885,7 @@
 2866803,TA2TSC Batuhan ,Kazan Kartal       Marmara Region      | TUR
 2866804,TA2OLL Ismail  ,Karasu Sakarya     Marmara Region      | TUR
 2866805,TB1CKC Fatih   ,                   Marmara Region      | TUR
-2866806,TB3NHM Huseyin ,Erol Manisa        Aegean Region       | TUR
+2866806,TA3NHM Huseyin ,Manisa             Aegean Region       | TUR
 2866807,TA1EJV Halil   ,Atak Istanbul      Marmara Region      | TUR
 2866808,YM1KTC Amateur ,Community Istanbul Marmara Region      | TUR
 2866809,TA3COZ Cevahir ,Kaskir Izmir       Aegean Region       | TUR
@@ -109931,7 +110085,7 @@
 2867007,TA2NJT Huseyin ,Oncul Istanbul     Marmara Region      | TUR
 2867008,TA4SYK no_name ,Esme               Aegean Region       | TUR
 2867009,TA2GAZ no_name ,Merkez             Black Sea Region    | TUR
-2867010,TA2XKA no_name ,Bolu               Black Sea Region    | TUR
+2867010,TA2XKA Kadri   ,Bolu               Black Sea Region    | TUR
 2867011,TA2DBI no_name ,Istanbul           Marmara Region      | TUR
 2867012,TA7MMY Mehmet H,Yondem             Black Sea Region    | TUR
 2867013,TB6DDL Sukru   ,Dodur              Black Sea Region    | TUR
@@ -110126,7 +110280,7 @@
 2867202,TA4GSG Mehmet  ,Hansu None         Aegean Region       | TUR
 2867203,TA2ZMB Ziya    ,Bingol Istanbul    Marmara Region      | TUR
 2867204,TA2LLO Ahmet   ,Ozdenkaya Sakarya  Marmara Region      | TUR
-2867205,TB3KCA Can     ,Kaya Izmir         Aegean Region       | TUR
+2867205,TA3ENT Can     ,Izmir              Aegean Region       | TUR
 2867206,TA1EWR Erdi    ,None               Marmara Region      | TUR
 2867207,TA4AZL Emin    ,Enli Denizli       Aegean Region       | TUR
 2867208,YM5KN Trac     ,Nigde Nigde        Central Anatolia Reg| TUR
@@ -110702,7 +110856,6 @@
 2867784,TA3BIG Sukru   ,Gunduz Izmir       Aegean Region       | TUR
 2867785,TA6RK Levent   ,Komutan Samsun     Black Sea Region    | TUR
 2867786,TA1TSA Sadettin,Avci Istanbul      Marmara Region      | TUR
-2867787,TA2ZIX Robbert ,Van Herksen Altint                     | TUR
 2867788,TA8DUA Bunyamin,Barasi Bingol      Eastern Anatolia Reg| TUR
 2867789,TB2SES Ersin   ,Arslanturk Ankara  Eastern Anatolia Reg| TUR
 2867790,TA2UWE Ozgur   ,Aslan Ankara                           | TUR
@@ -111140,7 +111293,7 @@
 2868230,TA2VIM Ozgun   ,Istanbul           Marmara Region      | TUR
 2868231,TA1KMZ Ahmet   ,Istanbul           Marmara Region      | TUR
 2868232,TA1LCN Deniz   ,Istanbul           Marmara Region      | TUR
-2868233,TB2KKA Ulkumen ,Ankara             Central Anatolia Reg| TUR
+2868233,TB2KKA Kurshad ,Ankara             Central Anatolia Reg| TUR
 2868234,TA2ZZH Necmi   ,Istanbul           Marmara Region      | TUR
 2868235,TA5WWW Asim    ,Aksaray            Central Anatolia Reg| TUR
 2868236,TA3BIW Hasan   ,Manisa             Aegean Region       | TUR
@@ -111218,6 +111371,44 @@
 2868308,TA5INT Necati  ,Adana              Mediterranean Region| TUR
 2868309,TA2XSM Selcuk  ,Istanbul           Marmara Region      | TUR
 2868310,TA1SSN Semih   ,Istanbul           Marmara Region      | TUR
+2868311,TA8AZP Fatih   ,Gaziantep          Eastern Anatolia Reg| TUR
+2868312,TA6BRT Berat   ,Samsun             Black Sea Region    | TUR
+2868313,TB1CNA Comert  ,Istanbul           Marmara Region      | TUR
+2868314,TA2CBF Burak   ,Tekirdag           Marmara Region      | TUR
+2868315,TA2VKN Volkan  ,Istanbul           Marmara Region      | TUR
+2868316,TB1ILY Ilyas   ,Istanbul           Marmara Region      | TUR
+2868317,TB5TAO Ayhan   ,Konya              Southeastern Anatoli| TUR
+2868318,TA3HEM Berke   ,Izmir              Aegean Region       | TUR
+2868319,TA3ZZK Kenan   ,Bursa              Marmara Region      | TUR
+2868320,TA1RAK Recep   ,Istanbul           Marmara Region      | TUR
+2868321,TA6MBT Berksun ,Corum              Black Sea Region    | TUR
+2868322,TA1DYM Tarik   ,Istanbul           Marmara Region      | TUR
+2868323,TB8CNM Murat   ,Gaziantep          Southeastern Anatoli| TUR
+2868324,TB2AEX Ismail  ,Kocaeli            Marmara Region      | TUR
+2868325,TA5XAD Furkan  ,Osmaniye           Mediterranean Region| TUR
+2868326,TA2HLG Bulent  ,Istanbul           Aegean Region       | TUR
+2868327,TA2HCZ Cahit   ,Eskisehir          Central Anatolia Reg| TUR
+2868328,TA2UKJ Kadir   ,Sakarya            Marmara Region      | TUR
+2868329,TA5ONU Onur    ,Konya              Central Anatolia Reg| TUR
+2868330,TB2AWD Furkan  ,Ankara             Central Anatolia Reg| TUR
+2868331,TB2SYY Goksel  ,Istanbul           Marmara Region      | TUR
+2868332,TB1ALM Saim    ,Istanbul           Marmara Region      | TUR
+2868333,TB8AKB Ibrahim ,Kahramanmaras      Mediterranean Region| TUR
+2868334,TA2VOW Fatih   ,Istanbul           Marmara Region      | TUR
+2868335,TA2TCU Burak   ,Sakarya            Marmara Region      | TUR
+2868336,TA3DIM Mirac   ,Gonen              Black Sea Region    | TUR
+2868337,TA5MIT Emir    ,Adana              Mediterranean Region| TUR
+2868338,TA4UHB Ugur Koc,Denizli            Aegean Region       | TUR
+2868339,TA6KB Fatih    ,Corum              Black Sea Region    | TUR
+2868340,TA2ZOL Ismail  ,Istanbul           Black Sea Region    | TUR
+2868341,TA3NA Alper    ,Canakkale Biga     Marmara Region      | TUR
+2868342,TA2KAZ Ahmet   ,Istanbul           Marmara Region      | TUR
+2868343,TA1BTV Batuhan ,Istanbul           Marmara Region      | TUR
+2868344,TB4GVS Deneme  ,Mugla              Aegean Region       | TUR
+2868345,TA4US Sami     ,Antalya            Mediterranean Region| TUR
+2868346,TA6DAG Yunus   ,Erbaa Tokat        Black Sea Region    | TUR
+2868347,TA2KXS Umit    ,Istanbul           Marmara Region      | TUR
+2868348,TA2FLC Huseyin ,Istanbul           Marmara Region      | TUR
 2868686,TB3ACU Baris   ,Kazikli Buca       Aegean Region       | TUR
 2868888,TA1QQ Erol     ,Istanbul           Marmara Region      | TUR
 2880001,OY8W Steffen   ,Solberg Kollafjord All Regions         | FRO
@@ -112159,7 +112350,7 @@
 2930921,S56GP Gasper   ,Pelc Ljubljana     Osrednjeslovenska   | SVN
 2930922,S57ACD Tilen   ,Gramc Brezice      Posavska            | SVN
 2930923,S58DD Dejan    ,                   Gorenjska           | SVN
-2930924,S56WT no_name  ,Nova Gorica                            | SVN
+2930924,S56WT Tjaz     ,Nova Gorica        Goria¡ka            | SVN
 2930925,S50ZL no_name  ,                                       | SVN
 2930926,S57LG Gasper   ,Grosuplje          Osrednjeslovenska   | SVN
 2930927,S56AT Alen     ,Grohar Izola                           | SVN
@@ -112336,13 +112527,14 @@
 2931104,S57MBU Klemen  ,Grosuplje          Osrednjeslovenska   | SVN
 2931105,S52JA Janez    ,Zirovnica          Gorenjska           | SVN
 2931106,S56KD Ales     ,Zirovnica          Gorenjska           | SVN
+2931107,S56FA Andraz   ,Lozice             Goria¡ka            | SVN
 2940001,Z36AEC Herolind,Useini Gostivar    Gostivar            | MKD
 2940002,Z32IT Dragan   ,Spiroski Skopje    Skopje Regionskopje | MKD
 2940003,Z32IT Dragan   ,Spiroski Skopje    Skopje              | MKD
-2940004,Z34NVD Nikolche,Dimovski Skopje    No_regio            | MKD
+2940004,Z34NVD Nikolche,Skopje             All Regions         | MKD
 2940005,Z34AVD Aleksand,Dimovski Skopje    No_regio            | MKD
 2940006,Z36M Antonio   ,Skopje                                 | MKD
-2940007,Z34NVD Nikolche,Dimovski Skopje    No_regio            | MKD
+2940007,Z34NVD Nikolche,Skopje             All Regions         | MKD
 2940008,Z35WTF Darko   ,Atkovski Skopje    No_regio            | MKD
 2940009,Z34PEC Petrika ,Janeku Skopje      No_regio            | MKD
 2940010,Z31GOC Goce    ,Boshkovski Skopje  No_regio            | MKD
@@ -112468,7 +112660,7 @@
 2940135,Z33NIK Nikola  ,Prilep             All Regions         | MKD
 2940136,Z33TI Ilcho    ,Prilep             All Regions         | MKD
 2940137,Z33ZAA Zoran   ,Skopje             All Regions         | MKD
-2940138,Z31DAC Dacko   ,Skopje             All Regions         | MKD
+2940138,Z31AD Dacko    ,Skopje             All Regions         | MKD
 2940139,Z33AAJ Aleksand,Skopje             All Regions         | MKD
 2940140,Z32ADO Niko    ,Skopje             All Regions         | MKD
 2940141,Z34MTJ Matej   ,Skopje             All Regions         | MKD
