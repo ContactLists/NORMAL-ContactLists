@@ -4507,7 +4507,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624623,DG3ED,Michael,Soentgerath,Duisburg,DEU/NW,,Private Call,None
 ,2624624,DL5KAW,Wilhelm,Vollmann,Koeln,DEU/NW,,Private Call,None
 ,2624625,DO4HA,Frank,Hartmann,Hagen,DEU/NW,,Private Call,None
-,2624626,DL5KCD,Franz-Dieter,Wagner,Bergheim,DEU/NW,,Private Call,None
+,2624626,DL5KCD,Franz,Wagner,Bergheim,DEU/BY,,Private Call,None
 ,2624627,DG7YIB,Andrea,Rakowski,Enger,DEU/NW,,Private Call,None
 ,2624628,DG9YIT,Malte,Schroeder,Buende,DEU/NW,,Private Call,None
 ,2624629,DL5EBW,Herbert,Jordan,Ratingen,DEU/NW,,Private Call,None
@@ -4682,8 +4682,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624802,DK1ZH,Rolf,Schloesser,Siegburg,DEU/NW,,Private Call,None
 ,2624803,DD7ZD,Thomas,Niess,Mannheim,DEU/BW,,Private Call,None
 ,2624804,DD8FP,Frank,Pustlauk,Overath,DEU/NW,,Private Call,None
-,2624805,DO1IP,Udo,Sander,Wermelskirchen,DEU/NW,,Private Call,None
-,2624806,DO1IP,Udo,Sander,Wermelskirchen,DEU/NW,,Private Call,None
+,2624805,DA6YN,Udo,Sander,Wermelskirchen,DEU/NW,,Private Call,None
+,2624806,DA6YN,Udo,Sander,Wermelskirchen,DEU/NW,,Private Call,None
 ,2624807,DL2YFB,Heinz,Muenninghoff,Recklinghausen,DEU/NW,,Private Call,None
 ,2624808,DD1KU,Ulrich,Kaesbach,Bergisch Gladbach,DEU/NW,,Private Call,None
 ,2624810,DG8KBI,Peter,Hatterscheid,no_city,DEU/NW,,Private Call,None
@@ -6155,7 +6155,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2626322,DL3YL,Gudrun,Diehl,no_city,DEU/HE,,Private Call,None
 ,2626323,DO1FZZ,Manfred,Kroeckel,Frankfurt,DEU/HE,,Private Call,None
 ,2626324,DG1FFC,Joerg,Langendorf,Bad Camberg,DEU/HE,,Private Call,None
-,2626325,DO7LIA,Simon Stefan,Dittrich,Woelfersheim,DEU/HE,,Private Call,None
+,2626325,DO7LIA,Simon,Dittrich,Woelfersheim,DEU/HE,,Private Call,None
 ,2626326,DB1FE,Thomas,Wietoska,Hanau,DEU/HE,,Private Call,None
 ,2626327,DL8FBP,Dieter,Weitzel,Felsberg,DEU/HE,,Private Call,None
 ,2626328,DL8MGM,Matthias,Goeller,Huenfeld,DEU/HE,,Private Call,None
@@ -6793,7 +6793,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2626972,DG5FDC,Andre',Fenzl,Knuellwald,DEU/HE,,Private Call,None
 ,2626973,DL5DM,Michael,Masur,Frankenberg,DEU/HE,,Private Call,None
 ,2626974,DF1JSL,Joerg,Schultze-Lutter,Rheda-Wiedenbrueck,DEU/HE,,Private Call,None
-,2626975,DG6FFG,Pier Carlo,Rabino,Frankfurt,DEU/HE,,Private Call,None
 ,2626976,DN9GON,Thorsten,Hoffmann,Homberg (Ohm),DEU/HE,,Private Call,None
 ,2626977,DK6KR,Robin,Kleinert,Darmstadt,DEU/HE,,Private Call,None
 ,2626978,DB3ZY,Matthias,Schneider,Wiesbaden,DEU/HE,,Private Call,None
@@ -15780,6 +15779,23 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636503,DG3ZQ,Dieter,Fischer,Luetzelbach,DEU/HE,,Private Call,None
 ,2636504,DO4YPB,Pascal,Beckmann,Gelsenkirchen,DEU/NW,,Private Call,None
 ,2636505,DO4YDB,Dirk,Beckmann,Gelsenkirchen,DEU/NW,,Private Call,None
+,2636506,DG2SCG,Philipp,Koke,Ellwangen,DEU/BW,,Private Call,None
+,2636507,DL7DD,Hans Peter,Dochhorn,Aurich,DEU/NI,,Private Call,None
+,2636508,DN9PO,Marco,Osswald,Poessneck,DEU/TH,,Private Call,None
+,2636509,DN9HF,Markus,Feldotte,Saarbruecken,DEU/SL,,Private Call,None
+,2636510,DG1FDE,Manfred,Bittel,Hofheim am Taunus,DEU/HE,,Private Call,None
+,2636511,DC6SJP,Artur,Betz,Germersheim,DEU/RP,,Private Call,None
+,2636512,DJ1EH,Erdem,Hacisalihoglu,Dortmund,DEU/NW,,Private Call,None
+,2636513,DF0M,Contestst.,DOK-C18 MUENCHEN SUED,Muenchen,DEU/BY,,Private Call,None
+,2636514,DL7C,Contestst.,,Grasbrunn,DEU/BY,,Private Call,None
+,2636515,DN9JSH,Jan,Schrader,Hannover,DEU/NI,,Private Call,None
+,2636516,DN8UP,Robert,Houben,Berlinl,DEU/BERLIN BRANDENBURG,,Private Call,None
+,2636517,DF7WJ,Hermann,Stoffels,Foehren,DEU/RP,,Private Call,None
+,2636518,DO5WLR,Christoph,Weiler,Filderstadt,DEU/BW,,Private Call,None
+,2636519,DO9WZ,Henning,Lustig,Hoerstel,DEU/NW,,Private Call,None
+,2636520,DN1MI,Severin,Wiedemann,Muenchen,DEU/BY,,Private Call,None
+,2636521,DO5RSP,Reinhard,Sperlich,Linz,DEU/RP,,Private Call,None
+,2636522,DN9CHS,Christoph,Schoeller,Marktbreit,DEU/BY,,Private Call,None
 ,2637001,DF6MP,Marcus,Prantner,Reutlingen,DEU/BW,,Private Call,None
 ,2637002,DO2STO,Matthias,Scholze,Stockach,DEU/BW,,Private Call,None
 ,2637003,DK7OJ,Klaus,Puschmann,Sauldorf,DEU/BW,,Private Call,None
