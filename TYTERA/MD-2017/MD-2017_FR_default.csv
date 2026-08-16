@@ -57,6 +57,8 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 1023148,VA3TKO,Bob Fletcher,,,Ontario,CAN
 1023149,VE3POF,Philippe Lapalme,,Sudbury,Ontario,CAN
 1023150,VE3POF,Philippe Lapalme,,Sudbury,Ontario,CAN
+1023153,VE3WCZ,Charles,,Ottawa,Ontario,CAN
+1023154,VE3WCZ,Charles,,Ottawa,Ontario,CAN
 1023156,VE3IPC,Michael,,Lefaivre,Ontario,CAN
 1023160,VE3YN,S. Sima,,Toronto,Ontario,CAN
 1023163,VA3BGW,Brad Wareham,,London,Ontario,CAN
@@ -210,7 +212,6 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2060131,ON3AF,Filip Absolon,,Oostende,West-Vlaanderen,BEL
 2060132,ON8HC,Hendrik Cattoor,,Blankenberge,West-Vlaanderen,BEL
 2060133,ON3OO,Johan Taffin,,Ieper,West-Vlaanderen,BEL
-2060134,ON2AJ,Johny,,Brugge,West Vlaanderen,BEL
 2060135,ON3JIL,Jean-Luc Detollenaere,,Zwevegem,West-Vlaanderen,BEL
 2060136,ON4CJP,Jean Ballings,,Oostende,West-Vlaanderen,BEL
 2060137,ON6CP,Carlos Pollet,,Diksmuide,West-Vlaanderen,BEL
@@ -926,7 +927,6 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2060857,ON3JFP,Jean,,Eeklo,Oost Vlaanderen,BEL
 2060858,ON5YX,Bart,,Aalst,Oost Vlaanderen,BEL
 2060859,ON4DTR,Dieter,,Grimbergen,Vlaams Brabant,BEL
-2060860,ON5JCQ,Maurice,,Flemalle,Liege,BEL
 2060861,ON2TTF,Thomas,,Colfontaine,Hainaut,BEL
 2060862,ON6AB,Bruno,,Rumst,Antwerp,BEL
 2060863,ON4VIC,Victor,,Jabbeke,West Vlaanderen,BEL
@@ -1004,6 +1004,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2060944,ON4FL,Philippe,,Oostkamp,West Vlaanderen,BEL
 2060945,ON4DAY,Jean Paul,,Haaltert,Oost Vlaanderen,BEL
 2060946,ON4AI,Sebastien,,Wavre,Wal Brabant,BEL
+2060947,ON4ZD,Leon,,Lillois Witterzee,Wal Brabant,BEL
 2061001,ON8SVH,Stijn Hende,,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,,Gent,Oost-Vlaanderen,BEL
@@ -1172,8 +1173,8 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2061172,ON5XZ,Francois Brouwer,,Aalst,Oost-Vlaanderen,BEL
 2061173,ON6FC,Gaston Ronsijn,,Waarbeke,Oost-Vlaanderen,BEL
 2061174,ON4CCI,Hugo Lambrecht,,Appels - Dendermonde,Oost-Vlaanderen,BEL
-2061175,ON3JM,Jacques Martijn,,Renaix,Oost-Vlaanderen,BEL
-2061176,ON3JM,Jacques Martijn,,Renaix,Oost-Vlaanderen,BEL
+2061175,ON3JM,Michael,,Engis,Liege,BEL
+2061176,ON3JM,Michael,,Engis,Liege,BEL
 2061177,ON3ABR,Rik Mulder,,Denderhoutem,Oost-Vlaanderen,BEL
 2061178,ON3ISA,Isabel Colman,,Wetteren,Oost-Vlaanderen,BEL
 2061179,ON3BRT,Bart Bohyn,,Gent,Oost-Vlaanderen,BEL
@@ -4397,6 +4398,11 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2082323,F4NBB,Philippe,,Marseille,Provence Alpes Cote D Azur,FRA
 2082324,F4NNX,Mickael,,Bourg En Bresse,Auvergne Rhone Alpes,FRA
 2082325,F4GYE,Christophe,,Ecommoy,Pays De La Loire,FRA
+2082326,F4NOK,Jordan,,Premilhat,Auvergne Rhone Alpes,FRA
+2082327,F4JEI,Alexis,,Rennes,Bretagne,FRA
+2082328,F4NNV,Alexandra,,Chambery,Auvergne Rhone Alpes,FRA
+2082329,F5MEM,Robert,,Plouedern,Bretagne,FRA
+2082330,F4NNU,Gwendal,,Sarlat La Caneda,Nouvelle Aquitaine,FRA
 2083001,F1IZL,Jean-Yves Ricklin,,La Tour Du Crieu,No_regio,FRA
 2083002,F4GEM,Arnaud Davrinche,,Cornebarrieu,No_regio,FRA
 2083003,F1BBG,Gerard Samson,,Tarascon Sur Ariege,No_regio,FRA
@@ -4579,7 +4585,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2084077,F5SKW,Philippe Eckenschwiller,,Mutzig,Alsace,FRA
 2084078,F5SNG,Francois Moinel,,Strasbourg,Alsace,FRA
 2084079,F5JFA,Jean-Luc Bornert,,Blaesheim,Alsace,FRA
-2084080,F1EQU,Pierre-Michel Bringer,,Montesson,Alsace,FRA
+2084080,F1EQU,Pierre Mich,,Zimmersheim,Grand,FRA
 2084081,F6AGS,Gerard,,,,FRA
 2084082,F4WCH,Wilko Wilkening,,Eschbach,Alsace,FRA
 2084083,F5PXF,Denis Ramelet,,Montferrat,Auvergne Rhone Alpes,FRA
@@ -4874,7 +4880,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2086132,F6HCM,Pascal Bossay,,Stgeours De Maremne,Aquitaine,FRA
 2086133,F6ESD,Alain Robin,,Jonzac,Nouvelle-Aquitaine,FRA
 2086134,F5JGL,Claude Chavaroche,,Saugon,Nouvelle-Aquitaine,FRA
-2086135,F1MWV,Jean-Pierre Lucas,,Royan,No_regio,FRA
+2086135,F1MWV,Lucas,,Royan,Nouvelle Aquitaine,FRA
 2086136,F4AYW,Rene Michot,,Pisany,Nouvelle-Aquitaine,FRA
 2086137,F6HRF,Pierre Maisonnave,,Stpaul Les Dax,Aquitaine,FRA
 2086138,F4IGA,Daniel Zanardi,,no_city,No_regio,FRA
@@ -6153,6 +6159,10 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2280549,HB3YJD,Gion,,Feusisberg,Schwyz,CHE
 2280550,HB9DJQ,Pierre,,Neyruz,Fribourg,CHE
 2280551,HB9DHD,Giger,,Zofingen,Aargau,CHE
+2280552,HB9HRA,Alessio,,Castelrotto,Ticino,CHE
+2280553,HB9IUT,Fabian,,Altdorf,Uri,CHE
+2280554,HB9IJN,Marc,,Muolen,St Gallen,CHE
+2280555,HB9NBM,Marc,,Sissach,Basel Country,CHE
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
@@ -7804,6 +7814,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3020108,VE3DNF,Brian Kremer,,Port Elgin,Ontario,CAN
 3020109,VE2FLJ,Juan Lavagna,,Quebec,Quebec,CAN
 3020110,VA3AGP,Policarpo Dias,,Cambridge,Ontario,CAN
+3020111,VA2PKM,Patrick,,Chicoutimi,Quebec,CAN
 3020112,VE9ZY,Malcolm Smith,,Tracadie-Sheila,New Brunswick,CAN
 3020113,VE3VLJ,Vanlaer Villanueva,,Scarborough,Quebec,CAN
 3020114,VY1XX,Wolf Zemp,,Whitehorse,Yukon,CAN
@@ -7823,6 +7834,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3020132,VE2YAR,Mario Remillard,,Saint-Jean-Sur-Richelieu,Quebec,CAN
 3020133,VE3EBY,Paul Stuart,,Burlington,On,CAN
 3020136,VE6TDT,Todd Tate,,Edmonton,Alberta,CAN
+3020137,VE2OMG,Michel,,Quebec,Quebec,CAN
 3020139,VA2LS,Serge,,Victoriaville,Quebec,CAN
 3020140,VE2MMF,Michel Ferlatte,,Saint-Roch-De-Richelieu,Quebec,CAN
 3020143,VA1GWP,Gregory,,,Nova Scotia,CAN
@@ -7997,6 +8009,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3020406,VA7PPT,Shawn Stewart,,Langley,Bc,CAN
 3020407,VA3COW,Jay Mandelker,,Thornhill,On,CAN
 3020408,VE9GM,Gino,,Dsl De Drummond,New Brunswick,CAN
+3020409,VE2IPI,Sadi,,Saint Constant,Quebec,CAN
 3020410,VA3COW,Jay Mandelker,,Thornhill,On,CAN
 3020413,VA7FR,Harry Wells,,Abbotsford,British Columbia,CAN
 3020414,VE9OR,Charles,,Fredericton,New Brunswick,CAN
@@ -8397,6 +8410,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3020891,VA2GLJ,Gilles Lefebvre,,Gatineau,Qc,CAN
 3020892,VA3DCB,Denis Brunette,,Garson,On,CAN
 3020893,VA3DRK,Donald Kempt,,Kemptville,On,CAN
+3020894,VE3ZZM,Greg,,Barrie,Ontario,CAN
 3020895,VE3GID,Francois Sved,,Spencerville,On,CAN
 3020896,VA6NDW,Nicholas Wakeford,,Edmonton,Ab,CAN
 3020897,VE2RFS,Roger Fortin,,Vaudreuil,Qc,CAN
@@ -9171,7 +9185,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3021684,VA7TBT,Torsten Broer,,Victoria,British Columbia,CAN
 3021685,VE7OR,Merlin Mah,,no_city,British Columbia,CAN
 3021686,VE7PGE,Randy Zarowny,,North Vancouver,British Columbia,CAN
-3021687,VA3RJB,Ronald Bird,,,Ontario,CAN
+3021687,VA3RJB,Ron,,Sault Ste Marie,Ontario,CAN
 3021688,VA3RUB,Ruben Reis,,Maple,Ontario,CAN
 3021689,VE3QTP,Tammy Craine-Wilson,,Shelburne,Ontario,CAN
 3021690,VA3MYK,Michael Hanuszczak,,Sudbury,Ontario,CAN
@@ -9625,6 +9639,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3022235,VE3TTF,Allan Spring,,Mount Brydges,Ontario,CAN
 3022237,VE2TJE,Jean Thivierge,,Sherbrooke,Quebec,CAN
 3022238,VE2VF,Jean Thivierge,,Sherbrooke,Quebec,CAN
+3022239,VE2GNN,Julien,,Quebec,Quebec,CAN
 3022241,VA2PRC,Yves Parent,,Quebec,Quebec,CAN
 3022243,VE2LMH,Hubert Major,,Laval,Quebec,CAN
 3022244,VE2GDR,Raynald Corriveau,,St-Joseph Du Lac,Quebec,CAN
@@ -9807,6 +9822,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3022533,VE2MLF,Marcel Fortier,,Portneuf,Quebec,CAN
 3022536,VE2TAA,Andre Asselin,,Sherbrooke,Quebec,CAN
 3022538,VA2CPJ,Jean-Pierre Cornut,,Levis,Quebec,CAN
+3022540,VE2MX,Claude,,Quebec,Quebec,CAN
 3022542,VE2ABC,Serge Berube,,Levis,Quebec,CAN
 3022545,VA2QX,Marc Olivier Roy,,Quebec,Quebec,CAN
 3022546,VA2HFG,Sebastien Derouin,,Gatineau,Quebec,CAN
@@ -10257,6 +10273,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3023265,VE3PK,Peter Gayle,,Bowmanville,Ontario,CAN
 3023266,VE3IPS,John,,Vaughan,Ontario,CAN
 3023267,VE3WJY,Walter Olechny,,Woodbridge,Ontario,CAN
+3023268,VA3HEM,Michel,,Oshawa,Ontario,CAN
 3023270,VE3JPU,Randy,,Ajax,Ontario,CAN
 3023273,VE3MAT,Matt Dean,,Barrie,Ontario,CAN
 3023274,VE3MAT,Matt Dean,,Barrie,Ontario,CAN
@@ -10297,6 +10314,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3023328,VA3DRQ,Don Quenneville,,Lasalle,Ontario,CAN
 3023329,VE3ROR,Robert Rodriguez,,Hamilton,Ontario,CAN
 3023330,VE3IXF,Mike,,Hamilton,Ontario,CAN
+3023332,VA3RC,John,,Cornwall,Ontario,CAN
 3023337,VE3PNO,Mike Manny,,Toronto,Ontario,CAN
 3023340,VE3BWP,Brian Pietrzyk,,Caledon,Ontario,CAN
 3023341,VA3RAW,Raymond Lawhead,,Thamesville,Ontario,CAN
@@ -10586,7 +10604,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3023780,VE3ZW,Don Silver,,Mississauga,Ontario,CAN
 3023782,VE3IMP,Eric Earle Depass,,,Ontario,CAN
 3023784,VE3HL,Len Dantzer,,Kingston,Ontario,CAN
-3023785,VE3HYS,Harrie Jones,,Rosseau,Ontario,CAN
+3023785,VE3HYS,Harrie,,Rosseau,Ontario,CAN
 3023788,VE3AK,Jeffrey Davis,,Burlington,Ontario,CAN
 3023789,VA3WBZ,William Zimmerman,,Scarborough,Ontario,CAN
 3023790,VE3AK,Jeffrey Davis,,Burlington,Ontario,CAN
@@ -10601,6 +10619,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3023804,VE3OGB,Randy Munro,,Toronto,Ontario,CAN
 3023805,VE6FMH,Frank-Michael Hofmann,,Calgary,Alberta,CAN
 3023807,VA3PEO,Adrian,,Mississauga,Ontario,CAN
+3023810,VE3ODR,Robert,,Washago,Ontario,CAN
 3023811,VA7AEL,Dave Parker,,Delta,British Columbia,CAN
 3023812,VE3CZI,Norman Freidin,,Burlington,Ontario,CAN
 3023814,VE3AXC,Kirill Kats,,Mississauga,Ontario,CAN
@@ -11716,7 +11735,9 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3025016,VE5DOB,D Dobson,,Saskatoon,Saskatchewan,CAN
 3025017,VE5HG,Erich,,Saskatoon,Saskatchewan,CAN
 3025019,VE5JCC,Justin Cowan,,Creighton,Saskatchewan,CAN
+3025021,VE5LPL,Keaton,,Prince Albert,Saskatchewan,CAN
 3025023,VA3RJP,Richard Perritt,,Toronto,Ontario,CAN
+3025024,VE5LPL,Keaton,,Prince Albert,Saskatchewan,CAN
 3025026,VE5EIS,Jim,,Regina,Saskatchewan,CAN
 3025028,VA2QLX,Sylvain Brunelle,,Brossard,Quebec,CAN
 3025029,VA3FEN,Nathan Zhou,,Kingston,Ontario,CAN
@@ -12037,7 +12058,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3025346,VA3JAD,Trish Triebner,,Woodstock,Ontario,CAN
 3025347,VE5RJK,Robert Krause,,Fort Qu Appelle,Saskatchewan,CAN
 3025348,VE4ROX,Christopher Nixon,,Portage la Prairie,Manitoba,CAN
-3025349,VE7WDO,William Francis Dorfmann,,Vancouver,British Columbia,CAN
+3025349,VE7WDO,William,,Vancouver,British Columbia,CAN
 3025350,VE3FOO,Rob Marles,,London,Ontario,CAN
 3025351,VA3WJI,Jacob Watson,,Goderich,Ontario,CAN
 3025352,VE4KOJ,Korede Ogungbemi,,Dauphin,Manitoba,CAN
@@ -12729,6 +12750,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3026068,VE7VAK,Eric Lange,,Union,British Columbia,CAN
 3026070,VA6CJC,Chris Cutrara,,Calgary,Alberta,CAN
 3026072,VE2DQS,Stephen Bernard,,Montreal,Quebec,CAN
+3026077,VE6JKC,John,,Edmonton,Alberta,CAN
 3026080,VA6CWK,Cam Klatt,,Dunmore,Alberta,CAN
 3026084,VE9SAB,Wayne Sabean,,Minto,New Brunswick,CAN
 3026086,VA3XV,Randy Yakabuskie,,Madawaska,Ontario,CAN
@@ -13842,7 +13864,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3027358,VE7ZOD,David,,Port Moody,British Columbia,CAN
 3027359,VA6CBM,John,,Calgary,Alberta,CAN
 3027360,VE5RGM,Ryan,,Saskatoon,Saskatchewan,CAN
-3027361,VE7LSJ,Shourui,,Delta,British Columbia,CAN
+3027361,VE7LSJ,Jeffrey,,Delta,British Columbia,CAN
 3027362,VE1HAP,Sylvester,,Tusket,Nova Scotia,CAN
 3027363,VE3KZY,John,,Bowmanville,Ontario,CAN
 3027364,VE2RAU,Michel,,Sherbrooke,Quebec,CAN
@@ -13877,6 +13899,12 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 3027393,VA6KE,Kevin,,Clive,Alberta,CAN
 3027394,VE3RKS,Roger,,Waterloo,Ontario,CAN
 3027395,VA7DTV,James,,Prince George,British Columbia,CAN
+3027396,VA3CTZ,Gordon,,Fitzroy Harbour,Ontario,CAN
+3027397,VA1CAS,Crys,,Dartmouth,Nova Scotia,CAN
+3027398,VE2YLA,Yvan,,Drummondville,Quebec,CAN
+3027399,VA3KNA,Kirk,,Guelph,Ontario,CAN
+3027400,VA7LM,Douglas,,Kitimat,British Columbia,CAN
+3027401,VA7AQD,Adam,,Kamloops,British Columbia,CAN
 3028002,VE3YUL,John Muise,,Ottawa,Yukon,CAN
 3028005,VE3GCT,Gary Crawford,,Nyork,Yukon,CAN
 3028010,VY1BAT,Wolf Zemp,,Whitehorse,Yukon,CAN

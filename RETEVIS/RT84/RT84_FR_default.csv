@@ -56,6 +56,8 @@
 1023148,VA3TKO,Bob,,Ontario,CAN
 1023149,VE3POF,Philippe,Sudbury,Ontario,CAN
 1023150,VE3POF,Philippe,Sudbury,Ontario,CAN
+1023153,VE3WCZ,Charles,Ottawa,Ontario,CAN
+1023154,VE3WCZ,Charles,Ottawa,Ontario,CAN
 1023156,VE3IPC,Michael,Lefaivre,Ontario,CAN
 1023160,VE3YN,S.,Toronto,Ontario,CAN
 1023163,VA3BGW,Brad,London,Ontario,CAN
@@ -209,7 +211,6 @@
 2060131,ON3AF,Filip,Oostende,West-Vlaanderen,BEL
 2060132,ON8HC,Hendrik,Blankenberge,West-Vlaanderen,BEL
 2060133,ON3OO,Johan,Ieper,West-Vlaanderen,BEL
-2060134,ON2AJ,Johny,Brugge,West Vlaanderen,BEL
 2060135,ON3JIL,Jean-Luc,Zwevegem,West-Vlaanderen,BEL
 2060136,ON4CJP,Jean,Oostende,West-Vlaanderen,BEL
 2060137,ON6CP,Carlos,Diksmuide,West-Vlaanderen,BEL
@@ -925,7 +926,6 @@
 2060857,ON3JFP,Jean,Eeklo,Oost Vlaanderen,BEL
 2060858,ON5YX,Bart,Aalst,Oost Vlaanderen,BEL
 2060859,ON4DTR,Dieter,Grimbergen,Vlaams Brabant,BEL
-2060860,ON5JCQ,Maurice,Flemalle,Liege,BEL
 2060861,ON2TTF,Thomas,Colfontaine,Hainaut,BEL
 2060862,ON6AB,Bruno,Rumst,Antwerp,BEL
 2060863,ON4VIC,Victor,Jabbeke,West Vlaanderen,BEL
@@ -1003,6 +1003,7 @@
 2060944,ON4FL,Philippe,Oostkamp,West Vlaanderen,BEL
 2060945,ON4DAY,Jean Paul,Haaltert,Oost Vlaanderen,BEL
 2060946,ON4AI,Sebastien,Wavre,Wal Brabant,BEL
+2060947,ON4ZD,Leon,Lillois Witterzee,Wal Brabant,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -1171,8 +1172,8 @@
 2061172,ON5XZ,Francois,Aalst,Oost-Vlaanderen,BEL
 2061173,ON6FC,Gaston,Waarbeke,Oost-Vlaanderen,BEL
 2061174,ON4CCI,Hugo,Appels - Dendermonde,Oost-Vlaanderen,BEL
-2061175,ON3JM,Jacques,Renaix,Oost-Vlaanderen,BEL
-2061176,ON3JM,Jacques,Renaix,Oost-Vlaanderen,BEL
+2061175,ON3JM,Michael,Engis,Liege,BEL
+2061176,ON3JM,Michael,Engis,Liege,BEL
 2061177,ON3ABR,Rik,Denderhoutem,Oost-Vlaanderen,BEL
 2061178,ON3ISA,Isabel,Wetteren,Oost-Vlaanderen,BEL
 2061179,ON3BRT,Bart,Gent,Oost-Vlaanderen,BEL
@@ -4396,6 +4397,11 @@
 2082323,F4NBB,Philippe,Marseille,Provence Alpes Cote D Azur,FRA
 2082324,F4NNX,Mickael,Bourg En Bresse,Auvergne Rhone Alpes,FRA
 2082325,F4GYE,Christophe,Ecommoy,Pays De La Loire,FRA
+2082326,F4NOK,Jordan,Premilhat,Auvergne Rhone Alpes,FRA
+2082327,F4JEI,Alexis,Rennes,Bretagne,FRA
+2082328,F4NNV,Alexandra,Chambery,Auvergne Rhone Alpes,FRA
+2082329,F5MEM,Robert,Plouedern,Bretagne,FRA
+2082330,F4NNU,Gwendal,Sarlat La Caneda,Nouvelle Aquitaine,FRA
 2083001,F1IZL,Jean-Yves,La Tour Du Crieu,No_regio,FRA
 2083002,F4GEM,Arnaud,Cornebarrieu,No_regio,FRA
 2083003,F1BBG,Gerard,Tarascon Sur Ariege,No_regio,FRA
@@ -4578,7 +4584,7 @@
 2084077,F5SKW,Philippe,Mutzig,Alsace,FRA
 2084078,F5SNG,Francois,Strasbourg,Alsace,FRA
 2084079,F5JFA,Jean-Luc,Blaesheim,Alsace,FRA
-2084080,F1EQU,Pierre-Michel,Montesson,Alsace,FRA
+2084080,F1EQU,Pierre Mich,Zimmersheim,Grand,FRA
 2084081,F6AGS,Gerard,,,FRA
 2084082,F4WCH,Wilko,Eschbach,Alsace,FRA
 2084083,F5PXF,Denis,Montferrat,Auvergne Rhone Alpes,FRA
@@ -4873,7 +4879,7 @@
 2086132,F6HCM,Pascal,Stgeours De Maremne,Aquitaine,FRA
 2086133,F6ESD,Alain,Jonzac,Nouvelle-Aquitaine,FRA
 2086134,F5JGL,Claude,Saugon,Nouvelle-Aquitaine,FRA
-2086135,F1MWV,Jean-Pierre,Royan,No_regio,FRA
+2086135,F1MWV,Lucas,Royan,Nouvelle Aquitaine,FRA
 2086136,F4AYW,Rene,Pisany,Nouvelle-Aquitaine,FRA
 2086137,F6HRF,Pierre,Stpaul Les Dax,Aquitaine,FRA
 2086138,F4IGA,Daniel,no_city,No_regio,FRA
@@ -6152,6 +6158,10 @@
 2280549,HB3YJD,Gion,Feusisberg,Schwyz,CHE
 2280550,HB9DJQ,Pierre,Neyruz,Fribourg,CHE
 2280551,HB9DHD,Giger,Zofingen,Aargau,CHE
+2280552,HB9HRA,Alessio,Castelrotto,Ticino,CHE
+2280553,HB9IUT,Fabian,Altdorf,Uri,CHE
+2280554,HB9IJN,Marc,Muolen,St Gallen,CHE
+2280555,HB9NBM,Marc,Sissach,Basel Country,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -7803,6 +7813,7 @@
 3020108,VE3DNF,Brian,Port Elgin,Ontario,CAN
 3020109,VE2FLJ,Juan,Quebec,Quebec,CAN
 3020110,VA3AGP,Policarpo,Cambridge,Ontario,CAN
+3020111,VA2PKM,Patrick,Chicoutimi,Quebec,CAN
 3020112,VE9ZY,Malcolm,Tracadie-Sheila,New Brunswick,CAN
 3020113,VE3VLJ,Vanlaer,Scarborough,Quebec,CAN
 3020114,VY1XX,Wolf,Whitehorse,Yukon,CAN
@@ -7822,6 +7833,7 @@
 3020132,VE2YAR,Mario,Saint-Jean-Sur-Richelieu,Quebec,CAN
 3020133,VE3EBY,Paul,Burlington,On,CAN
 3020136,VE6TDT,Todd,Edmonton,Alberta,CAN
+3020137,VE2OMG,Michel,Quebec,Quebec,CAN
 3020139,VA2LS,Serge,Victoriaville,Quebec,CAN
 3020140,VE2MMF,Michel,Saint-Roch-De-Richelieu,Quebec,CAN
 3020143,VA1GWP,Gregory,,Nova Scotia,CAN
@@ -7996,6 +8008,7 @@
 3020406,VA7PPT,Shawn,Langley,Bc,CAN
 3020407,VA3COW,Jay,Thornhill,On,CAN
 3020408,VE9GM,Gino,Dsl De Drummond,New Brunswick,CAN
+3020409,VE2IPI,Sadi,Saint Constant,Quebec,CAN
 3020410,VA3COW,Jay,Thornhill,On,CAN
 3020413,VA7FR,Harry,Abbotsford,British Columbia,CAN
 3020414,VE9OR,Charles,Fredericton,New Brunswick,CAN
@@ -8396,6 +8409,7 @@
 3020891,VA2GLJ,Gilles,Gatineau,Qc,CAN
 3020892,VA3DCB,Denis,Garson,On,CAN
 3020893,VA3DRK,Donald,Kemptville,On,CAN
+3020894,VE3ZZM,Greg,Barrie,Ontario,CAN
 3020895,VE3GID,Francois,Spencerville,On,CAN
 3020896,VA6NDW,Nicholas,Edmonton,Ab,CAN
 3020897,VE2RFS,Roger,Vaudreuil,Qc,CAN
@@ -9170,7 +9184,7 @@
 3021684,VA7TBT,Torsten,Victoria,British Columbia,CAN
 3021685,VE7OR,Merlin,no_city,British Columbia,CAN
 3021686,VE7PGE,Randy,North Vancouver,British Columbia,CAN
-3021687,VA3RJB,Ronald,,Ontario,CAN
+3021687,VA3RJB,Ron,Sault Ste Marie,Ontario,CAN
 3021688,VA3RUB,Ruben,Maple,Ontario,CAN
 3021689,VE3QTP,Tammy,Shelburne,Ontario,CAN
 3021690,VA3MYK,Michael,Sudbury,Ontario,CAN
@@ -9624,6 +9638,7 @@
 3022235,VE3TTF,Allan,Mount Brydges,Ontario,CAN
 3022237,VE2TJE,Jean,Sherbrooke,Quebec,CAN
 3022238,VE2VF,Jean,Sherbrooke,Quebec,CAN
+3022239,VE2GNN,Julien,Quebec,Quebec,CAN
 3022241,VA2PRC,Yves,Quebec,Quebec,CAN
 3022243,VE2LMH,Hubert,Laval,Quebec,CAN
 3022244,VE2GDR,Raynald,St-Joseph Du Lac,Quebec,CAN
@@ -9806,6 +9821,7 @@
 3022533,VE2MLF,Marcel,Portneuf,Quebec,CAN
 3022536,VE2TAA,Andre,Sherbrooke,Quebec,CAN
 3022538,VA2CPJ,Jean-Pierre,Levis,Quebec,CAN
+3022540,VE2MX,Claude,Quebec,Quebec,CAN
 3022542,VE2ABC,Serge,Levis,Quebec,CAN
 3022545,VA2QX,Marc Olivier,Quebec,Quebec,CAN
 3022546,VA2HFG,Sebastien,Gatineau,Quebec,CAN
@@ -10256,6 +10272,7 @@
 3023265,VE3PK,Peter,Bowmanville,Ontario,CAN
 3023266,VE3IPS,John,Vaughan,Ontario,CAN
 3023267,VE3WJY,Walter,Woodbridge,Ontario,CAN
+3023268,VA3HEM,Michel,Oshawa,Ontario,CAN
 3023270,VE3JPU,Randy,Ajax,Ontario,CAN
 3023273,VE3MAT,Matt,Barrie,Ontario,CAN
 3023274,VE3MAT,Matt,Barrie,Ontario,CAN
@@ -10296,6 +10313,7 @@
 3023328,VA3DRQ,Don,Lasalle,Ontario,CAN
 3023329,VE3ROR,Robert,Hamilton,Ontario,CAN
 3023330,VE3IXF,Mike,Hamilton,Ontario,CAN
+3023332,VA3RC,John,Cornwall,Ontario,CAN
 3023337,VE3PNO,Mike,Toronto,Ontario,CAN
 3023340,VE3BWP,Brian,Caledon,Ontario,CAN
 3023341,VA3RAW,Raymond,Thamesville,Ontario,CAN
@@ -10600,6 +10618,7 @@
 3023804,VE3OGB,Randy,Toronto,Ontario,CAN
 3023805,VE6FMH,Frank-Michael,Calgary,Alberta,CAN
 3023807,VA3PEO,Adrian,Mississauga,Ontario,CAN
+3023810,VE3ODR,Robert,Washago,Ontario,CAN
 3023811,VA7AEL,Dave,Delta,British Columbia,CAN
 3023812,VE3CZI,Norman,Burlington,Ontario,CAN
 3023814,VE3AXC,Kirill,Mississauga,Ontario,CAN
@@ -11715,7 +11734,9 @@
 3025016,VE5DOB,D,Saskatoon,Saskatchewan,CAN
 3025017,VE5HG,Erich,Saskatoon,Saskatchewan,CAN
 3025019,VE5JCC,Justin,Creighton,Saskatchewan,CAN
+3025021,VE5LPL,Keaton,Prince Albert,Saskatchewan,CAN
 3025023,VA3RJP,Richard,Toronto,Ontario,CAN
+3025024,VE5LPL,Keaton,Prince Albert,Saskatchewan,CAN
 3025026,VE5EIS,Jim,Regina,Saskatchewan,CAN
 3025028,VA2QLX,Sylvain,Brossard,Quebec,CAN
 3025029,VA3FEN,Nathan,Kingston,Ontario,CAN
@@ -12036,7 +12057,7 @@
 3025346,VA3JAD,Trish,Woodstock,Ontario,CAN
 3025347,VE5RJK,Robert,Fort Qu Appelle,Saskatchewan,CAN
 3025348,VE4ROX,Christopher,Portage la Prairie,Manitoba,CAN
-3025349,VE7WDO,William Francis,Vancouver,British Columbia,CAN
+3025349,VE7WDO,William,Vancouver,British Columbia,CAN
 3025350,VE3FOO,Rob,London,Ontario,CAN
 3025351,VA3WJI,Jacob,Goderich,Ontario,CAN
 3025352,VE4KOJ,Korede,Dauphin,Manitoba,CAN
@@ -12728,6 +12749,7 @@
 3026068,VE7VAK,Eric,Union,British Columbia,CAN
 3026070,VA6CJC,Chris,Calgary,Alberta,CAN
 3026072,VE2DQS,Stephen,Montreal,Quebec,CAN
+3026077,VE6JKC,John,Edmonton,Alberta,CAN
 3026080,VA6CWK,Cam,Dunmore,Alberta,CAN
 3026084,VE9SAB,Wayne,Minto,New Brunswick,CAN
 3026086,VA3XV,Randy,Madawaska,Ontario,CAN
@@ -13841,7 +13863,7 @@
 3027358,VE7ZOD,David,Port Moody,British Columbia,CAN
 3027359,VA6CBM,John,Calgary,Alberta,CAN
 3027360,VE5RGM,Ryan,Saskatoon,Saskatchewan,CAN
-3027361,VE7LSJ,Shourui,Delta,British Columbia,CAN
+3027361,VE7LSJ,Jeffrey,Delta,British Columbia,CAN
 3027362,VE1HAP,Sylvester,Tusket,Nova Scotia,CAN
 3027363,VE3KZY,John,Bowmanville,Ontario,CAN
 3027364,VE2RAU,Michel,Sherbrooke,Quebec,CAN
@@ -13876,6 +13898,12 @@
 3027393,VA6KE,Kevin,Clive,Alberta,CAN
 3027394,VE3RKS,Roger,Waterloo,Ontario,CAN
 3027395,VA7DTV,James,Prince George,British Columbia,CAN
+3027396,VA3CTZ,Gordon,Fitzroy Harbour,Ontario,CAN
+3027397,VA1CAS,Crys,Dartmouth,Nova Scotia,CAN
+3027398,VE2YLA,Yvan,Drummondville,Quebec,CAN
+3027399,VA3KNA,Kirk,Guelph,Ontario,CAN
+3027400,VA7LM,Douglas,Kitimat,British Columbia,CAN
+3027401,VA7AQD,Adam,Kamloops,British Columbia,CAN
 3028002,VE3YUL,John,Ottawa,Yukon,CAN
 3028005,VE3GCT,Gary,Nyork,Yukon,CAN
 3028010,VY1BAT,Wolf,Whitehorse,Yukon,CAN
