@@ -728,6 +728,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2020728,SY1EHH,SY1EHH Periklis,Agrinio,Attiki / Sterea Ellada / Dytiki Ellada,GRC,,Private Call,None
 ,2020729,SY9EFF,SY9EFF George,Heraklion,Kriti,GRC,,Private Call,None
 ,2020730,SV9TEG,SV9TEG Dimitrios,Heraklion,Kriti,GRC,,Private Call,None
+,2020731,SV4AMW,SV4AMW Apostolis,Elassona,Thessalia,GRC,,Private Call,None
 ,2020732,SV1BRJ,SV1BRJ Dimitrios,Kifissia,Attiki / Sterea Ellada / Dytiki Ellada,GRC,,Private Call,None
 ,2020733,SV2TEC,SV2TEC Euri,Argos orestiko,Dytiki Makedonia / Kentriki Makedonia,GRC,,Private Call,None
 ,2020734,SY3EGD,SY3EGD Manolis,Korinthos,Peloponnisos,GRC,,Private Call,None
@@ -1264,7 +1265,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2021265,SY1BMI,SY1BMI Konstantinos,Melissia,Attiki,GRC,,Private Call,None
 ,2021266,SV1HFD,SV1HFD Theodoros,Athens,Attiki,GRC,,Private Call,None
 ,2021267,SV1FZI,SV1FZI Nikolaos,Agioi Anargyroi,Attiki,GRC,,Private Call,None
-,2021268,SV1EXC,SV1EXC Ilias,Acharnes,Attiki / Sterea Ellada / Dytiki Ellada,GRC,,Private Call,None
+,2021268,SV1EXC,SV1EXC Hlias,Acharnes,Attiki Sterea Ellada Dytiki Ellada,GRC,,Private Call,None
 ,2021269,SV1KYZ,SV1KYZ Nikolaos,Athens,Attiki,GRC,,Private Call,None
 ,2021270,SV1GRV,SV1GRV Giorgos,Pefki,Attiki,GRC,,Private Call,None
 ,2021271,SV1DKJ,SV1DKJ Vasilis,Moschato,Attiki,GRC,,Private Call,None
@@ -1544,7 +1545,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2021545,SV2RWF,SV2RWF Apostolos,Skg,Dytiki Makedonia Kentriki Makedonia,GRC,,Private Call,None
 ,2021546,SY1ERH,SY1ERH Alkis,Athens,Attiki Sterea Ellada Dytiki Ellada,GRC,,Private Call,None
 ,2021547,SV2TNG,SV2TNG Fotios,Thessaloniki,Dytiki Makedonia Kentriki Makedonia,GRC,,Private Call,None
-,2021548,SV2JLD,SV2JLD Efthymios,Thessaloniki,Dytiki Makedonia Kentriki Makedonia,GRC,,Private Call,None
 ,2021549,SV5DZR,SV5DZR Stelios,Lipsi Island,Dodecanese,GRC,,Private Call,None
 ,2021550,SY3EWW,SY3EWW Thanos,Nafplio,Peloponnisos,GRC,,Private Call,None
 ,2021551,SV1CEV,SV1CEV Vagelis,Athens,Attiki Sterea Ellada Dytiki Ellada,GRC,,Private Call,None
@@ -3986,6 +3986,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2041619,PC7W,PC7W Bill,Vlissingen,Zeeland,NLD,,Private Call,None
 ,2041620,PE0JHF,PE0JHF Henk,Amstelveen,Zuid Holland,NLD,,Private Call,None
 ,2041621,PD1HEN,PD1HEN Henri,Almelo,Overijssel,NLD,,Private Call,None
+,2041622,PA3SNG,PA3SNG Seyit,Utrecht,Utrecht,NLD,,Private Call,None
+,2041623,PD3JW,PD3JW Jos,Krimpen Aan Den Ijssel,Zuid Holland,NLD,,Private Call,None
+,2041624,PD9MT,PD9MT Marcel,Amersfoort,Utrecht,NLD,,Private Call,None
+,2041625,PD4OGO,PD4OGO Arjan,Oisterwijk,Noord Brabant,NLD,,Private Call,None
 ,2042001,PA0HTW,PA0HTW Henk,Rotterdam,Zuid-Holland,NLD,,Private Call,None
 ,2042002,PA0HTW,PA0HTW Henk,Rotterdam,Zuid-Holland,NLD,,Private Call,None
 ,2042003,PA3DFN,PA3DFN Philip,Spijkenisse,Zuid-Holland,NLD,,Private Call,None
@@ -4095,7 +4099,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2042120,PE4CE,PE4CE Andrea,Den Haag,Zuid-Holland,NLD,,Private Call,None
 ,2042121,PA1V,PA1V Frank,Leidschendam,Zuid-Holland,NLD,,Private Call,None
 ,2042122,PD0ORB,PD0ORB Eric,Den Haag,Zuid-Holland,NLD,,Private Call,None
-,2042123,PH3GAL,PH3GAL Remzi,Spijkenisse,Zuid-Holland,NLD,,Private Call,None
+,2042123,PH3GAL,PH3GAL Remzi,Spijkenisse,Zuid Holland,NLD,,Private Call,None
 ,2042124,PA3WL,PA3WL Luijten,Zoetermeer,Zuid-Holland,NLD,,Private Call,None
 ,2042125,PD2PDZ,PD2PDZ Peter,Bodegraven,Zuid-Holland,NLD,,Private Call,None
 ,2042126,PA4LE,PA4LE Leo,Hillegom,Zuid-Holland,NLD,,Private Call,None
@@ -6348,7 +6352,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060462,ON7AL,ON7AL Luc,Nazareth,Oost-Vlaanderen,BEL,,Private Call,None
 ,2060463,ON3SMI,ON3SMI Michel,De Panne,Oost-Vlaanderen,BEL,,Private Call,None
 ,2060464,ON3WW,ON3WW Sven,Aalst,Oost-Vlaanderen,BEL,,Private Call,None
-,2060465,ON3EF,ON3EF Filip,,Antwerp,BEL,,Private Call,None
 ,2060466,ON5KC,ON5KC Tom,Gent,Oost-Vlaanderen,BEL,,Private Call,None
 ,2060467,ON3SA,ON3SA Severine,Bachte Maria Leerne,Oost-Vlaanderen,BEL,,Private Call,None
 ,2060468,ON2OT,ON2OT Joost,Mortsel,Antwerp,BEL,,Private Call,None
@@ -6817,6 +6820,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060948,ON2KTA,ON2KTA Patrick,Heusden Zolder,Limburg,BEL,,Private Call,None
 ,2060949,ON4AGV,ON4AGV Rudy,Knokke Heist,West Vlaanderen,BEL,,Private Call,None
 ,2060950,OT5Z,OT5Z Gert,Ronse,Oost Vlaanderen,BEL,,Private Call,None
+,2061000,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2061001,ON8SVH,ON8SVH Stijn,Oudenaarde,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061002,ON8SI,ON8SI Simon,Oosterzele,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061003,ON5LUC,ON5LUC Luc,Gent,Oost-Vlaanderen,BEL,,Private Call,None
@@ -7128,6 +7132,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061320,ON3DKL,ON3DKL Jimmy,Sint Niklaas,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061321,ON3DVD,ON3DVD Danny,Geraardsbergen,No_regio,BEL,,Private Call,None
 ,2061322,ON1UY,ON1UY no_name,no_city,No_regio,BEL,,Private Call,None
+,2062000,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2062001,ON7DS,ON7DS Dirk,Kontich,Antwerp,BEL,,Private Call,None
 ,2062002,ON2DMT,ON2DMT Martine,Kontich,Antwerp,BEL,,Private Call,None
 ,2062003,ON7PDW,ON7PDW Peter,Boom,Antwerp,BEL,,Private Call,None
@@ -7297,8 +7302,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2062169,ON3YF,ON3YF Nico,Brasschaat,Antwerp,BEL,,Private Call,None
 ,2062170,ON4AWT,ON4AWT Fons,,,BEL,,Private Call,None
 ,2062171,ON3HJ,ON3HJ Jan,Wuustwezel,Antwerpen,BEL,,Private Call,None
-,2062222,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2062999,ON4DBC,ON4DBC Geert,Lint,Antwerp,BEL,,Private Call,None
+,2063000,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2063001,ON6BB,ON6BB Pieter,Roosdaal,Vlaams Brabant,BEL,,Private Call,None
 ,2063002,ON4BDC,ON4BDC Gunther,Halle,Vlaams Brabant,BEL,,Private Call,None
 ,2063003,ON2BFY,ON2BFY Tony,Schepdaal,Vlaams Brabant,BEL,,Private Call,None
@@ -7411,6 +7416,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2063114,ON7DAN,ON7DAN Danieldegreef,Halle,Vlaams Brabant,BEL,,Private Call,None
 ,2063115,ON6IS,ON6IS Rob,Linden,Vlaams Brabant,BEL,,Private Call,None
 ,2063116,ON8AT,ON8AT Christian,Scherpenheuvel-Zichem,Vlaams Brabant,BEL,,Private Call,None
+,2064000,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2064001,ON4AZP,ON4AZP Dominic,Zonhoven,Limburg,BEL,,Private Call,None
 ,2064002,ON2PCO,ON2PCO Paul,Riemst,Limburg,BEL,,Private Call,None
 ,2064003,ON8RAT,ON8RAT Marco,Lanaken,Limburg,BEL,,Private Call,None
@@ -7554,6 +7560,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2064141,ON3DX,ON3DX Edwin,Tessenderlo,Limburg,BEL,,Private Call,None
 ,2064142,ON5ADL,ON5ADL Jurgen,Heusden-Zolder,Limburg,BEL,,Private Call,None
 ,2064143,ON3VJ,ON3VJ Johanvaesen,Meeuwen,Limburg,BEL,,Private Call,None
+,2065000,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2065001,ON4REC,ON4REC Reec,Beauvechain,Brabant Wallon,BEL,,Private Call,None
 ,2065002,ON3XBS,ON3XBS Serge,Beauvechain,Wal Brabant,BEL,,Private Call,None
 ,2065003,ON3CCM,ON3CCM Moreno,Menen,Wal Brabant,BEL,,Private Call,None
@@ -7732,7 +7739,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2066137,ON2RDY,ON2RDY Yves,Maffle,Hainaut,BEL,,Private Call,None
 ,2066138,ON7PH,ON7PH Philippe,Mouscron,Hainaut,BEL,,Private Call,None
 ,2066139,ON4KDE,ON4KDE Michel,Ville-Pommeroeul,Hainaut,BEL,,Private Call,None
-,2066666,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2067001,ON5UC,ON5UC Olivier,Fosses-La-Ville,Namur,BEL,,Private Call,None
 ,2067002,ON5WB,ON5WB Yves,Namur,Namur,BEL,,Private Call,None
 ,2067003,ON6NR,ON6NR Radio,Namur,Namur,BEL,,Private Call,None
@@ -7824,7 +7830,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2068061,ON3ABM,ON3ABM Alexis,Waremme,Liege,BEL,,Private Call,None
 ,2068062,ON3CED,ON3CED Ced,Oupeye,Liege,BEL,,Private Call,None
 ,2068063,ON6ZL,ON6ZL Alain,Geer,Liege,BEL,,Private Call,None
-,2068850,ON3EF,ON3EF Phil,Antwerp,Antwerp,BEL,,Private Call,None
 ,2069001,ON3WR,ON3WR Jose,Brussels,Brussels,BEL,,Private Call,None
 ,2069002,ON7PC,ON7PC Pierre,Brussels,Brussels,BEL,,Private Call,None
 ,2069003,ON4MAX,ON4MAX Max,Manhay,Luxembourg,BEL,,Private Call,None
@@ -8008,7 +8013,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080110,F6IPL,F6IPL Jean,Combs La Ville,Le-De-France,FRA,,Private Call,None
 ,2080111,F4HMY,F4HMY Martin,Eaubonne,Le-De-France,FRA,,Private Call,None
 ,2080112,F5JGM,F5JGM Xavier,Maurepas,Le-De-France,FRA,,Private Call,None
-,2080113,F8BXI,F8BXI Philippe,Ballainvilliers,Le-De-France,FRA,,Private Call,None
+,2080113,F8BXI,F8BXI Philippe,Equilly,Normandie,FRA,,Private Call,None
 ,2080114,F5NXT,F5NXT Claude,Essone,Le-De-France,FRA,,Private Call,None
 ,2080115,F4FNA,F4FNA Vladimir,Orly,Le-De-France,FRA,,Private Call,None
 ,2080116,F4HEQ,F4HEQ Jeremie,Champlan,Le-De-France,FRA,,Private Call,None
@@ -8314,7 +8319,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080417,F1IUS,F1IUS Didier,no_city,No_regio,FRA,,Private Call,None
 ,2080418,F4IMI,F4IMI no_name,no_city,No_regio,FRA,,Private Call,None
 ,2080419,F0GFM,F0GFM no_name,no_city,No_regio,FRA,,Private Call,None
-,2080420,F1AGU,F1AGU Charles Henri,Aillon Le Vieux,Auvergne Rhone Alpes,FRA,,Private Call,None
+,2080420,F1AGU,F1AGU Sap,Aillon Le Vieux,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2080421,F5NLG,F5NLG no_name,no_city,No_regio,FRA,,Private Call,None
 ,2080422,F4IJH,F4IJH no_name,no_city,No_regio,FRA,,Private Call,None
 ,2080423,F5VLO,F5VLO no_name,no_city,No_regio,FRA,,Private Call,None
@@ -9889,7 +9894,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081998,F1BRR,F1BRR Patrick,Dole,Bourgogne Franche Comte,FRA,,Private Call,None
 ,2082001,F4FUL,F4FUL Cyril,Sciez,Rhone-Alpes,FRA,,Private Call,None
 ,2082002,F5VIN,F5VIN Heiko,Thoiry,Rhone-Alpes,FRA,,Private Call,None
-,2082003,F1AGU,F1AGU Charles Henri,Aillon Le Vieux,Auvergne Rhone Alpes,FRA,,Private Call,None
+,2082003,F1AGU,F1AGU Sap,Aillon Le Vieux,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2082004,F4CZX,F4CZX Damien,Saint Bernard,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2082005,F1GFB,F1GFB Richard,Sinard,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2082006,F5VIH,F5VIH Nick,Crozet,Auvergne Rhone Alpes,FRA,,Private Call,None
@@ -10220,6 +10225,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2082333,F4NMU,F4NMU Jacky,Gex,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2082334,F1ESV,F1ESV Vincent,Dagneux,Auvergne Rhone Alpes,FRA,,Private Call,None
 ,2082335,F4NLY,F4NLY Toussaint Laurent,Venansault,Nouvelle Aquitaine,FRA,,Private Call,None
+,2082336,F4MIJ,F4MIJ Seguer,Grignols,Nouvelle Aquitaine,FRA,,Private Call,None
+,2082337,F4MSS,F4MSS Ali,Metz,Grand,FRA,,Private Call,None
+,2082338,F4MVU,F4MVU Eric,Laragne Monteglin,Provence Alpes Cote D Azur,FRA,,Private Call,None
+,2082339,F4IUG,F4IUG Herve,Saint Chaptes,Occitanie,FRA,,Private Call,None
+,2082340,F5INV,F5INV Stmartin,Fontenilles,Occitanie,FRA,,Private Call,None
+,2082341,F1RPJ,F1RPJ Jose,Marseille,Provence Alpes Cote D Azur,FRA,,Private Call,None
 ,2083001,F1IZL,F1IZL Jean-Yves,La Tour Du Crieu,No_regio,FRA,,Private Call,None
 ,2083002,F4GEM,F4GEM Arnaud,Cornebarrieu,No_regio,FRA,,Private Call,None
 ,2083003,F1BBG,F1BBG Gerard,Tarascon Sur Ariege,No_regio,FRA,,Private Call,None
@@ -10697,7 +10708,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2086132,F6HCM,F6HCM Pascal,Stgeours De Maremne,Aquitaine,FRA,,Private Call,None
 ,2086133,F6ESD,F6ESD Alain,Jonzac,Nouvelle-Aquitaine,FRA,,Private Call,None
 ,2086134,F5JGL,F5JGL Claude,Saugon,Nouvelle-Aquitaine,FRA,,Private Call,None
-,2086135,F1MWV,F1MWV Lucas,Royan,Nouvelle Aquitaine,FRA,,Private Call,None
+,2086135,F1MWV,F1MWV Jean Pierre,Royan,Nouvelle Aquitaine,FRA,,Private Call,None
 ,2086136,F4AYW,F4AYW Rene,Pisany,Nouvelle-Aquitaine,FRA,,Private Call,None
 ,2086137,F6HRF,F6HRF Pierre,Stpaul Les Dax,Aquitaine,FRA,,Private Call,None
 ,2086138,F4IGA,F4IGA Daniel,no_city,No_regio,FRA,,Private Call,None
@@ -11680,7 +11691,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2140210,EA2EPQ,EA2EPQ Iaki,Loiu,No_regio,ESP,,Private Call,None
 ,2140211,EA5HYZ,EA5HYZ Sergio,Valencia,No_regio,ESP,,Private Call,None
 ,2140212,EA5IXV,EA5IXV Miguel,La Vall De,Castellon,ESP,,Private Call,None
-,2140213,EA3HCR,EA3HCR Jcebria,no_city,No_regio,ESP,,Private Call,None
+,2140213,EA3HCR,EA3HCR Josep,Sidamon,Lerida,ESP,,Private Call,None
 ,2140214,EA6SK,EA6SK Miquel,Alcudia,No_regio,ESP,,Private Call,None
 ,2140215,EA1FFK,EA1FFK Constan,no_city,No_regio,ESP,,Private Call,None
 ,2140216,EA3ABZ,EA3ABZ Francesc,no_city,No_regio,ESP,,Private Call,None
@@ -12533,7 +12544,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2141067,EA1EPH,EA1EPH Avelino,Fene,Galicia,ESP,,Private Call,None
 ,2141068,EA1LN,EA1LN Secundino,Aviles,Asturias,ESP,,Private Call,None
 ,2141069,EA1HTW,EA1HTW Fran,Vigo,Pontevedra,ESP,,Private Call,None
-,2141070,EA1GIZ,EA1GIZ Eamon,A Corua,Galicia,ESP,,Private Call,None
 ,2141071,EA1HDI,EA1HDI Jose,Vilagarcia De Arousa,Pontevedra,ESP,,Private Call,None
 ,2141072,EA1ICR,EA1ICR Jon,,,ESP,,Private Call,None
 ,2141073,EA1IC,EA1IC Ruben,Leon,Castile And Leuan,ESP,,Private Call,None
@@ -14978,7 +14988,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2143533,EA3IBJ,EA3IBJ Carlos,Barcelona,Cataluna,ESP,,Private Call,None
 ,2143534,EA3ICF,EA3ICF Tullio,Barcelona,Cataluna,ESP,,Private Call,None
 ,2143535,EA3ENB,EA3ENB Jordi,Sabadell,Cataluna,ESP,,Private Call,None
-,2143536,EA3HH,EA3HH Lluis,Salt,Cataluna,ESP,,Private Call,None
+,2143536,EA3HH,EA3HH Lluis,Salt,Girona,ESP,,Private Call,None
 ,2143537,EA3BJG,EA3BJG Rodolfo,Barcelona,Cataluna,ESP,,Private Call,None
 ,2143538,EA3ETE,EA3ETE Rafael,Tarragona,Cataluna,ESP,,Private Call,None
 ,2143539,EA3IAZ,EA3IAZ Manuel,Tordera,Cataluna,ESP,,Private Call,None
@@ -15345,7 +15355,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2143902,EA2AFK,EA2AFK Miguel,Zaragoza,Zaragoza,ESP,,Private Call,None
 ,2143903,EA4HCK,EA4HCK Fernando,Sanchez,Madrid,ESP,,Private Call,None
 ,2143904,EB5JOO,EB5JOO Jose,Alhama De Murcia,Murcia,ESP,,Private Call,None
-,2143905,EA2EVG,EA2EVG He Ctor,Errenteria,Gipuzkoa,ESP,,Private Call,None
+,2143905,EA2EVG,EA2EVG Hector,Errenteria,Gipuzkoa,ESP,,Private Call,None
 ,2143906,EA7KQW,EA7KQW Jose,Ronda  Malaga,Malaga,ESP,,Private Call,None
 ,2143907,EA3IMG,EA3IMG Jose,Barcelona,Barcelona,ESP,,Private Call,None
 ,2143908,EA3ILF,EA3ILF Antonio,De La Casa,Barcelona,ESP,,Private Call,None
@@ -15964,7 +15974,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2144525,EA4HP,EA4HP Jose,Serranillos Del Valle,Excluding Albacete,ESP,,Private Call,None
 ,2144526,EA4VT,EA4VT Jose,Valdepenas,Excluding Albacete,ESP,,Private Call,None
 ,2144527,EA4FH,EA4FH Luis,Madrid,Excluding Albacete,ESP,,Private Call,None
-,2144528,EA4HBZ,EA4HBZ Jose,Badajoz,No_regio,ESP,,Private Call,None
+,2144528,EA4HBZ,EA4HBZ Jose,Almendralejo,Badajoz,ESP,,Private Call,None
 ,2144529,EA4GRQ,EA4GRQ Luis,Navalmoral De La Mata,Excluding Albacete,ESP,,Private Call,None
 ,2144530,EB4APF,EB4APF Miguel,Caceres,Excluding Albacete,ESP,,Private Call,None
 ,2144531,EA4HAO,EA4HAO Hector,Madrid,Excluding Albacete,ESP,,Private Call,None
@@ -16798,7 +16808,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2145366,EA5ZU,EA5ZU Rafael,Valencia,Valencia,ESP,,Private Call,None
 ,2145367,EB5JIJ,EB5JIJ Antonio,Valencia,Valencia,ESP,,Private Call,None
 ,2145368,EA5IKO,EA5IKO Oscar,Alicante,Valencia,ESP,,Private Call,None
-,2145369,EC5ZZ,EC5ZZ Jose,Betera,Valencia,ESP,,Private Call,None
+,2145369,EC5ZZ,EC5ZZ Jose Miguel,Betera,Valencia,ESP,,Private Call,None
 ,2145370,EA5IK,EA5IK Miguel,Elche,Valencia,ESP,,Private Call,None
 ,2145371,EA5CMW,EA5CMW Vicente,Castello De La Plana,Valencia,ESP,,Private Call,None
 ,2145372,EA5ITI,EA5ITI Joaquin,Castellon,Valencia,ESP,,Private Call,None
@@ -16890,7 +16900,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2145459,EA5HPV,EA5HPV Ricardo,Villena,Valencia,ESP,,Private Call,None
 ,2145460,EB5JVC,EB5JVC Rafael,Albacete,Albecete,ESP,,Private Call,None
 ,2145461,EA5IOF,EA5IOF Raul,Valencia,Valencia,ESP,,Private Call,None
-,2145462,EC5ZZ,EC5ZZ Jose,Betera,Valencia,ESP,,Private Call,None
 ,2145463,EA5ICV,EA5ICV Josue,Valencia,Valencia,ESP,,Private Call,None
 ,2145464,EA5WF,EA5WF Valentin,Benifaio,Valencia,ESP,,Private Call,None
 ,2145465,EA5DN,EA5DN Joaquin,Benicarlo,Valencia,ESP,,Private Call,None
@@ -19154,7 +19163,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2147736,EA7JLC,EA7JLC Juan,Ubeda Jaen,Andalucia,ESP,,Private Call,None
 ,2147737,EA7DHT,EA7DHT Carlos,Granada,Andalucia,ESP,,Private Call,None
 ,2147738,EA7JCP,EA7JCP Manolo,,,ESP,,Private Call,None
-,2147739,EB7HNP,EB7HNP Jose,Chilluevar,Andalucia,ESP,,Private Call,None
+,2147739,EB7HNP,EB7HNP Jose Manuel,Chilluevar,Jaen,ESP,,Private Call,None
 ,2147740,EA7JLT,EA7JLT Manual,Peal De Becerro,Andalucia,ESP,,Private Call,None
 ,2147741,EA7RF,EA7RF Jose,Sevilla,Andalucia,ESP,,Private Call,None
 ,2147742,EA7CTV,EA7CTV Rafael,Cordoba,Andalucia,ESP,,Private Call,None
@@ -20028,7 +20037,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2148613,EA3IXM,EA3IXM Juanma,Abrera,Barcelona,ESP,,Private Call,None
 ,2148614,EA7LAR,EA7LAR Santiago,El Rompido,Huelva,ESP,,Private Call,None
 ,2148615,EA4IFH,EA4IFH Josemaria,Talavera De La Reina,Toledo,ESP,,Private Call,None
-,2148616,EA2RCH,EA2RCH Radioclub Fragat,Fraga,Huesca,ESP,,Private Call,None
+,2148616,EA2RCH,EA2RCH Radioclub Fragati,Fraga,Huesca,ESP,,Private Call,None
 ,2148617,EA7JWA,EA7JWA Juan,,Cordoba,ESP,,Private Call,None
 ,2148618,EA1FQK,EA1FQK Manuel,Zamora,Zamora,ESP,,Private Call,None
 ,2148619,EA4HIG,EA4HIG Marek,Madrid,Madrid,ESP,,Private Call,None
@@ -20659,7 +20668,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2149247,EA5INN,EA5INN Jose,Valencia,Valencia,ESP,,Private Call,None
 ,2149248,EA4ILR,EA4ILR Bruno,None,Madrid,ESP,,Private Call,None
 ,2149249,EA4ILQ,EA4ILQ David,Navacerrada,Madrid,ESP,,Private Call,None
-,2149250,EA3JAF,EA3JAF Juanjose,Barbera Del Valles,Barcelona,ESP,,Private Call,None
+,2149250,EA3JAF,EA3JAF Juanjo,Barberadelvalles,Barcelona,ESP,,Private Call,None
 ,2149251,EA4ILT,EA4ILT Borja,Madrid,Madrid,ESP,,Private Call,None
 ,2149252,EA4IKS,EA4IKS Jesus,Galapagos,Guadalajara,ESP,,Private Call,None
 ,2149253,EA7LIM,EA7LIM Lautaro,Fuengirola,Malaga,ESP,,Private Call,None
@@ -21429,7 +21438,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2150018,ED4ZAL,ED4ZAL Ure Merida,Merida,Badajoz,,,Private Call,None
 ,2150019,EA7LPB,EA7LPB Vicente,Granada,Granada,,,Private Call,None
 ,2150020,EA5JRH,EA5JRH Mark,Villar Del Arzobispo,Valencia,,,Private Call,None
-,2150021,EA3HCR,EA3HCR Jcebria,Sidamon,Lerida,,,Private Call,None
+,2150021,EA3HCR,EA3HCR Josep,Sidamon,Lerida,ESP,,Private Call,None
 ,2150022,EA1JXP,EA1JXP Javier,Oviedo,Asturias,,,Private Call,None
 ,2150023,EA4IYC,EA4IYC Juan,Madrid,Madrid,,,Private Call,None
 ,2150024,EA1JYA,EA1JYA Manuel,Palencia,Palencia,,,Private Call,None
@@ -21894,6 +21903,18 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2150494,EA5JUG,EA5JUG Francisco,Torrente,Valencia,ESP,,Private Call,None
 ,2150495,EA5KGW,EA5KGW Cristian,Caravaca De La Cruz,Murcia,ESP,,Private Call,None
 ,2150496,EA4DAT,EA4DAT Juan,Cuenca,Cuenca,ESP,,Private Call,None
+,2150497,EA5KFS,EA5KFS Stefan,Cervera Del Maestre,Castellon,ESP,,Private Call,None
+,2150498,EA1FB,EA1FB Jose Ramon,Boadilla Del Monte,Madrid,ESP,,Private Call,None
+,2150499,EA5GQB,EA5GQB Jose,Beniajan Murcia,Coruna,ESP,,Private Call,None
+,2150500,EA5KHU,EA5KHU Oscar,Alicante,Alicante,ESP,,Private Call,None
+,2150501,EA7HWF,EA7HWF Juan Carlos,Sevilla,Sevilla,ESP,,Private Call,None
+,2150502,EA5JZY,EA5JZY Jaime,Chiva,Valencia,ESP,,Private Call,None
+,2150503,EA2FNE,EA2FNE Jorge,Bilbao,Vizcaya,ESP,,Private Call,None
+,2150504,EA1GNU,EA1GNU Marcos,Leon,Leon,ESP,,Private Call,None
+,2150505,EA3JGD,EA3JGD Didac,Barcelona,Barcelona,ESP,,Private Call,None
+,2150506,EA3JEY,EA3JEY Fernando,Barcelona,Barcelona,ESP,,Private Call,None
+,2150507,EA7HMM,EA7HMM Juan,Ubeda,Jaen,ESP,,Private Call,None
+,2150508,EA5KEY,EA5KEY Carlos,Elche Alicante,Alicante,ESP,,Private Call,None
 ,2157000,EA7IYR,EA7IYR Juan Carlos,Granada,Granada,ESP,,Private Call,None
 ,2160001,HA8DJ,HA8DJ Sandor,Bordany,Csongrad County,HUN,,Private Call,None
 ,2160002,HA4XA,HA4XA Istvan,Budapest,Budapest,HUN,,Private Call,None
@@ -22057,6 +22078,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2160161,HA3SZ,HA3SZ Szabolcs,Barcs,Baranya / Somogy / Tolna / Kaposvar / Pecs / Szekszard,HUN,,Private Call,None
 ,2160162,HA7TK,HA7TK Lajos,Szentendre,Budapest,HUN,,Private Call,None
 ,2160163,HA2HA,HA2HA Aron,Veszpre M,Budapest,HUN,,Private Call,None
+,2160164,HA1NBS,HA1NBS Sandor,Salkoveskut,Nyugat Dunantul,HUN,,Private Call,None
 ,2160165,HA1DLI,HA1DLI Imre,Egyhazashetye,Gyor-Moson-Sopron,HUN,,Private Call,None
 ,2160166,HG5OAQ,HG5OAQ Attila,Veszprem,Budapest,HUN,,Private Call,None
 ,2160167,HG8YKO,HG8YKO no_name,,Borsod Abauj Zemplen / Heves / Jasz Nagykun Szolnok / Nogr,HUN,,Private Call,None
@@ -22293,6 +22315,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2160404,HA2VU,HA2VU Endre,Szarliget,Nyugat Dunantul,HUN,,Private Call,None
 ,2160405,HA3DZ,HA3DZ Zsolt,Budapest,Budapest,HUN,,Private Call,None
 ,2160406,HA5PM,HA5PM Peter,Budapest,Budapest,HUN,,Private Call,None
+,2160407,HA5AEB,HA5AEB Tibor,Ujhartyan,Pest,HUN,,Private Call,None
 ,2161001,HA2TO,HA2TO Arpad,Papa,Veszprum,HUN,,Private Call,None
 ,2161002,HA4XA,HA4XA Istvan,Szekesfehervar,Fejur,HUN,,Private Call,None
 ,2161003,HA9MDP,HA9MDP Peter,Babolna,Komurom-Esztergom,HUN,,Private Call,None
@@ -22574,7 +22597,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2165134,HA7CQ,HA7CQ Schneider,Paty,Budapest,HUN,,Private Call,None
 ,2165135,HG1DEG,HG1DEG Gyozo,Budapest,Budapest,HUN,,Private Call,None
 ,2165136,HA5ZE,HA5ZE Tomi,Szada,Budapest,HUN,,Private Call,None
-,2165137,HA3YEB,HA3YEB Robert,Budapest,Robertsemethy,HUN,,Private Call,None
+,2165137,HA3YEB,HA3YEB Robert,Budapest,Budapest,HUN,,Private Call,None
 ,2167001,HG7JML,HG7JML Otto,Erd,Calabarzon,HUN,,Private Call,None
 ,2167002,HA5OGR,HA5OGR Lajos,Dunavarsany,Pest County,HUN,,Private Call,None
 ,2167003,HA7TP,HA7TP Peter,Veresegyhaz,Pest County,HUN,,Private Call,None
@@ -23355,7 +23378,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2180575,E71XS,E71XS Zoran,Teslic,All Regions,BIH,,Private Call,None
 ,2180576,E77KV,E77KV Samir,Bihac,All Regions,BIH,,Private Call,None
 ,2180577,E70ZY,E70ZY Milan,Laktasi,All Regions,BIH,,Private Call,None
-,2180578,E73RXA,E73RXA Radomir,Prijedor,All Regions,BIH,,Private Call,None
+,2180578,E73RXA,E73RXA Rajko,Prijedor,All Regions,BIH,,Private Call,None
+,2180579,E74PAM,E74PAM Alina,Zenica,All Regions,BIH,,Private Call,None
 ,2190001,9A5PH,9A5PH Richard,Murter,No_regio,HRV,,Private Call,None
 ,2190002,9A5DW,9A5DW Johann,Zadar,No_regio,HRV,,Private Call,None
 ,2190003,9A0W,9A0W Ivan,Oroslevje,No_regio,HRV,,Private Call,None
@@ -24912,6 +24936,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2200844,YT3MAT,YT3MAT Miodrag,Veliki Izvor,All Regions,SRB,,Private Call,None
 ,2200845,YT7BVZ,YT7BVZ Vladimir,Novi,All Regions,SRB,,Private Call,None
 ,2200846,YT5ALX,YT5ALX Aleksandar,Zajecar,All Regions,SRB,,Private Call,None
+,2200847,YT3PFC,YT3PFC Nebojsa,Belgrade,All Regions,SRB,,Private Call,None
+,2200848,YU1TXB,YU1TXB Dragan,Pancevo,All Regions,SRB,,Private Call,None
 ,2200999,YT3VD,YT3VD Dejan,Belgrade,All Regions,SRB,,Private Call,None
 ,2201000,YU4RIS,YU4RIS Ivan,Beograd,All Regions,SRB,,Private Call,None
 ,2202222,YT5HOK,YT5HOK Marko,Beograd,All Regions,SRB,,Private Call,None
@@ -26068,6 +26094,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221174,IK1MVX,IK1MVX Andrea,Sanremo (IM),Liguria,ITA,,Private Call,None
 ,2221175,I1NOL,I1NOL Lucio,Sestri Levante (GE),Liguria,ITA,,Private Call,None
 ,2221176,IZ1YUA,IZ1YUA Marco,Torino (TO),Piemonte,ITA,,Private Call,None
+,2221177,IW1ENZ,IW1ENZ Massimo,Arquata Scrivia (AL),Piemonte,ITA,,Private Call,None
 ,2221178,IW1ES,IW1ES Toso,Giaveno (TO),Piemonte,ITA,,Private Call,None
 ,2221179,IW1BRR,IW1BRR Riccardo,Dormelletto (NO),Piemonte,ITA,,Private Call,None
 ,2221180,IZ1MAU,IZ1MAU Paolo,Baldissero Torinese (TO),Piemonte,ITA,,Private Call,None
@@ -27205,7 +27232,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222339,IZ2NBD,IZ2NBD Luciano,Gorgonzola (MI),Lombardia,ITA,,Private Call,None
 ,2222340,IU2CGN,IU2CGN Roberto,Cinisello Balsamo (MI),Lombardia,ITA,,Private Call,None
 ,2222341,IU2EBG,IU2EBG Carlo,Varese (VA),Lombardia,ITA,,Private Call,None
-,2222342,IK2XYF,IK2XYF Massimo,Cremona,Lombardia,ITA,,Private Call,None
+,2222342,IK2XYF,IK2XYF Massimo,Cremona (CR),Lombardia,ITA,,Private Call,None
 ,2222343,IK2BEH,IK2BEH Elio,Soresina,Lombardia,ITA,,Private Call,None
 ,2222344,IW2NJK,IW2NJK Ketty,Olgiate Olona,Lombardia,ITA,,Private Call,None
 ,2222345,IK2UIZ,IK2UIZ Pericle,Olgiate Olona (VA),Lombardia,ITA,,Private Call,None
@@ -27243,7 +27270,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222377,IK2EAE,IK2EAE Fabio,Bareggio (MI),Lombardia,ITA,,Private Call,None
 ,2222378,IW2NVB,IW2NVB Fabio,Brescia (BS),Lombardia,ITA,,Private Call,None
 ,2222379,IW2HBC,IW2HBC Claudio,Darfo Boario Terme (BS),Lombardia,ITA,,Private Call,None
-,2222380,IZ2KZV,IZ2KZV Nicola,Cremona (CR),Lombardia,ITA,,Private Call,None
+,2222380,IZ2KZV,IZ2KZV Nicola,Casalmaggiore (CR),Lombardia,ITA,,Private Call,None
 ,2222381,IZ2YNB,IZ2YNB Giuseppe,Milano,Lombardia,ITA,,Private Call,None
 ,2222382,IZ2IDS,IZ2IDS Carlo,Tradate (VA),Lombardia,ITA,,Private Call,None
 ,2222383,IK2CMI,IK2CMI Marco,Rozzano (MI),Lombardia,ITA,,Private Call,None
@@ -27798,7 +27825,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222935,IZ2XDM,IZ2XDM Claudio,Cantu',,ITA,,Private Call,None
 ,2222936,IZ2UQI,IZ2UQI Mirko,Milano (MI),Lombardia,ITA,,Private Call,None
 ,2222937,IU2AIV,IU2AIV Vittorio,Rescaldina (MI),Lombardia,ITA,,Private Call,None
-,2222938,IK2UGG,IK2UGG Lele,Cremona,Lombardia,ITA,,Private Call,None
+,2222938,IK2UGG,IK2UGG Gabriele,Cremona (CR),Lombardia,ITA,,Private Call,None
 ,2222939,IZ2XBC,IZ2XBC Giuseppe,Gorgonzola (MI),Lombardia,ITA,,Private Call,None
 ,2222940,IZ2KSA,IZ2KSA Gianluigi,Merate,Lombardia,ITA,,Private Call,None
 ,2222941,IU2KKA,IU2KKA Giancarlo,Milano (MI),Lombardia,ITA,,Private Call,None
@@ -28147,7 +28174,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223292,IW3IPI,IW3IPI Ivan,Occhiobello,Veneto,ITA,,Private Call,None
 ,2223293,IN3FHP,IN3FHP Ivan,Pellizzano,Trentino AA,ITA,,Private Call,None
 ,2223294,IW3BVS,IW3BVS Stefano,Castel Ivano (TN),Trentino AA,ITA,,Private Call,None
-,2223295,IZ3SVI,IZ3SVI Adriano,Venezia (VE),Veneto,ITA,,Private Call,None
+,2223295,IZ3SVI,IZ3SVI Adriano,Sacca Fisola (VE),Veneto,ITA,,Private Call,None
 ,2223296,IZ3CAO,IZ3CAO Armando,Camposanpiero,Veneto,ITA,,Private Call,None
 ,2223297,IV3FIF,IV3FIF Giuseppe,Pordenone,Friuli VG,ITA,,Private Call,None
 ,2223298,IU3BRF,IU3BRF Enzo,Belluno (BL),Veneto,ITA,,Private Call,None
@@ -28347,7 +28374,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223493,IZ3NWO,IZ3NWO Alberto,Zimella (VR),Veneto,ITA,,Private Call,None
 ,2223494,IU3IRY,IU3IRY Paola,Alleghe (BL),Veneto,ITA,,Private Call,None
 ,2223495,IZ3PWF,IZ3PWF Bernardino,Treviso,Veneto,ITA,,Private Call,None
-,2223496,IK3RIQ,IK3RIQ Bruno,Mira Porte (VE),Veneto,ITA,,Private Call,None
+,2223496,IK3RIQ,IK3RIQ Bruno,Gambarare Mira (VE),Veneto,ITA,,Private Call,None
 ,2223497,IZ3WWK,IZ3WWK Cristiano,Longare (VI),Veneto,ITA,,Private Call,None
 ,2223498,IZ3ZUS,IZ3ZUS Andrea,Mira (VE),Veneto,ITA,,Private Call,None
 ,2223499,IZ3VDA,IZ3VDA Donato,Vittorio Veneto (TV),Veneto,ITA,,Private Call,None
@@ -28556,7 +28583,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223703,IZ3UOF,IZ3UOF Eros,Roncade (TV),Veneto,ITA,,Private Call,None
 ,2223704,IV3GDE,IV3GDE Alessio,Manzano (UD),Friuli VG,ITA,,Private Call,None
 ,2223705,IZ3ZMK,IZ3ZMK Alan,Villafranca Di Verona,Veneto,ITA,,Private Call,None
-,2223706,IU3FZK,IU3FZK Marco,Scorze,Veneto,ITA,,Private Call,None
+,2223706,IU3FZK,IU3FZK Marco,Scorze' (VE),Veneto,ITA,,Private Call,None
 ,2223707,IV3FPU,IV3FPU Manlio,Ronchi Dei Legionari (GO),Friuli VG,ITA,,Private Call,None
 ,2223708,IU3GNB,IU3GNB Francesco,Verona (VR),Veneto,ITA,,Private Call,None
 ,2223709,IZ3HGF,IZ3HGF Roberto,Belluno (BL),Veneto,ITA,,Private Call,None
@@ -28928,7 +28955,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224083,IZ4YER,IZ4YER Marco,Fidenza,Emilia-Rom.,ITA,,Private Call,None
 ,2224084,IK4CIE,IK4CIE Vittorio,Parma (PR),Emilia-Rom.,ITA,,Private Call,None
 ,2224085,I4TDK,I4TDK Filippo,Parma (PR),Emilia-Rom.,ITA,,Private Call,None
-,2224086,IK4JQR,IK4JQR Patrizio,Fidenza,Emilia-Rom.,ITA,,Private Call,None
+,2224086,IK4JQR,IK4JQR Patrizio,Fidenza (PR),Emilia-Rom.,ITA,,Private Call,None
 ,2224087,IW4DFF,IW4DFF Gabriele,Traversetolo (PR),Emilia-Rom.,ITA,,Private Call,None
 ,2224088,IZ4OTU,IZ4OTU Giuseppe,Fidenza,Emilia-Rom.,ITA,,Private Call,None
 ,2224089,IZ4CPD,IZ4CPD William,Noceto,Emilia-Rom.,ITA,,Private Call,None
@@ -32905,7 +32932,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228113,IZ8MZD,IZ8MZD Ciro,Napoli (NA),Campania,ITA,,Private Call,None
 ,2228114,IZ8QIF,IZ8QIF Antonio,Caserta,Campania,ITA,,Private Call,None
 ,2228115,IK8URY,IK8URY Salvatore,Napoli (NA),Campania,ITA,,Private Call,None
-,2228116,IU8CPQ,IU8CPQ Mario,Napoli,Campania,ITA,,Private Call,None
+,2228116,IU8CPQ,IU8CPQ Mario,Nola (NA),Campania,ITA,,Private Call,None
 ,2228117,IU8FRF,IU8FRF Angelo,Napoli,Campania,ITA,,Private Call,None
 ,2228118,IU8FRE,IU8FRE Luca,Napoli,Campania,ITA,,Private Call,None
 ,2228119,IZ8MCN,IZ8MCN Pasquale,Pompei (NA),Campania,ITA,,Private Call,None
@@ -33111,7 +33138,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228321,IZ8TXJ,IZ8TXJ Salvatore,Reggio Calabria (RC),Calabria,ITA,,Private Call,None
 ,2228322,IZ8FWX,IZ8FWX Angelo,Villa Sgiovanni,Calabria,ITA,,Private Call,None
 ,2228323,IW8RFH,IW8RFH Antonio,Lamezia Terme,Calabria,ITA,,Private Call,None
-,2228324,IW8ROE,IW8ROE Vincenzo,Reggio Calabria (RC),Calabria,ITA,,Private Call,None
 ,2228325,IZ8EDI,IZ8EDI Giuseppe,Sarsenio,Campania,ITA,,Private Call,None
 ,2228326,IZ8WMQ,IZ8WMQ Luigi,Centrache (CZ),Calabria,ITA,,Private Call,None
 ,2228327,IW8BVN,IW8BVN Antonio,Marano,Calabria,ITA,,Private Call,None
@@ -34235,7 +34261,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229449,IT9MRB,IT9MRB Vincenzo,Cammarata (AG),Sicilia,ITA,,Private Call,None
 ,2229450,IT9ICR,IT9ICR Concetto,Stazzo Acireale (CT),Sicilia,ITA,,Private Call,None
 ,2229451,IT9SVJ,IT9SVJ Salvatore,Palermo (PA),Sicilia,ITA,,Private Call,None
-,2229452,IW9GSJ,IW9GSJ Salvatore,Carini (PA),Sicilia,ITA,,Private Call,None
 ,2229453,IT9ICK,IT9ICK Giampiero,Palermo (PA),Sicilia,ITA,,Private Call,None
 ,2229454,IT9IES,IT9IES Giuseppe,Catania (CT),Sicilia,ITA,,Private Call,None
 ,2229455,IT9ACC,IT9ACC Antonio,Messina,Sicilia,ITA,,Private Call,None
@@ -35679,7 +35704,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230908,IU0SIB,IU0SIB Maurizio,Colleferro (RM),Lazio,ITA,,Private Call,None
 ,2230909,IS0KBL,IS0KBL Bernini,Olbia (SS),Sardegna,ITA,,Private Call,None
 ,2230910,IN3KBP,IN3KBP Paolo,Trento (TN),Trentino AA,ITA,,Private Call,None
-,2230911,IV3JYV,IV3JYV David,Casarsa Della Delizia (PN),Friuli VG,ITA,,Private Call,None
+,2230911,IU1WXO,IU1WXO David,Torino (TO),Piemonte,ITA,,Private Call,None
 ,2230912,IU5RGD,IU5RGD Vincenzo,Grosseto (GR),Toscana,ITA,,Private Call,None
 ,2230913,IK0BBH,IK0BBH Fabrizio,Roma (RM),Lazio,ITA,,Private Call,None
 ,2230914,IT9PQJ,IT9PQJ Nicola,Avola (SR),Sicilia,ITA,,Private Call,None
@@ -36292,6 +36317,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231525,IU7TVA,IU7TVA Antonio,Brindisi (BR),Puglia,ITA,,Private Call,None
 ,2231526,IU5CYB,IU5CYB Massimiliano,Quiesa (LU),Toscana,ITA,,Private Call,None
 ,2231527,IU4TPJ,IU4TPJ Francesco,Marzabotto (BO),Emilia-Rom.,ITA,,Private Call,None
+,2231528,IK7XLW,IK7XLW Salvatore,Gravina In Puglia (BA),Puglia,ITA,,Private Call,None
 ,2231530,IV3DMO,IV3DMO Andrea,Trieste (TS),Friuli VG,ITA,,Private Call,None
 ,2231531,IU8TRB,IU8TRB Francesco,Paestum (SA),Campania,ITA,,Private Call,None
 ,2231532,IU6TOV,IU6TOV Andrea,Montecalvo In Foglia (PU),Marche,ITA,,Private Call,None
@@ -37262,7 +37288,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232511,IU3UKI,IU3UKI Mario,Monteforte D'Alpone (VR),Veneto,ITA,,Private Call,None
 ,2232512,IZ5QUG,IZ5QUG Riccardo,Capannori (LU),Toscana,ITA,,Private Call,None
 ,2232513,IV3ZXF,IV3ZXF Massimo,Ruda (UD),Friuli VG,ITA,,Private Call,None
-,2232514,IU2QDQ,IU2QDQ Pietro,Pegognaga (MN),Lombardia,ITA,,Private Call,None
 ,2232515,IT9LCN,IT9LCN Massimiliano,Mascalucia (CT),Sicilia,ITA,,Private Call,None
 ,2232516,IS0CMM,IS0CMM Agostino,Sassari (SS),Sardegna,ITA,,Private Call,None
 ,2232517,IU4OTW,IU4OTW Alessandro,Modena (MO),Emilia-Rom.,ITA,,Private Call,None
@@ -37929,6 +37954,36 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2233188,IU1WWY,IU1WWY Antonio,Torino (TO),Piemonte,ITA,,Private Call,None
 ,2233189,IU1WVA,IU1WVA Emanuele,Beinette (CN),Piemonte,ITA,,Private Call,None
 ,2233190,IU1WWR,IU1WWR Piero,Torino (TO),Piemonte,ITA,,Private Call,None
+,2233191,IU1WVH,IU1WVH Bruno,Torino (TO),Piemonte,ITA,,Private Call,None
+,2233192,IK1YQI,IK1YQI Athos,La Spezia (SP),Liguria,ITA,,Private Call,None
+,2233193,IU7WNI,IU7WNI Gianfranco,Massafra (TA),Puglia,ITA,,Private Call,None
+,2233194,IU2WAF,IU2WAF Valentina,Como (CO),Lombardia,ITA,,Private Call,None
+,2233195,IS0KSH,IS0KSH Stefano,Marrubiu (OR),Sardegna,ITA,,Private Call,None
+,2233196,IS0HYX,IS0HYX Antonello,Oristano (OR),Sardegna,ITA,,Private Call,None
+,2233197,IU1WXG,IU1WXG Marco,Castelletto Sopra Ticino (NO),Piemonte,ITA,,Private Call,None
+,2233198,IU2VZD,IU2VZD Gennaro,Cinisello Balsamo (MI),Lombardia,ITA,,Private Call,None
+,2233199,IU1WXF,IU1WXF Giorgio,Torino (TO),Piemonte,ITA,,Private Call,None
+,2233200,IK3PUH,IK3PUH Massimo,Vigasio (VR),Veneto,ITA,,Private Call,None
+,2233201,IU1WWN,IU1WWN Daniele,Collegno (TO),Piemonte,ITA,,Private Call,None
+,2233202,IZ1TRG,IZ1TRG Luca,Ricco Del Golfo (SP),Liguria,ITA,,Private Call,None
+,2233203,IW9DBE,IW9DBE Claudio,Palermo (PA),Sicilia,ITA,,Private Call,None
+,2233204,IU3UYC,IU3UYC Alberto,Motta Di Livenza (TV),Veneto,ITA,,Private Call,None
+,2233205,IU0RVJ,IU0RVJ Alessandro,Roma (RM),Lazio,ITA,,Private Call,None
+,2233206,IU4LDZ,IU4LDZ Mauro,Campegine (RE),Emilia-Rom.,ITA,,Private Call,None
+,2233207,IU8WPW,IU8WPW Antonio,Eboli (SA),Campania,ITA,,Private Call,None
+,2233208,IU6MZU,IU6MZU Marziano,Petriano (PU),Marche,ITA,,Private Call,None
+,2233209,IU3WNQ,IU3WNQ Alessandro,Cadoneghe (PD),Veneto,ITA,,Private Call,None
+,2233210,IU1WXY,IU1WXY Giovanni,Alpignano (TO),Piemonte,ITA,,Private Call,None
+,2233211,IU0WXJ,IU0WXJ Roberto,Roma (RM),Lazio,ITA,,Private Call,None
+,2233212,IU5NHN,IU5NHN Luigi,Camaiore (LU),Toscana,ITA,,Private Call,None
+,2233213,IU4VRO,IU4VRO Massimo,Bologna (BO),Emilia-Rom.,ITA,,Private Call,None
+,2233214,IU1WYI,IU1WYI Matteo,San Francesco Al Campo (TO),Piemonte,ITA,,Private Call,None
+,2233215,IU0TYA,IU0TYA Mileto,Albano Laziale (RM),Lazio,ITA,,Private Call,None
+,2233216,IN3IJG,IN3IJG Giorgio,Rovereto (TN),Trentino AA,ITA,,Private Call,None
+,2233217,IW2FRT,IW2FRT Gian,Milano (MI),Lombardia,ITA,,Private Call,None
+,2233218,IU8WQW,IU8WQW Rocco,Gioia Tauro (RC),Calabria,ITA,,Private Call,None
+,2233219,IK4OMU,IK4OMU Maurizio,Cesena (FC),Emilia-Rom.,ITA,,Private Call,None
+,2233220,IW5DYN,IW5DYN Alberto,Pisa (PI),Toscana,ITA,,Private Call,None
 ,2242222,IT9JFW,IT9JFW Lorenzo,Palermo (PA),Sicilia,ITA,,Private Call,None
 ,2260001,YO3DSG,YO3DSG Daniel,Bucharest,Bucuresti / Ilfov,ROU,,Private Call,None
 ,2260002,YO6YLJ,YO6YLJ Nico,Tirgu-Mures,Mures,ROU,,Private Call,None
@@ -38670,6 +38725,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2260761,YO3IWA,YO3IWA Adrian,Bucuresti,Bucuresti Ilfov,ROU,,Private Call,None
 ,2260762,YO2LO,YO2LO Casian,Simeria,Hunedoara Timis,ROU,,Private Call,None
 ,2260763,YO5OSF,YO5OSF Sorin,Beius,Alba Bihor Bistrita Nasaud Cluj Maramures Salaj Satu Mare,ROU,,Private Call,None
+,2260764,YO3FTS,YO3FTS Alexandru,Balotesti,Bucuresti Ilfov,ROU,,Private Call,None
+,2260765,YO3STZ,YO3STZ Stefan,Bucuresti,Bucuresti Ilfov,ROU,,Private Call,None
 ,2261000,YO5MDA,YO5MDA Dumi,Satu Mare,Alba / Bihor / Bistrita Nasaud / Cluj / Maramures / Salaj / Satu Mare,ROU,,Private Call,None
 ,2261001,YO3GTS,YO3GTS Dan,Bucharest,Bucharest,ROU,,Private Call,None
 ,2261111,YO3IHG,YO3IHG Vlad,Bucharest,Bucuresti Ilfov,ROU,,Private Call,None
@@ -39739,6 +39796,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280557,HB3YTK,HB3YTK Martin,Alpnach Dorf,Obwalden,CHE,,Private Call,None
 ,2280558,HB9ITW,HB9ITW Werner,Zurich,Zurich,CHE,,Private Call,None
 ,2280559,HB9FZW,HB9FZW Alexander,Wettingen,Aargau,CHE,,Private Call,None
+,2280560,HB9GNX,HB9GNX Pascal,Thalwil,Zurich,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -41780,6 +41838,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2300472,OK2BBO,OK2BBO Miloslav,Predklasteri,South Moravian Region,CZE,,Private Call,None
 ,2300473,OK1WJA,OK1WJA Petr,Nejdek,Karlovy Vary Region,CZE,,Private Call,None
 ,2300474,OK8LC,OK8LC Moritz,Prague,Prague,CZE,,Private Call,None
+,2300475,OK9BUK,OK9BUK Radek,Praha,Prague,CZE,,Private Call,None
 ,2300476,OK5AZ,OK5AZ Rosta,Brno,South Moravian Region,CZE,,Private Call,None
 ,2300477,OK7JDN,OK7JDN Jan,Havirov,Moravian Silesian Region,CZE,,Private Call,None
 ,2300478,OK7DC,OK7DC David,Brno,South Moravian Region,CZE,,Private Call,None
@@ -43952,6 +44011,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2321315,OE3FSX,OE3FSX Franz,Tulln An der Donau,NOE,AUT,,Private Call,None
 ,2321316,OE4DJN,OE4DJN Daniel,Neustift An der Lafnitz,BGLD,AUT,,Private Call,None
 ,2321317,OE3SHB,OE3SHB Josef,Pulkau,NOE,AUT,,Private Call,None
+,2321318,OE3VPL,OE3VPL Vaclav,Nappersdorf,NOE,AUT,,Private Call,None
+,2321319,OE6TPF,OE6TPF Thomas,Graz,STMK,AUT,,Private Call,None
+,2321320,OE6TXW,OE6TXW Tom,Friedberg,STMK,AUT,,Private Call,None
 ,2321333,OE1TRB,OE1TRB Thomas,Wien,WIEN,AUT,,Private Call,None
 ,2322001,OE2AIP,OE2AIP Philipp,Salzburg,SBG,AUT,,Private Call,None
 ,2322002,OE2WAO,OE2WAO Michael Alexander,Obertrum am See,SBG,AUT,,Private Call,None
@@ -48016,6 +48078,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2342735,M6FLW,M6FLW Simon,Rotherham,England,GBR,,Private Call,None
 ,2342736,M6ZGP,M6ZGP Mark,London,England,GBR,,Private Call,None
 ,2342737,G6TNW,G6TNW Webbiant,,,GBR,,Private Call,None
+,2342738,G7KFQ,G7KFQ Nicholas,Newquay,England,GBR,,Private Call,None
 ,2342739,M1EAG,M1EAG Kevin,Derby,England,GBR,,Private Call,None
 ,2342740,M6ODC,M6ODC Glenn,W Moors,England,GBR,,Private Call,None
 ,2342741,M0XRS,M0XRS Chris,Leyland,England,GBR,,Private Call,None
@@ -51461,7 +51524,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2346276,2E0KXV,2E0KXV Antony,Crawley,England,GBR,,Private Call,None
 ,2346277,GB2GCS,GB2GCS Andy,Cleethorpes,England,GBR,,Private Call,None
 ,2346278,2E0XRD,2E0XRD Chris,Lincoln,England,GBR,,Private Call,None
-,2346279,G4NSZ,G4NSZ Michael,Gorebridge,England,GBR,,Private Call,None
+,2346279,G4NSZ,G4NSZ Michael,Cheltenham,England,GBR,,Private Call,None
 ,2346280,G7LRR,G7LRR Andy,Hull,England,GBR,,Private Call,None
 ,2346281,G8NSZ,G8NSZ Mike,Cheltenham,England,GBR,,Private Call,None
 ,2346282,G5RCW,G5RCW Bob,Worksop,England,GBR,,Private Call,None
@@ -51822,7 +51885,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2346640,M7NHS,M7NHS Jim,Margate,No_regio,GBR,,Private Call,None
 ,2346641,M0GOH,M0GOH Peter,Sutton-In-Ashfield,No_regio,GBR,,Private Call,None
 ,2346642,G7EJO,G7EJO Ian,Newhall,No_regio,GBR,,Private Call,None
-,2346643,G4WQS,G4WQS Norman,Wiondsor,No_regio,GBR,,Private Call,None
+,2346643,G4WQS,G4WQS Norman,Windsor,England,GBR,,Private Call,None
 ,2346644,G0TBO,G0TBO Paul,Garlinge,England,GBR,,Private Call,None
 ,2346645,G0MEJ,G0MEJ Nigel,Barrow Island,England,GBR,,Private Call,None
 ,2346646,G7LKI,G7LKI Dave,Castle Bromwich,England,GBR,,Private Call,None
@@ -56360,7 +56423,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2351219,G6KSM,G6KSM Paul,Dartford,England,GBR,,Private Call,None
 ,2351220,M0VHG,M0VHG Vincent,Long Preston,England,GBR,,Private Call,None
 ,2351221,M0TMT,M0TMT Bob,London,England,GBR,,Private Call,None
-,2351222,G8PXB,G8PXB Simon,Whitby,England,GBR,,Private Call,None
 ,2351223,2E0IPC,2E0IPC William,Liversedge,England,GBR,,Private Call,None
 ,2351224,G4VSS,G4VSS Mike,Warrington,England,GBR,,Private Call,None
 ,2351225,GM3AND,GM3AND Andrew,St Monans,Scotland,GBR,,Private Call,None
@@ -59432,8 +59494,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2354332,2M0JST,2M0JST John,Ayrshire,Scotland,GBR,,Private Call,None
 ,2354333,GM3RQQ,GM3RQQ Hugh,Glasgow,Scotland,GBR,,Private Call,None
 ,2354334,MM3KMX,MM3KMX Scott,Glenrothes,Scotland,GBR,,Private Call,None
-,2354335,GM7KBK,GM7KBK Mb6er,Aberdeen,Scotland,GBR,,Private Call,None
-,2354336,MB6ER,MB6ER Ernie Pratt,Aberdeen,Scotland,GBR,,Private Call,None
+,2354335,GM7KBK,GM7KBK Ernie,Aberdeen,Scotland,GBR,,Private Call,None
+,2354336,MB6ER,MB6ER Cquk,Aberdeen,Scotland,GBR,,Private Call,None
 ,2354337,MM0WXE,MM0WXE Tony,,,GBR,,Private Call,None
 ,2354338,MM0HRI,MM0HRI Ian,Angus,Scotland,GBR,,Private Call,None
 ,2354339,M7TCY,M7TCY Stuart,Dover,England,GBR,,Private Call,None
@@ -60093,7 +60155,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2354996,M7RTZ,M7RTZ Taylor,Enfield London,England,GBR,,Private Call,None
 ,2354997,M0KHD,M0KHD Gaspar,Darlaston,England,GBR,,Private Call,None
 ,2354998,MM7JDT,MM7JDT Jason,Edinburgh,Scotland,GBR,,Private Call,None
-,2354999,MB6ER,MB6ER Ernie Pratt,Aberdeen,Scotland,GBR,,Private Call,None
+,2354999,MB6ER,MB6ER Cquk,Aberdeen,Scotland,GBR,,Private Call,None
 ,2355000,2E0FTY,2E0FTY Rowley,Telford,England,GBR,,Private Call,None
 ,2355001,MI3WWF,MI3WWF Mark,Bangor,Northern Ireland,GBR,,Private Call,None
 ,2355002,GI8VKA,GI8VKA Roy,Ballynure,Northern Ireland,GBR,,Private Call,None
@@ -60914,7 +60976,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2355835,G3IPL,G3IPL Robert,NORTHAMPTON,England,GBR,,Private Call,None
 ,2355836,2W0CVE,2W0CVE Clive,Colwyn Bay,Wales,GBR,,Private Call,None
 ,2355837,M6YOP,M6YOP Ian,Sutton Coldfield,England,GBR,,Private Call,None
-,2355838,M7YLA,M7YLA Ylana,Huddersfield,England,GBR,,Private Call,None
+,2355838,G5YLA,G5YLA Ylana,Huddersfield,England,GBR,,Private Call,None
 ,2355839,GW0VSW,GW0VSW Carl,Neath Port Talbot,Wales,GBR,,Private Call,None
 ,2355840,G1THW,G1THW Paul,Betchworth,England,GBR,,Private Call,None
 ,2355841,M9PDG,M9PDG Peter,Broadway,England,GBR,,Private Call,None
@@ -61644,7 +61706,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2356570,M0VNL,M0VNL Nigel,Fleetwood,England,GBR,,Private Call,None
 ,2356571,G7KLR,G7KLR Pooley,High Harrington,England,GBR,,Private Call,None
 ,2356572,G8VNE,G8VNE Mike,St Albans,England,GBR,,Private Call,None
-,2356573,MW8OEG,MW8OEG Christopher,Neath,Wales,GBR,,Private Call,None
+,2356573,MW8OEG,MW8OEG Chris,Neath,Wales,GBR,,Private Call,None
 ,2356574,MM7CMV,MM7CMV George,Girvan,Scotland,GBR,,Private Call,None
 ,2356575,MB9ABQ,MB9ABQ Drew,Bideford,England,GBR,,Private Call,None
 ,2356576,MB9ABR,MB9ABR Drew,Bideford,England,GBR,,Private Call,None
@@ -61960,7 +62022,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2356893,M7YCV,M7YCV Darren,Manchester,England,GBR,,Private Call,None
 ,2356894,M5JEN,M5JEN Yordan,London,England,GBR,,Private Call,None
 ,2356895,M7XXB,M7XXB Ben,Stanley,England,GBR,,Private Call,None
-,2356896,2E0EUZ,2E0EUZ Alan,Bideford,England,GBR,,Private Call,None
+,2356896,M9NAE,M9NAE Alan,Bideford,England,GBR,,Private Call,None
 ,2356897,M7ODA,M7ODA Oscar,Thirsk,England,GBR,,Private Call,None
 ,2356898,M7GMQ,M7GMQ Norbert,London,England,GBR,,Private Call,None
 ,2356899,MW7YAJ,MW7YAJ Ashley,Bridgend,Wales,GBR,,Private Call,None
@@ -61986,7 +62048,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2356919,G1VFH,G1VFH Martin,Stoke On Trent,England,GBR,,Private Call,None
 ,2356920,M7FZO,M7FZO Graeme,Oulton,England,GBR,,Private Call,None
 ,2356921,G7SVT,G7SVT Debbie,Devizes,England,GBR,,Private Call,None
-,2356922,M7LHE,M7LHE Gary,Great Hale Sleaford,England,GBR,,Private Call,None
+,2356922,M9PLD,M9PLD Gary,Great Hale Sleaford,England,GBR,,Private Call,None
 ,2356923,GI4GUH,GI4GUH Maurice,Banbridge,Northern Ireland,GBR,,Private Call,None
 ,2356924,G0HKC,G0HKC Keith,Alveston Bristol,England,GBR,,Private Call,None
 ,2356925,G6JUT,G6JUT Jonathan,Sleaford Lincolnshire,England,GBR,,Private Call,None
@@ -62322,7 +62384,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2357256,M7PMT,M7PMT Peter,Preston,England,GBR,,Private Call,None
 ,2357257,GM1HZL,GM1HZL Martin,Drummore,Scotland,GBR,,Private Call,None
 ,2357258,2I0YOO,2I0YOO Brian,Derry,Northern Ireland,GBR,,Private Call,None
-,2357259,2M0IZS,2M0IZS Jane,Alford,Scotland,GBR,,Private Call,None
+,2357259,GM7EST,GM7EST Jane,Alford,Scotland,GBR,,Private Call,None
 ,2357260,G4EUM,G4EUM Stephen,London,England,GBR,,Private Call,None
 ,2357261,MM8RQM,MM8RQM Tom,Larkhall,Scotland,GBR,,Private Call,None
 ,2357262,G1COG,G1COG Andy,Ashtead Surrey,England,GBR,,Private Call,None
@@ -63405,7 +63467,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2358345,M9UXG,M9UXG Paul,Stockton On Tees,England,GBR,,Private Call,None
 ,2358346,GB1TS,GB1TS 1st,Twyford,England,GBR,,Private Call,None
 ,2358347,M0WVE,M0WVE Mervyn,Lindfield,England,GBR,,Private Call,None
-,2358348,M7XFN,M7XFN Finlay,Reading,England,GBR,,Private Call,None
+,2358348,M9XFN,M9XFN Finlay,Reading,England,GBR,,Private Call,None
 ,2358349,M3BXI,M3BXI Brian,Nottingham,England,GBR,,Private Call,None
 ,2358350,MM0AHC,MM0AHC Michael,Connel Oban,Scotland,GBR,,Private Call,None
 ,2358351,M7FDG,M7FDG Alex,Bournemouth,England,GBR,,Private Call,None
@@ -64080,7 +64142,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359061,M8GFU,M8GFU Colin,South Shields,England,GBR,,Private Call,None
 ,2359062,M7NQK,M7NQK Kenneth,Sunderland,England,GBR,,Private Call,None
 ,2359063,MW8XTF,MW8XTF Alastair,Abergavenny,Wales,GBR,,Private Call,None
-,2359064,M7TWU,M7TWU Markgalpin,Southwater,England,GBR,,Private Call,None
+,2359064,M7TWU,M7TWU Mark,Southwater,England,GBR,,Private Call,None
 ,2359065,M0SDP,M0SDP Sean,Tamworth,England,GBR,,Private Call,None
 ,2359066,MM7WCG,MM7WCG Wesley,Stranraer,Scotland,GBR,,Private Call,None
 ,2359067,M7TJO,M7TJO Josh,Derbyshire,England,GBR,,Private Call,None
@@ -64208,7 +64270,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359189,M7XJE,M7XJE Joseph,Eastbourne,England,GBR,,Private Call,None
 ,2359190,M7LYE,M7LYE John,Burntwood,England,GBR,,Private Call,None
 ,2359191,M7MWN,M7MWN Matt,Warrington,England,GBR,,Private Call,None
-,2359192,M7OEZ,M7OEZ Steven,Sheffield,England,GBR,,Private Call,None
 ,2359193,M8LYA,M8LYA Ian,Blyth,England,GBR,,Private Call,None
 ,2359194,M7NZQ,M7NZQ John,Wisbech,England,GBR,,Private Call,None
 ,2359195,M7RFR,M7RFR Robert,Bracknell,England,GBR,,Private Call,None
@@ -64243,6 +64304,36 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359224,M6CHW,M6CHW Chris,Bude Cornwall,England,GBR,,Private Call,None
 ,2359225,M7YBK,M7YBK William,Crawley,England,GBR,,Private Call,None
 ,2359226,G4HAA,G4HAA Mark,Nr Walsall,England,GBR,,Private Call,None
+,2359227,M7TQX,M7TQX Thomas,Manchester,England,GBR,,Private Call,None
+,2359228,M7YDP,M7YDP Damon,Nottingham,England,GBR,,Private Call,None
+,2359229,MW0ACX,MW0ACX Alessandro,Wrexham,Wales,GBR,,Private Call,None
+,2359230,M8FBB,M8FBB Steve,Cwmbran,Wales,GBR,,Private Call,None
+,2359231,M7HXA,M7HXA John,Whitfield,England,GBR,,Private Call,None
+,2359232,M7YMG,M7YMG Margaret,Corringham,England,GBR,,Private Call,None
+,2359233,M6VMJ,M6VMJ Richard,Sheffield,England,GBR,,Private Call,None
+,2359234,M6XFL,M6XFL Harry,Wareham,England,GBR,,Private Call,None
+,2359235,MB7IDW,MB7IDW David,Sutton In Ashfield,England,GBR,,Private Call,None
+,2359236,M7RCP,M7RCP Ricky,Westonzoyland,England,GBR,,Private Call,None
+,2359237,M7JHP,M7JHP Jim,Wiltshire,England,GBR,,Private Call,None
+,2359238,M7IXH,M7IXH Saibin,Peterborough,England,GBR,,Private Call,None
+,2359239,G1NOV,G1NOV Lee,Birmingham,England,GBR,,Private Call,None
+,2359240,M7UAH,M7UAH Alex,Burnham On,England,GBR,,Private Call,None
+,2359241,MW7JPU,MW7JPU Joe,Brecon,Wales,GBR,,Private Call,None
+,2359242,G1RLS,G1RLS Girls Radio Club,Huddersfield,England,GBR,,Private Call,None
+,2359243,M7OGX,M7OGX Oscar,Nottingham,England,GBR,,Private Call,None
+,2359244,G3EKS,G3EKS Geeks Radio Club,Huddersfield,England,GBR,,Private Call,None
+,2359245,M6USB,M6USB Steven,Royal Wootton Bassett,England,GBR,,Private Call,None
+,2359246,MM7EXK,MM7EXK Paul,Dumfries,Scotland,GBR,,Private Call,None
+,2359247,M7KJZ,M7KJZ Leslie,Boston,England,GBR,,Private Call,None
+,2359248,M7KJZ,M7KJZ Leslie,Boston,England,GBR,,Private Call,None
+,2359249,M1GYY,M1GYY David,Grimsby,England,GBR,,Private Call,None
+,2359250,M7VHM,M7VHM Jake Skitt,Gloucester,England,GBR,,Private Call,None
+,2359251,M7JVR,M7JVR John,Inverness,Scotland,GBR,,Private Call,None
+,2359252,M8KYV,M8KYV Matthew,Aberdeenshire,Scotland,GBR,,Private Call,None
+,2359253,G3ZHV,G3ZHV Bob,Winchester,England,GBR,,Private Call,None
+,2359254,M7XWY,M7XWY Robert,Greater Manchester,England,GBR,,Private Call,None
+,2359255,M6RJU,M6RJU Rod,Cirencester,England,GBR,,Private Call,None
+,2359256,M7OIS,M7OIS Dean,Holyhead,Wales,GBR,,Private Call,None
 ,2360000,M0NOA,M0NOA Anthony,Leeds,England,GBR,,Private Call,None
 ,2360001,M1HAC,M1HAC Alex,Southampton,England,GBR,,Private Call,None
 ,2360002,M1HAC,M1HAC Alex,Southampton,England,GBR,,Private Call,None
@@ -64944,7 +65035,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2382068,5P0E,5P0E Arne,Grenaa,Midtjylland,DNK,,Private Call,None
 ,2382069,OZ3PLH,OZ3PLH Peter,Oersted,Midtjylland,DNK,,Private Call,None
 ,2382070,OZ3AEF,OZ3AEF Poul,Grenaa,Midtjylland,DNK,,Private Call,None
-,2382071,OZ8LL,OZ8LL Lars,Herning,Midtjylland,DNK,,Private Call,None
+,2382071,OZ5LX,OZ5LX Lars,Herning,Midtjylland,DNK,,Private Call,None
 ,2382072,OZ9PER,OZ9PER Per,Uglev,Midtjylland,DNK,,Private Call,None
 ,2382073,OZ1LYP,OZ1LYP Kenneth,Hoejbjerg,Midtjylland,DNK,,Private Call,None
 ,2382074,OZ1IAP,OZ1IAP Denis,Trige,Midtjylland,DNK,,Private Call,None
@@ -65013,7 +65104,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2382137,OZ6GQ,OZ6GQ Flemming,Ringkoebing,Midtjylland,DNK,,Private Call,None
 ,2382138,OZ2KVM,OZ2KVM Karsten,Silkeborg,Midtjylland,DNK,,Private Call,None
 ,2382139,OZ4AAD,OZ4AAD Klaes,Silkeborg,Midtjylland,DNK,,Private Call,None
-,2382140,OZ9UB,OZ9UB Claus,Hinnerup,Midtjylland,DNK,,Private Call,None
+,2382140,OZ9UB,OZ9UB Claus,Aarup,Syddanmark,DNK,,Private Call,None
 ,2382141,OZ1BDP,OZ1BDP Andreas,Skjern,Midtjylland,DNK,,Private Call,None
 ,2382142,OZ1HPU,OZ1HPU Flemming,Horsens,Midtjylland,DNK,,Private Call,None
 ,2382143,OZ1HDD,OZ1HDD Villy,Risskov,Midtjylland,DNK,,Private Call,None
@@ -67256,6 +67347,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2401241,SH7POJ,SH7POJ Perolof,Nybro,Kalmar,SWE,,Private Call,None
 ,2401242,SH0LCC,SH0LCC Lukas,Tyreso,Stockholm,SWE,,Private Call,None
 ,2401243,SH1VBY,SH1VBY Anders,Visby,Gotland,SWE,,Private Call,None
+,2401244,SM0MCR,SM0MCR Carl,Stockholm,Stockholm,SWE,,Private Call,None
+,2401245,SM0XKP,SM0XKP Tommy,Varmdo,Stockholm,SWE,,Private Call,None
 ,2402002,SA2BNO,SA2BNO Peter,Kiruna,Norrbotten County,SWE,,Private Call,None
 ,2402003,SA2CJG,SA2CJG Mikael,Kiruna,Norrbotten County,SWE,,Private Call,None
 ,2402004,SA2BNO,SA2BNO Peter,Kiruna,Norrbotten County,SWE,,Private Call,None
@@ -69515,7 +69608,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2423039,LA1ONA,LA1ONA Inge,Kleppe,Rogaland,NOR,,Private Call,None
 ,2423040,LA6YMA,LA6YMA Rune,Jorpeland,Rogaland,NOR,,Private Call,None
 ,2423041,LA3XTA,LA3XTA Njnl,Hommersak,Rogaland,NOR,,Private Call,None
-,2423042,LA2PIA,LA2PIA Petter,Kvernaland,Rogaland,NOR,,Private Call,None
 ,2423043,LA6DRA,LA6DRA Rune,Randaberg,Rogaland,NOR,,Private Call,None
 ,2423044,LA9XGA,LA9XGA Tor-Atle,Saudasjoen,Rogaland,NOR,,Private Call,None
 ,2423045,LA2FRA,LA2FRA Franz,Finneidfjorg,Rogaland,NOR,,Private Call,None
@@ -70947,6 +71039,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2441859,OH6TAR,OH6TAR Tarmo,Kokkola,All Regions,FIN,,Private Call,None
 ,2441860,OH3OCM,OH3OCM Onni,Hollola,All Regions,FIN,,Private Call,None
 ,2441861,OH6KHF,OH6KHF Pekka,Kauhava,All Regions,FIN,,Private Call,None
+,2441862,OH2BSF,OH2BSF Ari,Lohja,All Regions,FIN,,Private Call,None
+,2441863,OH7ODD,OH7ODD Marko,Oulu,All Regions,FIN,,Private Call,None
 ,2442001,OH2LAK,OH2LAK Erik,Espoo,Uusimaa,FIN,,Private Call,None
 ,2442002,OH2LAK,OH2LAK Erik,Espoo,Uusimaa,FIN,,Private Call,None
 ,2442003,OH2LAK,OH2LAK Erik,Espoo,Uusimaa,FIN,,Private Call,None
@@ -72177,6 +72271,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2480159,ES2JPG,ES2JPG Janno,Tallinn,All Regions,EST,,Private Call,None
 ,2480160,ES2ICE,ES2ICE Janar,Kose,All Regions,EST,,Private Call,None
 ,2480161,ES2DNN,ES2DNN Tonn,Tallinn,All Regions,EST,,Private Call,None
+,2480162,ES1IMIT,ES1IMIT Irina,Tallinn,All Regions,EST,,Private Call,None
 ,2488888,ES2ETA,ES2ETA Henry,,All Regions,EST,,Private Call,None
 ,2500001,RU0LA,RU0LA Aleksandr,Chernigovka,No_regio,RUS,,Private Call,None
 ,2500002,R0AET,R0AET Vladimir,Ptayozhnyy,No_regio,RUS,,Private Call,None
@@ -75170,6 +75265,20 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2503479,R2BGJ,R2BGJ Alexander,Moscow,All Regions,RUS,,Private Call,None
 ,2503480,UB2FEN,UB2FEN Mikhail,Kaliningrad,All Regions,RUS,,Private Call,None
 ,2503481,R3IAE,R3IAE Alexander,Tver Region Starica,All Regions,RUS,,Private Call,None
+,2503482,UB4AGQ,UB4AGQ Oleg,Volgograd,All Regions,RUS,,Private Call,None
+,2503483,RA5VAA,RA5VAA Sergey,Vladimir,All Regions,RUS,,Private Call,None
+,2503484,R2FEE,R2FEE Evgenii,Kaliningrad,All Regions,RUS,,Private Call,None
+,2503485,R3DPE,R3DPE Vladimir,Serpuhov,All Regions,RUS,,Private Call,None
+,2503486,R3BFH,R3BFH Dmitry,Moskow,All Regions,RUS,,Private Call,None
+,2503487,R1BRZ,R1BRZ Aleksei,Saint Petersburg,All Regions,RUS,,Private Call,None
+,2503488,R3EEJ,R3EEJ Ivan,Orel,All Regions,RUS,,Private Call,None
+,2503489,R8DE,R8DE Club,Yekaterunburg,All Regions,RUS,,Private Call,None
+,2503490,R8AJX,R8AJX Andrey,Chelyabinsk,All Regions,RUS,,Private Call,None
+,2503491,UD6AYO,UD6AYO Makar,Belorechensk,All Regions,RUS,,Private Call,None
+,2503492,RY3ACK,RY3ACK Andrei,Moscow,All Regions,RUS,,Private Call,None
+,2503493,UB3FDV,UB3FDV Viktor,Moscow,All Regions,RUS,,Private Call,None
+,2503494,UB8CTO,UB8CTO Vladislav,Yekaterinburg,All Regions,RUS,,Private Call,None
+,2503495,UB1IAI,UB1IAI Vitaliy,Uhta,All Regions,RUS,,Private Call,None
 ,2504002,UD4NAD,UD4NAD Sergey,Kotelnich Rn,No_regio,RUS,,Private Call,None
 ,2504003,RA4NHY,RA4NHY Anton,Kirov,All Regions,RUS,,Private Call,None
 ,2504011,R4WBI,R4WBI Aleksandr,no_city,No_regio,RUS,,Private Call,None
@@ -76523,8 +76632,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2550970,UR5VBJ,UR5VBJ Oleksandr,Mykolaiv,All Regions,UKR,,Private Call,None
 ,2550971,UT5ERZ,UT5ERZ Ihor,Kamynsxke,All Regions,UKR,,Private Call,None
 ,2550972,UT3UCB,UT3UCB Andrew,Kyiv,All Regions,UKR,,Private Call,None
-,2550973,UR5BKN,UR5BKN Levchenko,Pochaiv,All Regions,UKR,,Private Call,None
+,2550973,UR5BKN,UR5BKN Viktor,Pochaiv,All Regions,UKR,,Private Call,None
 ,2550974,UT4NL,UT4NL Valerii,Kalynivka,All Regions,UKR,,Private Call,None
+,2550975,UR7IJM,UR7IJM Maxim,Kiev,All Regions,UKR,,Private Call,None
 ,2555555,UR5SSB,UR5SSB Yaroslav,Ivano Frankivsk,All Regions,UKR,,Private Call,None
 ,2570001,EW7AS,EW7AS Uladzimir,Klimovichi,All Regions,BLR,,Private Call,None
 ,2570002,EW7AS,EW7AS Uladzimir,Klimovichi,All Regions,BLR,,Private Call,None
@@ -76815,6 +76925,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2590057,ER1VRB,ER1VRB Alexandr,Chisinau,All Regions,MDA,,Private Call,None
 ,2590058,ER1DZ,ER1DZ Danil,Chisinau,All Regions,MDA,,Private Call,None
 ,2590059,ER1DZ,ER1DZ Danil,Chisinau,All Regions,MDA,,Private Call,None
+,2590061,ER1FUN,ER1FUN Ham Radio Moldova,Chisinau,All Regions,MDA,,Private Call,None
 ,2591000,ER1VOX,ER1VOX Dimitru,Ialoveni,All Regions,MDA,,Private Call,None
 ,2597777,ER1VOX,ER1VOX Dimitru,Ialoveni,All Regions,MDA,,Private Call,None
 ,2600001,SQ7LRX,SQ7LRX Adam,Lodz,Ud Voivodeship,POL,,Private Call,None
@@ -77079,7 +77190,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2600289,SQ3MU,SQ3MU Konrad,Gorzow Wlkp,Lubusz,POL,,Private Call,None
 ,2600290,SP6DOL,SP6DOL Pawel,Olesnica,Wno_infopomerania,POL,,Private Call,None
 ,2600291,SP9MX,SP9MX Mateusz,Zywiec,Silesia,POL,,Private Call,None
-,2600292,SQ1MNE,SQ1MNE Arkadiusz,Dygowo,Wno_infopomerania,POL,,Private Call,None
+,2600292,SQ1MNE,SQ1MNE Arkadiusz,Dygowo,Zachodniopomorskie,POL,,Private Call,None
 ,2600293,SQ9KPF,SQ9KPF Tomasz,Cieszyn,A›lae…skie,POL,,Private Call,None
 ,2600294,SP2PS,SP2PS Piotr,Grudziadz,Kuyavia-Pomerania,POL,,Private Call,None
 ,2600295,SQ8MXC,SQ8MXC Cezary,Zawierzbie,No_regio,POL,,Private Call,None
@@ -77537,7 +77648,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2600809,SP6KB,SP6KB Krzysztof,Rakoszyce,Dolnoslaskie,POL,,Private Call,None
 ,2600810,SQ9WIS,SQ9WIS Wiktor,Tarno W,Malopolskie,POL,,Private Call,None
 ,2600812,SQ2AR,SQ2AR Adam,Bydgoszcz,Kujawsko Pomorskie,POL,,Private Call,None
-,2600813,SQ3KAR,SQ3KAR Adam,Ostrow Wielkopolski,Wielkopolskie,POL,,Private Call,None
 ,2600814,SQ5WTF,SQ5WTF Piotr,Warszawa,Mazowieckie,POL,,Private Call,None
 ,2600815,SP9BOT,SP9BOT Marcin,Krakow,Malopolskie,POL,,Private Call,None
 ,2600816,SP3EED,SP3EED Dariusz,Chodziez,Wielkopolskie,POL,,Private Call,None
@@ -77725,6 +77835,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2601008,SP1XNA,SP1XNA Adrian,Stargard,Zachodniopomorskie,POL,,Private Call,None
 ,2601009,SP1WSX,SP1WSX Tomasz,Winoujcie,Zachodniopomorskie,POL,,Private Call,None
 ,2601010,SQ1JGC,SQ1JGC Agnieszka,Stargard,Zachodniopomorskie,POL,,Private Call,None
+,2601011,SQ1EUY,SQ1EUY Jerzy,Szczecin,Zachodniopomorskie,POL,,Private Call,None
 ,2601013,SP1XNE,SP1XNE Maciej,Szczecin,Zachodniopomorskie,POL,,Private Call,None
 ,2601014,SP1AZ,SP1AZ Albin,Winoujcie,Zachodniopomorskie,POL,,Private Call,None
 ,2601015,SQ1PQQ,SQ1PQQ Mariusz,Swinoujscie,Zachodniopomorskie,POL,,Private Call,None
@@ -78040,6 +78151,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2601352,SQ6MIF,SQ6MIF Jerzy,Ziebice,Dolnoslaskie,POL,,Private Call,None
 ,2601353,SP7MME,SP7MME Rafal,Lodz,Lo Dzkie,POL,,Private Call,None
 ,2601354,HF4112P,HF4112P Klub,Bialystok,Podlaskie,POL,,Private Call,None
+,2601355,SP2SGK,SP2SGK Jan,Kwidzyn,Pomorskie,POL,,Private Call,None
 ,2601356,SP6AKO,SP6AKO Artur,no_city,Dolnoslaskie,POL,,Private Call,None
 ,2601357,SQ3KMJ,SQ3KMJ Kamil,Gostyn,Wielkopolskie,POL,,Private Call,None
 ,2601358,SP6NYA,SP6NYA Fabian,Gorzow Slaski,Opolskie,POL,,Private Call,None
@@ -80330,7 +80442,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2603754,SP8KOL,SP8KOL Marcin,Lublin,Lubelskie,POL,,Private Call,None
 ,2603755,SP3KAL,SP3KAL Lukasz,Kalisz,Wielkopolskie,POL,,Private Call,None
 ,2603756,SQ6PZW,SQ6PZW Piotr,Scinawa,Dolnoa›lae…skie,POL,,Private Call,None
-,2603757,SP0POS,SP0POS Kosma,Wroclaw,Dolnoa›lae…skie,POL,,Private Call,None
+,2603757,SQ6K,SQ6K Kosma,Wroclaw,Dolnoa›lae…skie,POL,,Private Call,None
 ,2603758,SP6MHI,SP6MHI Milosz,Warszawa,Mazowieckie,POL,,Private Call,None
 ,2603759,SP6CXR,SP6CXR Rafal,Wroclaw,Dolnoa›lae…skie,POL,,Private Call,None
 ,2603760,SP5HWB,SP5HWB Tomasz,Ludwikow,Mazowieckie,POL,,Private Call,None
@@ -81000,6 +81112,23 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2604452,SQ9GD,SQ9GD Grzegorz,Tychy,A›lae…skie,POL,,Private Call,None
 ,2604453,SQ5MZM,SQ5MZM Mariusz,Zelkow,Mazowieckie,POL,,Private Call,None
 ,2604454,SP8JOB,SP8JOB Jakub,Ryki,Lubelskie,POL,,Private Call,None
+,2604455,SP1QT,SP1QT Pawel,Stargard,Zachodniopomorskie,POL,,Private Call,None
+,2604456,SP5MB,SP5MB Marek,Skierdy,Mazowieckie,POL,,Private Call,None
+,2604457,SP4TP,SP4TP Tomasz,Bialystok,Podlaskie,POL,,Private Call,None
+,2604458,SQ2TOP,SQ2TOP Michal,Bydgoszcz,Kujawsko Pomorskie,POL,,Private Call,None
+,2604459,SP6AMJ,SP6AMJ Marcin,Krosnice,Dolnoa›lae…skie,POL,,Private Call,None
+,2604460,SQ9KDO,SQ9KDO Tomasz,Lekawka,Maa‚opolskie,POL,,Private Call,None
+,2604461,SP9TAK,SP9TAK Piotr,Stronie,Maa‚opolskie,POL,,Private Call,None
+,2604462,SP6WUD,SP6WUD Krystian,Januszkowice,Dolnoa›lae…skie,POL,,Private Call,None
+,2604463,SQ7TCW,SQ7TCW Tomasz,Zurawniki,A›wiae™tokrzyskie,POL,,Private Call,None
+,2604464,SP5TAE,SP5TAE Zbigniew,Wolomin,Mazowieckie,POL,,Private Call,None
+,2604465,SP8MDH,SP8MDH Pawel,Lubartow,Lubelskie,POL,,Private Call,None
+,2604466,SQ1GZG,SQ1GZG Bogdan,Stargard,Zachodniopomorskie,POL,,Private Call,None
+,2604467,SP3ADA,SP3ADA Adrianna,Gniezno,Wielkopolskie,POL,,Private Call,None
+,2604468,SQ8DSS,SQ8DSS Wojciech,Krosno,Podkarpackie,POL,,Private Call,None
+,2604469,SN70W,SN70W Wladyslaw,Katno,Warmia„sko Mazurskie,POL,,Private Call,None
+,2604470,SQ7AMD,SQ7AMD Wojciech,Piotrkow Trybunalski,A‚a³dzkie,POL,,Private Call,None
+,2604471,SP2HCC,SP2HCC Michal,Koronowo,Kujawsko Pomorskie,POL,,Private Call,None
 ,2605001,SP5GDM,SP5GDM Jan,Wierzbica,Mazowieckie,POL,,Private Call,None
 ,2605002,SP5GDM,SP5GDM Jan,Wierzbica,Mazowieckie,POL,,Private Call,None
 ,2605003,SP5GDM,SP5GDM Jan,Wierzbica,Mazowieckie,POL,,Private Call,None
@@ -81612,6 +81741,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2607031,SQ7BLD,SQ7BLD Piotr,Lodz,Wojewuadztwo Euadzki,POL,,Private Call,None
 ,2607032,SQ7RN,SQ7RN Kosowski,Kielce,Swietokrzyskie,POL,,Private Call,None
 ,2607033,SP7JB,SP7JB Jaroseaw,Pabianice,Cnty,POL,,Private Call,None
+,2607034,SQ7TCW,SQ7TCW Tomasz,Zurawniki,A›wiae™tokrzyskie,POL,,Private Call,None
 ,2607035,SQ7NHR,SQ7NHR Grzegorz,Lodzkie,Cnty,POL,,Private Call,None
 ,2607036,SP7EP,SP7EP Maciej,Piotrkw Trybunalski,Lodzkie,POL,,Private Call,None
 ,2607037,SP7LAK,SP7LAK Krzysztof,Kutno,Lodzkie,POL,,Private Call,None
@@ -82196,6 +82326,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2609329,SQ9MLW,SQ9MLW Robert,Bielsko Biala,A›lae…skie,POL,,Private Call,None
 ,2609330,SQ9LFQ,SQ9LFQ Jozef,Limanowa,Malopolskie,POL,,Private Call,None
 ,2609331,SP9KWR,SP9KWR Rafal,Raciechowice,Malopolskie,POL,,Private Call,None
+,2609332,SP9CLU,SP9CLU Darek,Cykarzew Polnocny,A›lae…skie,POL,,Private Call,None
 ,2609333,HF9D,HF9D Daniel,Bytom,Slaskie,POL,,Private Call,None
 ,2609334,SP9KRJ,SP9KRJ Radio,Limanowa,Malopolskie,POL,,Private Call,None
 ,2609335,SP9KWR,SP9KWR Rafal,Raciechowice,No_regio,POL,,Private Call,None
@@ -82913,7 +83044,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620569,DO7UP,DO7UP Marc,Reutlingen,BW,DEU,,Private Call,None
 ,2620570,DH3AAJ,DH3AAJ Andreas,Goettingen,NI,DEU,,Private Call,None
 ,2620571,DL3YDJ,DL3YDJ Werner,Haltern,NW,DEU,,Private Call,None
-,2620572,DA0PE,DA0PE ClubSt.,Peine,NI,DEU,,Private Call,None
+,2620572,DA0PE,DA0PE Clubst.,Peine,NI,DEU,,Private Call,None
 ,2620573,DO8LJR,DO8LJR Johannes,Moelln,SH,DEU,,Private Call,None
 ,2620574,DF6NL,DF6NL Torsten,Schwabach,BY,DEU,,Private Call,None
 ,2620575,DL0PH,DL0PH Clubst.,Pforzheim,BW,DEU,,Private Call,None
@@ -84862,7 +84993,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2622564,DK7HE,DK7HE Eckhard,Neumuenster,SH,DEU,,Private Call,None
 ,2622565,DF9GK,DF9GK Gerhard,Gettorf,SH,DEU,,Private Call,None
 ,2622566,DH2LAI,DH2LAI Bernd,Brunsbuettel,SH,DEU,,Private Call,None
-,2622567,DL6MCO,DL6MCO Rudolf,Ingolstadt,BY,DEU,,Private Call,None
+,2622567,DL6MCO,DL6MCO Rolf,Ingolstadt,BY,DEU,,Private Call,None
 ,2622568,DM3US,DM3US Ulf,Schmalfeld,SH,DEU,,Private Call,None
 ,2622569,DK6TD,DK6TD Torsten,no_city,SH,DEU,,Private Call,None
 ,2622570,DM6MD,DM6MD Marlies,no_city,SH,DEU,,Private Call,None
@@ -85205,7 +85336,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2622912,DL2XVU,DL2XVU Volker,Warburg,NW,DEU,,Private Call,None
 ,2622913,DG2EAH,DG2EAH Michael,Oberhausen,NW,DEU,,Private Call,None
 ,2622914,DL8ES,DL8ES Kai,Essen,NW,DEU,,Private Call,None
-,2622915,DL4FCT,DL4FCT Jens-Juergen,Rosbach,HE,DEU,,Private Call,None
+,2622915,DL4FCT,DL4FCT Jens,Rosbach Vor der Hoehe,HE,DEU,,Private Call,None
 ,2622916,DK1KAI,DK1KAI Kai,Bramsche,NI,DEU,,Private Call,None
 ,2622917,DL4LL,DL4LL Dieter,Nehmten,SH,DEU,,Private Call,None
 ,2622918,DC6LB,DC6LB Rainer,Herzogenaurach,BY,DEU,,Private Call,None
@@ -86219,7 +86350,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2623962,DO9WR,DO9WR Sven,Hamburg,HH,DEU,,Private Call,None
 ,2623963,DO5CA,DO5CA Carsten,Walsrode,NI,DEU,,Private Call,None
 ,2623964,DF8BZ,DF8BZ Guenter,Leer,NI,DEU,,Private Call,None
-,2623965,DK8HC,DK8HC Christopher,Ronnenberg,NI,DEU,,Private Call,None
+,2623965,DK8HC,DK8HC Chris,Ronnenberg,NI,DEU,,Private Call,None
 ,2623966,DO7TED,DO7TED Thorsten,Drestedt,NI,DEU,,Private Call,None
 ,2623967,DL3LO,DL3LO Andre,Goslar,NI,DEU,,Private Call,None
 ,2623968,DL4OCH,DL4OCH Wilm,Gieboldehausen,NI,DEU,,Private Call,None
@@ -88220,7 +88351,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2626029,DO7CS,DO7CS Christian,Frankfurt,HE,DEU,,Private Call,None
 ,2626030,DJ2VA,DJ2VA Michael,Muehlheim,HE,DEU,,Private Call,None
 ,2626031,DJ2VA,DJ2VA Michael,Muehlheim,HE,DEU,,Private Call,None
-,2626032,DH2KD,DH2KD Klaus,Idstein,HE,DEU,,Private Call,None
 ,2626033,DL1JF,DL1JF Juergen,Frankfurt,HE,DEU,,Private Call,None
 ,2626034,DG5MEH,DG5MEH Hermann,Walluf,HE,DEU,,Private Call,None
 ,2626035,DK4FB,DK4FB Emil,Lauterbach,HE,DEU,,Private Call,None
@@ -90740,7 +90870,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2628655,DG2RSF,DG2RSF Stefan,Tegernheim,BY,DEU,,Private Call,None
 ,2628656,DG4NAA,DG4NAA Richard,Fuerth,BY,DEU,,Private Call,None
 ,2628657,DG8DP,DG8DP Christian,no_city,BY,DEU,,Private Call,None
-,2628658,DL3SSB,DL3SSB Bernd,no_city,BY,DEU,,Private Call,None
 ,2628660,DH8HHA,DH8HHA Hans Harald,Muenchen,BY,DEU,,Private Call,None
 ,2628662,DH6MEG,DH6MEG Michael,Gilching,BY,DEU,,Private Call,None
 ,2628663,DO1TLG,DO1TLG Thorsten,Gifhorn,NI,DEU,,Private Call,None
@@ -90761,7 +90890,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2628681,DO1WA,DO1WA Anton,no_city,BY,DEU,,Private Call,None
 ,2628682,DF4JH,DF4JH Johann,Weng,BY,DEU,,Private Call,None
 ,2628683,DG2MMK,DG2MMK Markus,Pfoerring,BY,DEU,,Private Call,None
-,2628684,DL6MCO,DL6MCO Rudolf,Ingolstadt,BY,DEU,,Private Call,None
+,2628684,DL6MCO,DL6MCO Rolf,Ingolstadt,BY,DEU,,Private Call,None
 ,2628685,DH5NAB,DH5NAB Norbert,Bad Neustadt,BY,DEU,,Private Call,None
 ,2628686,DL6KP,DL6KP Klaus,Neufahrn B. Freising,BY,DEU,,Private Call,None
 ,2628687,DF2FQ,DF2FQ Holger,Hohenbrunn,BY,DEU,,Private Call,None
@@ -91254,7 +91383,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2629206,DO2WT,DO2WT Tobias,Wurzen   Ot Dehnitz,SN,DEU,,Private Call,None
 ,2629207,DL5SKO,DL5SKO Yuriy,Harztor,TH,DEU,,Private Call,None
 ,2629208,DL4ASJ,DL4ASJ Gerhard,Heilbad Heiligenstadt,TH,DEU,,Private Call,None
-,2629209,DL2DVL,DL2DVL Klaus-Erhard,Dresden,SN,DEU,,Private Call,None
 ,2629210,DM2CF,DM2CF Frank,no_city,SN,DEU,,Private Call,None
 ,2629211,DO2RGO,DO2RGO Rainer,Oberkochen,BW,DEU,,Private Call,None
 ,2629212,DL7KP,DL7KP Michael,no_city,SN,DEU,,Private Call,None
@@ -91819,7 +91947,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2629803,DL1DU,DL1DU Alexander,Wald-Michelbach,HE,DEU,,Private Call,None
 ,2629804,DO2RAU,DO2RAU Philipp,Weiden I.D.Opf.,BY,DEU,,Private Call,None
 ,2629805,DL5MBA,DL5MBA Michael,Altena,NW,DEU,,Private Call,None
-,2629806,DL1BM,DL1BM Bernhard,Brandenburg,BB,DEU,,Private Call,None
+,2629806,DL1BM,DL1BM Bernhard,Brandenburg,BERLIN BRANDENBURG,DEU,,Private Call,None
 ,2629807,DL1DUR,DL1DUR Juergen,Olbersdorf,SN,DEU,,Private Call,None
 ,2629808,DG2GRG,DG2GRG Gunnar,Karlsruhe,BW,DEU,,Private Call,None
 ,2629809,DL3EP,DL3EP Peter,Hindelang,BY,DEU,,Private Call,None
@@ -92473,7 +92601,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630484,DG9GAS,DG9GAS Stefan,Strassberg,BW,DEU,,Private Call,None
 ,2630485,DH0DAT,DH0DAT Christian,Castrop Rauxel,NW,DEU,,Private Call,None
 ,2630486,DC4VK,DC4VK Helmut,Marpingen,SL,DEU,,Private Call,None
-,2630487,DM4AR,DM4AR Andreas Hartmut,Buedingen,HE,DEU,,Private Call,None
+,2630487,DM4AR,DM4AR Andreas,Buedingen,HE,DEU,,Private Call,None
 ,2630488,DB6VE,DB6VE Gerd,Ommersheim,SL,DEU,,Private Call,None
 ,2630489,DO4KI,DO4KI Marcus,Berlin,BE,DEU,,Private Call,None
 ,2630490,DL2RSB,DL2RSB Ralf,Bremen,HB,DEU,,Private Call,None
@@ -95261,7 +95389,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2633326,DL2DMT,DL2DMT Wolfgang,Stuhr,NI,DEU,,Private Call,None
 ,2633327,DK1OM,DK1OM Jan-Henrik,Bomlitz,NI,DEU,,Private Call,None
 ,2633328,DL4BBY,DL4BBY Thomas,Bersenbrueck,NI,DEU,,Private Call,None
-,2633329,DG8OBN,DG8OBN Bjoern,no_city,SN,DEU,,Private Call,None
+,2633329,DG8OBN,DG8OBN Bjoern,Rinteln,NI,DEU,,Private Call,None
 ,2633330,DG2YIQ,DG2YIQ Swen,Achim,NI,DEU,,Private Call,None
 ,2633331,DL8HG,DL8HG Hans-Joachim,Fassberg,NI,DEU,,Private Call,None
 ,2633332,DL2GO,DL2GO Per,no_city,NI,DEU,,Private Call,None
@@ -95381,7 +95509,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2633447,DO2NMB,DO2NMB Nils,Sulingen,NI,DEU,,Private Call,None
 ,2633448,DG6ABK,DG6ABK Mattias,Lutter am Barenberge,NI,DEU,,Private Call,None
 ,2633449,DH5OAK,DH5OAK Klaus-Dieter,Hannover,NI,DEU,,Private Call,None
-,2633450,DK8HC,DK8HC Christopher,Ronnenberg,NI,DEU,,Private Call,None
 ,2633451,DF3SK,DF3SK Sven,Soltau,NI,DEU,,Private Call,None
 ,2633453,DO5PHX,DO5PHX Philip,Braunschweig,NI,DEU,,Private Call,None
 ,2633454,DO2NH,DO2NH Nico,Norden,NI,DEU,,Private Call,None
@@ -96453,7 +96580,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2634541,DL9KCV,DL9KCV Volker,Wassenberg,NW,DEU,,Private Call,None
 ,2634542,DO6MAR,DO6MAR Markus,Dortmund,NW,DEU,,Private Call,None
 ,2634543,DL7KJD,DL7KJD Dieter,Troisdorf,NW,DEU,,Private Call,None
-,2634544,DD3HEA,DD3HEA Michael,Dormagen,NW,DEU,,Private Call,None
 ,2634545,DM8WW,DM8WW Heinz-Werner,Witten,NW,DEU,,Private Call,None
 ,2634546,DG1EDL,DG1EDL Ingolf,Essen,NW,DEU,,Private Call,None
 ,2634547,DL2GK,DL2GK Dietrich,Duesseldorf,NW,DEU,,Private Call,None
@@ -97653,7 +97779,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2635760,DO4TX,DO4TX Stephan,Muehlhausen-Ehingen,BW,DEU,,Private Call,None
 ,2635761,DF9UM,DF9UM Markus,Paderborn,NW,DEU,,Private Call,None
 ,2635762,DH1YFG,DH1YFG Friedel,Guetersloh,NW,DEU,,Private Call,None
-,2635763,DA6UU,DA6UU Thomas,Bad Harzburg,NI,DEU,,Private Call,None
+,2635763,DA1UU,DA1UU Thomas,Bad Harzburg,NI,DEU,,Private Call,None
 ,2635764,DO9YM,DO9YM Peer,Montabaur,RP,DEU,,Private Call,None
 ,2635765,DO6DC,DO6DC Detlef,Berlin,BE,DEU,,Private Call,None
 ,2635766,DO9TK,DO9TK Thomas,Wesseling,NW,DEU,,Private Call,None
@@ -97796,7 +97922,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636038,DL5MKS,DL5MKS Markus,Viernheim,HE,DEU,,Private Call,None
 ,2636039,DK8WA,DK8WA Bernd,Gross-Umstadt,HE,DEU,,Private Call,None
 ,2636041,DG7MKE,DG7MKE Martin,Freigericht,HE,DEU,,Private Call,None
-,2636042,DH2KD,DH2KD Klaus,Idstein,HE,DEU,,Private Call,None
 ,2636043,DO2SKY,DO2SKY Heiko,Trendelburg,HE,DEU,,Private Call,None
 ,2636044,DK8FN,DK8FN Paul-Heiko,Gross-Umstadt,HE,DEU,,Private Call,None
 ,2636045,DO7AMH,DO7AMH Andreas,Hanau,HE,DEU,,Private Call,None
@@ -97937,7 +98062,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636305,DN9SLF,DN9SLF Stefan,Nuernberg,BY,DEU,,Private Call,None
 ,2636306,DA6DC,DA6DC Lukas,Nahe,SH,DEU,,Private Call,None
 ,2636307,DN9BOT,DN9BOT Tobias,Leonberg,BW,DEU,,Private Call,None
-,2636308,DA6WB,DA6WB Andreas,Berlin,BE,DEU,,Private Call,None
+,2636308,DD6WB,DD6WB Andreas,Berlin,BE,DEU,,Private Call,None
 ,2636309,DN9YZ,DN9YZ Steve,Niederkassel,NW,DEU,,Private Call,None
 ,2636310,DN9JW,DN9JW Julian,Esslingen,BW,DEU,,Private Call,None
 ,2636311,DG0OAT,DG0OAT Stefan,Trebbin,BB,DEU,,Private Call,None
@@ -97979,7 +98104,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636347,DD4JH,DD4JH Julius,Muenchen,BY,DEU,,Private Call,None
 ,2636348,DN9PR,DN9PR Ralf,Bad Alexandersbad,BY,DEU,,Private Call,None
 ,2636349,DO1FMI,DO1FMI Florian,Berchtesgaden,BY,DEU,,Private Call,None
-,2636350,DN9STE,DN9STE Joerg,Dortmund,NW,DEU,,Private Call,None
+,2636350,DA6ST,DA6ST Joerg,Dortmund,NW,DEU,,Private Call,None
 ,2636351,DK8KM,DK8KM Georg,Koeln,NW,DEU,,Private Call,None
 ,2636352,DN9HBR,DN9HBR Helmut,Rheine,NW,DEU,,Private Call,None
 ,2636353,DL3OCK,DL3OCK Denis,Berlin,BE,DEU,,Private Call,None
@@ -98051,7 +98176,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636419,DL1ALU,DL1ALU Andreas,Freudenberg,BW,DEU,,Private Call,None
 ,2636420,DG4LD,DG4LD Dirk,Harrislee,SH,DEU,,Private Call,None
 ,2636421,DN9HEL,DN9HEL Katharina,Mettlach,SL,DEU,,Private Call,None
-,2636422,DO4ACM,DO4ACM Achim,Bottrop,NW,DEU,,Private Call,None
+,2636422,DL2ACM,DL2ACM Achim,Bottrop,NW,DEU,,Private Call,None
 ,2636423,DM7WB,DM7WB Marco,Weingarten,BW,DEU,,Private Call,None
 ,2636424,DG7KA,DG7KA Werner,Monheim am Rhein,NW,DEU,,Private Call,None
 ,2636425,DO1ALG,DO1ALG Andreas,Eglofs,BW,DEU,,Private Call,None
@@ -98194,7 +98319,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636563,DN9JJ,DN9JJ Joerg,Geisenfeld,BY,DEU,,Private Call,None
 ,2636564,DF1LZW,DF1LZW Alexander,Leipzig,SN,DEU,,Private Call,None
 ,2636565,DA1LEO,DA1LEO Leonard,Karlsruhe,BW,DEU,,Private Call,None
-,2636566,DO1LTE,DO1LTE Peter,Neuss,NW,DEU,,Private Call,None
+,2636566,DD5LT,DD5LT Peter,Neuss,NW,DEU,,Private Call,None
 ,2636567,DN9ADR,DN9ADR Alexander,Duesseldorf,NW,DEU,,Private Call,None
 ,2636568,DN9EKC,DN9EKC Erich,Cham,BY,DEU,,Private Call,None
 ,2636569,DK8MN,DK8MN Mischel,Leinefelde Worbis,TH,DEU,,Private Call,None
@@ -98214,6 +98339,40 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636583,DN9SRO,DN9SRO Stephan,Bochum,NW,DEU,,Private Call,None
 ,2636584,DD1GF,DD1GF Jens,Ruehen,NI,DEU,,Private Call,None
 ,2636585,DF2DS,DF2DS Hermann,Werther,TH,DEU,,Private Call,None
+,2636586,DO5MIZ,DO5MIZ Maurizio,Berlin,BE,DEU,,Private Call,None
+,2636587,DM1ORB,DM1ORB Roland,Garbsen,NI,DEU,,Private Call,None
+,2636588,DH0DL,DH0DL Mirko,Dresden,SN,DEU,,Private Call,None
+,2636589,DB5TS,DB5TS Thore,Bonn,NW,DEU,,Private Call,None
+,2636590,DL7KJK,DL7KJK Kai,Berlin,BE,DEU,,Private Call,None
+,2636591,DN9XAM,DN9XAM Max,Karlsruhe,BW,DEU,,Private Call,None
+,2636592,DN9QM,DN9QM Maik,Unterhaching,BY,DEU,,Private Call,None
+,2636593,DO8EF,DO8EF Bernd,Muelheim Ruhr,NW,DEU,,Private Call,None
+,2636594,DN9DOB,DN9DOB Matthias,Bremen,HB,DEU,,Private Call,None
+,2636595,DN9FLA,DN9FLA Ruediger,Nordhorn,NI,DEU,,Private Call,None
+,2636596,DK1BB,DK1BB Bernd,Ludwigshafen,RHEINLAND PFALZ SAARLAND,DEU,,Private Call,None
+,2636597,DB7DZ,DB7DZ Aloys,Dortmund,NW,DEU,,Private Call,None
+,2636598,DO4OG,DO4OG Wolfgang,Hannover,NI,DEU,,Private Call,None
+,2636599,DA7C,DA7C Clubst.,Celle,NI,DEU,,Private Call,None
+,2636600,DF8PC,DF8PC Bruno,Jarplund-Weding,SH,DEU,,Private Call,None
+,2636601,DN9XM,DN9XM Max,Schwieberdingen,BW,DEU,,Private Call,None
+,2636602,DN9ASK,DN9ASK Andreas,Marktheidenfeld,BY,DEU,,Private Call,None
+,2636603,DH0TG,DH0TG Thorsten,Cadolzburg,BY,DEU,,Private Call,None
+,2636604,DN9WPH,DN9WPH Stefan,Fuldatal,HE,DEU,,Private Call,None
+,2636605,DL2GWZ,DL2GWZ Alexander,Speyer,RP,DEU,,Private Call,None
+,2636606,DN9CS,DN9CS Christoph,Fuldatal,HE,DEU,,Private Call,None
+,2636607,DO9KTH,DO9KTH Kathleen,Duisburg,NW,DEU,,Private Call,None
+,2636608,DL4JJ,DL4JJ Peter,Stuttgart,BW,DEU,,Private Call,None
+,2636609,DN9WL,DN9WL Willi,Sprockhoevel,NW,DEU,,Private Call,None
+,2636610,DO1JWK,DO1JWK Jens,Wunstorf,NI,DEU,,Private Call,None
+,2636611,DB0FT,DB0FT Relay/Beacon,Schmitten,HE,DEU,,Private Call,None
+,2636612,DN9JKA,DN9JKA Joerg,Wolfenbuettel,NI,DEU,,Private Call,None
+,2636613,DL8CAT,DL8CAT Simon,Hamburg,HH,DEU,,Private Call,None
+,2636614,DF3WD,DF3WD Luitger,Ludwigsburg,BW,DEU,,Private Call,None
+,2636615,DO1EOS,DO1EOS Roland,Brenz,BW,DEU,,Private Call,None
+,2636616,DO3FIL,DO3FIL Fil Nicolas,Berlin,BE,DEU,,Private Call,None
+,2636617,DA6LH,DA6LH Christian,Iserlohn,NW,DEU,,Private Call,None
+,2636618,DL6HBL,DL6HBL Thorsten,Medelby,SH,DEU,,Private Call,None
+,2636619,DJ4RA,DJ4RA Volker,Bad Bergzabern,RP,DEU,,Private Call,None
 ,2637001,DF6MP,DF6MP Marcus,Reutlingen,BW,DEU,,Private Call,None
 ,2637002,DO2STO,DO2STO Matthias,Stockach,BW,DEU,,Private Call,None
 ,2637003,DK7OJ,DK7OJ Klaus,Sauldorf,BW,DEU,,Private Call,None
@@ -101099,7 +101258,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680649,CR7BTU,CR7BTU Jaerder,Braga,Regiao Norte,PRT,,Private Call,None
 ,2680650,CR7BTW,CR7BTW Gabriel,Longos Vales,Regiao Norte,PRT,,Private Call,None
 ,2680651,CR7BTW,CR7BTW Gabriel,Longos Vales,Regiao Norte,PRT,,Private Call,None
-,2680652,CS7BKQ,CS7BKQ Fernando,Camaroes,Regiao De Lisboa,PRT,,Private Call,None
+,2680652,CT7BKQ,CT7BKQ Fernando,Camaroes,Regiao De Lisboa,PRT,,Private Call,None
 ,2680653,CR7BUX,CR7BUX Joao,None,Regiao Norte,PRT,,Private Call,None
 ,2680654,CR7BVJ,CR7BVJ Guilherme,None,Regiao Norte,PRT,,Private Call,None
 ,2680655,CR7BUZ,CR7BUZ Goncalo,Trafaria,Regiao De Lisboa,PRT,,Private Call,None
@@ -101112,7 +101271,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680662,CT2GLE,CT2GLE Joao,Monchique,Regiao De Algarve,PRT,,Private Call,None
 ,2680663,CT1EWS,CT1EWS Luis,Sao Bras De Alportel,Regiao De Algarve,PRT,,Private Call,None
 ,2680664,CT2ENW,CT2ENW Helio,Vale Milhacos Corroios,Regiao De Lisboa,PRT,,Private Call,None
-,2680665,CS7BKR,CS7BKR Paulo,Lisboa,Regiao De Lisboa,PRT,,Private Call,None
+,2680665,CT7BKR,CT7BKR Paulo,Lisboa,Regiao De Lisboa,PRT,,Private Call,None
 ,2680666,CR7BVZ,CR7BVZ Joao,Oeiras,Regiao De Lisboa,PRT,,Private Call,None
 ,2680667,CT7BAP,CT7BAP Jose,Loule,Regiao De Algarve,PRT,,Private Call,None
 ,2680668,CT7BSA,CT7BSA Flavio,Baixa Da Banheira,Regiao De Lisboa,PRT,,Private Call,None
@@ -101275,6 +101434,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680845,CT7CBM,CT7CBM Jose,Chaves,Regiao Norte,PRT,,Private Call,None
 ,2680846,CT7CDQ,CT7CDQ Antonio,Chaves,Regiao Norte,PRT,,Private Call,None
 ,2680847,CT2GBJ,CT2GBJ Luis,Leiria,Regiao Centro,PRT,,Private Call,None
+,2680848,CR7CGW,CR7CGW Ricardo,Serpins,Regiao Centro,PRT,,Private Call,None
+,2680849,CR7BZX,CR7BZX Luis,Lisboa,Regiao De Lisboa,PRT,,Private Call,None
 ,2681001,CT2HMR,CT2HMR Manuel,Amarante,Porto District,PRT,,Private Call,None
 ,2681002,CT1DQV,CT1DQV Eduardo,Chaves,Vila Real,PRT,,Private Call,None
 ,2681003,CT2GSW,CT2GSW Rui,Maia,Porto District,PRT,,Private Call,None
@@ -101346,6 +101507,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2681077,CT1ETJ,CT1ETJ Fernando,Vila Flor,Braganca,PRT,,Private Call,None
 ,2681078,CT1FWZ,CT1FWZ Armando,Maia,Porto,PRT,,Private Call,None
 ,2681081,CT2GDE,CT2GDE Carlos Tavares,Vila Nova De Gaia,Regiao Norte,PRT,,Private Call,None
+,2681082,CT1EHU,CT1EHU Alfredo,Senhora Da Hora,Regiao Norte,PRT,,Private Call,None
 ,2681083,CT1BMU,CT1BMU Manuel,Caldas Das Taipas,Braga,PRT,,Private Call,None
 ,2681085,CT1WB,CT1WB Cesar,Serzedelo,Braga,PRT,,Private Call,None
 ,2681086,CT1HQJ,CT1HQJ Claudio,Gondomar,Porto,PRT,,Private Call,None
@@ -102163,7 +102325,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2700027,LX1JIM,LX1JIM Jim,Leudelange,All Regions,LUX,,Private Call,None
 ,2700028,LX9CG,LX9CG Cgdis,Nationwide,All Regions,LUX,,Private Call,None
 ,2700029,LX1KL,LX1KL Albert,Lamadelaine,No_regio,LUX,,Private Call,None
-,2700030,LX2ZZ,LX2ZZ Jose,Linger,All Regions,LUX,,Private Call,None
+,2700030,LX2ZZ,LX2ZZ Jose Miguel,Linger,All Regions,LUX,,Private Call,None
 ,2700031,LX1K,LX1K Alex,Bettembourg,All Regions,LUX,,Private Call,None
 ,2700032,LX1ATO,LX1ATO Jorge,Petange,All Regions,LUX,,Private Call,None
 ,2700033,LX2MR,LX2MR Matteo,Dudelange,All Regions,LUX,,Private Call,None
@@ -103683,7 +103845,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2840603,LZ1DC,LZ1DC Dancho,Plovdiv,All Regions,BGR,,Private Call,None
 ,2840604,LZ3QQ,LZ3QQ George,Yambol,,BGR,,Private Call,None
 ,2840605,LZ1PRI,LZ1PRI Petar,Sofia,All Regions,BGR,,Private Call,None
-,2840606,LZ1OR,LZ1OR Georgi,ul N Korchev 3 2000 Samokov,All Regions,BGR,,Private Call,None
+,2840606,LZ1OR,LZ1OR George,Samokov,Sofia,BGR,,Private Call,None
 ,2840607,LZ5PX,LZ5PX Nikolay,Sofia,,BGR,,Private Call,None
 ,2840608,LZ5ZX,LZ5ZX Stefan,Sofia,All Regions,BGR,,Private Call,None
 ,2840609,LZ1PCC,LZ1PCC Chavdar,Pernik,,BGR,,Private Call,None
@@ -104958,7 +105120,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2861015,TA3A,TA3A Omur,Dikili,,TUR,,Private Call,None
 ,2861016,TA5E,TA5E Zafer,Adana,,TUR,,Private Call,None
 ,2861017,TA3MT,TA3MT Dursun,Izmir,,TUR,,Private Call,None
-,2861018,TA1UY,TA1UY no_name,Istanbul,,TUR,,Private Call,None
+,2861018,TA1UY,TA1UY Umit,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2861019,TB2BRN,TB2BRN Omer Yildiz,Kocaeli,,TUR,,Private Call,None
 ,2861020,TB2TCD,TB2TCD no_name,Ankara,,TUR,,Private Call,None
 ,2861021,TB1BAO,TB1BAO Ayhan,Istanbul,,TUR,,Private Call,None
@@ -106705,7 +106867,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2862775,TB4CBM,TB4CBM Bektas Murat,Aydin,,TUR,,Private Call,None
 ,2862776,TB2HMS,TB2HMS Magruf,Kocaeli,,TUR,,Private Call,None
 ,2862777,TB7GRY,TB7GRY Resul,,,TUR,,Private Call,None
-,2862778,TA2ASS,TA2ASS Saglar,Manisa,Aegean Region,TUR,,Private Call,None
+,2862778,TA2ASS,TA2ASS Sadik,Manisa,Aegean Region,TUR,,Private Call,None
 ,2862779,TA2DMA,TA2DMA Metin,,,TUR,,Private Call,None
 ,2862780,TA3BTG,TA3BTG Turker,Izmir,Aegean Region,TUR,,Private Call,None
 ,2862781,TA2BAU,TA2BAU Oguz,Karabuk,Black Sea Region,TUR,,Private Call,None
@@ -106807,7 +106969,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2862888,TA4BAL,TA4BAL Ahmet,,,TUR,,Private Call,None
 ,2862889,TA2UG,TA2UG Gokhan,Cankaya,Central Anatolia Region,TUR,,Private Call,None
 ,2862890,TA4AIZ,TA4AIZ no_name,Antalya,Mediterranean Region,TUR,,Private Call,None
-,2862891,TA7KYD,TA7KYD Yakub Kadri,Kayseri,,TUR,,Private Call,None
+,2862891,TA7KYD,TA7KYD Yakub,Giresun,Black Sea Region,TUR,,Private Call,None
 ,2862892,TA5ORC,TA5ORC Huseyin Orhun,Nigde,,TUR,,Private Call,None
 ,2862893,TA2ZR,TA2ZR Tevfik,Ankara,,TUR,,Private Call,None
 ,2862894,TA4AQN,TA4AQN no_name,Isparta,,TUR,,Private Call,None
@@ -111163,7 +111325,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2867364,TB4ASO,TB4ASO Ahmet,Mugla,Aegean Region,TUR,,Private Call,None
 ,2867365,TB1SBE,TB1SBE Salih,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2867366,TA1KRG,TA1KRG Kutay,None,Marmara Region,TUR,,Private Call,None
-,2867367,TB5MCO,TB5MCO Cumali,Adana,Marmara Region,TUR,,Private Call,None
 ,2867368,TA2MNN,TA2MNN Metin,Eskisehir,Mediterranean Region,TUR,,Private Call,None
 ,2867369,TB3DBR,TB3DBR Talha,Bursa,Marmara Region,TUR,,Private Call,None
 ,2867370,TA2DGB,TA2DGB Efe,Ankara,Central Anatolia Region,TUR,,Private Call,None
@@ -111292,7 +111453,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2867493,TB2CYZ,TB2CYZ Yilmaz,Kocaeli,Marmara Region,TUR,,Private Call,None
 ,2867494,TA4BNR,TA4BNR Bener,Antalya,Mediterranean Region,TUR,,Private Call,None
 ,2867495,TA4INO,TA4INO Inanc,Dosemealti Antalya,Mediterranean Region,TUR,,Private Call,None
-,2867496,TA7LLL,TA7LLL Emrah,I R E S U,Black Sea Region,TUR,,Private Call,None
+,2867496,TA7LLL,TA7LLL Emrahdr,Tr Grsn,Black Sea Region,TUR,,Private Call,None
 ,2867497,TA2POT,TA2POT Kaan,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2867498,TA3ECV,TA3ECV Gokdeniz,Manisa,Aegean Region,TUR,,Private Call,None
 ,2867499,TA2TSM,TA2TSM Muhterem,Kocaeli,Marmara Region,TUR,,Private Call,None
@@ -111436,7 +111597,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2867639,TA7CAG,TA7CAG Cagatay,Sivas,Central Anatolia Region,TUR,,Private Call,None
 ,2867640,TA2WKT,TA2WKT Kutay,Ankara,Central Anatolia Region,TUR,,Private Call,None
 ,2867641,TB3ZZR,TB3ZZR Can,Bandirma,Marmara Region,TUR,,Private Call,None
-,2867642,TB2KEB,TB2KEB Ugur,Istanbul,Marmara Region,TUR,,Private Call,None
+,2867642,TA2PUA,TA2PUA Ugur,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2867643,TA2GYZ,TA2GYZ Engin,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2867644,TA3ECD,TA3ECD Elena,Izmir,Mediterranean Region,TUR,,Private Call,None
 ,2867645,TA2TLW,TA2TLW Fatih,Istanbul,Marmara Region,TUR,,Private Call,None
@@ -112272,6 +112433,29 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2868491,TA2SFA,TA2SFA Fatih,Karabuk,Black Sea Region,TUR,,Private Call,None
 ,2868492,TB3FUO,TB3FUO Ugur,Izmir,Aegean Region,TUR,,Private Call,None
 ,2868493,TA3YKM,TA3YKM Yusuf,Izmir,Aegean Region,TUR,,Private Call,None
+,2868494,TA1FNX,TA1FNX Ferhad,Kapakli,Marmara Region,TUR,,Private Call,None
+,2868495,TB4BEN,TB4BEN Bulent,Denizli,Aegean Region,TUR,,Private Call,None
+,2868496,TA2SND,TA2SND Berk,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868497,TB6DCD,TB6DCD Dogan,Samsun,Black Sea Region,TUR,,Private Call,None
+,2868498,TA7ILM,TA7ILM Ilhan,Trabzon,Black Sea Region,TUR,,Private Call,None
+,2868499,TA1OWO,TA1OWO Talha,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868500,TA9LAA,TA9LAA Aziz,Van,Eastern Anatolia Region,TUR,,Private Call,None
+,2868501,TB1MCY,TB1MCY Muhammet,Adana,Mediterranean Region,TUR,,Private Call,None
+,2868502,TA2AYT,TA2AYT Yigit,Ankara,Central Anatolia Region,TUR,,Private Call,None
+,2868503,TA4BVB,TA4BVB Burak,Isparta,Mediterranean Region,TUR,,Private Call,None
+,2868504,TA1SSX,TA1SSX Serdar,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868505,TA4MOA,TA4MOA Muhammet Ali Oylan,Aydin,Aegean Region,TUR,,Private Call,None
+,2868506,TA2HNG,TA2HNG Hasan,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868507,TA8FUA,TA8FUA Fatih,Elazig,Eastern Anatolia Region,TUR,,Private Call,None
+,2868508,TB2ILA,TB2ILA Alitutan,Ankara,Central Anatolia Region,TUR,,Private Call,None
+,2868509,TB2CFU,TB2CFU Ugur,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868510,TA2FIB,TA2FIB Omer,Kocaeli,Marmara Region,TUR,,Private Call,None
+,2868511,TA3ILQ,TA3ILQ Ilknur,Manisa,Aegean Region,TUR,,Private Call,None
+,2868512,TB3LNK,TB3LNK Lerzan,Manisa,Aegean Region,TUR,,Private Call,None
+,2868513,TA4PZP,TA4PZP Muhammed,Afyonkarahisar,Aegean Region,TUR,,Private Call,None
+,2868514,TA3SKW,TA3SKW Samet,Izmir,Aegean Region,TUR,,Private Call,None
+,2868515,TA2GDR,TA2GDR Abdulgani,Istanbul,Marmara Region,TUR,,Private Call,None
+,2868516,TA3BBH,TA3BBH Serdar,Bursa,Central Anatolia Region,TUR,,Private Call,None
 ,2868686,TB3ACU,TB3ACU Baris,Buca,Aegean Region,TUR,,Private Call,None
 ,2868888,TA1QQ,TA1QQ Erol,Istanbul,Marmara Region,TUR,,Private Call,None
 ,2880001,OY8W,OY8W Steffen,Kollafjordur,All Regions,FRO,,Private Call,None
